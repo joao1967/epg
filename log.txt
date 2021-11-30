@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 29/11/2021 06:00:02
+[        ] Job started at 30/11/2021 06:00:01
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.4.0.73
 [  Debug ] Environment: 4.0.30319.42000
@@ -30,7 +30,7 @@
 [  Info  ] found: /root/.wg++/siteini.pack/Brazil/vcfaz.tv.ini -- Revision 04
 [  Info  ] encrypted in 'new (V3)' mode
 [  Debug ] xmltv input file - /root/.wg++/guide.xml - found
-[  Debug ] 12266 superfluous shows removed
+[  Debug ] 12331 superfluous shows removed
 [  Info  ] Found existing channel (xmltv_id=Adultos.br) in the config file
 [  Info  ] Found existing channel (xmltv_id=Anime.br) in the config file
 [  Info  ] Found existing channel (xmltv_id=Vazio.br) in the config file
@@ -293,7 +293,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        4
 
-[  Info  ]      elapstime / updated show  0.01 seconds
+[  Info  ]      elapstime / updated show  0.02 seconds
 [  Debug ] 
 [  Info  ] (   3/234 ) APP.PLEX.TV -- chan. (xmltv_id=Vazio.br) -- mode Force
 [  Info  ] 0.01 sec/update
@@ -315,7 +315,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        4
 
-[  Info  ]      elapstime / updated show  0.01 seconds
+[  Info  ]      elapstime / updated show  0.02 seconds
 [  Debug ] 
 [  Info  ] (   5/234 ) APP.PLEX.TV -- chan. (xmltv_id=Catarinense.br) -- mode Force
 [  Info  ] 0.01 sec/update
@@ -326,7 +326,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        4
 
-[  Info  ]      elapstime / updated show  0.02 seconds
+[  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
 [  Info  ] (   6/234 ) APP.PLEX.TV -- chan. (xmltv_id=Mineiro.br) -- mode Force
 [  Info  ] 0.01 sec/update
@@ -337,7 +337,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        4
 
-[  Info  ]      elapstime / updated show  0.01 seconds
+[  Info  ]      elapstime / updated show  0.02 seconds
 [  Debug ] 
 [  Info  ] (   7/234 ) APP.PLEX.TV -- chan. (xmltv_id=Sergipano.br) -- mode Force
 [  Info  ] 0.01 sec/update
@@ -370,7 +370,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        4
 
-[  Info  ]      elapstime / updated show  0.01 seconds
+[  Info  ]      elapstime / updated show  0.02 seconds
 [  Debug ] 
 [  Info  ] (  10/234 ) APP.PLEX.TV -- chan. (xmltv_id=DAZN.br) -- mode Force
 [  Info  ] 0.01 sec/update
@@ -392,7 +392,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        4
 
-[  Info  ]      elapstime / updated show  0.01 seconds
+[  Info  ]      elapstime / updated show  0.02 seconds
 [  Debug ] 
 [  Info  ] (  12/234 ) APP.PLEX.TV -- chan. (xmltv_id=ElevenSports.br) -- mode Force
 [  Info  ] 0.01 sec/update
@@ -403,7 +403,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        4
 
-[  Info  ]      elapstime / updated show  0.02 seconds
+[  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
 [  Info  ] (  13/234 ) APP.PLEX.TV -- chan. (xmltv_id=Estadiotntsports.br) -- mode Force
 [  Info  ] 0.01 sec/update
@@ -414,7 +414,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        4
 
-[  Info  ]      elapstime / updated show  0.01 seconds
+[  Info  ]      elapstime / updated show  0.02 seconds
 [  Debug ] 
 [  Info  ] (  14/234 ) APP.PLEX.TV -- chan. (xmltv_id=F1TVPro.br) -- mode Force
 [  Info  ] 0.01 sec/update
@@ -425,7 +425,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        4
 
-[  Info  ]      elapstime / updated show  0.01 seconds
+[  Info  ]      elapstime / updated show  0.02 seconds
 [  Debug ] 
 [  Info  ] (  15/234 ) APP.PLEX.TV -- chan. (xmltv_id=FaceboolWatch.br) -- mode Force
 [  Info  ] 0.01 sec/update
@@ -447,10 +447,10 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        4
 
-[  Info  ]      elapstime / updated show  0.01 seconds
+[  Info  ]      elapstime / updated show  0.02 seconds
 [  Debug ] 
 [  Info  ] (  17/234 ) APP.PLEX.TV -- chan. (xmltv_id=Youtube.br) -- mode Force
-[  Info  ] 0.01 sec/update
+[  Info  ] 0.02 sec/update
 [  Info  ]    Summary for update of       Youtube.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
@@ -458,7 +458,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        4
 
-[  Info  ]      elapstime / updated show  0.01 seconds
+[  Info  ]      elapstime / updated show  0.02 seconds
 [  Debug ] 
 [  Info  ] (  18/234 ) APP.PLEX.TV -- chan. (xmltv_id=LNFTV.br) -- mode Force
 [  Info  ] 0.01 sec/update
@@ -469,7 +469,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        4
 
-[  Info  ]      elapstime / updated show  0.01 seconds
+[  Info  ]      elapstime / updated show  0.02 seconds
 [  Debug ] 
 [  Info  ] (  19/234 ) APP.PLEX.TV -- chan. (xmltv_id=NordesteFC.br) -- mode Force
 [  Info  ] 0.01 sec/update
@@ -480,7 +480,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        4
 
-[  Info  ]      elapstime / updated show  0.01 seconds
+[  Info  ]      elapstime / updated show  0.02 seconds
 [  Debug ] 
 [  Info  ] (  20/234 ) APP.PLEX.TV -- chan. (xmltv_id=Powercouple.br) -- mode Force
 [  Info  ] 0.01 sec/update
@@ -502,7 +502,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        4
 
-[  Info  ]      elapstime / updated show  0.01 seconds
+[  Info  ]      elapstime / updated show  0.02 seconds
 [  Debug ] 
 [  Info  ] (  22/234 ) APP.PLEX.TV -- chan. (xmltv_id=Radios.br) -- mode Force
 [  Info  ] 0.01 sec/update
@@ -513,10 +513,10 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        4
 
-[  Info  ]      elapstime / updated show  0.01 seconds
+[  Info  ]      elapstime / updated show  0.02 seconds
 [  Debug ] 
 [  Info  ] (  23/234 ) APP.PLEX.TV -- chan. (xmltv_id=SerieseProgramas.br) -- mode Force
-[  Info  ] 0.01 sec/update
+[  Info  ] 0.02 sec/update
 [  Info  ]    Summary for update of       SerieseProgramas.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
@@ -524,7 +524,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        4
 
-[  Info  ]      elapstime / updated show  0.01 seconds
+[  Info  ]      elapstime / updated show  0.02 seconds
 [  Debug ] 
 [  Info  ] (  24/234 ) APP.PLEX.TV -- chan. (xmltv_id=Sportv4.br) -- mode Force
 [  Info  ] 0.01 sec/update
@@ -535,10 +535,10 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        4
 
-[  Info  ]      elapstime / updated show  0.01 seconds
+[  Info  ]      elapstime / updated show  0.02 seconds
 [  Debug ] 
 [  Info  ] (  25/234 ) APP.PLEX.TV -- chan. (xmltv_id=Sound.br) -- mode Force
-[  Info  ] 0.01 sec/update
+[  Info  ] 0.02 sec/update
 [  Info  ]    Summary for update of       Sound.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
@@ -566,16 +566,16 @@
 [  Info  ] 0.11 sec/update
 [  Debug ] 
 [  Info  ] (  29/234 ) MI.TV -- chan. (xmltv_id=TV5MondeEurope.fr) -- mode Force
-[  Info  ] 0.11 sec/update
+[  Info  ] 0.12 sec/update
 [  Debug ] 
 [  Info  ] (  30/234 ) MI.TV -- chan. (xmltv_id=Foxnews.br) -- mode Force
 [  Info  ] 0.11 sec/update
 [  Debug ] 
 [  Info  ] (  31/234 ) MI.TV -- chan. (xmltv_id=RedeSeculo21.br) -- mode Force
-[  Info  ] 0.15 sec/update
+[  Info  ] 0.11 sec/update
 [  Debug ] 
 [  Info  ] (  32/234 ) MI.TV -- chan. (xmltv_id=Rede21.br) -- mode Force
-[  Info  ] 0.11 sec/update
+[  Info  ] 0.10 sec/update
 [  Debug ] 
 [  Info  ] (  33/234 ) MI.TV -- chan. (xmltv_id=Cnt.br) -- mode Force
 [  Info  ] 0.11 sec/update
@@ -599,13 +599,15 @@
 [  Info  ] 0.11 sec/update
 [  Debug ] 
 [  Info  ] (  40/234 ) MI.TV -- chan. (xmltv_id=Cnnbrasil.br) -- mode Force
-[  Info  ] 0.11 sec/update
+[  Info  ] 0.12 sec/update
 [  Debug ] 
 [  Info  ] (  41/234 ) CLAROTV.COM.BR -- chan. (xmltv_id=Combatehd.br) -- mode Force
-[  Info  ] 0.43 sec/update
+[  Debug ]    skipped : show that happened before 'today' @ 29/11/2021 23:35
+[  Info  ] 0.33 sec/update
 [  Debug ] 
 [  Info  ] (  42/234 ) CLAROTV.COM.BR -- chan. (xmltv_id=Polishop.br) -- mode Force
-[  Info  ] 0.07 sec/update
+[  Debug ]    skipped : show that happened before 'today' @ 29/11/2021 20:00
+[  Info  ] 0.08 sec/update
 [  Debug ] 
 [  Info  ] (  43/234 ) MI.TV -- chan. (xmltv_id=Conmeboltv1.br) -- mode Force
 [  Info  ] 0.11 sec/update
@@ -617,7 +619,7 @@
 [  Info  ] 0.11 sec/update
 [  Debug ] 
 [  Info  ] (  46/234 ) MI.TV -- chan. (xmltv_id=Conmeboltv4.br) -- mode Force
-[  Info  ] 0.11 sec/update
+[  Info  ] 0.12 sec/update
 [  Debug ] 
 [  Info  ] (  47/234 ) MI.TV -- chan. (xmltv_id=Discoverykids.br) -- mode Force
 [  Info  ] 0.12 sec/update
@@ -638,10 +640,10 @@
 [  Info  ] 0.11 sec/update
 [  Debug ] 
 [  Info  ] (  53/234 ) MI.TV -- chan. (xmltv_id=Mtvlive.br) -- mode Force
-[  Info  ] 0.11 sec/update
+[  Info  ] 0.12 sec/update
 [  Debug ] 
 [  Info  ] (  54/234 ) MI.TV -- chan. (xmltv_id=Premierefchd.br) -- mode Force
-[  Info  ] 0.11 sec/update
+[  Info  ] 0.13 sec/update
 [  Debug ] 
 [  Info  ] (  55/234 ) MI.TV -- chan. (xmltv_id=pfc.pt) -- mode Force
 [  Info  ] 0.11 sec/update
@@ -650,7 +652,7 @@
 [  Info  ] 0.12 sec/update
 [  Debug ] 
 [  Info  ] (  57/234 ) MI.TV -- chan. (xmltv_id=Rai.br) -- mode Force
-[  Info  ] 0.12 sec/update
+[  Info  ] 0.13 sec/update
 [  Debug ] 
 [  Info  ] (  58/234 ) MI.TV -- chan. (xmltv_id=Sextreme.cl) -- mode Force
 [  Info  ] 0.12 sec/update
@@ -659,7 +661,7 @@
 [  Info  ] 0.12 sec/update
 [  Debug ] 
 [  Info  ] (  60/234 ) MI.TV -- chan. (xmltv_id=Smithsonianchannel.br) -- mode Force
-[  Info  ] 0.12 sec/update
+[  Info  ] 0.22 sec/update
 [  Debug ] 
 [  Info  ] (  61/234 ) MI.TV -- chan. (xmltv_id=Sportv2.br) -- mode Force
 [  Info  ] 0.11 sec/update
@@ -668,118 +670,20 @@
 [  Info  ] 0.12 sec/update
 [  Debug ] 
 [  Info  ] (  63/234 ) CLAROTV.COM.BR -- chan. (xmltv_id=Rci.br) -- mode Force
-[  Info  ] 0.12 sec/update
+[  Debug ]    skipped : show that happened before 'today' @ 29/11/2021 23:30
+[  Info  ] 0.18 sec/update
 [  Debug ] 
 [  Info  ] (  64/234 ) CLAROTV.COM.BR -- chan. (xmltv_id=Shoptime.br) -- mode Force
-[  Info  ] 0.10 sec/update
+[  Debug ]    skipped : show that happened before 'today' @ 29/11/2021 23:55
+[  Info  ] 0.11 sec/update
 [  Debug ] 
 [  Info  ] (  65/234 ) MI.TV -- chan. (xmltv_id=venus.pt) -- mode Force
-[  Info  ] 0.13 sec/update
+[  Info  ] 0.12 sec/update
 [  Debug ] 
 [  Info  ] (  66/234 ) MI.TV -- chan. (xmltv_id=Woohoo.br) -- mode Force
 [  Info  ] 0.12 sec/update
 [  Debug ] 
 [  Info  ] (  67/234 ) VCFAZ.TV -- chan. (xmltv_id=GloboEPTVCampinas.br) -- mode Force
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Cinemaço: O Sequestro do Metrô 1 2 3"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Corujão"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Hora Um"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Bom Dia São Paulo"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Bom Dia Brasil"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Mais Você"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Encontro com Fátima Bernardes"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Jornal da EPTV - 1ª Edição"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Globo Esporte"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Jornal Hoje"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Sessão da Tarde"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Vale a Pena Ver de Novo: O Clone"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Malhação: Sonhos"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Nos Tempos do Imperador"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Jornal da EPTV - 2ª Edição"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Quanto Mais Vida, Melhor!"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Jornal Nacional"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Um Lugar ao Sol"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Verdades Secretas"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Tela Quente: Educação"
-[  Debug ]  (sub)detail title(s):
 [  Debug ]    suspicious      title in index page
 [  Debug ] Can't match any (sub)detail title(s) with any index title(s):
 [  Debug ]        index title(s):
@@ -1005,181 +909,116 @@
 [  Debug ]        index title(s):
 [  Debug ]                        "Segue o Jogo"
 [  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Jornal da Globo"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Conversa com Bial"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Corujão Humor - Eu, a Vó e a Boi"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Corujão"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Hora Um"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Bom Dia São Paulo"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Bom Dia Brasil"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Mais Você"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Encontro com Fátima Bernardes"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Jornal da EPTV - 1ª Edição"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Globo Esporte"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Jornal Hoje"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Sessão da Tarde: A Conselheira Amorosa"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Vale a Pena Ver de Novo: O Clone"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Malhação: Sonhos"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Nos Tempos do Imperador"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Jornal da EPTV - 2ª Edição"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Quanto Mais Vida, Melhor!"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Jornal Nacional"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Um Lugar ao Sol"
+[  Debug ]  (sub)detail title(s):
 [  Debug ]    skipped  : last show, no next startime to use as stop
-[  Info  ] 1.79 sec/update
+[  Info  ] 2.21 sec/update
 [  Debug ] 
 [  Info  ] (  68/234 ) MI.TV -- chan. (xmltv_id=Intertvgminas.br) -- mode Force
-[  Info  ] 0.11 sec/update
+[  Info  ] 0.12 sec/update
 [  Debug ] 
 [  Info  ] (  69/234 ) MI.TV -- chan. (xmltv_id=altolitoral.br) -- mode Force
-[  Info  ] 0.11 sec/update
+[  Info  ] 0.13 sec/update
 [  Debug ] 
 [  Info  ] (  70/234 ) VCFAZ.TV -- chan. (xmltv_id=Lovenature.br) -- mode Force
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Resgate Animal"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Resgate Animal"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Ícones da Vida Selvagem"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Cenas da Natureza"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "A Grande Natureza Azul"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "O País Do Grande Felino"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Rockies, As Montanhas Selvagens"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Israel Selvagem"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "África: Garras e Mandíbulas"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Ilha dos Macacos"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "O País Do Grande Felino"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Rockies, As Montanhas Selvagens"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Israel Selvagem"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "África: Garras e Mandíbulas"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Contos de Zâmbia"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Recifes de Naufrágios"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Impérios Animais"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "A Vida Secreta do Canguru"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Escola de Orangotangos"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Esquadrão de Tubarões"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Índia: Uma Jornada Pelo Selvagem"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Caninópolis"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Lubinho, O Lobo Marinho"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Lubinho, O Lobo Marinho"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Na Trilha da Energia"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Terra dos Primatas"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Contos de Zâmbia"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Mistérios do Rio Mekong"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Ícones da Vida Selvagem - Quênia"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "América Latina Selvagem"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "África: Horizontes Selvagens"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "A Grande Seca"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Os Supercães e seus Extraordinários Trabalhos"
-[  Debug ]  (sub)detail title(s):
 [  Debug ]    suspicious      title in index page
 [  Debug ] Can't match any (sub)detail title(s) with any index title(s):
 [  Debug ]        index title(s):
@@ -1510,14 +1349,189 @@
 [  Debug ]        index title(s):
 [  Debug ]                        "Resgate Animal"
 [  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Índia: Uma Jornada Pelo Selvagem"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Recifes de Naufrágios"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Ilhas Ocultas da Austrália"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "África Costeira"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Os Mares da Arábia"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "África: Um Mundo de Águas"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Cenas da Natureza"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "A Incrível Madagascar"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Contos de Zâmbia"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Mistérios do Rio Mekong"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Ilhas Ocultas da Austrália"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "África Costeira"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Os Mares da Arábia"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "África: Um Mundo de Águas"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Caçadores da África"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "A Grande Natureza Azul"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Os Sentidos dos Animais"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Os Sentidos dos Animais"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Ataque Contra Defesa"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Ataque Contra Defesa"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Guardiões da Vida Selvagem"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Resgate Animal"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Resgate Animal"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Ilha dos Macacos"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Caninópolis"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Lubinho, O Lobo Marinho"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Lubinho, O Lobo Marinho"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Na Trilha da Energia"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "A Incrível Madagascar"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Contos de Zâmbia"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Mistérios do Rio Mekong"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "O País Do Grande Felino"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Rockies, As Montanhas Selvagens"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Israel Selvagem"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "África: Garras e Mandíbulas"
+[  Debug ]  (sub)detail title(s):
 [  Debug ]    skipped  : last show, no next startime to use as stop
-[  Info  ] 1.84 sec/update
+[  Info  ] 2.30 sec/update
 [  Debug ] 
 [  Info  ] (  71/234 ) MI.TV -- chan. (xmltv_id=Nhk.br) -- mode Force
 [  Info  ] 0.12 sec/update
 [  Debug ] 
 [  Info  ] (  72/234 ) MI.TV -- chan. (xmltv_id=Premiere9.br) -- mode Force
-[  Info  ] 0.11 sec/update
+[  Info  ] 0.12 sec/update
 [  Debug ] 
 [  Info  ] (  73/234 ) VCFAZ.TV -- chan. (xmltv_id=TNTSports.br) -- mode Force
 [  Debug ]    suspicious      title in index page
@@ -1876,120 +1890,12 @@
 [  Debug ]                        "Programação TNT Sports"
 [  Debug ]  (sub)detail title(s):
 [  Debug ]    skipped  : last show, no next startime to use as stop
-[  Info  ] 2.62 sec/update
+[  Info  ] 3.08 sec/update
 [  Debug ] 
 [  Info  ] (  74/234 ) MI.TV -- chan. (xmltv_id=TraceBrazuca.br) -- mode Force
 [  Info  ] 0.12 sec/update
-[  Info  ]    Summary for update of       TraceBrazuca.br
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           48
-[  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        64
-
-[  Info  ]      elapstime / updated show  0.13 seconds
 [  Debug ] 
 [  Info  ] (  75/234 ) VCFAZ.TV -- chan. (xmltv_id=TVAsabranca.br) -- mode Force
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Cinemaço: O Sequestro do Metrô 1 2 3"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Corujão"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Hora Um"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Bom Dia Pernambuco"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Bom Dia Brasil"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Mais Você"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Encontro com Fátima Bernardes"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "ABTV - 1ª Edição"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Globo Esporte"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Jornal Hoje"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Sessão da Tarde"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Vale a Pena Ver de Novo: O Clone"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Malhação: Sonhos"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Nos Tempos do Imperador"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "ABTV - 2ª Edição"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Quanto Mais Vida, Melhor!"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Jornal Nacional"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Um Lugar ao Sol"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Verdades Secretas"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Tela Quente: Educação"
-[  Debug ]  (sub)detail title(s):
 [  Debug ]    suspicious      title in index page
 [  Debug ] Can't match any (sub)detail title(s) with any index title(s):
 [  Debug ]        index title(s):
@@ -2214,6 +2120,106 @@
 [  Debug ] Can't match any (sub)detail title(s) with any index title(s):
 [  Debug ]        index title(s):
 [  Debug ]                        "Segue o Jogo"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Jornal da Globo"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Conversa com Bial"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Corujão Humor - Eu, a Vó e a Boi"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Corujão"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Hora Um"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Bom Dia Pernambuco"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Bom Dia Brasil"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Mais Você"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Encontro com Fátima Bernardes"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "ABTV - 1ª Edição"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Globo Esporte"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Jornal Hoje"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Sessão da Tarde: A Conselheira Amorosa"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Vale a Pena Ver de Novo: O Clone"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Malhação: Sonhos"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Nos Tempos do Imperador"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "ABTV - 2ª Edição"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Quanto Mais Vida, Melhor!"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Jornal Nacional"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Um Lugar ao Sol"
 [  Debug ]  (sub)detail title(s):
 [  Debug ]    skipped  : last show, no next startime to use as stop
 [  Info  ] 1.89 sec/update
@@ -2222,111 +2228,6 @@
 [  Debug ]    suspicious      title in index page
 [  Debug ] Can't match any (sub)detail title(s) with any index title(s):
 [  Debug ]        index title(s):
-[  Debug ]                        "Cinemaço: O Sequestro do Metrô 1 2 3"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Corujão"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Hora Um"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Bom Dia São Paulo"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Bom Dia Fronteira"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Bom Dia Brasil"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Mais Você"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Encontro com Fátima Bernardes"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Fronteira Notícias I"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Globo Esporte"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Jornal Hoje"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Sessão da Tarde"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Vale a Pena Ver de Novo: O Clone"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Malhação: Sonhos"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Nos Tempos do Imperador"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Fronteira Notícias II"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Quanto Mais Vida, Melhor!"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Jornal Nacional"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Um Lugar ao Sol"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Verdades Secretas"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Tela Quente: Educação"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
 [  Debug ]                        "Jornal da Globo"
 [  Debug ]  (sub)detail title(s):
 [  Debug ]    suspicious      title in index page
@@ -2559,8 +2460,113 @@
 [  Debug ]        index title(s):
 [  Debug ]                        "Segue o Jogo"
 [  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Jornal da Globo"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Conversa com Bial"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Corujão Humor - Eu, a Vó e a Boi"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Corujão"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Hora Um"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Bom Dia São Paulo"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Bom Dia Fronteira"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Bom Dia Brasil"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Mais Você"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Encontro com Fátima Bernardes"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Fronteira Notícias I"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Globo Esporte"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Jornal Hoje"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Sessão da Tarde: A Conselheira Amorosa"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Vale a Pena Ver de Novo: O Clone"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Malhação: Sonhos"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Nos Tempos do Imperador"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Fronteira Notícias II"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Quanto Mais Vida, Melhor!"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Jornal Nacional"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Um Lugar ao Sol"
+[  Debug ]  (sub)detail title(s):
 [  Debug ]    skipped  : last show, no next startime to use as stop
-[  Info  ] 1.72 sec/update
+[  Info  ] 1.87 sec/update
 [  Debug ] 
 [  Info  ] (  77/234 ) MI.TV -- chan. (xmltv_id=Tvriosul.br) -- mode Force
 [  Info  ] 0.12 sec/update
@@ -2569,106 +2575,6 @@
 [  Debug ]    suspicious      title in index page
 [  Debug ] Can't match any (sub)detail title(s) with any index title(s):
 [  Debug ]        index title(s):
-[  Debug ]                        "Cinemaço: O Sequestro do Metrô 1 2 3"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Corujão"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Hora Um"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Bom Dia São Paulo"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Bom Dia Brasil"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Mais Você"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Encontro com Fátima Bernardes"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Tem Notícias - 1ª Edição"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Globo Esporte"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Jornal Hoje"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Sessão da Tarde"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Vale a Pena Ver de Novo: O Clone"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Malhação: Sonhos"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Nos Tempos do Imperador"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Tem Notícias - 2ª Edição"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Quanto Mais Vida, Melhor!"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Jornal Nacional"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Um Lugar ao Sol"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Verdades Secretas"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Tela Quente: Educação"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
 [  Debug ]                        "Jornal da Globo"
 [  Debug ]  (sub)detail title(s):
 [  Debug ]    suspicious      title in index page
@@ -2891,8 +2797,108 @@
 [  Debug ]        index title(s):
 [  Debug ]                        "Segue o Jogo"
 [  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Jornal da Globo"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Conversa com Bial"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Corujão Humor - Eu, a Vó e a Boi"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Corujão"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Hora Um"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Bom Dia São Paulo"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Bom Dia Brasil"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Mais Você"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Encontro com Fátima Bernardes"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Tem Notícias - 1ª Edição"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Globo Esporte"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Jornal Hoje"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Sessão da Tarde: A Conselheira Amorosa"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Vale a Pena Ver de Novo: O Clone"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Malhação: Sonhos"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Nos Tempos do Imperador"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Tem Notícias - 2ª Edição"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Quanto Mais Vida, Melhor!"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Jornal Nacional"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Um Lugar ao Sol"
+[  Debug ]  (sub)detail title(s):
 [  Debug ]    skipped  : last show, no next startime to use as stop
-[  Info  ] 1.69 sec/update
+[  Info  ] 2.04 sec/update
 [  Debug ] 
 [  Info  ] (  79/234 ) MI.TV -- chan. (xmltv_id=Tvtribuna.br) -- mode Force
 [  Info  ] 0.12 sec/update
@@ -2901,106 +2907,6 @@
 [  Debug ]    suspicious      title in index page
 [  Debug ] Can't match any (sub)detail title(s) with any index title(s):
 [  Debug ]        index title(s):
-[  Debug ]                        "Cinemaço: O Sequestro do Metrô 1 2 3"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Corujão"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Hora Um"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Bom Dia São Paulo"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Bom Dia Brasil"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Mais Você"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Encontro com Fátima Bernardes"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Link Vanguarda"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Globo Esporte"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Jornal Hoje"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Sessão da Tarde"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Vale a Pena Ver de Novo: O Clone"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Malhação: Sonhos"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Nos Tempos do Imperador"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Jornal Vanguarda"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Quanto Mais Vida, Melhor!"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Jornal Nacional"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Um Lugar ao Sol"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Verdades Secretas"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Tela Quente: Educação"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
 [  Debug ]                        "Jornal da Globo"
 [  Debug ]  (sub)detail title(s):
 [  Debug ]    suspicious      title in index page
@@ -3223,8 +3129,108 @@
 [  Debug ]        index title(s):
 [  Debug ]                        "Segue o Jogo"
 [  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Jornal da Globo"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Conversa com Bial"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Corujão Humor - Eu, a Vó e a Boi"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Corujão"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Hora Um"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Bom Dia São Paulo"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Bom Dia Brasil"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Mais Você"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Encontro com Fátima Bernardes"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Link Vanguarda"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Globo Esporte"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Jornal Hoje"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Sessão da Tarde: A Conselheira Amorosa"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Vale a Pena Ver de Novo: O Clone"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Malhação: Sonhos"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Nos Tempos do Imperador"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Jornal Vanguarda"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Quanto Mais Vida, Melhor!"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Jornal Nacional"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Um Lugar ao Sol"
+[  Debug ]  (sub)detail title(s):
 [  Debug ]    skipped  : last show, no next startime to use as stop
-[  Info  ] 1.74 sec/update
+[  Info  ] 1.83 sec/update
 [  Debug ] 
 [  Info  ] (  81/234 ) MI.TV -- chan. (xmltv_id=Redeminas.br) -- mode Force
 [  Info  ] 0.12 sec/update
@@ -3233,7 +3239,7 @@
 [  Info  ] 0.12 sec/update
 [  Debug ] 
 [  Info  ] (  83/234 ) MI.TV -- chan. (xmltv_id=Globominas.br) -- mode Force
-[  Info  ] 0.12 sec/update
+[  Info  ] 0.13 sec/update
 [  Debug ] 
 [  Info  ] (  84/234 ) MI.TV -- chan. (xmltv_id=Golfchannel.br) -- mode Force
 [  Debug ]    suspicious      title in index page
@@ -3300,10 +3306,30 @@
 [  Debug ] Can't match any (sub)detail title(s) with any index title(s):
 [  Debug ]        index title(s):
 [  Debug ]  (sub)detail title(s):
-[  Info  ] 0.13 sec/update
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]  (sub)detail title(s):
+[  Info  ] 0.12 sec/update
 [  Debug ] 
 [  Info  ] (  85/234 ) MI.TV -- chan. (xmltv_id=DiscoveryCivilization.br) -- mode Force
-[  Info  ] 0.13 sec/update
+[  Info  ] 0.14 sec/update
 [  Debug ] 
 [  Info  ] (  86/234 ) MI.TV -- chan. (xmltv_id=DogTV.pt) -- mode Force
 [  Info  ] 0.12 sec/update
@@ -3327,25 +3353,25 @@
 [  Info  ] 0.13 sec/update
 [  Debug ] 
 [  Info  ] (  93/234 ) MI.TV -- chan. (xmltv_id=BandRede.br) -- mode Force
-[  Info  ] 0.12 sec/update
+[  Info  ] 0.13 sec/update
 [  Debug ] 
 [  Info  ] (  94/234 ) MI.TV -- chan. (xmltv_id=Bandnews.br) -- mode Force
 [  Info  ] 0.13 sec/update
 [  Debug ] 
 [  Info  ] (  95/234 ) MI.TV -- chan. (xmltv_id=Bandsportshd.br) -- mode Force
-[  Info  ] 0.12 sec/update
-[  Debug ] 
-[  Info  ] (  96/234 ) MI.TV -- chan. (xmltv_id=Bishd.br) -- mode Force
-[  Info  ] 0.14 sec/update
-[  Debug ] 
-[  Info  ] (  97/234 ) MI.TV -- chan. (xmltv_id=Canalbrasil.br) -- mode Force
-[  Info  ] 0.14 sec/update
-[  Debug ] 
-[  Info  ] (  98/234 ) MI.TV -- chan. (xmltv_id=Off.br) -- mode Force
 [  Info  ] 0.13 sec/update
 [  Debug ] 
+[  Info  ] (  96/234 ) MI.TV -- chan. (xmltv_id=Bishd.br) -- mode Force
+[  Info  ] 0.13 sec/update
+[  Debug ] 
+[  Info  ] (  97/234 ) MI.TV -- chan. (xmltv_id=Canalbrasil.br) -- mode Force
+[  Info  ] 0.15 sec/update
+[  Debug ] 
+[  Info  ] (  98/234 ) MI.TV -- chan. (xmltv_id=Off.br) -- mode Force
+[  Info  ] 0.14 sec/update
+[  Debug ] 
 [  Info  ] (  99/234 ) MI.TV -- chan. (xmltv_id=Canalrural.br) -- mode Force
-[  Info  ] 0.12 sec/update
+[  Info  ] 0.13 sec/update
 [  Debug ] 
 [  Info  ] ( 100/234 ) MI.TV -- chan. (xmltv_id=CancaoNova.br) -- mode Force
 [  Info  ] 0.13 sec/update
@@ -3354,22 +3380,22 @@
 [  Info  ] 0.14 sec/update
 [  Debug ] 
 [  Info  ] ( 102/234 ) MI.TV -- chan. (xmltv_id=Cnninternacional.br) -- mode Force
-[  Info  ] 0.12 sec/update
-[  Debug ] 
-[  Info  ] ( 103/234 ) MI.TV -- chan. (xmltv_id=Comedycentral.br) -- mode Force
-[  Info  ] 0.18 sec/update
-[  Debug ] 
-[  Info  ] ( 104/234 ) MI.TV -- chan. (xmltv_id=Curta.br) -- mode Force
 [  Info  ] 0.13 sec/update
 [  Debug ] 
-[  Info  ] ( 105/234 ) MI.TV -- chan. (xmltv_id=Discovery.br) -- mode Force
+[  Info  ] ( 103/234 ) MI.TV -- chan. (xmltv_id=Comedycentral.br) -- mode Force
 [  Info  ] 0.14 sec/update
 [  Debug ] 
-[  Info  ] ( 106/234 ) MI.TV -- chan. (xmltv_id=Homehealth.br) -- mode Force
+[  Info  ] ( 104/234 ) MI.TV -- chan. (xmltv_id=Curta.br) -- mode Force
+[  Info  ] 0.14 sec/update
+[  Debug ] 
+[  Info  ] ( 105/234 ) MI.TV -- chan. (xmltv_id=Discovery.br) -- mode Force
 [  Info  ] 0.15 sec/update
 [  Debug ] 
+[  Info  ] ( 106/234 ) MI.TV -- chan. (xmltv_id=Homehealth.br) -- mode Force
+[  Info  ] 0.14 sec/update
+[  Debug ] 
 [  Info  ] ( 107/234 ) MI.TV -- chan. (xmltv_id=DiscoveryScience.br) -- mode Force
-[  Info  ] 0.15 sec/update
+[  Info  ] 0.14 sec/update
 [  Debug ] 
 [  Info  ] ( 108/234 ) MI.TV -- chan. (xmltv_id=Hdtheater.br) -- mode Force
 [  Info  ] 0.14 sec/update
@@ -3381,16 +3407,12 @@
 [  Info  ] 0.14 sec/update
 [  Debug ] 
 [  Info  ] ( 111/234 ) MI.TV -- chan. (xmltv_id=Disneychannel.br) -- mode Force
-[  Info  ] 0.14 sec/update
+[  Info  ] 0.15 sec/update
 [  Debug ] 
 [  Info  ] ( 112/234 ) MI.TV -- chan. (xmltv_id=E.br) -- mode Force
-[  Info  ] 0.14 sec/update
+[  Info  ] 0.16 sec/update
 [  Debug ] 
 [  Info  ] ( 113/234 ) MI.TV -- chan. (xmltv_id=ESPNInternational.br) -- mode Force
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]  (sub)detail title(s):
 [  Debug ]    suspicious      title in index page
 [  Debug ] Can't match any (sub)detail title(s) with any index title(s):
 [  Debug ]        index title(s):
@@ -3401,7 +3423,7 @@
 [  Info  ] 0.13 sec/update
 [  Debug ] 
 [  Info  ] ( 115/234 ) MI.TV -- chan. (xmltv_id=Espnbrasil.br) -- mode Force
-[  Info  ] 0.13 sec/update
+[  Info  ] 0.15 sec/update
 [  Debug ] 
 [  Info  ] ( 116/234 ) MI.TV -- chan. (xmltv_id=Espnextra.br) -- mode Force
 [  Debug ]    suspicious      title in index page
@@ -3412,7 +3434,7 @@
 [  Debug ] Can't match any (sub)detail title(s) with any index title(s):
 [  Debug ]        index title(s):
 [  Debug ]  (sub)detail title(s):
-[  Info  ] 0.14 sec/update
+[  Info  ] 0.13 sec/update
 [  Debug ] 
 [  Info  ] ( 117/234 ) MI.TV -- chan. (xmltv_id=Fashiontv.br) -- mode Force
 [  Info  ] 0.14 sec/update
@@ -3421,19 +3443,19 @@
 [  Info  ] 0.14 sec/update
 [  Debug ] 
 [  Info  ] ( 119/234 ) MI.TV -- chan. (xmltv_id=Fishtv.br) -- mode Force
-[  Info  ] 0.15 sec/update
+[  Info  ] 0.16 sec/update
 [  Debug ] 
 [  Info  ] ( 120/234 ) MI.TV -- chan. (xmltv_id=Foodnetworkhd.br) -- mode Force
-[  Info  ] 0.14 sec/update
+[  Info  ] 0.18 sec/update
 [  Debug ] 
 [  Info  ] ( 121/234 ) MI.TV -- chan. (xmltv_id=Fox.br) -- mode Force
-[  Info  ] 0.15 sec/update
+[  Info  ] 0.17 sec/update
 [  Debug ] 
 [  Info  ] ( 122/234 ) MI.TV -- chan. (xmltv_id=Foxpremium1.br) -- mode Force
-[  Info  ] 0.15 sec/update
+[  Info  ] 0.19 sec/update
 [  Debug ] 
 [  Info  ] ( 123/234 ) MI.TV -- chan. (xmltv_id=Foxpremium2.br) -- mode Force
-[  Info  ] 0.15 sec/update
+[  Info  ] 0.19 sec/update
 [  Debug ] 
 [  Info  ] ( 124/234 ) MI.TV -- chan. (xmltv_id=Foxlife.br) -- mode Force
 [  Info  ] 0.15 sec/update
@@ -3446,40 +3468,40 @@
 [  Debug ] Can't match any (sub)detail title(s) with any index title(s):
 [  Debug ]        index title(s):
 [  Debug ]  (sub)detail title(s):
-[  Info  ] 0.14 sec/update
+[  Info  ] 0.13 sec/update
 [  Debug ] 
 [  Info  ] ( 127/234 ) MI.TV -- chan. (xmltv_id=Fx.br) -- mode Force
 [  Info  ] 0.15 sec/update
 [  Debug ] 
 [  Info  ] ( 128/234 ) MI.TV -- chan. (xmltv_id=TVGazeta.br) -- mode Force
-[  Info  ] 0.14 sec/update
+[  Info  ] 0.13 sec/update
 [  Debug ] 
 [  Info  ] ( 129/234 ) MI.TV -- chan. (xmltv_id=GloboBrasilia.br) -- mode Force
-[  Info  ] 0.13 sec/update
-[  Debug ] 
-[  Info  ] ( 130/234 ) MI.TV -- chan. (xmltv_id=Globorecife.br) -- mode Force
 [  Info  ] 0.14 sec/update
 [  Debug ] 
+[  Info  ] ( 130/234 ) MI.TV -- chan. (xmltv_id=Globorecife.br) -- mode Force
+[  Info  ] 0.15 sec/update
+[  Debug ] 
 [  Info  ] ( 131/234 ) MI.TV -- chan. (xmltv_id=Globonews.br) -- mode Force
-[  Info  ] 0.13 sec/update
+[  Info  ] 0.14 sec/update
 [  Debug ] 
 [  Info  ] ( 132/234 ) MI.TV -- chan. (xmltv_id=Gloob.br) -- mode Force
-[  Info  ] 0.15 sec/update
+[  Info  ] 0.14 sec/update
 [  Debug ] 
 [  Info  ] ( 133/234 ) MI.TV -- chan. (xmltv_id=Gloobinho.br) -- mode Force
 [  Info  ] 0.14 sec/update
 [  Debug ] 
 [  Info  ] ( 134/234 ) MI.TV -- chan. (xmltv_id=Gnt.br) -- mode Force
-[  Info  ] 0.14 sec/update
+[  Info  ] 0.15 sec/update
 [  Debug ] 
 [  Info  ] ( 135/234 ) MI.TV -- chan. (xmltv_id=Hbo.br) -- mode Force
 [  Info  ] 0.15 sec/update
 [  Debug ] 
 [  Info  ] ( 136/234 ) MI.TV -- chan. (xmltv_id=Hbo2.br) -- mode Force
-[  Info  ] 0.14 sec/update
+[  Info  ] 0.15 sec/update
 [  Debug ] 
 [  Info  ] ( 137/234 ) MI.TV -- chan. (xmltv_id=Hboplus.br) -- mode Force
-[  Info  ] 0.16 sec/update
+[  Info  ] 0.15 sec/update
 [  Debug ] 
 [  Info  ] ( 138/234 ) MI.TV -- chan. (xmltv_id=Hbofamily.br) -- mode Force
 [  Info  ] 0.15 sec/update
@@ -3491,7 +3513,7 @@
 [  Info  ] 0.14 sec/update
 [  Debug ] 
 [  Info  ] ( 141/234 ) MI.TV -- chan. (xmltv_id=Hbosignature.br) -- mode Force
-[  Info  ] 0.15 sec/update
+[  Info  ] 0.16 sec/update
 [  Debug ] 
 [  Info  ] ( 142/234 ) MI.TV -- chan. (xmltv_id=Maxprime.br) -- mode Force
 [  Info  ] 0.15 sec/update
@@ -3503,13 +3525,13 @@
 [  Info  ] 0.14 sec/update
 [  Debug ] 
 [  Info  ] ( 145/234 ) MI.TV -- chan. (xmltv_id=iSat.br) -- mode Force
-[  Info  ] 0.14 sec/update
-[  Debug ] 
-[  Info  ] ( 146/234 ) MI.TV -- chan. (xmltv_id=Investigacaodiscoveryid.br) -- mode Force
 [  Info  ] 0.16 sec/update
 [  Debug ] 
-[  Info  ] ( 147/234 ) MI.TV -- chan. (xmltv_id=Inttvcabugi.br) -- mode Force
+[  Info  ] ( 146/234 ) MI.TV -- chan. (xmltv_id=Investigacaodiscoveryid.br) -- mode Force
 [  Info  ] 0.15 sec/update
+[  Debug ] 
+[  Info  ] ( 147/234 ) MI.TV -- chan. (xmltv_id=Inttvcabugi.br) -- mode Force
+[  Info  ] 0.14 sec/update
 [  Debug ] 
 [  Info  ] ( 148/234 ) MI.TV -- chan. (xmltv_id=Lifetime.br) -- mode Force
 [  Info  ] 0.15 sec/update
@@ -3518,52 +3540,52 @@
 [  Info  ] 0.15 sec/update
 [  Debug ] 
 [  Info  ] ( 150/234 ) MI.TV -- chan. (xmltv_id=Megapix.br) -- mode Force
-[  Info  ] 0.15 sec/update
+[  Info  ] 0.14 sec/update
 [  Debug ] 
 [  Info  ] ( 151/234 ) MI.TV -- chan. (xmltv_id=Mtv.br) -- mode Force
-[  Info  ] 0.14 sec/update
+[  Info  ] 0.15 sec/update
 [  Debug ] 
 [  Info  ] ( 152/234 ) MI.TV -- chan. (xmltv_id=Multishow.br) -- mode Force
-[  Info  ] 0.14 sec/update
+[  Info  ] 0.15 sec/update
 [  Debug ] 
 [  Info  ] ( 153/234 ) MI.TV -- chan. (xmltv_id=Musicboxbrazil.br) -- mode Force
-[  Info  ] 0.14 sec/update
+[  Info  ] 0.15 sec/update
 [  Debug ] 
 [  Info  ] ( 154/234 ) MI.TV -- chan. (xmltv_id=Nationalgeographic.br) -- mode Force
-[  Info  ] 0.15 sec/update
+[  Info  ] 0.16 sec/update
 [  Debug ] 
 [  Info  ] ( 155/234 ) MI.TV -- chan. (xmltv_id=Natgeokids.br) -- mode Force
 [  Info  ] 0.15 sec/update
 [  Debug ] 
 [  Info  ] ( 156/234 ) MI.TV -- chan. (xmltv_id=Natgeowildhd.br) -- mode Force
-[  Info  ] 0.14 sec/update
-[  Debug ] 
-[  Info  ] ( 157/234 ) MI.TV -- chan. (xmltv_id=Nickelodeon.br) -- mode Force
-[  Info  ] 0.15 sec/update
-[  Debug ] 
-[  Info  ] ( 158/234 ) MI.TV -- chan. (xmltv_id=NickJr.br) -- mode Force
 [  Info  ] 0.16 sec/update
 [  Debug ] 
+[  Info  ] ( 157/234 ) MI.TV -- chan. (xmltv_id=Nickelodeon.br) -- mode Force
+[  Info  ] 0.16 sec/update
+[  Debug ] 
+[  Info  ] ( 158/234 ) MI.TV -- chan. (xmltv_id=NickJr.br) -- mode Force
+[  Info  ] 0.17 sec/update
+[  Debug ] 
 [  Info  ] ( 159/234 ) MI.TV -- chan. (xmltv_id=NSCTV.br) -- mode Force
-[  Info  ] 0.14 sec/update
+[  Info  ] 0.15 sec/update
 [  Debug ] 
 [  Info  ] ( 160/234 ) MI.TV -- chan. (xmltv_id=Paramounthd.br) -- mode Force
-[  Info  ] 0.15 sec/update
+[  Info  ] 0.16 sec/update
 [  Debug ] 
 [  Info  ] ( 161/234 ) MI.TV -- chan. (xmltv_id=Premiere2.br) -- mode Force
 [  Info  ] 0.14 sec/update
 [  Debug ] 
 [  Info  ] ( 162/234 ) MI.TV -- chan. (xmltv_id=Premiere3.br) -- mode Force
-[  Info  ] 0.14 sec/update
+[  Info  ] 0.15 sec/update
 [  Debug ] 
 [  Info  ] ( 163/234 ) MI.TV -- chan. (xmltv_id=Premiere4.br) -- mode Force
-[  Info  ] 0.15 sec/update
+[  Info  ] 0.14 sec/update
 [  Debug ] 
 [  Info  ] ( 164/234 ) MI.TV -- chan. (xmltv_id=Premiere5.br) -- mode Force
 [  Info  ] 0.14 sec/update
 [  Debug ] 
 [  Info  ] ( 165/234 ) MI.TV -- chan. (xmltv_id=Premiere6.br) -- mode Force
-[  Info  ] 0.14 sec/update
+[  Info  ] 1.23 sec/update
 [  Debug ] 
 [  Info  ] ( 166/234 ) MI.TV -- chan. (xmltv_id=Premiere7.br) -- mode Force
 [  Info  ] 0.14 sec/update
@@ -3572,31 +3594,31 @@
 [  Info  ] 0.14 sec/update
 [  Debug ] 
 [  Info  ] ( 168/234 ) MI.TV -- chan. (xmltv_id=Primeboxbrazil.br) -- mode Force
-[  Info  ] 0.15 sec/update
+[  Info  ] 0.16 sec/update
 [  Debug ] 
 [  Info  ] ( 169/234 ) MI.TV -- chan. (xmltv_id=GloboPortoAlegre.br) -- mode Force
 [  Info  ] 0.15 sec/update
 [  Debug ] 
 [  Info  ] ( 170/234 ) MI.TV -- chan. (xmltv_id=Rederecord.br) -- mode Force
-[  Info  ] 0.14 sec/update
-[  Debug ] 
-[  Info  ] ( 171/234 ) MI.TV -- chan. (xmltv_id=Rederecordrj.br) -- mode Force
 [  Info  ] 0.15 sec/update
 [  Debug ] 
-[  Info  ] ( 172/234 ) MI.TV -- chan. (xmltv_id=Recordnews.br) -- mode Force
+[  Info  ] ( 171/234 ) MI.TV -- chan. (xmltv_id=Rederecordrj.br) -- mode Force
 [  Info  ] 0.14 sec/update
 [  Debug ] 
+[  Info  ] ( 172/234 ) MI.TV -- chan. (xmltv_id=Recordnews.br) -- mode Force
+[  Info  ] 0.15 sec/update
+[  Debug ] 
 [  Info  ] ( 173/234 ) MI.TV -- chan. (xmltv_id=Redeamazonica.br) -- mode Force
-[  Info  ] 0.14 sec/update
+[  Info  ] 0.15 sec/update
 [  Debug ] 
 [  Info  ] ( 174/234 ) MI.TV -- chan. (xmltv_id=Tvbahia.br) -- mode Force
 [  Info  ] 0.15 sec/update
 [  Debug ] 
 [  Info  ] ( 175/234 ) MI.TV -- chan. (xmltv_id=Redebrasil.br) -- mode Force
-[  Info  ] 0.14 sec/update
+[  Info  ] 0.16 sec/update
 [  Debug ] 
 [  Info  ] ( 176/234 ) MI.TV -- chan. (xmltv_id=RedeFami­lia.br) -- mode Force
-[  Info  ] 0.15 sec/update
+[  Info  ] 0.14 sec/update
 [  Debug ] 
 [  Info  ] ( 177/234 ) MI.TV -- chan. (xmltv_id=Redegospel.br) -- mode Force
 [  Info  ] 0.15 sec/update
@@ -3608,7 +3630,7 @@
 [  Info  ] 0.15 sec/update
 [  Debug ] 
 [  Info  ] ( 180/234 ) MI.TV -- chan. (xmltv_id=Redetv.br) -- mode Force
-[  Info  ] 0.16 sec/update
+[  Info  ] 0.15 sec/update
 [  Debug ] 
 [  Info  ] ( 181/234 ) MI.TV -- chan. (xmltv_id=Rit.br) -- mode Force
 [  Info  ] 0.15 sec/update
@@ -3626,55 +3648,55 @@
 [  Info  ] 0.16 sec/update
 [  Debug ] 
 [  Info  ] ( 186/234 ) MI.TV -- chan. (xmltv_id=Space.br) -- mode Force
-[  Info  ] 0.15 sec/update
+[  Info  ] 0.16 sec/update
 [  Debug ] 
 [  Info  ] ( 187/234 ) MI.TV -- chan. (xmltv_id=Sportv.br) -- mode Force
-[  Info  ] 0.15 sec/update
+[  Info  ] 0.14 sec/update
 [  Debug ] 
 [  Info  ] ( 188/234 ) MI.TV -- chan. (xmltv_id=Studiouniversal.br) -- mode Force
-[  Info  ] 0.15 sec/update
+[  Info  ] 0.16 sec/update
 [  Debug ] 
 [  Info  ] ( 189/234 ) MI.TV -- chan. (xmltv_id=Syfy.br) -- mode Force
-[  Info  ] 0.16 sec/update
+[  Info  ] 0.17 sec/update
 [  Debug ] 
 [  Info  ] ( 190/234 ) MI.TV -- chan. (xmltv_id=Tbs.br) -- mode Force
 [  Info  ] 0.16 sec/update
 [  Debug ] 
 [  Info  ] ( 191/234 ) MI.TV -- chan. (xmltv_id=Tcm.br) -- mode Force
-[  Info  ] 0.16 sec/update
+[  Info  ] 0.15 sec/update
 [  Debug ] 
 [  Info  ] ( 192/234 ) MI.TV -- chan. (xmltv_id=Tcpremium.br) -- mode Force
-[  Info  ] 0.15 sec/update
+[  Info  ] 0.18 sec/update
 [  Debug ] 
 [  Info  ] ( 193/234 ) MI.TV -- chan. (xmltv_id=Tcaction.br) -- mode Force
 [  Info  ] 0.16 sec/update
 [  Debug ] 
 [  Info  ] ( 194/234 ) MI.TV -- chan. (xmltv_id=Tctouch.br) -- mode Force
-[  Info  ] 0.14 sec/update
+[  Info  ] 0.18 sec/update
 [  Debug ] 
 [  Info  ] ( 195/234 ) MI.TV -- chan. (xmltv_id=Tcfun.br) -- mode Force
-[  Info  ] 0.16 sec/update
+[  Info  ] 0.17 sec/update
 [  Debug ] 
 [  Info  ] ( 196/234 ) MI.TV -- chan. (xmltv_id=Tcpipoca.br) -- mode Force
-[  Info  ] 0.15 sec/update
+[  Info  ] 0.18 sec/update
 [  Debug ] 
 [  Info  ] ( 197/234 ) MI.TV -- chan. (xmltv_id=Tccult.br) -- mode Force
 [  Info  ] 0.16 sec/update
 [  Debug ] 
 [  Info  ] ( 198/234 ) MI.TV -- chan. (xmltv_id=Terraviva.br) -- mode Force
-[  Info  ] 0.15 sec/update
+[  Info  ] 0.16 sec/update
 [  Debug ] 
 [  Info  ] ( 199/234 ) MI.TV -- chan. (xmltv_id=Tlc.br) -- mode Force
-[  Info  ] 0.16 sec/update
+[  Info  ] 0.17 sec/update
 [  Debug ] 
 [  Info  ] ( 200/234 ) MI.TV -- chan. (xmltv_id=Tnt.br) -- mode Force
-[  Info  ] 0.16 sec/update
+[  Info  ] 0.15 sec/update
 [  Debug ] 
 [  Info  ] ( 201/234 ) MI.TV -- chan. (xmltv_id=TNTSerie.br) -- mode Force
 [  Info  ] 0.17 sec/update
 [  Debug ] 
 [  Info  ] ( 202/234 ) MI.TV -- chan. (xmltv_id=Tooncast.br) -- mode Force
-[  Info  ] 0.15 sec/update
+[  Info  ] 0.16 sec/update
 [  Debug ] 
 [  Info  ] ( 203/234 ) MI.TV -- chan. (xmltv_id=Travelboxbrazil.br) -- mode Force
 [  Info  ] 0.16 sec/update
@@ -3695,519 +3717,51 @@
 [  Info  ] 0.15 sec/update
 [  Debug ] 
 [  Info  ] ( 209/234 ) MI.TV -- chan. (xmltv_id=Tvcamara.br) -- mode Force
-[  Info  ] 0.15 sec/update
+[  Info  ] 0.16 sec/update
 [  Debug ] 
 [  Info  ] ( 210/234 ) MI.TV -- chan. (xmltv_id=Centroamerica.br) -- mode Force
-[  Info  ] 0.15 sec/update
+[  Info  ] 0.16 sec/update
 [  Debug ] 
 [  Info  ] ( 211/234 ) MI.TV -- chan. (xmltv_id=tvclube.br) -- mode Force
 [  Info  ] 0.15 sec/update
 [  Debug ] 
 [  Info  ] ( 212/234 ) MI.TV -- chan. (xmltv_id=Tvcultura.br) -- mode Force
-[  Info  ] 0.15 sec/update
+[  Info  ] 0.16 sec/update
 [  Debug ] 
 [  Info  ] ( 213/234 ) MI.TV -- chan. (xmltv_id=Tvdiario.br) -- mode Force
-[  Info  ] 0.15 sec/update
+[  Info  ] 0.16 sec/update
 [  Debug ] 
 [  Info  ] ( 214/234 ) MI.TV -- chan. (xmltv_id=Tvdiariosp.br) -- mode Force
-[  Info  ] 0.16 sec/update
+[  Info  ] 0.15 sec/update
 [  Debug ] 
 [  Info  ] ( 215/234 ) MI.TV -- chan. (xmltv_id=Tvescola.br) -- mode Force
-[  Info  ] 0.15 sec/update
+[  Info  ] 0.16 sec/update
 [  Debug ] 
 [  Info  ] ( 216/234 ) MI.TV -- chan. (xmltv_id=Tvgazetaalagoas.br) -- mode Force
-[  Info  ] 0.16 sec/update
+[  Info  ] 0.17 sec/update
 [  Debug ] 
 [  Info  ] ( 217/234 ) MI.TV -- chan. (xmltv_id=TVGazetaes.br) -- mode Force
-[  Info  ] 0.15 sec/update
+[  Info  ] 0.16 sec/update
 [  Debug ] 
 [  Info  ] ( 218/234 ) MI.TV -- chan. (xmltv_id=Tvintegracao.br) -- mode Force
-[  Info  ] 0.15 sec/update
+[  Info  ] 0.16 sec/update
 [  Debug ] 
 [  Info  ] ( 219/234 ) MI.TV -- chan. (xmltv_id=Tvjustica.br) -- mode Force
-[  Info  ] 0.16 sec/update
+[  Info  ] 0.23 sec/update
 [  Debug ] 
 [  Info  ] ( 220/234 ) MI.TV -- chan. (xmltv_id=Tvliberalbelem.br) -- mode Force
 [  Info  ] 0.16 sec/update
 [  Debug ] 
 [  Info  ] ( 221/234 ) MI.TV -- chan. (xmltv_id=Tvmirante.br) -- mode Force
-[  Info  ] 0.15 sec/update
+[  Info  ] 0.17 sec/update
 [  Debug ] 
 [  Info  ] ( 222/234 ) MI.TV -- chan. (xmltv_id=Tvmorena.br) -- mode Force
-[  Info  ] 0.15 sec/update
-[  Debug ] 
-[  Info  ] ( 223/234 ) MI.TV -- chan. (xmltv_id=Tvnovotempo.br) -- mode Force
 [  Info  ] 0.16 sec/update
 [  Debug ] 
+[  Info  ] ( 223/234 ) MI.TV -- chan. (xmltv_id=Tvnovotempo.br) -- mode Force
+[  Info  ] 0.19 sec/update
+[  Debug ] 
 [  Info  ] ( 224/234 ) MI.TV -- chan. (xmltv_id=Tvratimbum.br) -- mode Force
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Os Cupins(lang=)"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]                        "Os Cupins"
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Repórter Rá Teen Bum(lang=)"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]                        "Repórter Rá Teen Bum"
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Musical Rá Tim Bum!(lang=)"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]                        "Musical Rá Tim Bum!"
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "DJ Cão e a Loja de Discos(lang=)"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]                        "DJ Cão e a Loja de Discos"
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "O Diário de Mika(lang=)"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]                        "O Diário de Mika"
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Bubu e as Corujinhas(lang=)"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]                        "Bubu e as Corujinhas"
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Tromba Trem(lang=)"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]                        "Tromba Trem"
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "SOS Fada Manu(lang=)"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]                        "SOS Fada Manu"
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Rev & Roll(lang=)"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]                        "Rev & Roll"
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "As Novas Missões do Peixonauta(lang=)"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]                        "As Novas Missões do Peixonauta"
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Astro Não Mia(lang=)"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]                        "Astro Não Mia"
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Uau Animal(lang=)"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]                        "Uau Animal"
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Era uma Vez no Quintal(lang=)"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]                        "Era uma Vez no Quintal"
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Musical Rá Tim Bum!(lang=)"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]                        "Musical Rá Tim Bum!"
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Rubra e as Criaturas(lang=)"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]                        "Rubra e as Criaturas"
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Os Cupins(lang=)"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]                        "Os Cupins"
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Quintal da Cultura(lang=)"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]                        "Quintal da Cultura"
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Que Monstro te Mordeu?(lang=)"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]                        "Que Monstro te Mordeu?"
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Mundo da Lua(lang=)"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]                        "Mundo da Lua"
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Yoga com Histórias(lang=)"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]                        "Yoga com Histórias"
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "DJ Cão e a Loja de Discos(lang=)"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]                        "DJ Cão e a Loja de Discos"
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Traçando Arte(lang=)"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]                        "Traçando Arte"
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Eu e o Quarteto Apavorante(lang=)"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]                        "Eu e o Quarteto Apavorante"
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Rev & Roll(lang=)"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]                        "Rev & Roll"
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Tromba Trem(lang=)"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]                        "Tromba Trem"
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "SOS Fada Manu(lang=)"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]                        "SOS Fada Manu"
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Nilba e os Desastronautas(lang=)"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]                        "Nilba e os Desastronautas"
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "A Mansão Maluca do Professor Ambrósio(lang=)"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]                        "A Mansão Maluca do Professor Ambrósio"
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Os Cupins(lang=)"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]                        "Os Cupins"
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Musical Rá Tim Bum!(lang=)"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]                        "Musical Rá Tim Bum!"
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Bubu e as Corujinhas(lang=)"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]                        "Bubu e as Corujinhas"
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "As Novas Missões do Peixonauta(lang=)"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]                        "As Novas Missões do Peixonauta"
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "O Diário de Mika(lang=)"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]                        "O Diário de Mika"
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Os Filosofinhos(lang=)"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]                        "Os Filosofinhos"
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "As Aventuras de Amí(lang=)"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]                        "As Aventuras de Amí"
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Que Monstro te Mordeu?(lang=)"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]                        "Que Monstro te Mordeu?"
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Rubra em Família(lang=)"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]                        "Rubra em Família"
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Musical Rá Tim Bum!(lang=)"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]                        "Musical Rá Tim Bum!"
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Quintal da Cultura(lang=)"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]                        "Quintal da Cultura"
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Yoga com Histórias(lang=)"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]                        "Yoga com Histórias"
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Território do Brincar(lang=)"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]                        "Território do Brincar"
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Astro Não Mia(lang=)"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]                        "Astro Não Mia"
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Eu e o Quarteto Apavorante(lang=)"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]                        "Eu e o Quarteto Apavorante"
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Traçando Arte(lang=)"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]                        "Traçando Arte"
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Pratinho da Iaiá(lang=)"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]                        "Pratinho da Iaiá"
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Cocoricó(lang=)"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]                        "Cocoricó"
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Qual é, Bicho?(lang=)"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]                        "Qual é, Bicho?"
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Que Monstro te Mordeu?(lang=)"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]                        "Que Monstro te Mordeu?"
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Tromba Trem(lang=)"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]                        "Tromba Trem"
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "SOS Fada Manu(lang=)"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]                        "SOS Fada Manu"
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Musical Rá Tim Bum!(lang=)"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]                        "Musical Rá Tim Bum!"
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Bubu e as Corujinhas(lang=)"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]                        "Bubu e as Corujinhas"
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "O Diário de Mika(lang=)"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]                        "O Diário de Mika"
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Cocoricó(lang=)"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]                        "Cocoricó"
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Quintal da Cultura(lang=)"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]                        "Quintal da Cultura"
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Yoga com Histórias em Casa(lang=)"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]                        "Yoga com Histórias em Casa"
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Rubra em Família(lang=)"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]                        "Rubra em Família"
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Os Cupins(lang=)"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]                        "Os Cupins"
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Nilba e os Desastronautas(lang=)"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]                        "Nilba e os Desastronautas"
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Experimentos Extraordinários(lang=)"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]                        "Experimentos Extraordinários"
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "DJ Cão e a Loja de Discos(lang=)"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]                        "DJ Cão e a Loja de Discos"
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Traçando Arte(lang=)"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]                        "Traçando Arte"
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Astro Não Mia(lang=)"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]                        "Astro Não Mia"
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Território do Brincar(lang=)"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]                        "Território do Brincar"
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Repórter Rá Teen Bum(lang=)"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]                        "Repórter Rá Teen Bum"
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Qual é, Bicho?(lang=)"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]                        "Qual é, Bicho?"
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Ilha Rá-Tim-Bum(lang=)"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]                        "Ilha Rá-Tim-Bum"
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Era uma Vez no Quintal(lang=)"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]                        "Era uma Vez no Quintal"
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Musical Rá Tim Bum!(lang=)"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]                        "Musical Rá Tim Bum!"
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Cocoricó(lang=)"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]                        "Cocoricó"
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Os Cupins(lang=)"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]                        "Os Cupins"
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Que Monstro te Mordeu?(lang=)"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]                        "Que Monstro te Mordeu?"
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "A Mansão Maluca do Professor Ambrósio(lang=)"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]                        "A Mansão Maluca do Professor Ambrósio"
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "As Novas Missões do Peixonauta(lang=)"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]                        "As Novas Missões do Peixonauta"
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Bubu e as Corujinhas(lang=)"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]                        "Bubu e as Corujinhas"
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "O Diário de Mika(lang=)"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]                        "O Diário de Mika"
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Astro Não Mia(lang=)"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]                        "Astro Não Mia"
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Eu e o Quarteto Apavorante(lang=)"
-[  Debug ]  (sub)detail title(s):
-[  Debug ]                        "Eu e o Quarteto Apavorante"
 [  Debug ]    suspicious      title in index page
 [  Debug ] Can't match any (sub)detail title(s) with any index title(s):
 [  Debug ]        index title(s):
@@ -5000,7 +4554,463 @@
 [  Debug ]                        "Experimentos Extraordinários(lang=)"
 [  Debug ]  (sub)detail title(s):
 [  Debug ]                        "Experimentos Extraordinários"
-[  Info  ] 0.16 sec/update
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "DJ Cão e a Loja de Discos(lang=)"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "DJ Cão e a Loja de Discos"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Traçando Arte(lang=)"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "Traçando Arte"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Astro Não Mia(lang=)"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "Astro Não Mia"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Território do Brincar(lang=)"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "Território do Brincar"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Repórter Rá Teen Bum(lang=)"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "Repórter Rá Teen Bum"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Mundo da Lua(lang=)"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "Mundo da Lua"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Ilha Rá-Tim-Bum(lang=)"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "Ilha Rá-Tim-Bum"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Era uma Vez no Quintal(lang=)"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "Era uma Vez no Quintal"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Musical Rá Tim Bum!(lang=)"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "Musical Rá Tim Bum!"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Cocoricó(lang=)"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "Cocoricó"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Os Cupins(lang=)"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "Os Cupins"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Que Monstro te Mordeu?(lang=)"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "Que Monstro te Mordeu?"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "A Mansão Maluca do Professor Ambrósio(lang=)"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "A Mansão Maluca do Professor Ambrósio"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "As Novas Missões do Peixonauta(lang=)"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "As Novas Missões do Peixonauta"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Bubu e as Corujinhas(lang=)"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "Bubu e as Corujinhas"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "O Diário de Mika(lang=)"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "O Diário de Mika"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Astro Não Mia(lang=)"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "Astro Não Mia"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Eu e o Quarteto Apavorante(lang=)"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "Eu e o Quarteto Apavorante"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Tromba Trem(lang=)"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "Tromba Trem"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "SOS Fada Manu(lang=)"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "SOS Fada Manu"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Rev & Roll(lang=)"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "Rev & Roll"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Os Cupins(lang=)"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "Os Cupins"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Experimentos Extraordinários(lang=)"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "Experimentos Extraordinários"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Repórter Rá Teen Bum(lang=)"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "Repórter Rá Teen Bum"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "DJ Cão e a Loja de Discos(lang=)"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "DJ Cão e a Loja de Discos"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Qual é, Bicho?(lang=)"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "Qual é, Bicho?"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Pratinho da Iaiá(lang=)"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "Pratinho da Iaiá"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "A Mansão Maluca do Professor Ambrósio(lang=)"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "A Mansão Maluca do Professor Ambrósio"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Era uma Vez no Quintal(lang=)"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "Era uma Vez no Quintal"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Musical Rá Tim Bum!(lang=)"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "Musical Rá Tim Bum!"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Rubra e as Criaturas(lang=)"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "Rubra e as Criaturas"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Os Cupins(lang=)"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "Os Cupins"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Quintal da Cultura(lang=)"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "Quintal da Cultura"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Que Monstro te Mordeu?(lang=)"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "Que Monstro te Mordeu?"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "X-Tudo(lang=)"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "X-Tudo"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Yoga com Histórias(lang=)"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "Yoga com Histórias"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "DJ Cão e a Loja de Discos(lang=)"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "DJ Cão e a Loja de Discos"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Traçando Arte(lang=)"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "Traçando Arte"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Eu e o Quarteto Apavorante(lang=)"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "Eu e o Quarteto Apavorante"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Rev & Roll(lang=)"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "Rev & Roll"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Tromba Trem(lang=)"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "Tromba Trem"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "SOS Fada Manu(lang=)"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "SOS Fada Manu"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Nilba e os Desastronautas(lang=)"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "Nilba e os Desastronautas"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "A Mansão Maluca do Professor Ambrósio(lang=)"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "A Mansão Maluca do Professor Ambrósio"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Os Cupins(lang=)"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "Os Cupins"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Musical Rá Tim Bum!(lang=)"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "Musical Rá Tim Bum!"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Bubu e as Corujinhas(lang=)"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "Bubu e as Corujinhas"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "As Novas Missões do Peixonauta(lang=)"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "As Novas Missões do Peixonauta"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "O Diário de Mika(lang=)"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "O Diário de Mika"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Os Filosofinhos(lang=)"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "Os Filosofinhos"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "As Aventuras de Amí(lang=)"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "As Aventuras de Amí"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Que Monstro te Mordeu?(lang=)"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "Que Monstro te Mordeu?"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Rubra em Família(lang=)"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "Rubra em Família"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Musical Rá Tim Bum!(lang=)"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "Musical Rá Tim Bum!"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Quintal da Cultura(lang=)"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "Quintal da Cultura"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Yoga com Histórias(lang=)"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "Yoga com Histórias"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Território do Brincar(lang=)"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "Território do Brincar"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Astro Não Mia(lang=)"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "Astro Não Mia"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Eu e o Quarteto Apavorante(lang=)"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "Eu e o Quarteto Apavorante"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Traçando Arte(lang=)"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "Traçando Arte"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Pratinho da Iaiá(lang=)"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "Pratinho da Iaiá"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Mundo da Lua(lang=)"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "Mundo da Lua"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "X-Tudo(lang=)"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "X-Tudo"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Que Monstro te Mordeu?(lang=)"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "Que Monstro te Mordeu?"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Tromba Trem(lang=)"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "Tromba Trem"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "SOS Fada Manu(lang=)"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "SOS Fada Manu"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Musical Rá Tim Bum!(lang=)"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "Musical Rá Tim Bum!"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Bubu e as Corujinhas(lang=)"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "Bubu e as Corujinhas"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "O Diário de Mika(lang=)"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "O Diário de Mika"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Cocoricó(lang=)"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "Cocoricó"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Quintal da Cultura(lang=)"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "Quintal da Cultura"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Yoga com Histórias em Casa(lang=)"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "Yoga com Histórias em Casa"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Rubra em Família(lang=)"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "Rubra em Família"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Os Cupins(lang=)"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "Os Cupins"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Nilba e os Desastronautas(lang=)"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "Nilba e os Desastronautas"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Experimentos Extraordinários(lang=)"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "Experimentos Extraordinários"
+[  Info  ] 0.17 sec/update
 [  Debug ] 
 [  Info  ] ( 225/234 ) MI.TV -- chan. (xmltv_id=Tvsenado.br) -- mode Force
 [  Info  ] 0.16 sec/update
@@ -5012,7 +5022,7 @@
 [  Info  ] 0.16 sec/update
 [  Debug ] 
 [  Info  ] ( 228/234 ) MI.TV -- chan. (xmltv_id=Tvespanha.br) -- mode Force
-[  Info  ] 0.17 sec/update
+[  Info  ] 0.16 sec/update
 [  Debug ] 
 [  Info  ] ( 229/234 ) MI.TV -- chan. (xmltv_id=Universalchannel.br) -- mode Force
 [  Info  ] 0.16 sec/update
@@ -5021,20 +5031,20 @@
 [  Info  ] 0.16 sec/update
 [  Debug ] 
 [  Info  ] ( 231/234 ) MI.TV -- chan. (xmltv_id=Viva.br) -- mode Force
-[  Info  ] 0.28 sec/update
+[  Info  ] 0.17 sec/update
 [  Debug ] 
 [  Info  ] ( 232/234 ) MI.TV -- chan. (xmltv_id=Playtv.br) -- mode Force
-[  Info  ] 0.16 sec/update
+[  Info  ] 0.17 sec/update
 [  Debug ] 
 [  Info  ] ( 233/234 ) MI.TV -- chan. (xmltv_id=Warnerchannel.br) -- mode Force
 [  Info  ] 0.18 sec/update
 [  Debug ] 
 [  Info  ] ( 234/234 ) MI.TV -- chan. (xmltv_id=Zoomoo.br) -- mode Force
-[  Info  ] 0.18 sec/update
+[  Info  ] 0.17 sec/update
 [  Debug ] 
-[  Debug ] 21940 shows in 234 channels
+[  Debug ] 22108 shows in 234 channels
 [  Debug ] 0 updated shows
-[  Debug ] 17275 new shows added
+[  Debug ] 17164 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 29/11/2021 07:19:13 done in 1h 19m 11s
+[        ] Job finished at 30/11/2021 07:24:33 done in 1h 24m 32s
