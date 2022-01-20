@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 19/01/2022 06:00:01
+[        ] Job started at 20/01/2022 06:00:02
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.4.0.73
 [  Debug ] Environment: 4.0.30319.42000
@@ -18,33 +18,12 @@
 [  Debug ] Reading config file: /root/.wg++/WebGrab++.config.xml
 [  Info  ] Checking License ..
 [  Info  ] For License request/update data, see WGLicense.log.txt
-[  Debug ] 
-[  Info  ] found: /root/.wg++/siteini.pack/Brazil/app.plex.tv.ini -- Revision 00
-[  Debug ] 
-[  Info  ] found: /root/.wg++/siteini.pack/International/mi.tv.ini -- Revision 22
-[  Info  ] encrypted with userkey and expiry date in 'new (V3)' mode
-[  Debug ] 
-[  Info  ] found: /root/.wg++/siteini.pack/Brazil/clarotv.com.br.ini -- Revision 03
-[  Info  ] encrypted in 'new (V3)' mode
-[  Debug ] 
-[  Info  ] found: /root/.wg++/siteini.pack/Brazil/vcfaz.tv.ini -- Revision 04
-[  Info  ] encrypted in 'new (V3)' mode
-[        ] Job finished at 19/01/2022 06:00:09 done in 8s
+[        ] Job finished at 20/01/2022 06:00:11 done in 8s
 [Critical] 
-[Error   ] error in channel list of the config file!![Error   ]      duplicate xmltv_id value --  -- !![Error   ]      in :[Error   ] <channel update="f" site="app.plex.tv" site_id=" 00:00-23:50 ##title:Campeonato Baiano ##subtitle:Disponível Somente em Eventos ##description:Acompanhe as emoções do torneio estadual da Bahia.####" xmltv_id="Baiano.br">Campeonato Baiano</channel>[Error   ] <channel update="f" site="app.plex.tv" site_id=" 00:00-23:50 ##title:Campeonato Baiano ##subtitle:Disponível Somente em Eventos ##description:Acompanhe as emoções do torneio estadual da Bahia.####" xmltv_id="Baiano.br">Campeonato Baiano</channel>[Error   ] <channel update="f" site="app.plex.tv" site_id=" 00:00-23:50 ##title:Campeonato Baiano ##subtitle:Disponível Somente em Eventos ##description:Acompanhe as emoções do torneio estadual da Bahia.####" xmltv_id="Baiano.br">Campeonato Baiano</channel>[Error   ] duplicate xmltv-id entries will mess-up the xmltv output![Error   ] ---- correct the channel-list to have unique xmltv-id values ---
+Object reference not set to an instance of an object
 [Critical] 
-  at  . ..ctor (System.String ) [0x013ab] in <129dec1b18b44cf8b0b8a855b00404bf>:0 
+  at  . ..ctor (System.String ) [0x01381] in <129dec1b18b44cf8b0b8a855b00404bf>:0 
   at  .―.  (System.String[] ) [0x00351] in <129dec1b18b44cf8b0b8a855b00404bf>:0 
-[Critical] Config syntax exception:
-[Critical]       file: /root/.wg++/WebGrab++.config.xml
-[Critical]    message: 
-[Error   ] error in channel list of the config file!!
-[Error   ]      duplicate xmltv_id value --  -- !!
-[Error   ]      in :
-[Error   ] <channel update="f" site="app.plex.tv" site_id=" 00:00-23:50 ##title:Campeonato Baiano ##subtitle:Disponível Somente em Eventos ##description:Acompanhe as emoções do torneio estadual da Bahia.####" xmltv_id="Baiano.br">Campeonato Baiano</channel>
-[Error   ] <channel update="f" site="app.plex.tv" site_id=" 00:00-23:50 ##title:Campeonato Baiano ##subtitle:Disponível Somente em Eventos ##description:Acompanhe as emoções do torneio estadual da Bahia.####" xmltv_id="Baiano.br">Campeonato Baiano</channel>
-[Error   ] <channel update="f" site="app.plex.tv" site_id=" 00:00-23:50 ##title:Campeonato Baiano ##subtitle:Disponível Somente em Eventos ##description:Acompanhe as emoções do torneio estadual da Bahia.####" xmltv_id="Baiano.br">Campeonato Baiano</channel>
-[Error   ] duplicate xmltv-id entries will mess-up the xmltv output!
-[Error   ] ---- correct the channel-list to have unique xmltv-id values ---
+[Critical] Unhandled Exception
 [Critical] For detailed info, see log file /root/.wg++/WebGrab++.log.txt
 [Critical] Execution stopped
