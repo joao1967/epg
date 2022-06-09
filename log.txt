@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 08/06/2022 18:00:01
+[        ] Job started at 09/06/2022 02:00:01
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.4.0.109
 [  Debug ] Environment: 4.0.30319.42000
@@ -18,7 +18,7 @@
 [  Debug ] Reading config file: /root/.wg++/WebGrab++.config.xml
 [  Info  ] Checking License ..
 [  Info  ] For License request/update data, see WGLicense.log.txt
-[        ] Job finished at 08/06/2022 18:00:14 done in 12s
+[        ] Job finished at 09/06/2022 02:00:10 done in 8s
 [Critical] 
 Object reference not set to an instance of an object
 [Critical] 
