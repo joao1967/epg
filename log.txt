@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 03/08/2022 06:00:02
+[        ] Job started at 03/08/2022 13:00:01
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.4.0.109
 [  Debug ] Environment: 4.0.30319.42000
@@ -624,10 +624,10 @@
 [  Info  ] 0.11 sec/update
 [  Debug ] 
 [  Info  ] (  35/238 ) MI.TV -- chan. (xmltv_id=RedeSeculo21.br) -- mode Force
-[  Info  ] 0.11 sec/update
+[  Info  ] 0.10 sec/update
 [  Debug ] 
 [  Info  ] (  36/238 ) MI.TV -- chan. (xmltv_id=Rede21.br) -- mode Force
-[  Info  ] 0.11 sec/update
+[  Info  ] 0.10 sec/update
 [  Debug ] 
 [  Info  ] (  37/238 ) MI.TV -- chan. (xmltv_id=Cnt.br) -- mode Force
 [  Info  ] 0.10 sec/update
@@ -642,13 +642,13 @@
 [  Info  ] 0.12 sec/update
 [  Debug ] 
 [  Info  ] (  41/238 ) MI.TV -- chan. (xmltv_id=Boomerang.br) -- mode Force
-[  Info  ] 0.10 sec/update
+[  Info  ] 0.12 sec/update
 [  Debug ] 
 [  Info  ] (  42/238 ) MI.TV -- chan. (xmltv_id=CanaldoBoi.br) -- mode Force
-[  Info  ] 0.10 sec/update
+[  Info  ] 0.11 sec/update
 [  Debug ] 
 [  Info  ] (  43/238 ) MI.TV -- chan. (xmltv_id=Cartoonnetwork.br) -- mode Force
-[  Info  ] 0.11 sec/update
+[  Info  ] 0.13 sec/update
 [  Debug ] 
 [  Info  ] (  44/238 ) MI.TV -- chan. (xmltv_id=Cnnbrasil.br) -- mode Force
 [  Info  ] 0.11 sec/update
@@ -663,13 +663,13 @@
 [  Info  ] 0.10 sec/update
 [  Debug ] 
 [  Info  ] (  48/238 ) MI.TV -- chan. (xmltv_id=Conmeboltv2.br) -- mode Force
-[  Info  ] 0.09 sec/update
+[  Info  ] 0.10 sec/update
 [  Debug ] 
 [  Info  ] (  49/238 ) MI.TV -- chan. (xmltv_id=Conmeboltv3.br) -- mode Force
-[  Info  ] 0.09 sec/update
+[  Info  ] 0.10 sec/update
 [  Debug ] 
 [  Info  ] (  50/238 ) MI.TV -- chan. (xmltv_id=Conmeboltv4.br) -- mode Force
-[  Info  ] 0.09 sec/update
+[  Info  ] 0.10 sec/update
 [  Debug ] 
 [  Info  ] (  51/238 ) MI.TV -- chan. (xmltv_id=Discoverykids.br) -- mode Force
 [  Info  ] 0.14 sec/update
@@ -701,7 +701,7 @@
 [  Info  ] 0.10 sec/update
 [  Debug ] 
 [  Info  ] (  60/238 ) MI.TV -- chan. (xmltv_id=Playboytv.br) -- mode Force
-[  Info  ] 0.14 sec/update
+[  Info  ] 0.13 sec/update
 [  Debug ] 
 [  Info  ] (  61/238 ) MI.TV -- chan. (xmltv_id=Rai.br) -- mode Force
 [  Info  ] 0.12 sec/update
@@ -719,7 +719,7 @@
 [  Info  ] 0.12 sec/update
 [  Debug ] 
 [  Info  ] (  66/238 ) MI.TV -- chan. (xmltv_id=Sportv3.br) -- mode Force
-[  Info  ] 0.13 sec/update
+[  Info  ] 0.12 sec/update
 [  Debug ] 
 [  Info  ] (  67/238 ) CLAROTV.COM.BR -- chan. (xmltv_id=Rci.br) -- mode Force
 [  Info  ] 0.02 sec/update
@@ -774,7 +774,7 @@
 [  Info  ] 0.01 sec/update
 [  Debug ] 
 [  Info  ] (  81/238 ) MI.TV -- chan. (xmltv_id=Tvriosul.br) -- mode Force
-[  Info  ] 0.09 sec/update
+[  Info  ] 0.10 sec/update
 [  Debug ] 
 [  Info  ] (  82/238 ) VCFAZ.TV -- chan. (xmltv_id=Tvtembauru.br) -- mode Force
 [  Debug ]    skipped  : last show, no next startime to use as stop
@@ -856,7 +856,7 @@
 [  Info  ] 0.13 sec/update
 [  Debug ] 
 [  Info  ] (  93/238 ) MI.TV -- chan. (xmltv_id=Animalplanet.br) -- mode Force
-[  Info  ] 0.15 sec/update
+[  Info  ] 0.14 sec/update
 [  Debug ] 
 [  Info  ] (  94/238 ) MI.TV -- chan. (xmltv_id=Arte1.br) -- mode Force
 [  Info  ] 0.13 sec/update
@@ -882,7 +882,7 @@
 [  Debug ] Can't match any (sub)detail title(s) with any index title(s):
 [  Debug ]        index title(s):
 [  Debug ]  (sub)detail title(s):
-[  Info  ] 0.13 sec/update
+[  Info  ] 0.12 sec/update
 [  Debug ] 
 [  Info  ] ( 100/238 ) MI.TV -- chan. (xmltv_id=Bishd.br) -- mode Force
 [  Info  ] 0.13 sec/update
@@ -952,7 +952,7 @@
 [  Debug ] Can't match any (sub)detail title(s) with any index title(s):
 [  Debug ]        index title(s):
 [  Debug ]  (sub)detail title(s):
-[  Info  ] 0.12 sec/update
+[  Info  ] 0.13 sec/update
 [  Debug ] 
 [  Info  ] ( 119/238 ) MI.TV -- chan. (xmltv_id=Espnbrasil.br) -- mode Force
 [  Info  ] 0.11 sec/update
@@ -969,7 +969,7 @@
 [  Info  ] 0.12 sec/update
 [  Debug ] 
 [  Info  ] ( 121/238 ) MI.TV -- chan. (xmltv_id=Fashiontv.br) -- mode Force
-[  Info  ] 0.14 sec/update
+[  Info  ] 0.13 sec/update
 [  Debug ] 
 [  Info  ] ( 122/238 ) MI.TV -- chan. (xmltv_id=FilmArts.br) -- mode Force
 [  Info  ] 0.14 sec/update
@@ -978,10 +978,10 @@
 [  Info  ] 0.14 sec/update
 [  Debug ] 
 [  Info  ] ( 124/238 ) MI.TV -- chan. (xmltv_id=Foodnetworkhd.br) -- mode Force
-[  Info  ] 0.16 sec/update
+[  Info  ] 0.10 sec/update
 [  Debug ] 
 [  Info  ] ( 125/238 ) MI.TV -- chan. (xmltv_id=Fox.br) -- mode Force
-[  Info  ] 0.16 sec/update
+[  Info  ] 0.15 sec/update
 [  Debug ] 
 [  Info  ] ( 126/238 ) MI.TV -- chan. (xmltv_id=Foxpremium1.br) -- mode Force
 [Error   ] no shows in indexpage!
@@ -1001,7 +1001,7 @@
 [  Info  ] 0.10 sec/update
 [  Debug ] 
 [  Info  ] ( 131/238 ) MI.TV -- chan. (xmltv_id=Fx.br) -- mode Force
-[  Info  ] 0.16 sec/update
+[  Info  ] 0.15 sec/update
 [  Debug ] 
 [  Info  ] ( 132/238 ) MI.TV -- chan. (xmltv_id=TVGazeta.br) -- mode Force
 [  Info  ] 0.12 sec/update
@@ -1013,7 +1013,7 @@
 [  Info  ] 0.11 sec/update
 [  Debug ] 
 [  Info  ] ( 135/238 ) MI.TV -- chan. (xmltv_id=Globonews.br) -- mode Force
-[  Info  ] 0.12 sec/update
+[  Info  ] 0.13 sec/update
 [  Debug ] 
 [  Info  ] ( 136/238 ) MI.TV -- chan. (xmltv_id=Gloob.br) -- mode Force
 [  Info  ] 0.14 sec/update
@@ -1031,13 +1031,13 @@
 [  Info  ] 0.15 sec/update
 [  Debug ] 
 [  Info  ] ( 141/238 ) MI.TV -- chan. (xmltv_id=Hboplus.br) -- mode Force
-[  Info  ] 0.17 sec/update
+[  Info  ] 0.16 sec/update
 [  Debug ] 
 [  Info  ] ( 142/238 ) MI.TV -- chan. (xmltv_id=Hbofamily.br) -- mode Force
 [  Info  ] 0.16 sec/update
 [  Debug ] 
 [  Info  ] ( 143/238 ) MI.TV -- chan. (xmltv_id=Max.br) -- mode Force
-[  Info  ] 0.16 sec/update
+[  Info  ] 0.17 sec/update
 [  Debug ] 
 [  Info  ] ( 144/238 ) MI.TV -- chan. (xmltv_id=Maxup.br) -- mode Force
 [  Info  ] 0.16 sec/update
@@ -1055,7 +1055,7 @@
 [  Info  ] 0.14 sec/update
 [  Debug ] 
 [  Info  ] ( 149/238 ) MI.TV -- chan. (xmltv_id=iSat.br) -- mode Force
-[  Info  ] 0.17 sec/update
+[  Info  ] 0.16 sec/update
 [  Debug ] 
 [  Info  ] ( 150/238 ) MI.TV -- chan. (xmltv_id=Investigacaodiscoveryid.br) -- mode Force
 [  Info  ] 0.16 sec/update
@@ -1064,22 +1064,22 @@
 [  Info  ] 0.11 sec/update
 [  Debug ] 
 [  Info  ] ( 152/238 ) MI.TV -- chan. (xmltv_id=Lifetime.br) -- mode Force
-[  Info  ] 0.14 sec/update
+[  Info  ] 0.15 sec/update
 [  Debug ] 
 [  Info  ] ( 153/238 ) MI.TV -- chan. (xmltv_id=+globosat.br) -- mode Force
 [  Info  ] 0.13 sec/update
 [  Debug ] 
 [  Info  ] ( 154/238 ) MI.TV -- chan. (xmltv_id=Megapix.br) -- mode Force
-[  Info  ] 0.17 sec/update
+[  Info  ] 0.18 sec/update
 [  Debug ] 
 [  Info  ] ( 155/238 ) MI.TV -- chan. (xmltv_id=Mtv.br) -- mode Force
-[  Info  ] 0.12 sec/update
+[  Info  ] 0.13 sec/update
 [  Debug ] 
 [  Info  ] ( 156/238 ) MI.TV -- chan. (xmltv_id=Multishow.br) -- mode Force
-[  Info  ] 0.15 sec/update
+[  Info  ] 0.14 sec/update
 [  Debug ] 
 [  Info  ] ( 157/238 ) MI.TV -- chan. (xmltv_id=Musicboxbrazil.br) -- mode Force
-[  Info  ] 0.15 sec/update
+[  Info  ] 0.14 sec/update
 [  Debug ] 
 [  Info  ] ( 158/238 ) MI.TV -- chan. (xmltv_id=Nationalgeographic.br) -- mode Force
 [  Info  ] 0.16 sec/update
@@ -1099,28 +1099,28 @@
 [  Info  ] 0.16 sec/update
 [  Debug ] 
 [  Info  ] ( 163/238 ) MI.TV -- chan. (xmltv_id=NSCTV.br) -- mode Force
-[  Info  ] 0.12 sec/update
+[  Info  ] 0.11 sec/update
 [  Debug ] 
 [  Info  ] ( 164/238 ) MI.TV -- chan. (xmltv_id=Paramounthd.br) -- mode Force
 [  Info  ] 0.15 sec/update
 [  Debug ] 
 [  Info  ] ( 165/238 ) MI.TV -- chan. (xmltv_id=Premiere2.br) -- mode Force
-[  Info  ] 0.11 sec/update
+[  Info  ] 0.12 sec/update
 [  Debug ] 
 [  Info  ] ( 166/238 ) MI.TV -- chan. (xmltv_id=Premiere3.br) -- mode Force
 [  Info  ] 0.12 sec/update
 [  Debug ] 
 [  Info  ] ( 167/238 ) MI.TV -- chan. (xmltv_id=Premiere4.br) -- mode Force
-[  Info  ] 0.12 sec/update
+[  Info  ] 0.11 sec/update
 [  Debug ] 
 [  Info  ] ( 168/238 ) MI.TV -- chan. (xmltv_id=Premiere5.br) -- mode Force
-[  Info  ] 0.11 sec/update
+[  Info  ] 0.12 sec/update
 [  Debug ] 
 [  Info  ] ( 169/238 ) MI.TV -- chan. (xmltv_id=Premiere6.br) -- mode Force
 [  Info  ] 0.12 sec/update
 [  Debug ] 
 [  Info  ] ( 170/238 ) MI.TV -- chan. (xmltv_id=Premiere7.br) -- mode Force
-[  Info  ] 0.11 sec/update
+[  Info  ] 0.12 sec/update
 [  Debug ] 
 [  Info  ] ( 171/238 ) MI.TV -- chan. (xmltv_id=Premiere8.br) -- mode Force
 [  Info  ] 0.11 sec/update
@@ -1144,10 +1144,10 @@
 [  Info  ] 0.11 sec/update
 [  Debug ] 
 [  Info  ] ( 178/238 ) MI.TV -- chan. (xmltv_id=Tvbahia.br) -- mode Force
-[  Info  ] 0.12 sec/update
+[  Info  ] 0.11 sec/update
 [  Debug ] 
 [  Info  ] ( 179/238 ) MI.TV -- chan. (xmltv_id=Redebrasil.br) -- mode Force
-[  Info  ] 0.13 sec/update
+[  Info  ] 0.14 sec/update
 [  Debug ] 
 [  Info  ] ( 180/238 ) MI.TV -- chan. (xmltv_id=RedeFami­lia.br) -- mode Force
 [  Info  ] 0.11 sec/update
@@ -1156,10 +1156,10 @@
 [  Info  ] 0.12 sec/update
 [  Debug ] 
 [  Info  ] ( 182/238 ) MI.TV -- chan. (xmltv_id=RedeSuperdeTelevisao.br) -- mode Force
-[  Info  ] 0.13 sec/update
+[  Info  ] 0.14 sec/update
 [  Debug ] 
 [  Info  ] ( 183/238 ) MI.TV -- chan. (xmltv_id=Redevida.br) -- mode Force
-[  Info  ] 0.12 sec/update
+[  Info  ] 0.13 sec/update
 [  Debug ] 
 [  Info  ] ( 184/238 ) MI.TV -- chan. (xmltv_id=Redetv.br) -- mode Force
 [  Info  ] 0.13 sec/update
@@ -1171,7 +1171,7 @@
 [  Info  ] 0.11 sec/update
 [  Debug ] 
 [  Info  ] ( 187/238 ) MI.TV -- chan. (xmltv_id=Sbt.br) -- mode Force
-[  Info  ] 0.14 sec/update
+[  Info  ] 0.13 sec/update
 [  Debug ] 
 [  Info  ] ( 188/238 ) MI.TV -- chan. (xmltv_id=Sic.br) -- mode Force
 [  Info  ] 0.14 sec/update
@@ -1204,13 +1204,13 @@
 [  Info  ] 0.18 sec/update
 [  Debug ] 
 [  Info  ] ( 198/238 ) MI.TV -- chan. (xmltv_id=Tctouch.br) -- mode Force
-[  Info  ] 0.18 sec/update
-[  Debug ] 
-[  Info  ] ( 199/238 ) MI.TV -- chan. (xmltv_id=Tcfun.br) -- mode Force
 [  Info  ] 0.17 sec/update
 [  Debug ] 
-[  Info  ] ( 200/238 ) MI.TV -- chan. (xmltv_id=Tcpipoca.br) -- mode Force
+[  Info  ] ( 199/238 ) MI.TV -- chan. (xmltv_id=Tcfun.br) -- mode Force
 [  Info  ] 0.18 sec/update
+[  Debug ] 
+[  Info  ] ( 200/238 ) MI.TV -- chan. (xmltv_id=Tcpipoca.br) -- mode Force
+[  Info  ] 0.17 sec/update
 [  Debug ] 
 [  Info  ] ( 201/238 ) MI.TV -- chan. (xmltv_id=Tccult.br) -- mode Force
 [  Info  ] 0.18 sec/update
@@ -1225,7 +1225,7 @@
 [  Info  ] 0.14 sec/update
 [  Debug ] 
 [  Info  ] ( 205/238 ) MI.TV -- chan. (xmltv_id=TNTSerie.br) -- mode Force
-[  Info  ] 0.15 sec/update
+[  Info  ] 0.16 sec/update
 [  Debug ] 
 [  Info  ] ( 206/238 ) MI.TV -- chan. (xmltv_id=Tooncast.br) -- mode Force
 [  Info  ] 0.13 sec/update
@@ -1234,10 +1234,10 @@
 [  Info  ] 0.15 sec/update
 [  Debug ] 
 [  Info  ] ( 208/238 ) MI.TV -- chan. (xmltv_id=Trutv.br) -- mode Force
-[  Info  ] 0.15 sec/update
+[  Info  ] 0.14 sec/update
 [  Debug ] 
 [  Info  ] ( 209/238 ) MI.TV -- chan. (xmltv_id=Tvbrasil.br) -- mode Force
-[  Info  ] 0.15 sec/update
+[  Info  ] 0.16 sec/update
 [  Debug ] 
 [  Info  ] ( 210/238 ) MI.TV -- chan. (xmltv_id=GloboAnhangueraGoias.br) -- mode Force
 [  Info  ] 0.12 sec/update
@@ -1249,19 +1249,19 @@
 [  Info  ] 0.12 sec/update
 [  Debug ] 
 [  Info  ] ( 213/238 ) MI.TV -- chan. (xmltv_id=Tvcamara.br) -- mode Force
-[  Info  ] 0.13 sec/update
+[  Info  ] 0.14 sec/update
 [  Debug ] 
 [  Info  ] ( 214/238 ) MI.TV -- chan. (xmltv_id=Centroamerica.br) -- mode Force
 [  Info  ] 0.12 sec/update
 [  Debug ] 
 [  Info  ] ( 215/238 ) MI.TV -- chan. (xmltv_id=tvclube.br) -- mode Force
-[  Info  ] 0.12 sec/update
+[  Info  ] 0.11 sec/update
 [  Debug ] 
 [  Info  ] ( 216/238 ) MI.TV -- chan. (xmltv_id=Tvcultura.br) -- mode Force
 [  Info  ] 0.14 sec/update
 [  Debug ] 
 [  Info  ] ( 217/238 ) MI.TV -- chan. (xmltv_id=Tvdiario.br) -- mode Force
-[  Info  ] 0.12 sec/update
+[  Info  ] 0.13 sec/update
 [  Debug ] 
 [  Info  ] ( 218/238 ) MI.TV -- chan. (xmltv_id=Tvdiariosp.br) -- mode Force
 [  Info  ] 0.12 sec/update
@@ -1283,7 +1283,7 @@
 [  Info  ] 0.14 sec/update
 [  Debug ] 
 [  Info  ] ( 224/238 ) MI.TV -- chan. (xmltv_id=Tvliberalbelem.br) -- mode Force
-[  Info  ] 0.13 sec/update
+[  Info  ] 0.12 sec/update
 [  Debug ] 
 [  Info  ] ( 225/238 ) MI.TV -- chan. (xmltv_id=Tvmirante.br) -- mode Force
 [  Info  ] 0.12 sec/update
@@ -2594,7 +2594,7 @@
 [  Info  ] 0.15 sec/update
 [  Debug ] 
 [  Info  ] ( 229/238 ) MI.TV -- chan. (xmltv_id=Tvsenado.br) -- mode Force
-[  Info  ] 0.14 sec/update
+[  Info  ] 0.15 sec/update
 [  Debug ] 
 [  Info  ] ( 230/238 ) MI.TV -- chan. (xmltv_id=Tvsergipe.br) -- mode Force
 [  Info  ] 0.12 sec/update
@@ -2603,19 +2603,19 @@
 [  Info  ] 0.12 sec/update
 [  Debug ] 
 [  Info  ] ( 232/238 ) MI.TV -- chan. (xmltv_id=Tvespanha.br) -- mode Force
-[  Info  ] 0.16 sec/update
+[  Info  ] 0.15 sec/update
 [  Debug ] 
 [  Info  ] ( 233/238 ) MI.TV -- chan. (xmltv_id=Universalchannel.br) -- mode Force
-[  Info  ] 0.12 sec/update
+[  Info  ] 0.11 sec/update
 [  Debug ] 
 [  Info  ] ( 234/238 ) MI.TV -- chan. (xmltv_id=VH1.br) -- mode Force
-[  Info  ] 0.15 sec/update
+[  Info  ] 0.14 sec/update
 [  Debug ] 
 [  Info  ] ( 235/238 ) MI.TV -- chan. (xmltv_id=Viva.br) -- mode Force
 [  Info  ] 0.14 sec/update
 [  Debug ] 
 [  Info  ] ( 236/238 ) MI.TV -- chan. (xmltv_id=Playtv.br) -- mode Force
-[  Info  ] 0.13 sec/update
+[  Info  ] 0.14 sec/update
 [  Debug ] 
 [  Info  ] ( 237/238 ) MI.TV -- chan. (xmltv_id=Warnerchannel.br) -- mode Force
 [  Info  ] 0.16 sec/update
@@ -2623,9 +2623,9 @@
 [  Info  ] ( 238/238 ) MI.TV -- chan. (xmltv_id=Zoomoo.br) -- mode Force
 [  Info  ] 0.14 sec/update
 [  Debug ] 
-[  Debug ] 21021 shows in 238 channels
+[  Debug ] 21272 shows in 238 channels
 [  Debug ] 0 updated shows
-[  Debug ] 16329 new shows added
+[  Debug ] 16580 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 03/08/2022 06:48:22 done in 48m 20s
+[        ] Job finished at 03/08/2022 13:48:55 done in 48m 54s
