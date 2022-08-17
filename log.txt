@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 17/08/2022 02:00:01
+[        ] Job started at 17/08/2022 06:00:02
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.4.0.109
 [  Debug ] Environment: 4.0.30319.42000
@@ -35,7 +35,7 @@
 [  Info  ] found: /root/.wg++/siteini.pack/Brazil/vcfaz.tv.ini -- Revision 04
 [  Info  ] encrypted in 'new (V3)' mode
 [  Debug ] xmltv input file - /root/.wg++/guide.xml - found
-[  Debug ] 541 superfluous shows removed
+[  Debug ] 820 superfluous shows removed
 [  Info  ] Found existing channel (xmltv_id=Adultos.br) in the config file
 [  Info  ] Found existing channel (xmltv_id=Anime.br) in the config file
 [  Info  ] Found existing channel (xmltv_id=Vazio.br) in the config file
@@ -1249,4 +1249,4 @@
 [  Debug ] 820 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 17/08/2022 02:01:42 done in 1m 41s
+[        ] Job finished at 17/08/2022 06:01:44 done in 1m 42s
