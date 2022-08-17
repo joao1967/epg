@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 17/08/2022 14:55:49
+[        ] Job started at 17/08/2022 14:56:06
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.4.0.109
 [  Debug ] Environment: 4.0.30319.42000
@@ -20,7 +20,7 @@
 [  Info  ] For License request/update data, see WGLicense.log.txt
 [  Debug ] 
 [  Info  ] found: /root/.wg++/siteini.pack/Brazil/app.plex.tv.ini -- Revision 00
-[        ] Job finished at 17/08/2022 14:55:51 done in 2s
+[        ] Job finished at 17/08/2022 14:56:09 done in 2s
 [Critical] 
 Unable to select the siteini: mi.tv.ini.
 Multiple siteini's found, with @Revision 22
