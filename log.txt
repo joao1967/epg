@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 16/08/2022 18:00:02
+[        ] Job started at 17/08/2022 02:00:01
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.4.0.109
 [  Debug ] Environment: 4.0.30319.42000
@@ -35,7 +35,7 @@
 [  Info  ] found: /root/.wg++/siteini.pack/Brazil/vcfaz.tv.ini -- Revision 04
 [  Info  ] encrypted in 'new (V3)' mode
 [  Debug ] xmltv input file - /root/.wg++/guide.xml - found
-[  Debug ] 815 superfluous shows removed
+[  Debug ] 541 superfluous shows removed
 [  Info  ] Found existing channel (xmltv_id=Adultos.br) in the config file
 [  Info  ] Found existing channel (xmltv_id=Anime.br) in the config file
 [  Info  ] Found existing channel (xmltv_id=Vazio.br) in the config file
@@ -283,7 +283,7 @@
 [  Info  ] update requested for - 238 - out of - 238 - channels for 3 day(s)
 [  Debug ] 
 [  Info  ] (   1/238 ) APP.PLEX.TV -- chan. (xmltv_id=Adultos.br) -- mode Force
-[  Info  ] 0.00 sec/update
+[  Info  ] 0.01 sec/update
 [  Info  ]    Summary for update of       Adultos.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
@@ -1244,9 +1244,9 @@
 [  Info  ] ( 238/238 ) MI.TV -- chan. (xmltv_id=Zoomoo.br) -- skipped --> encrypted SiteIni
 [  Info  ] 
 [  Debug ] 
-[  Debug ] 1063 shows in 238 channels
+[  Debug ] 1094 shows in 238 channels
 [  Debug ] 0 updated shows
-[  Debug ] 815 new shows added
+[  Debug ] 820 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 16/08/2022 18:01:44 done in 1m 42s
+[        ] Job finished at 17/08/2022 02:01:42 done in 1m 41s
