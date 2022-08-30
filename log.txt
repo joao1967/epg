@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 30/08/2022 06:00:01
+[        ] Job started at 30/08/2022 13:00:01
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.4.0.109
 [  Debug ] Environment: 4.0.30319.42000
@@ -286,7 +286,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        4
 
-[  Info  ]      elapstime / updated show  0.02 seconds
+[  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
 [  Info  ] (   2/238 ) APP.PLEX.TV -- chan. (xmltv_id=Anime.br) -- mode Force
 [  Info  ] 0.00 sec/update
@@ -366,7 +366,7 @@
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
 [  Info  ] (   9/238 ) APP.PLEX.TV -- chan. (xmltv_id=Cineskyplay.br) -- mode Force
-[  Info  ] 0.01 sec/update
+[  Info  ] 0.00 sec/update
 [  Info  ]    Summary for update of       Cineskyplay.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
@@ -432,7 +432,7 @@
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
 [  Info  ] (  15/238 ) APP.PLEX.TV -- chan. (xmltv_id=FaceboolWatch.br) -- mode Force
-[  Info  ] 0.00 sec/update
+[  Info  ] 0.01 sec/update
 [  Info  ]    Summary for update of       FaceboolWatch.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
@@ -443,7 +443,7 @@
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
 [  Info  ] (  16/238 ) APP.PLEX.TV -- chan. (xmltv_id=ge.br) -- mode Force
-[  Info  ] 0.01 sec/update
+[  Info  ] 0.00 sec/update
 [  Info  ]    Summary for update of       ge.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
@@ -509,7 +509,7 @@
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
 [  Info  ] (  22/238 ) APP.PLEX.TV -- chan. (xmltv_id=Radios.br) -- mode Force
-[  Info  ] 0.01 sec/update
+[  Info  ] 0.00 sec/update
 [  Info  ]    Summary for update of       Radios.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
@@ -553,7 +553,7 @@
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
 [  Info  ] (  26/238 ) APP.PLEX.TV -- chan. (xmltv_id=TVNSports.br) -- mode Force
-[  Info  ] 0.01 sec/update
+[  Info  ] 0.00 sec/update
 [  Info  ]    Summary for update of       TVNSports.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
@@ -619,7 +619,7 @@
 [  Info  ]      elapstime / updated show  0.10 seconds
 [  Debug ] 
 [  Info  ] (  32/238 ) MI.TV -- chan. (xmltv_id=TVClubeglobo.br) -- mode Force
-[  Info  ] 0.12 sec/update
+[  Info  ] 0.11 sec/update
 [  Info  ]    Summary for update of       TVClubeglobo.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
@@ -693,10 +693,10 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        94
 
-[  Info  ]      elapstime / updated show  0.09 seconds
+[  Info  ]      elapstime / updated show  0.10 seconds
 [  Debug ] 
 [  Info  ] (  39/238 ) MI.TV -- chan. (xmltv_id=Boavontadetv.br) -- mode Force
-[  Info  ] 0.10 sec/update
+[  Info  ] 0.09 sec/update
 [  Info  ]    Summary for update of       Boavontadetv.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
@@ -718,18 +718,18 @@
 [  Info  ]      elapstime / updated show  0.12 seconds
 [  Debug ] 
 [  Info  ] (  41/238 ) MI.TV -- chan. (xmltv_id=Boomerang.br) -- mode Force
-[  Info  ] 0.10 sec/update
+[  Info  ] 0.12 sec/update
 [  Info  ]    Summary for update of       Boomerang.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           121
+[  Info  ]      new shows added           277
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        169
+[  Info  ]      total after update        325
 
-[  Info  ]      elapstime / updated show  0.11 seconds
+[  Info  ]      elapstime / updated show  0.12 seconds
 [  Debug ] 
 [  Info  ] (  42/238 ) MI.TV -- chan. (xmltv_id=CanaldoBoi.br) -- mode Force
-[  Info  ] 0.10 sec/update
+[  Info  ] 0.11 sec/update
 [  Info  ]    Summary for update of       CanaldoBoi.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
@@ -740,18 +740,18 @@
 [  Info  ]      elapstime / updated show  0.11 seconds
 [  Debug ] 
 [  Info  ] (  43/238 ) MI.TV -- chan. (xmltv_id=Cartoonnetwork.br) -- mode Force
-[  Info  ] 0.11 sec/update
+[  Info  ] 0.13 sec/update
 [  Info  ]    Summary for update of       Cartoonnetwork.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           117
+[  Info  ]      new shows added           194
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        208
+[  Info  ]      total after update        285
 
-[  Info  ]      elapstime / updated show  0.12 seconds
+[  Info  ]      elapstime / updated show  0.14 seconds
 [  Debug ] 
 [  Info  ] (  44/238 ) MI.TV -- chan. (xmltv_id=Cnnbrasil.br) -- mode Force
-[  Info  ] 0.11 sec/update
+[  Info  ] 0.10 sec/update
 [  Info  ]    Summary for update of       Cnnbrasil.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
@@ -770,7 +770,7 @@
 [  Info  ] 0.01 sec/update
 [  Debug ] 
 [  Info  ] (  47/238 ) MI.TV -- chan. (xmltv_id=Conmeboltv1.br) -- mode Force
-[  Info  ] 0.10 sec/update
+[  Info  ] 0.09 sec/update
 [  Info  ]    Summary for update of       Conmeboltv1.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
@@ -800,7 +800,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        16
 
-[  Info  ]      elapstime / updated show  0.09 seconds
+[  Info  ]      elapstime / updated show  0.10 seconds
 [  Debug ] 
 [  Info  ] (  50/238 ) MI.TV -- chan. (xmltv_id=Conmeboltv4.br) -- mode Force
 [  Info  ] 0.09 sec/update
@@ -811,10 +811,10 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        20
 
-[  Info  ]      elapstime / updated show  0.09 seconds
+[  Info  ]      elapstime / updated show  0.10 seconds
 [  Debug ] 
 [  Info  ] (  51/238 ) MI.TV -- chan. (xmltv_id=Discoverykids.br) -- mode Force
-[  Info  ] 0.15 sec/update
+[  Info  ] 0.14 sec/update
 [  Info  ]    Summary for update of       Discoverykids.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
@@ -822,7 +822,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        455
 
-[  Info  ]      elapstime / updated show  0.15 seconds
+[  Info  ]      elapstime / updated show  0.14 seconds
 [  Debug ] 
 [  Info  ] (  52/238 ) MI.TV -- chan. (xmltv_id=Disneyjrhd.br) -- mode Force
 [Error   ] no shows in indexpage!
@@ -885,10 +885,10 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        79
 
-[  Info  ]      elapstime / updated show  0.11 seconds
+[  Info  ]      elapstime / updated show  0.12 seconds
 [  Debug ] 
 [  Info  ] (  59/238 ) MI.TV -- chan. (xmltv_id=pfc.pt) -- mode Force
-[  Info  ] 0.09 sec/update
+[  Info  ] 0.10 sec/update
 [  Info  ]    Summary for update of       pfc.pt
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
@@ -896,7 +896,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        62
 
-[  Info  ]      elapstime / updated show  0.09 seconds
+[  Info  ]      elapstime / updated show  0.11 seconds
 [  Debug ] 
 [  Info  ] (  60/238 ) MI.TV -- chan. (xmltv_id=Playboytv.br) -- mode Force
 [  Info  ] 0.14 sec/update
@@ -907,10 +907,10 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        141
 
-[  Info  ]      elapstime / updated show  0.15 seconds
+[  Info  ]      elapstime / updated show  0.14 seconds
 [  Debug ] 
 [  Info  ] (  61/238 ) MI.TV -- chan. (xmltv_id=Rai.br) -- mode Force
-[  Info  ] 0.12 sec/update
+[  Info  ] 0.11 sec/update
 [  Info  ]    Summary for update of       Rai.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
@@ -921,7 +921,7 @@
 [  Info  ]      elapstime / updated show  0.12 seconds
 [  Debug ] 
 [  Info  ] (  62/238 ) MI.TV -- chan. (xmltv_id=Sextreme.cl) -- mode Force
-[  Info  ] 0.14 sec/update
+[  Info  ] 0.13 sec/update
 [  Info  ]    Summary for update of       Sextreme.cl
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
@@ -932,7 +932,7 @@
 [  Info  ]      elapstime / updated show  0.14 seconds
 [  Debug ] 
 [  Info  ] (  63/238 ) MI.TV -- chan. (xmltv_id=Sexyhot.br) -- mode Force
-[  Info  ] 0.14 sec/update
+[  Info  ] 0.15 sec/update
 [  Info  ]    Summary for update of       Sexyhot.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
@@ -958,33 +958,33 @@
 [  Info  ]    Summary for update of       Sportv2.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           40
+[  Info  ]      new shows added           41
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        52
+[  Info  ]      total after update        53
 
-[  Info  ]      elapstime / updated show  0.13 seconds
+[  Info  ]      elapstime / updated show  0.12 seconds
 [  Debug ] 
 [  Info  ] (  66/238 ) MI.TV -- chan. (xmltv_id=Sportv3.br) -- mode Force
-[  Info  ] 0.12 sec/update
+[  Info  ] 0.11 sec/update
 [  Info  ]    Summary for update of       Sportv3.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           42
+[  Info  ]      new shows added           43
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        50
+[  Info  ]      total after update        51
 
 [  Info  ]      elapstime / updated show  0.12 seconds
 [  Debug ] 
 [  Info  ] (  67/238 ) CLAROTV.COM.BR -- chan. (xmltv_id=Rci.br) -- mode Force
 [  Debug ]    skipped : show that happened before 'today' @ 29/08/2022 23:45
-[  Info  ] 0.02 sec/update
+[  Info  ] 0.01 sec/update
 [  Debug ] 
 [  Info  ] (  68/238 ) CLAROTV.COM.BR -- chan. (xmltv_id=Shoptime.br) -- mode Force
 [Error   ] no shows in indexpage!
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  69/238 ) MI.TV -- chan. (xmltv_id=venus.pt) -- mode Force
-[  Info  ] 0.13 sec/update
+[  Info  ] 0.12 sec/update
 [  Info  ]    Summary for update of       venus.pt
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
@@ -999,9 +999,9 @@
 [  Info  ]    Summary for update of       Woohoo.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           192
+[  Info  ]      new shows added           191
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        254
+[  Info  ]      total after update        253
 
 [  Info  ]      elapstime / updated show  0.14 seconds
 [  Debug ] 
@@ -1010,7 +1010,7 @@
 [  Info  ] 0.01 sec/update
 [  Debug ] 
 [  Info  ] (  72/238 ) MI.TV -- chan. (xmltv_id=Intertvgminas.br) -- mode Force
-[  Info  ] 0.09 sec/update
+[  Info  ] 0.17 sec/update
 [  Info  ]    Summary for update of       Intertvgminas.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
@@ -1018,10 +1018,10 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        89
 
-[  Info  ]      elapstime / updated show  0.10 seconds
+[  Info  ]      elapstime / updated show  0.18 seconds
 [  Debug ] 
 [  Info  ] (  73/238 ) MI.TV -- chan. (xmltv_id=altolitoral.br) -- mode Force
-[  Info  ] 0.09 sec/update
+[  Info  ] 0.10 sec/update
 [  Info  ]    Summary for update of       altolitoral.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
@@ -1040,11 +1040,11 @@
 [  Info  ]    Summary for update of       Nhk.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           213
+[  Info  ]      new shows added           215
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        265
+[  Info  ]      total after update        267
 
-[  Info  ]      elapstime / updated show  0.13 seconds
+[  Info  ]      elapstime / updated show  0.12 seconds
 [  Debug ] 
 [  Info  ] (  76/238 ) MI.TV -- chan. (xmltv_id=Premiere9.br) -- mode Force
 [  Info  ] 0.10 sec/update
@@ -1055,7 +1055,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        20
 
-[  Info  ]      elapstime / updated show  0.11 seconds
+[  Info  ]      elapstime / updated show  0.10 seconds
 [  Debug ] 
 [  Info  ] (  77/238 ) VCFAZ.TV -- chan. (xmltv_id=TNTSports.br) -- mode Force
 [  Debug ]    skipped  : last show, no next startime to use as stop
@@ -1133,7 +1133,7 @@
 [  Info  ]      elapstime / updated show  0.10 seconds
 [  Debug ] 
 [  Info  ] (  87/238 ) MI.TV -- chan. (xmltv_id=Globominas.br) -- mode Force
-[  Info  ] 0.10 sec/update
+[  Info  ] 0.09 sec/update
 [  Info  ]    Summary for update of       Globominas.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
@@ -1154,7 +1154,7 @@
 [  Debug ]    skipped show without a title at 01/09/2022 05:00:00
 [  Debug ]    skipped show without a title at 01/09/2022 13:00:00
 [  Debug ]    skipped show without a title at 01/09/2022 19:00:00
-[  Info  ] 0.12 sec/update
+[  Info  ] 0.11 sec/update
 [  Info  ]    Summary for update of       Golfchannel.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
@@ -1176,7 +1176,7 @@
 [  Info  ]      elapstime / updated show  0.15 seconds
 [  Debug ] 
 [  Info  ] (  90/238 ) MI.TV -- chan. (xmltv_id=DogTV.pt) -- mode Force
-[  Info  ] 0.10 sec/update
+[  Info  ] 0.09 sec/update
 [  Info  ]    Summary for update of       DogTV.pt
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
@@ -1184,7 +1184,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        84
 
-[  Info  ]      elapstime / updated show  0.11 seconds
+[  Info  ]      elapstime / updated show  0.10 seconds
 [  Debug ] 
 [  Info  ] (  91/238 ) MI.TV -- chan. (xmltv_id=Ae.br) -- mode Force
 [  Info  ] 0.14 sec/update
@@ -1228,7 +1228,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        100
 
-[  Info  ]      elapstime / updated show  0.13 seconds
+[  Info  ]      elapstime / updated show  0.14 seconds
 [  Debug ] 
 [  Info  ] (  95/238 ) MI.TV -- chan. (xmltv_id=Axn.br) -- mode Force
 [  Info  ] 0.15 sec/update
@@ -1239,7 +1239,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        96
 
-[  Info  ]      elapstime / updated show  0.16 seconds
+[  Info  ]      elapstime / updated show  0.15 seconds
 [  Debug ] 
 [  Info  ] (  96/238 ) MI.TV -- chan. (xmltv_id=BabyTV.br) -- mode Force
 [  Info  ] 0.11 sec/update
@@ -1297,7 +1297,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        107
 
-[  Info  ]      elapstime / updated show  0.14 seconds
+[  Info  ]      elapstime / updated show  0.13 seconds
 [  Debug ] 
 [  Info  ] ( 101/238 ) MI.TV -- chan. (xmltv_id=Canalbrasil.br) -- mode Force
 [  Info  ] 0.16 sec/update
@@ -1311,13 +1311,13 @@
 [  Info  ]      elapstime / updated show  0.16 seconds
 [  Debug ] 
 [  Info  ] ( 102/238 ) MI.TV -- chan. (xmltv_id=Off.br) -- mode Force
-[  Info  ] 0.13 sec/update
+[  Info  ] 0.12 sec/update
 [  Info  ]    Summary for update of       Off.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           119
+[  Info  ]      new shows added           120
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        151
+[  Info  ]      total after update        152
 
 [  Info  ]      elapstime / updated show  0.13 seconds
 [  Debug ] 
@@ -1348,11 +1348,11 @@
 [  Info  ]    Summary for update of       Cinemax.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           40
+[  Info  ]      new shows added           39
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        51
+[  Info  ]      total after update        50
 
-[  Info  ]      elapstime / updated show  0.16 seconds
+[  Info  ]      elapstime / updated show  0.17 seconds
 [  Debug ] 
 [  Info  ] ( 106/238 ) MI.TV -- chan. (xmltv_id=Cnninternacional.br) -- mode Force
 [Error   ] no shows in indexpage!
@@ -1363,14 +1363,14 @@
 [  Info  ]    Summary for update of       Comedycentral.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           141
+[  Info  ]      new shows added           139
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        178
+[  Info  ]      total after update        176
 
-[  Info  ]      elapstime / updated show  0.16 seconds
+[  Info  ]      elapstime / updated show  0.15 seconds
 [  Debug ] 
 [  Info  ] ( 108/238 ) MI.TV -- chan. (xmltv_id=Curta.br) -- mode Force
-[  Info  ] 0.13 sec/update
+[  Info  ] 0.12 sec/update
 [  Info  ]    Summary for update of       Curta.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
@@ -1392,7 +1392,7 @@
 [  Info  ]      elapstime / updated show  0.17 seconds
 [  Debug ] 
 [  Info  ] ( 110/238 ) MI.TV -- chan. (xmltv_id=Homehealth.br) -- mode Force
-[  Info  ] 0.16 sec/update
+[  Info  ] 0.15 sec/update
 [  Info  ]    Summary for update of       Homehealth.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
@@ -1403,7 +1403,7 @@
 [  Info  ]      elapstime / updated show  0.16 seconds
 [  Debug ] 
 [  Info  ] ( 111/238 ) MI.TV -- chan. (xmltv_id=DiscoveryScience.br) -- mode Force
-[  Info  ] 0.13 sec/update
+[  Info  ] 0.12 sec/update
 [  Info  ]    Summary for update of       DiscoveryScience.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
@@ -1436,7 +1436,7 @@
 [  Info  ]      elapstime / updated show  0.15 seconds
 [  Debug ] 
 [  Info  ] ( 114/238 ) MI.TV -- chan. (xmltv_id=Discoveryworldhd.br) -- mode Force
-[  Info  ] 0.12 sec/update
+[  Info  ] 0.11 sec/update
 [  Info  ]    Summary for update of       Discoveryworldhd.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
@@ -1447,13 +1447,13 @@
 [  Info  ]      elapstime / updated show  0.12 seconds
 [  Debug ] 
 [  Info  ] ( 115/238 ) MI.TV -- chan. (xmltv_id=Disneychannel.br) -- mode Force
-[  Info  ] 0.16 sec/update
+[  Info  ] 0.15 sec/update
 [  Info  ]    Summary for update of       Disneychannel.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           149
+[  Info  ]      new shows added           146
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        189
+[  Info  ]      total after update        186
 
 [  Info  ]      elapstime / updated show  0.16 seconds
 [  Debug ] 
@@ -1527,7 +1527,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        145
 
-[  Info  ]      elapstime / updated show  0.14 seconds
+[  Info  ]      elapstime / updated show  0.13 seconds
 [  Debug ] 
 [  Info  ] ( 122/238 ) MI.TV -- chan. (xmltv_id=FilmArts.br) -- mode Force
 [  Info  ] 0.14 sec/update
@@ -1541,7 +1541,7 @@
 [  Info  ]      elapstime / updated show  0.15 seconds
 [  Debug ] 
 [  Info  ] ( 123/238 ) MI.TV -- chan. (xmltv_id=Fishtv.br) -- mode Force
-[  Info  ] 0.14 sec/update
+[  Info  ] 0.13 sec/update
 [  Info  ]    Summary for update of       Fishtv.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
@@ -1563,13 +1563,13 @@
 [  Info  ]      elapstime / updated show  0.16 seconds
 [  Debug ] 
 [  Info  ] ( 125/238 ) MI.TV -- chan. (xmltv_id=Fox.br) -- mode Force
-[  Info  ] 0.16 sec/update
+[  Info  ] 0.15 sec/update
 [  Info  ]    Summary for update of       Fox.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           58
+[  Info  ]      new shows added           64
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        76
+[  Info  ]      total after update        82
 
 [  Info  ]      elapstime / updated show  0.16 seconds
 [  Debug ] 
@@ -1586,14 +1586,14 @@
 [  Info  ]    Summary for update of       Foxlife.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           35
+[  Info  ]      new shows added           36
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        48
+[  Info  ]      total after update        49
 
 [  Info  ]      elapstime / updated show  0.16 seconds
 [  Debug ] 
 [  Info  ] ( 129/238 ) MI.TV -- chan. (xmltv_id=Foxsports.br) -- mode Force
-[  Info  ] 0.12 sec/update
+[  Info  ] 0.11 sec/update
 [  Info  ]    Summary for update of       Foxsports.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
@@ -1616,13 +1616,13 @@
 [  Info  ]      elapstime / updated show  0.11 seconds
 [  Debug ] 
 [  Info  ] ( 131/238 ) MI.TV -- chan. (xmltv_id=Fx.br) -- mode Force
-[  Info  ] 0.16 sec/update
+[  Info  ] 0.15 sec/update
 [  Info  ]    Summary for update of       Fx.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           36
+[  Info  ]      new shows added           38
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        48
+[  Info  ]      total after update        50
 
 [  Info  ]      elapstime / updated show  0.16 seconds
 [  Debug ] 
@@ -1635,7 +1635,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        73
 
-[  Info  ]      elapstime / updated show  0.12 seconds
+[  Info  ]      elapstime / updated show  0.11 seconds
 [  Debug ] 
 [  Info  ] ( 133/238 ) MI.TV -- chan. (xmltv_id=GloboBrasilia.br) -- mode Force
 [  Info  ] 0.10 sec/update
@@ -1660,7 +1660,7 @@
 [  Info  ]      elapstime / updated show  0.11 seconds
 [  Debug ] 
 [  Info  ] ( 135/238 ) MI.TV -- chan. (xmltv_id=Globonews.br) -- mode Force
-[  Info  ] 0.13 sec/update
+[  Info  ] 0.12 sec/update
 [  Info  ]    Summary for update of       Globonews.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
@@ -1701,7 +1701,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        108
 
-[  Info  ]      elapstime / updated show  0.16 seconds
+[  Info  ]      elapstime / updated show  0.15 seconds
 [  Debug ] 
 [  Info  ] ( 139/238 ) MI.TV -- chan. (xmltv_id=Hbo.br) -- mode Force
 [  Info  ] 0.17 sec/update
@@ -1734,7 +1734,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        50
 
-[  Info  ]      elapstime / updated show  0.17 seconds
+[  Info  ]      elapstime / updated show  0.16 seconds
 [  Debug ] 
 [  Info  ] ( 142/238 ) MI.TV -- chan. (xmltv_id=Hbofamily.br) -- mode Force
 [  Info  ] 0.16 sec/update
@@ -1745,10 +1745,10 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        55
 
-[  Info  ]      elapstime / updated show  0.17 seconds
+[  Info  ]      elapstime / updated show  0.16 seconds
 [  Debug ] 
 [  Info  ] ( 143/238 ) MI.TV -- chan. (xmltv_id=Max.br) -- mode Force
-[  Info  ] 0.17 sec/update
+[  Info  ] 0.16 sec/update
 [  Info  ]    Summary for update of       Max.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
@@ -1774,14 +1774,14 @@
 [  Info  ]    Summary for update of       Hbosignature.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           52
+[  Info  ]      new shows added           53
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        65
+[  Info  ]      total after update        66
 
 [  Info  ]      elapstime / updated show  0.18 seconds
 [  Debug ] 
 [  Info  ] ( 146/238 ) MI.TV -- chan. (xmltv_id=Maxprime.br) -- mode Force
-[  Info  ] 0.15 sec/update
+[  Info  ] 0.16 sec/update
 [  Info  ]    Summary for update of       Maxprime.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
@@ -1803,7 +1803,7 @@
 [  Info  ]      elapstime / updated show  0.13 seconds
 [  Debug ] 
 [  Info  ] ( 148/238 ) MI.TV -- chan. (xmltv_id=H2.br) -- mode Force
-[  Info  ] 0.14 sec/update
+[  Info  ] 0.13 sec/update
 [  Info  ]    Summary for update of       H2.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
@@ -1814,15 +1814,15 @@
 [  Info  ]      elapstime / updated show  0.14 seconds
 [  Debug ] 
 [  Info  ] ( 149/238 ) MI.TV -- chan. (xmltv_id=iSat.br) -- mode Force
-[  Info  ] 0.18 sec/update
+[  Info  ] 0.16 sec/update
 [  Info  ]    Summary for update of       iSat.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           59
+[  Info  ]      new shows added           79
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        88
+[  Info  ]      total after update        108
 
-[  Info  ]      elapstime / updated show  0.18 seconds
+[  Info  ]      elapstime / updated show  0.17 seconds
 [  Debug ] 
 [  Info  ] ( 150/238 ) MI.TV -- chan. (xmltv_id=Investigacaodiscoveryid.br) -- mode Force
 [  Info  ] 0.15 sec/update
@@ -1866,7 +1866,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        165
 
-[  Info  ]      elapstime / updated show  0.14 seconds
+[  Info  ]      elapstime / updated show  0.13 seconds
 [  Debug ] 
 [  Info  ] ( 154/238 ) MI.TV -- chan. (xmltv_id=Megapix.br) -- mode Force
 [  Info  ] 0.17 sec/update
@@ -1899,27 +1899,27 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        121
 
-[  Info  ]      elapstime / updated show  0.15 seconds
+[  Info  ]      elapstime / updated show  0.14 seconds
 [  Debug ] 
 [  Info  ] ( 157/238 ) MI.TV -- chan. (xmltv_id=Musicboxbrazil.br) -- mode Force
 [  Info  ] 0.13 sec/update
 [  Info  ]    Summary for update of       Musicboxbrazil.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           116
+[  Info  ]      new shows added           117
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        144
+[  Info  ]      total after update        145
 
-[  Info  ]      elapstime / updated show  0.14 seconds
+[  Info  ]      elapstime / updated show  0.13 seconds
 [  Debug ] 
 [  Info  ] ( 158/238 ) MI.TV -- chan. (xmltv_id=Nationalgeographic.br) -- mode Force
 [  Info  ] 0.16 sec/update
 [  Info  ]    Summary for update of       Nationalgeographic.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           86
+[  Info  ]      new shows added           83
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        107
+[  Info  ]      total after update        104
 
 [  Info  ]      elapstime / updated show  0.16 seconds
 [  Debug ] 
@@ -1940,7 +1940,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        168
 
-[  Info  ]      elapstime / updated show  0.18 seconds
+[  Info  ]      elapstime / updated show  0.17 seconds
 [  Debug ] 
 [  Info  ] ( 162/238 ) MI.TV -- chan. (xmltv_id=NickJr.br) -- mode Force
 [  Info  ] 0.17 sec/update
@@ -1951,7 +1951,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        174
 
-[  Info  ]      elapstime / updated show  0.18 seconds
+[  Info  ]      elapstime / updated show  0.17 seconds
 [  Debug ] 
 [  Info  ] ( 163/238 ) MI.TV -- chan. (xmltv_id=NSCTV.br) -- mode Force
 [  Info  ] 0.11 sec/update
@@ -1973,7 +1973,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        60
 
-[  Info  ]      elapstime / updated show  0.15 seconds
+[  Info  ]      elapstime / updated show  0.16 seconds
 [  Debug ] 
 [  Info  ] ( 165/238 ) MI.TV -- chan. (xmltv_id=Premiere2.br) -- mode Force
 [  Info  ] 0.11 sec/update
@@ -1995,10 +1995,10 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        15
 
-[  Info  ]      elapstime / updated show  0.12 seconds
+[  Info  ]      elapstime / updated show  0.11 seconds
 [  Debug ] 
 [  Info  ] ( 167/238 ) MI.TV -- chan. (xmltv_id=Premiere4.br) -- mode Force
-[  Info  ] 0.12 sec/update
+[  Info  ] 0.11 sec/update
 [  Info  ]    Summary for update of       Premiere4.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
@@ -2017,7 +2017,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        13
 
-[  Info  ]      elapstime / updated show  0.12 seconds
+[  Info  ]      elapstime / updated show  0.11 seconds
 [  Debug ] 
 [  Info  ] ( 169/238 ) MI.TV -- chan. (xmltv_id=Premiere6.br) -- mode Force
 [  Info  ] 0.11 sec/update
@@ -2031,7 +2031,7 @@
 [  Info  ]      elapstime / updated show  0.12 seconds
 [  Debug ] 
 [  Info  ] ( 170/238 ) MI.TV -- chan. (xmltv_id=Premiere7.br) -- mode Force
-[  Info  ] 0.12 sec/update
+[  Info  ] 0.11 sec/update
 [  Info  ]    Summary for update of       Premiere7.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
@@ -2039,10 +2039,10 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        12
 
-[  Info  ]      elapstime / updated show  0.13 seconds
+[  Info  ]      elapstime / updated show  0.12 seconds
 [  Debug ] 
 [  Info  ] ( 171/238 ) MI.TV -- chan. (xmltv_id=Premiere8.br) -- mode Force
-[  Info  ] 0.11 sec/update
+[  Info  ] 0.10 sec/update
 [  Info  ]    Summary for update of       Premiere8.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
@@ -2061,7 +2061,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        126
 
-[  Info  ]      elapstime / updated show  0.17 seconds
+[  Info  ]      elapstime / updated show  0.16 seconds
 [  Debug ] 
 [  Info  ] ( 173/238 ) MI.TV -- chan. (xmltv_id=GloboPortoAlegre.br) -- mode Force
 [  Info  ] 0.11 sec/update
@@ -2075,7 +2075,7 @@
 [  Info  ]      elapstime / updated show  0.11 seconds
 [  Debug ] 
 [  Info  ] ( 174/238 ) MI.TV -- chan. (xmltv_id=Rederecord.br) -- mode Force
-[  Info  ] 0.12 sec/update
+[  Info  ] 0.11 sec/update
 [  Info  ]    Summary for update of       Rederecord.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
@@ -2086,7 +2086,7 @@
 [  Info  ]      elapstime / updated show  0.12 seconds
 [  Debug ] 
 [  Info  ] ( 175/238 ) MI.TV -- chan. (xmltv_id=Rederecordrj.br) -- mode Force
-[  Info  ] 0.11 sec/update
+[  Info  ] 0.10 sec/update
 [  Info  ]    Summary for update of       Rederecordrj.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
@@ -2105,7 +2105,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        201
 
-[  Info  ]      elapstime / updated show  0.12 seconds
+[  Info  ]      elapstime / updated show  0.11 seconds
 [  Debug ] 
 [  Info  ] ( 177/238 ) MI.TV -- chan. (xmltv_id=Redeamazonica.br) -- mode Force
 [  Info  ] 0.11 sec/update
@@ -2127,10 +2127,10 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        85
 
-[  Info  ]      elapstime / updated show  0.11 seconds
+[  Info  ]      elapstime / updated show  0.12 seconds
 [  Debug ] 
 [  Info  ] ( 179/238 ) MI.TV -- chan. (xmltv_id=Redebrasil.br) -- mode Force
-[  Info  ] 0.12 sec/update
+[  Info  ] 0.11 sec/update
 [  Info  ]    Summary for update of       Redebrasil.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
@@ -2149,10 +2149,10 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        22
 
-[  Info  ]      elapstime / updated show  0.12 seconds
+[  Info  ]      elapstime / updated show  0.11 seconds
 [  Debug ] 
 [  Info  ] ( 181/238 ) MI.TV -- chan. (xmltv_id=Redegospel.br) -- mode Force
-[  Info  ] 0.13 sec/update
+[  Info  ] 0.12 sec/update
 [  Info  ]    Summary for update of       Redegospel.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
@@ -2160,16 +2160,16 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        101
 
-[  Info  ]      elapstime / updated show  0.13 seconds
+[  Info  ]      elapstime / updated show  0.12 seconds
 [  Debug ] 
 [  Info  ] ( 182/238 ) MI.TV -- chan. (xmltv_id=RedeSuperdeTelevisao.br) -- mode Force
 [  Info  ] 0.14 sec/update
 [  Info  ]    Summary for update of       RedeSuperdeTelevisao.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           121
+[  Info  ]      new shows added           117
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        154
+[  Info  ]      total after update        150
 
 [  Info  ]      elapstime / updated show  0.14 seconds
 [  Debug ] 
@@ -2182,10 +2182,10 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        172
 
-[  Info  ]      elapstime / updated show  0.12 seconds
+[  Info  ]      elapstime / updated show  0.13 seconds
 [  Debug ] 
 [  Info  ] ( 184/238 ) MI.TV -- chan. (xmltv_id=Redetv.br) -- mode Force
-[  Info  ] 0.13 sec/update
+[  Info  ] 0.12 sec/update
 [  Info  ]    Summary for update of       Redetv.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
@@ -2204,10 +2204,10 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        105
 
-[  Info  ]      elapstime / updated show  0.13 seconds
+[  Info  ]      elapstime / updated show  0.12 seconds
 [  Debug ] 
 [  Info  ] ( 186/238 ) MI.TV -- chan. (xmltv_id=Rpccuritiba.br) -- mode Force
-[  Info  ] 0.12 sec/update
+[  Info  ] 0.11 sec/update
 [  Info  ]    Summary for update of       Rpccuritiba.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
@@ -2215,10 +2215,10 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        85
 
-[  Info  ]      elapstime / updated show  0.12 seconds
+[  Info  ]      elapstime / updated show  0.11 seconds
 [  Debug ] 
 [  Info  ] ( 187/238 ) MI.TV -- chan. (xmltv_id=Sbt.br) -- mode Force
-[  Info  ] 0.13 sec/update
+[  Info  ] 0.12 sec/update
 [  Info  ]    Summary for update of       Sbt.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
@@ -2226,7 +2226,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        68
 
-[  Info  ]      elapstime / updated show  0.14 seconds
+[  Info  ]      elapstime / updated show  0.13 seconds
 [  Debug ] 
 [  Info  ] ( 188/238 ) MI.TV -- chan. (xmltv_id=Sic.br) -- mode Force
 [  Info  ] 0.14 sec/update
@@ -2251,19 +2251,19 @@
 [  Info  ]      elapstime / updated show  0.16 seconds
 [  Debug ] 
 [  Info  ] ( 190/238 ) MI.TV -- chan. (xmltv_id=Space.br) -- mode Force
-[  Info  ] 0.16 sec/update
+[  Info  ] 0.15 sec/update
 [  Info  ]    Summary for update of       Space.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           39
+[  Info  ]      new shows added           40
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        49
+[  Info  ]      total after update        50
 
-[  Info  ]      elapstime / updated show  0.16 seconds
+[  Info  ]      elapstime / updated show  0.15 seconds
 [  Debug ] 
 [  Info  ] ( 191/238 ) MI.TV -- chan. (xmltv_id=Sportv.br) -- mode Force
 [  Debug ]    skipped show without a title at 01/09/2022 10:00:00
-[  Info  ] 0.11 sec/update
+[  Info  ] 0.10 sec/update
 [  Info  ]    Summary for update of       Sportv.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
@@ -2274,7 +2274,7 @@
 [  Info  ]      elapstime / updated show  0.11 seconds
 [  Debug ] 
 [  Info  ] ( 192/238 ) MI.TV -- chan. (xmltv_id=Studiouniversal.br) -- mode Force
-[  Info  ] 0.16 sec/update
+[  Info  ] 0.15 sec/update
 [  Info  ]    Summary for update of       Studiouniversal.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
@@ -2282,7 +2282,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        90
 
-[  Info  ]      elapstime / updated show  0.17 seconds
+[  Info  ]      elapstime / updated show  0.16 seconds
 [  Debug ] 
 [  Info  ] ( 193/238 ) MI.TV -- chan. (xmltv_id=Syfy.br) -- mode Force
 [  Info  ] 0.16 sec/update
@@ -2304,21 +2304,21 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        134
 
-[  Info  ]      elapstime / updated show  0.15 seconds
+[  Info  ]      elapstime / updated show  0.14 seconds
 [  Debug ] 
 [  Info  ] ( 195/238 ) MI.TV -- chan. (xmltv_id=Tcm.br) -- mode Force
-[  Info  ] 0.16 sec/update
+[  Info  ] 0.14 sec/update
 [  Info  ]    Summary for update of       Tcm.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           40
+[  Info  ]      new shows added           43
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        53
+[  Info  ]      total after update        56
 
-[  Info  ]      elapstime / updated show  0.16 seconds
+[  Info  ]      elapstime / updated show  0.15 seconds
 [  Debug ] 
 [  Info  ] ( 196/238 ) MI.TV -- chan. (xmltv_id=Tcpremium.br) -- mode Force
-[  Info  ] 0.20 sec/update
+[  Info  ] 0.17 sec/update
 [  Info  ]    Summary for update of       Tcpremium.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
@@ -2326,7 +2326,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        46
 
-[  Info  ]      elapstime / updated show  0.20 seconds
+[  Info  ]      elapstime / updated show  0.18 seconds
 [  Debug ] 
 [  Info  ] ( 197/238 ) MI.TV -- chan. (xmltv_id=Tcaction.br) -- mode Force
 [  Info  ] 0.19 sec/update
@@ -2373,7 +2373,7 @@
 [  Info  ]      elapstime / updated show  0.18 seconds
 [  Debug ] 
 [  Info  ] ( 201/238 ) MI.TV -- chan. (xmltv_id=Tccult.br) -- mode Force
-[  Info  ] 0.19 sec/update
+[  Info  ] 0.18 sec/update
 [  Info  ]    Summary for update of       Tccult.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
@@ -2381,10 +2381,10 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        46
 
-[  Info  ]      elapstime / updated show  0.19 seconds
+[  Info  ]      elapstime / updated show  0.18 seconds
 [  Debug ] 
 [  Info  ] ( 202/238 ) MI.TV -- chan. (xmltv_id=Terraviva.br) -- mode Force
-[  Info  ] 0.13 sec/update
+[  Info  ] 0.11 sec/update
 [  Info  ]    Summary for update of       Terraviva.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
@@ -2392,10 +2392,10 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        87
 
-[  Info  ]      elapstime / updated show  0.13 seconds
+[  Info  ]      elapstime / updated show  0.12 seconds
 [  Debug ] 
 [  Info  ] ( 203/238 ) MI.TV -- chan. (xmltv_id=Tlc.br) -- mode Force
-[  Info  ] 0.16 sec/update
+[  Info  ] 0.15 sec/update
 [  Info  ]    Summary for update of       Tlc.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
@@ -2403,21 +2403,21 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        109
 
-[  Info  ]      elapstime / updated show  0.16 seconds
+[  Info  ]      elapstime / updated show  0.15 seconds
 [  Debug ] 
 [  Info  ] ( 204/238 ) MI.TV -- chan. (xmltv_id=Tnt.br) -- mode Force
-[  Info  ] 0.16 sec/update
+[  Info  ] 0.15 sec/update
 [  Info  ]    Summary for update of       Tnt.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           51
+[  Info  ]      new shows added           56
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        68
+[  Info  ]      total after update        73
 
 [  Info  ]      elapstime / updated show  0.16 seconds
 [  Debug ] 
 [  Info  ] ( 205/238 ) MI.TV -- chan. (xmltv_id=TNTSerie.br) -- mode Force
-[  Info  ] 0.15 sec/update
+[  Info  ] 0.16 sec/update
 [  Info  ]    Summary for update of       TNTSerie.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
@@ -2428,7 +2428,7 @@
 [  Info  ]      elapstime / updated show  0.16 seconds
 [  Debug ] 
 [  Info  ] ( 206/238 ) MI.TV -- chan. (xmltv_id=Tooncast.br) -- mode Force
-[  Info  ] 0.15 sec/update
+[  Info  ] 0.13 sec/update
 [  Info  ]    Summary for update of       Tooncast.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
@@ -2436,10 +2436,10 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        365
 
-[  Info  ]      elapstime / updated show  0.15 seconds
+[  Info  ]      elapstime / updated show  0.13 seconds
 [  Debug ] 
 [  Info  ] ( 207/238 ) MI.TV -- chan. (xmltv_id=Travelboxbrazil.br) -- mode Force
-[  Info  ] 0.16 sec/update
+[  Info  ] 0.15 sec/update
 [  Info  ]    Summary for update of       Travelboxbrazil.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
@@ -2458,10 +2458,10 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        181
 
-[  Info  ]      elapstime / updated show  0.14 seconds
+[  Info  ]      elapstime / updated show  0.13 seconds
 [  Debug ] 
 [  Info  ] ( 209/238 ) MI.TV -- chan. (xmltv_id=Tvbrasil.br) -- mode Force
-[  Info  ] 0.12 sec/update
+[  Info  ] 0.14 sec/update
 [  Info  ]    Summary for update of       Tvbrasil.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
@@ -2469,7 +2469,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        160
 
-[  Info  ]      elapstime / updated show  0.13 seconds
+[  Info  ]      elapstime / updated show  0.15 seconds
 [  Debug ] 
 [  Info  ] ( 210/238 ) MI.TV -- chan. (xmltv_id=GloboAnhangueraGoias.br) -- mode Force
 [  Info  ] 0.11 sec/update
@@ -2480,10 +2480,10 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        85
 
-[  Info  ]      elapstime / updated show  0.12 seconds
+[  Info  ]      elapstime / updated show  0.11 seconds
 [  Debug ] 
 [  Info  ] ( 211/238 ) MI.TV -- chan. (xmltv_id=Tvaparecida.br) -- mode Force
-[  Info  ] 0.14 sec/update
+[  Info  ] 0.12 sec/update
 [  Info  ]    Summary for update of       Tvaparecida.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
@@ -2491,7 +2491,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        116
 
-[  Info  ]      elapstime / updated show  0.14 seconds
+[  Info  ]      elapstime / updated show  0.13 seconds
 [  Debug ] 
 [  Info  ] ( 212/238 ) MI.TV -- chan. (xmltv_id=Tvcabobranco.br) -- mode Force
 [  Info  ] 0.11 sec/update
@@ -2502,16 +2502,16 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        85
 
-[  Info  ]      elapstime / updated show  0.12 seconds
+[  Info  ]      elapstime / updated show  0.11 seconds
 [  Debug ] 
 [  Info  ] ( 213/238 ) MI.TV -- chan. (xmltv_id=Tvcamara.br) -- mode Force
-[  Info  ] 0.12 sec/update
+[  Info  ] 0.13 sec/update
 [  Info  ]    Summary for update of       Tvcamara.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           50
+[  Info  ]      new shows added           51
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        69
+[  Info  ]      total after update        70
 
 [  Info  ]      elapstime / updated show  0.13 seconds
 [  Debug ] 
@@ -2538,7 +2538,7 @@
 [  Info  ]      elapstime / updated show  0.12 seconds
 [  Debug ] 
 [  Info  ] ( 216/238 ) MI.TV -- chan. (xmltv_id=Tvcultura.br) -- mode Force
-[  Info  ] 0.12 sec/update
+[  Info  ] 0.13 sec/update
 [  Info  ]    Summary for update of       Tvcultura.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
@@ -2546,7 +2546,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        141
 
-[  Info  ]      elapstime / updated show  0.13 seconds
+[  Info  ]      elapstime / updated show  0.14 seconds
 [  Debug ] 
 [  Info  ] ( 217/238 ) MI.TV -- chan. (xmltv_id=Tvdiario.br) -- mode Force
 [  Info  ] 0.12 sec/update
@@ -2557,10 +2557,10 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        130
 
-[  Info  ]      elapstime / updated show  0.13 seconds
+[  Info  ]      elapstime / updated show  0.12 seconds
 [  Debug ] 
 [  Info  ] ( 218/238 ) MI.TV -- chan. (xmltv_id=Tvdiariosp.br) -- mode Force
-[  Info  ] 0.12 sec/update
+[  Info  ] 0.11 sec/update
 [  Info  ]    Summary for update of       Tvdiariosp.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
@@ -2582,7 +2582,7 @@
 [  Info  ]      elapstime / updated show  0.12 seconds
 [  Debug ] 
 [  Info  ] ( 220/238 ) MI.TV -- chan. (xmltv_id=Tvgazetaalagoas.br) -- mode Force
-[  Info  ] 0.12 sec/update
+[  Info  ] 0.11 sec/update
 [  Info  ]    Summary for update of       Tvgazetaalagoas.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
@@ -2590,7 +2590,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        85
 
-[  Info  ]      elapstime / updated show  0.13 seconds
+[  Info  ]      elapstime / updated show  0.12 seconds
 [  Debug ] 
 [  Info  ] ( 221/238 ) MI.TV -- chan. (xmltv_id=TVGazetaes.br) -- mode Force
 [  Info  ] 0.11 sec/update
@@ -2601,7 +2601,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        85
 
-[  Info  ]      elapstime / updated show  0.12 seconds
+[  Info  ]      elapstime / updated show  0.11 seconds
 [  Debug ] 
 [  Info  ] ( 222/238 ) MI.TV -- chan. (xmltv_id=Tvintegracao.br) -- mode Force
 [Error   ] no shows in indexpage!
@@ -2612,9 +2612,9 @@
 [  Info  ]    Summary for update of       Tvjustica.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           112
+[  Info  ]      new shows added           106
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        144
+[  Info  ]      total after update        138
 
 [  Info  ]      elapstime / updated show  0.14 seconds
 [  Debug ] 
@@ -2630,7 +2630,7 @@
 [  Info  ]      elapstime / updated show  0.12 seconds
 [  Debug ] 
 [  Info  ] ( 225/238 ) MI.TV -- chan. (xmltv_id=Tvmirante.br) -- mode Force
-[  Info  ] 0.12 sec/update
+[  Info  ] 0.11 sec/update
 [  Info  ]    Summary for update of       Tvmirante.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
@@ -2641,7 +2641,7 @@
 [  Info  ]      elapstime / updated show  0.12 seconds
 [  Debug ] 
 [  Info  ] ( 226/238 ) MI.TV -- chan. (xmltv_id=Tvmorena.br) -- mode Force
-[  Info  ] 0.12 sec/update
+[  Info  ] 0.11 sec/update
 [  Info  ]    Summary for update of       Tvmorena.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
@@ -2649,10 +2649,10 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        89
 
-[  Info  ]      elapstime / updated show  0.12 seconds
+[  Info  ]      elapstime / updated show  0.11 seconds
 [  Debug ] 
 [  Info  ] ( 227/238 ) MI.TV -- chan. (xmltv_id=Tvnovotempo.br) -- mode Force
-[  Info  ] 0.11 sec/update
+[  Info  ] 0.13 sec/update
 [  Info  ]    Summary for update of       Tvnovotempo.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
@@ -2660,10 +2660,10 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        125
 
-[  Info  ]      elapstime / updated show  0.12 seconds
+[  Info  ]      elapstime / updated show  0.13 seconds
 [  Debug ] 
 [  Info  ] ( 228/238 ) MI.TV -- chan. (xmltv_id=Tvratimbum.br) -- mode Force
-[  Info  ] 0.12 sec/update
+[  Info  ] 0.16 sec/update
 [  Info  ]    Summary for update of       Tvratimbum.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
@@ -2671,16 +2671,16 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        290
 
-[  Info  ]      elapstime / updated show  0.13 seconds
+[  Info  ]      elapstime / updated show  0.17 seconds
 [  Debug ] 
 [  Info  ] ( 229/238 ) MI.TV -- chan. (xmltv_id=Tvsenado.br) -- mode Force
-[  Info  ] 0.12 sec/update
+[  Info  ] 0.13 sec/update
 [  Info  ]    Summary for update of       Tvsenado.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           80
+[  Info  ]      new shows added           89
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        109
+[  Info  ]      total after update        118
 
 [  Info  ]      elapstime / updated show  0.13 seconds
 [  Debug ] 
@@ -2696,7 +2696,7 @@
 [  Info  ]      elapstime / updated show  0.12 seconds
 [  Debug ] 
 [  Info  ] ( 231/238 ) MI.TV -- chan. (xmltv_id=Verdesmares.br) -- mode Force
-[  Info  ] 0.11 sec/update
+[  Info  ] 0.12 sec/update
 [  Info  ]    Summary for update of       Verdesmares.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
@@ -2718,7 +2718,7 @@
 [  Info  ]      elapstime / updated show  0.15 seconds
 [  Debug ] 
 [  Info  ] ( 233/238 ) MI.TV -- chan. (xmltv_id=Universalchannel.br) -- mode Force
-[  Info  ] 0.12 sec/update
+[  Info  ] 0.11 sec/update
 [  Info  ]    Summary for update of       Universalchannel.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
@@ -2726,10 +2726,10 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        90
 
-[  Info  ]      elapstime / updated show  0.13 seconds
+[  Info  ]      elapstime / updated show  0.11 seconds
 [  Debug ] 
 [  Info  ] ( 234/238 ) MI.TV -- chan. (xmltv_id=VH1.br) -- mode Force
-[  Info  ] 0.12 sec/update
+[  Info  ] 0.14 sec/update
 [  Info  ]    Summary for update of       VH1.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
@@ -2737,10 +2737,10 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        30
 
-[  Info  ]      elapstime / updated show  0.12 seconds
+[  Info  ]      elapstime / updated show  0.15 seconds
 [  Debug ] 
 [  Info  ] ( 235/238 ) MI.TV -- chan. (xmltv_id=Viva.br) -- mode Force
-[  Info  ] 0.12 sec/update
+[  Info  ] 0.14 sec/update
 [  Info  ]    Summary for update of       Viva.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
@@ -2748,10 +2748,10 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        126
 
-[  Info  ]      elapstime / updated show  0.13 seconds
+[  Info  ]      elapstime / updated show  0.14 seconds
 [  Debug ] 
 [  Info  ] ( 236/238 ) MI.TV -- chan. (xmltv_id=Playtv.br) -- mode Force
-[  Info  ] 0.11 sec/update
+[  Info  ] 0.13 sec/update
 [  Info  ]    Summary for update of       Playtv.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
@@ -2759,21 +2759,21 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        74
 
-[  Info  ]      elapstime / updated show  0.12 seconds
+[  Info  ]      elapstime / updated show  0.14 seconds
 [  Debug ] 
 [  Info  ] ( 237/238 ) MI.TV -- chan. (xmltv_id=Warnerchannel.br) -- mode Force
-[  Info  ] 0.13 sec/update
+[  Info  ] 0.16 sec/update
 [  Info  ]    Summary for update of       Warnerchannel.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           109
+[  Info  ]      new shows added           111
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        141
+[  Info  ]      total after update        143
 
-[  Info  ]      elapstime / updated show  0.14 seconds
+[  Info  ]      elapstime / updated show  0.16 seconds
 [  Debug ] 
 [  Info  ] ( 238/238 ) MI.TV -- chan. (xmltv_id=Zoomoo.br) -- mode Force
-[  Info  ] 0.12 sec/update
+[  Info  ] 0.14 sec/update
 [  Info  ]    Summary for update of       Zoomoo.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
@@ -2781,11 +2781,11 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        829
 
-[  Info  ]      elapstime / updated show  0.13 seconds
+[  Info  ]      elapstime / updated show  0.14 seconds
 [  Debug ] 
-[  Debug ] 21168 shows in 238 channels
+[  Debug ] 21438 shows in 238 channels
 [  Debug ] 0 updated shows
-[  Debug ] 16434 new shows added
+[  Debug ] 16704 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 30/08/2022 06:46:30 done in 46m 28s
+[        ] Job finished at 30/08/2022 13:47:04 done in 47m 2s
