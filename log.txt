@@ -7,7 +7,7 @@
 [        ]  thanks to Paul Weterings, Mat8861, Blackbear199 and all the contributing users 
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 31/01/2023 00:01:03
+[        ] Job started at 01/02/2023 01:18:11
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.15.26.0
 [  Debug ] Environment: 4.0.30319.42000
@@ -18,7 +18,7 @@
 [  Debug ] Reading config file: /home/azx0025/epg/.wg++/./WebGrab++.config.xml
 [  Info  ] Checking License ..
 [  Info  ] For License request/update data, see WGLicense.log.txt
-[        ] Job finished at 31/01/2023 00:01:03 done in 0s
+[        ] Job finished at 01/02/2023 01:18:12 done in 0s
 [Critical] 
 Object reference not set to an instance of an object
 [Critical] 
