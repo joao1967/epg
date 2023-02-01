@@ -1,5 +1,5 @@
 ﻿[        ] 
-[        ]            WebGrab+Plus/w MDB & REX Postprocess -- version  V3.3.0.0            
+[        ]             WebGrab+Plus/w MDB & REX Postprocess -- version V5.0.1.0            
 [        ] 
 [        ]                                 Jan van Straaten                                
 [        ]                              Francis De Paemeleere                              
@@ -7,23 +7,3808 @@
 [        ]  thanks to Paul Weterings, Mat8861, Blackbear199 and all the contributing users 
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 01/02/2023 01:18:11
+[        ] Job started at 01/02/2023 15:41:25
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.15.26.0
-[  Debug ] Environment: 4.0.30319.42000
-[  Debug ] Mono version: 6.12.0.122 (tarball Fri Oct 21 06:07:34 UTC 2022)
+[  Debug ] Environment: 6.0.13
 [  Debug ] 
 [  Debug ] Loading timezone data
-[  Debug ] Embedded timezones source: timezone.timezonesdata.txt
-[  Debug ] Reading config file: /home/azx0025/epg/.wg++/./WebGrab++.config.xml
+[  Debug ] Embedded timezones source: WG.common.timezone.timezonesdata.txt
+[  Debug ] Reading config file: /home/azx0025/epg2/.wg++/./WebGrab++.config.xml
 [  Info  ] Checking License ..
 [  Info  ] For License request/update data, see WGLicense.log.txt
-[        ] Job finished at 01/02/2023 01:18:12 done in 0s
-[Critical] 
-Object reference not set to an instance of an object
-[Critical] 
-  at  . ..ctor (System.String ) [0x0138d] in <86e27bf513e345f3b815dd4f534eb13f>:0 
-  at  .—.  (System.String[] ) [0x0034b] in <86e27bf513e345f3b815dd4f534eb13f>:0 
-[Critical] Unhandled Exception
-[Critical] For detailed info, see log file /home/azx0025/epg/.wg++/./WebGrab++.log.txt
-[Critical] Execution stopped
+[  Debug ] 
+[  Info  ] found: /home/azx0025/epg2/.wg++/./siteini.pack/Brazil/app.plex.tv.ini -- Revision 00
+[  Debug ] 
+[  Info  ] found: /home/azx0025/epg2/.wg++/./siteini.pack/USA/tvtv.us.ini -- Revision 08
+[  Info  ] encrypted in 'new (V3)' mode
+[  Debug ] 
+[  Info  ] found: /home/azx0025/epg2/.wg++/./siteini.pack/International/mi.tv.ini -- Revision 20
+[  Info  ] encrypted with userkey and expiry date in 'legacy (V2)' mode
+[Warning ] Unable to decrypt!!
+[Error   ] Incorrect Decryption userkey : 77f75538 !!
+[Error   ] mi.tv.ini cannot be used for grabbing
+[Error   ] A request for the correct userkey can be posted on http://www.webgrabplus.com/forum 
+
+[  Debug ] 
+[  Info  ] found: /home/azx0025/epg2/.wg++/./siteini.pack/Brazil/alemdatela.com.ini -- Revision 00
+[  Info  ] encrypted in 'new (V3)' mode
+[  Debug ] 
+[  Info  ] found: /home/azx0025/epg2/.wg++/./siteini.pack/Portugal/meo.pt.ini -- Revision 06
+[  Debug ] 
+[  Info  ] found: /home/azx0025/epg2/.wg++/./siteini.pack/Brazil/clarotv.com.br.ini -- Revision 03
+[  Info  ] encrypted in 'new (V3)' mode
+[  Debug ] 
+[  Info  ] found: /home/azx0025/epg2/.wg++/./siteini.pack/Portugal/nos.pt.ini -- Revision 05
+[  Debug ] 
+[  Info  ] found: /home/azx0025/epg2/.wg++/./siteini.pack/Portugal/tudonumclick.com.ini -- Revision 01
+[  Debug ] xmltv input file - /home/azx0025/epg2/.wg++/guide.xml - found
+[  Debug ] 66 superfluous shows removed
+[  Info  ] Found existing channel (xmltv_id=AFazenda.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Adultos.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Anime.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=BBB.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Vazio.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=CanalVoleiBrasil.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Estaduais.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=CBBTV.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Cineskyplay.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Conmeboltv.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=CopadoBrasil.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=DAZN.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Desenhos.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=ElevenSports.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=F1TV.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=FaceboolWatch.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=HBOMax.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Youtube.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=LBF.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=LNFTV.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=MLBExtraInnings.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=NBALeaguePass.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=NBB.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=NFLGamePass.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=NossoFutebolNe.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=NossoFutebol.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=NSports.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Onefootball.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Polishop.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Powercouple.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Radios.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=SerieseProgramas.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Sound.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=TennisChannel.us) in the config file
+[  Info  ] Found existing channel (xmltv_id=Sesctv.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=recorditapoan.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Starplus.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Primevideo.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=LiveClubes.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Informativo.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Plutotv.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Combatehd.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Agrobrtv.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Boxkids.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Clubinhofun.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Urbankids.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Bora.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Sexprive.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Sbtnordeste.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=NHKWorld.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=TravelXP.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=Eurochannel.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Like.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Urbanmovies.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Urbanseries.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=24news.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Urbandocs.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Hellotv.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Inspire.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Mosaico.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Upchannel.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=SaboreArte.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Yeslife.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=NFLNetwork.ca) in the config file
+[  Info  ] Found existing channel (xmltv_id=NBA.us) in the config file
+[  Info  ] Found existing channel (xmltv_id=MLBNetwork.us) in the config file
+[  Info  ] Found existing channel (xmltv_id=rtp1.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=rtp2.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=sic.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=TVI.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=sicnoticias.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=TVI24.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=CMTV.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=RTP3.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=SkyNews.uk) in the config file
+[  Info  ] Found existing channel (xmltv_id=Euronews.nws) in the config file
+[  Info  ] Found existing channel (xmltv_id=RecordNews.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=rtpmemoria.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=sicradical.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=sicmulher.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=SicCaras.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=eentertainment.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=TVIFiccao.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=TVIReal.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=TVIREALC1.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=TVIREALC2.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=TVIREALC3.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=TVIREALC4.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=TVIREALM.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=CasaCozinha.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=MasChic.ar) in the config file
+[  Info  ] Found existing channel (xmltv_id=24Kitchen.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=FoodNetwork.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=FashionTV.eu) in the config file
+[  Info  ] Found existing channel (xmltv_id=Gametoon.eu) in the config file
+[  Info  ] Found existing channel (xmltv_id=Nautical.eu) in the config file
+[  Info  ] Found existing channel (xmltv_id=CanalQ.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=SportTVplus.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=sporttv1.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=sporttv2.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=sporttv3.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=sporttv4.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=sporttv5.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=SportTV6.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=NBA.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=ElevenSports1.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=ElevenSports2.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=ElevenSports3.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=ElevenSports4.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=ElevenSports5.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=ElevenSports6.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=Canal11.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=ABolaTV.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=BenficaTV.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=PortoCanal.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=SPORTINGTV.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=Eurosport1.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=Eurosport2.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=CacaVision.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=cazaepesca.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=TorosTV.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=FightNetwork.ca) in the config file
+[  Info  ] Found existing channel (xmltv_id=Motorvision.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=FuelTV.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=NOSStudios.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=tvc1.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=tvc2.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=tvc3.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=tvc4.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=hollywood.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=AXNBlack.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=FoxMovies.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=AMC.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=amcbreak.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=amccrime.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=Cinemundo.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=axn.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=AXNWhite.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=fox.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=foxlife.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=foxcrime.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=FOXComedy.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=SyFy.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=disneychannel.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=DisneyJunior.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=canalpanda.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=PandaKids.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=PandaBiggs.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=SicK.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=Nickelodeon.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=NickJr.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=cartoon.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=BabyTV.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=ClubbingTV.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=mtvportugal.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=AfroMusic.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=AlmaLusa.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=mcmtop.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=MCMPop.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=TraceTV.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=mezzo.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=TravelChannel.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=investigationdiscovery.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=nationalgeographic.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=NatGeoWild.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=discoverychannel.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=odisseia.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=HistoryChannel.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=HGTV.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=TLC.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=blaze.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=canal180.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=advnce.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=dizichannel.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=KURIAKOSTV.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=CANCAONOVA.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=TVGlobo.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=tvrecord.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=RTPMadeira.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=RTPAcores.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=RTPAfrica.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=zapvivahd.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=Hot.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=PenthouseGold.ero) in the config file
+[  Info  ] Found existing channel (xmltv_id=VividRed.ero) in the config file
+[  Info  ] Found existing channel (xmltv_id=Bbcworldnews.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Redeclube.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=tvclubepe.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Foxnews.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=RedeSeculo21.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Rede21.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Cnt.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Boavontadetv.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Agromais.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Boomerang.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=CanaldoBoi.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Cartoonnetwork.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Cnnbrasil.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Discoverykids.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Disneyjrhd.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Disneyxd.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Futura.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Globosp.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Idealtv.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Mtvlive.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Premierefchd.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Playboytv.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Sextreme.cl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Sexyhot.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Sportv2.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Sportv3.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Rci.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Shoptime.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=venus.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=Woohoo.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=GloboEPTVCampinas.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Intertvgminas.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=altolitoral.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Nhk.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=TNTSports.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=TraceBrazuca.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=TVAsabranca.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Tvfronteira.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Tvriosul.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Tvtembauru.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Tvtribuna.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Vangsaojchd.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=sbtdf.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=bandrj.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Recordminas.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Recorddf.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Recordrs.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Sbtalterosa.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=sbtrj.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=sbtrs.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Globorj.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Globominas.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Golfchannel.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=DiscoveryCivilization.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=DogTV.pt) in the config file
+[  Info  ] Found existing channel (xmltv_id=Ae.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Amc.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Animalplanet.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Arte1.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Axn.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=BabyTV.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=BandRede.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Bandnews.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Bandsportshd.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Bishd.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Canalbrasil.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Off.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Canalrural.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=CancaoNova.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Cinemax.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Cnninternacional.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=CNNespanol.ar) in the config file
+[  Info  ] Found existing channel (xmltv_id=Comedycentral.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Curta.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Discovery.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Homehealth.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=DiscoveryScience.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Hdtheater.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Discturbohd.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Discoveryworldhd.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Jpnews.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Disneychannel.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=E.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=ESPNInternational.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=ESPN+.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Espnbrasil.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Espnextra.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Fashiontv.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=FilmArts.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Fishtv.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Foodnetworkhd.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Fox.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Foxpremium1.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Foxpremium2.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Foxlife.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Foxsports.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Foxsports2.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Fx.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=TVGazeta.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=GloboBrasilia.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Globorecife.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Globonews.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Gloob.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Gloobinho.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Gnt.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Hbo.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Hbo2.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Hboplus.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Hbofamily.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Max.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Maxup.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Hbosignature.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Maxprime.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Historychannel.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=H2.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=iSat.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Investigacaodiscoveryid.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Inttvcabugi.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Lifetime.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=+globosat.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Megapix.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Mtv.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Multishow.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Musicboxbrazil.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Nationalgeographic.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Nickelodeon.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=NickJr.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=NSCTV.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Paramounthd.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Premiere2.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Premiere3.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Premiere4.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Premiere5.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Premiere6.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Premiere7.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Premiere8.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Primeboxbrazil.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=GloboPortoAlegre.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Rederecord.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Rederecordrj.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Recordnews.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Redeamazonica.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Tvbahia.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Redebrasil.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=RedeFami­lia.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Redegospel.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=RedeSuperdeTelevisao.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Redevida.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Redetv.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Rit.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Rpccuritiba.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Sbt.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Sony.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Space.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Sportv.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Studiouniversal.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Syfy.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Tbs.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Tcm.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Tcpremium.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Tcaction.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Tctouch.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Tcfun.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Tcpipoca.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Tccult.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Terraviva.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Tlc.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Tnt.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=TNTSerie.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Tooncast.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Travelboxbrazil.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Trutv.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Tvbrasil.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=GloboAnhangueraGoias.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Tvaparecida.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Tvcabobranco.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Tvcamara.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Centroamerica.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=tvclube.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Tvcultura.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Tvdiario.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Tvdiariosp.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Tvescola.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Tvgazetaalagoas.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=TVGazetaes.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Tvintegracao.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Tvjustica.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Tvliberalbelem.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Tvmirante.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Tvmorena.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Tvnovotempo.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Tvratimbum.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Tvsenado.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Tvsergipe.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Verdesmares.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Universalchannel.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=VH1.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Viva.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Warnerchannel.br) in the config file
+[  Info  ] Found existing channel (xmltv_id=Zoomoo.br) in the config file
+[  Info  ] 
+[  Info  ] 
+[  Info  ]       i=index  .=same  c=change  g=gab  r=replace  n=new
+[  Info  ] 
+[  Info  ] 
+[  Info  ] Group (0) :
+[  Info  ] update requested for - 385 - out of - 385 - channels for 2 day(s)
+[  Debug ] 
+[  Info  ] (   1/385 ) APP.PLEX.TV -- chan. (xmltv_id=AFazenda.br) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       AFazenda.br
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           2
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        2
+
+[  Info  ]      elapstime / updated show  0.03 seconds
+[  Debug ] 
+[  Info  ] (   2/385 ) APP.PLEX.TV -- chan. (xmltv_id=Adultos.br) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       Adultos.br
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           2
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        2
+
+[  Info  ]      elapstime / updated show  0.02 seconds
+[  Debug ] 
+[  Info  ] (   3/385 ) APP.PLEX.TV -- chan. (xmltv_id=Anime.br) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       Anime.br
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           2
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        2
+
+[  Info  ]      elapstime / updated show  0.01 seconds
+[  Debug ] 
+[  Info  ] (   4/385 ) APP.PLEX.TV -- chan. (xmltv_id=BBB.br) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       BBB.br
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           2
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        2
+
+[  Info  ]      elapstime / updated show  0.01 seconds
+[  Debug ] 
+[  Info  ] (   5/385 ) APP.PLEX.TV -- chan. (xmltv_id=Vazio.br) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       Vazio.br
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           2
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        2
+
+[  Info  ]      elapstime / updated show  0.01 seconds
+[  Debug ] 
+[  Info  ] (   6/385 ) APP.PLEX.TV -- chan. (xmltv_id=CanalVoleiBrasil.br) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       CanalVoleiBrasil.br
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           2
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        2
+
+[  Info  ]      elapstime / updated show  0.01 seconds
+[  Debug ] 
+[  Info  ] (   7/385 ) APP.PLEX.TV -- chan. (xmltv_id=Estaduais.br) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       Estaduais.br
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           2
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        2
+
+[  Info  ]      elapstime / updated show  0.00 seconds
+[  Debug ] 
+[  Info  ] (   8/385 ) APP.PLEX.TV -- chan. (xmltv_id=CBBTV.br) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       CBBTV.br
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           2
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        2
+
+[  Info  ]      elapstime / updated show  0.00 seconds
+[  Debug ] 
+[  Info  ] (   9/385 ) APP.PLEX.TV -- chan. (xmltv_id=Cineskyplay.br) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       Cineskyplay.br
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           2
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        2
+
+[  Info  ]      elapstime / updated show  0.00 seconds
+[  Debug ] 
+[  Info  ] (  10/385 ) APP.PLEX.TV -- chan. (xmltv_id=Conmeboltv.br) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       Conmeboltv.br
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           2
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        2
+
+[  Info  ]      elapstime / updated show  0.00 seconds
+[  Debug ] 
+[  Info  ] (  11/385 ) APP.PLEX.TV -- chan. (xmltv_id=CopadoBrasil.br) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       CopadoBrasil.br
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           2
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        2
+
+[  Info  ]      elapstime / updated show  0.00 seconds
+[  Debug ] 
+[  Info  ] (  12/385 ) APP.PLEX.TV -- chan. (xmltv_id=DAZN.br) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       DAZN.br
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           2
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        2
+
+[  Info  ]      elapstime / updated show  0.00 seconds
+[  Debug ] 
+[  Info  ] (  13/385 ) APP.PLEX.TV -- chan. (xmltv_id=Desenhos.br) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       Desenhos.br
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           2
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        2
+
+[  Info  ]      elapstime / updated show  0.00 seconds
+[  Debug ] 
+[  Info  ] (  14/385 ) APP.PLEX.TV -- chan. (xmltv_id=ElevenSports.br) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       ElevenSports.br
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           2
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        2
+
+[  Info  ]      elapstime / updated show  0.00 seconds
+[  Debug ] 
+[  Info  ] (  15/385 ) APP.PLEX.TV -- chan. (xmltv_id=F1TV.br) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       F1TV.br
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           2
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        2
+
+[  Info  ]      elapstime / updated show  0.00 seconds
+[  Debug ] 
+[  Info  ] (  16/385 ) APP.PLEX.TV -- chan. (xmltv_id=FaceboolWatch.br) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       FaceboolWatch.br
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           2
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        2
+
+[  Info  ]      elapstime / updated show  0.00 seconds
+[  Debug ] 
+[  Info  ] (  17/385 ) APP.PLEX.TV -- chan. (xmltv_id=HBOMax.br) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       HBOMax.br
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           2
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        2
+
+[  Info  ]      elapstime / updated show  0.00 seconds
+[  Debug ] 
+[  Info  ] (  18/385 ) APP.PLEX.TV -- chan. (xmltv_id=Youtube.br) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       Youtube.br
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           2
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        2
+
+[  Info  ]      elapstime / updated show  0.00 seconds
+[  Debug ] 
+[  Info  ] (  19/385 ) APP.PLEX.TV -- chan. (xmltv_id=LBF.br) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       LBF.br
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           2
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        2
+
+[  Info  ]      elapstime / updated show  0.00 seconds
+[  Debug ] 
+[  Info  ] (  20/385 ) APP.PLEX.TV -- chan. (xmltv_id=LNFTV.br) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       LNFTV.br
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           2
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        2
+
+[  Info  ]      elapstime / updated show  0.00 seconds
+[  Debug ] 
+[  Info  ] (  21/385 ) APP.PLEX.TV -- chan. (xmltv_id=MLBExtraInnings.br) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       MLBExtraInnings.br
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           2
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        2
+
+[  Info  ]      elapstime / updated show  0.00 seconds
+[  Debug ] 
+[  Info  ] (  22/385 ) APP.PLEX.TV -- chan. (xmltv_id=NBALeaguePass.br) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       NBALeaguePass.br
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           2
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        2
+
+[  Info  ]      elapstime / updated show  0.00 seconds
+[  Debug ] 
+[  Info  ] (  23/385 ) APP.PLEX.TV -- chan. (xmltv_id=NBB.br) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       NBB.br
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           2
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        2
+
+[  Info  ]      elapstime / updated show  0.00 seconds
+[  Debug ] 
+[  Info  ] (  24/385 ) APP.PLEX.TV -- chan. (xmltv_id=NFLGamePass.br) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       NFLGamePass.br
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           2
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        2
+
+[  Info  ]      elapstime / updated show  0.00 seconds
+[  Debug ] 
+[  Info  ] (  25/385 ) APP.PLEX.TV -- chan. (xmltv_id=NossoFutebolNe.br) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       NossoFutebolNe.br
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           2
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        2
+
+[  Info  ]      elapstime / updated show  0.00 seconds
+[  Debug ] 
+[  Info  ] (  26/385 ) APP.PLEX.TV -- chan. (xmltv_id=NossoFutebol.br) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       NossoFutebol.br
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           2
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        2
+
+[  Info  ]      elapstime / updated show  0.00 seconds
+[  Debug ] 
+[  Info  ] (  27/385 ) APP.PLEX.TV -- chan. (xmltv_id=NSports.br) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       NSports.br
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           2
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        2
+
+[  Info  ]      elapstime / updated show  0.00 seconds
+[  Debug ] 
+[  Info  ] (  28/385 ) APP.PLEX.TV -- chan. (xmltv_id=Onefootball.br) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       Onefootball.br
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           2
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        2
+
+[  Info  ]      elapstime / updated show  0.00 seconds
+[  Debug ] 
+[  Info  ] (  29/385 ) APP.PLEX.TV -- chan. (xmltv_id=Polishop.br) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       Polishop.br
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           2
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        2
+
+[  Info  ]      elapstime / updated show  0.00 seconds
+[  Debug ] 
+[  Info  ] (  30/385 ) APP.PLEX.TV -- chan. (xmltv_id=Powercouple.br) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       Powercouple.br
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           2
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        2
+
+[  Info  ]      elapstime / updated show  0.00 seconds
+[  Debug ] 
+[  Info  ] (  31/385 ) APP.PLEX.TV -- chan. (xmltv_id=Radios.br) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       Radios.br
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           2
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        2
+
+[  Info  ]      elapstime / updated show  0.00 seconds
+[  Debug ] 
+[  Info  ] (  32/385 ) APP.PLEX.TV -- chan. (xmltv_id=SerieseProgramas.br) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       SerieseProgramas.br
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           2
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        2
+
+[  Info  ]      elapstime / updated show  0.00 seconds
+[  Debug ] 
+[  Info  ] (  33/385 ) APP.PLEX.TV -- chan. (xmltv_id=Sound.br) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       Sound.br
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           2
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        2
+
+[  Info  ]      elapstime / updated show  0.00 seconds
+[  Debug ] 
+[  Info  ] (  34/385 ) TVTV.US -- chan. (xmltv_id=TennisChannel.us) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 31/01/2023 20:30
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Courtside - Live"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Courtside - Live"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Academy Life"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Courtside - Live"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Courtside"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Courtside"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Courtside - Live"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Courtside - Live"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "ATP Uncovered"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Courtside - Live"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       TennisChannel.us
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           11
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        11
+
+[  Info  ]      elapstime / updated show  0.02 seconds
+[  Info  ] 
+[  Info  ] (  35/385 ) MI.TV -- chan. (xmltv_id=Sesctv.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] (  36/385 ) MI.TV -- chan. (xmltv_id=recorditapoan.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  37/385 ) APP.PLEX.TV -- chan. (xmltv_id=Starplus.br) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       Starplus.br
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           2
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        2
+
+[  Info  ]      elapstime / updated show  0.02 seconds
+[  Debug ] 
+[  Info  ] (  38/385 ) APP.PLEX.TV -- chan. (xmltv_id=Primevideo.br) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       Primevideo.br
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           2
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        2
+
+[  Info  ]      elapstime / updated show  0.02 seconds
+[  Debug ] 
+[  Info  ] (  39/385 ) APP.PLEX.TV -- chan. (xmltv_id=LiveClubes.br) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       LiveClubes.br
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           2
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        2
+
+[  Info  ]      elapstime / updated show  0.02 seconds
+[  Debug ] 
+[  Info  ] (  40/385 ) APP.PLEX.TV -- chan. (xmltv_id=Informativo.br) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       Informativo.br
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           2
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        2
+
+[  Info  ]      elapstime / updated show  0.02 seconds
+[  Debug ] 
+[  Info  ] (  41/385 ) APP.PLEX.TV -- chan. (xmltv_id=Plutotv.br) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       Plutotv.br
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           2
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        2
+
+[  Info  ]      elapstime / updated show  0.02 seconds
+[  Debug ] 
+[  Info  ] (  42/385 ) ALEMDATELA.COM -- chan. (xmltv_id=Combatehd.br) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Info  ]    Summary for update of       Combatehd.br
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        0
+
+[  Debug ] 
+[  Info  ] (  43/385 ) ALEMDATELA.COM -- chan. (xmltv_id=Agrobrtv.br) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Info  ]    Summary for update of       Agrobrtv.br
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        0
+
+[  Debug ] 
+[  Info  ] (  44/385 ) ALEMDATELA.COM -- chan. (xmltv_id=Boxkids.br) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Info  ]    Summary for update of       Boxkids.br
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        0
+
+[  Debug ] 
+[  Info  ] (  45/385 ) ALEMDATELA.COM -- chan. (xmltv_id=Clubinhofun.br) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Info  ]    Summary for update of       Clubinhofun.br
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        0
+
+[  Debug ] 
+[  Info  ] (  46/385 ) ALEMDATELA.COM -- chan. (xmltv_id=Urbankids.br) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Info  ]    Summary for update of       Urbankids.br
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        0
+
+[  Debug ] 
+[  Info  ] (  47/385 ) ALEMDATELA.COM -- chan. (xmltv_id=Bora.br) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Info  ]    Summary for update of       Bora.br
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        0
+
+[  Debug ] 
+[  Info  ] (  48/385 ) ALEMDATELA.COM -- chan. (xmltv_id=Sexprive.br) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Info  ]    Summary for update of       Sexprive.br
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        0
+
+[  Info  ] 
+[  Info  ] (  49/385 ) MI.TV -- chan. (xmltv_id=Sbtnordeste.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  50/385 ) ALEMDATELA.COM -- chan. (xmltv_id=NHKWorld.br) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Info  ]    Summary for update of       NHKWorld.br
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        0
+
+[  Debug ] 
+[  Info  ] (  51/385 ) MEO.PT -- chan. (xmltv_id=TravelXP.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       TravelXP.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           91
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        91
+
+[  Info  ]      elapstime / updated show  0.10 seconds
+[  Info  ] 
+[  Info  ] (  52/385 ) MI.TV -- chan. (xmltv_id=Eurochannel.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  53/385 ) CLAROTV.COM.BR -- chan. (xmltv_id=Like.br) -- mode Force
+[Warning ] server error, code 500
+[Error   ] Unable to update channel Like.br
+[Critical] Generic syntax exception:
+[Critical]    message: 
+[Error   ] no index page data received from Like.br
+[Error   ] unable to update channel, try again later
+[  Info  ] Existing guide data restored!
+[  Debug ] 
+[  Info  ] (  53/385 ) ALEMDATELA.COM -- chan. (xmltv_id=Urbanmovies.br) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Info  ]    Summary for update of       Urbanmovies.br
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        0
+
+[  Debug ] 
+[  Info  ] (  54/385 ) ALEMDATELA.COM -- chan. (xmltv_id=Urbanseries.br) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Info  ]    Summary for update of       Urbanseries.br
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        0
+
+[  Debug ] 
+[  Info  ] (  55/385 ) ALEMDATELA.COM -- chan. (xmltv_id=24news.br) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Info  ]    Summary for update of       24news.br
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        0
+
+[  Debug ] 
+[  Info  ] (  56/385 ) ALEMDATELA.COM -- chan. (xmltv_id=Urbandocs.br) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Info  ]    Summary for update of       Urbandocs.br
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        0
+
+[  Debug ] 
+[  Info  ] (  57/385 ) ALEMDATELA.COM -- chan. (xmltv_id=Hellotv.br) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Info  ]    Summary for update of       Hellotv.br
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        0
+
+[  Debug ] 
+[  Info  ] (  58/385 ) ALEMDATELA.COM -- chan. (xmltv_id=Inspire.br) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Info  ]    Summary for update of       Inspire.br
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        0
+
+[  Debug ] 
+[  Info  ] (  59/385 ) ALEMDATELA.COM -- chan. (xmltv_id=Mosaico.br) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Info  ]    Summary for update of       Mosaico.br
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        0
+
+[  Debug ] 
+[  Info  ] (  60/385 ) ALEMDATELA.COM -- chan. (xmltv_id=Upchannel.br) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Info  ]    Summary for update of       Upchannel.br
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        0
+
+[  Debug ] 
+[  Info  ] (  61/385 ) ALEMDATELA.COM -- chan. (xmltv_id=SaboreArte.br) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Info  ]    Summary for update of       SaboreArte.br
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        0
+
+[  Debug ] 
+[  Info  ] (  62/385 ) ALEMDATELA.COM -- chan. (xmltv_id=Yeslife.br) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Info  ]    Summary for update of       Yeslife.br
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        0
+
+[  Debug ] 
+[  Info  ] (  63/385 ) TVTV.US -- chan. (xmltv_id=NFLNetwork.ca) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 31/01/2023 20:00
+[  Debug ]    skipped : show that happened before 'today' @ 31/01/2023 23:00
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "NFL Football"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "NFL Total Access"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "NFL Football"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "NFL Total Access"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "2023 Senior Bowl Practice - Day 1 Recap"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "NFL Total Access"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Good Morning Football"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Good Morning Football"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "NFL Now"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "NFL Now"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Super Bowl Classics"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "NFL Total Access"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "NFL Total Access"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Pro Bowl Games Selection Show"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "2023 Senior Bowl Practice - Day 2 Recap"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "NFL Football"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "NFL Total Access"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Pro Bowl Games Selection Show"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "A Football Life"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "A Football Life"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "A Football Life"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "2023 Senior Bowl Practice - Day 2 Recap"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "NFL Total Access"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Good Morning Football"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Good Morning Football"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "NFL Now"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "NFL Now"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       NFLNetwork.ca
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           29
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        29
+
+[  Info  ]      elapstime / updated show  0.09 seconds
+[  Debug ] 
+[  Info  ] (  64/385 ) TVTV.US -- chan. (xmltv_id=NBA.us) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 31/01/2023 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 31/01/2023 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 31/01/2023 23:30
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Film Room"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Hardwood Classics"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "The List"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Film Room"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Film Room"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Film Room"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "#Handles"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Game of the Day"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "NBA TV Marquee Matchup"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "NBA on TNT Postgame Show"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "NBA on TNT Postgame Show"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "NBA on TNT Postgame Show"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "NBA on TNT Postgame Show"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "NBA on TNT Postgame Show"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Film Room"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "#Handles"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "On This Day"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Game of the Day"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "NBA TV Marquee Matchup"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Game of the Day"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "NBA GameTime"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "NBA GameTime"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "NBA GameTime"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "#Handles"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "NBA GameTime"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "NBA GameTime"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "NBA GameTime"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "NBA GameTime"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "NBA GameTime"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "NBA GameTime"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "NBA GameTime"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "NBA GameTime"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "NBA GameTime"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "NBA GameTime"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "NBA GameTime"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "NBA GameTime"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "NBA GameTime"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "NBA GameTime"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "NBA GameTime"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "NBA Action"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Hardwood Classics"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Game of the Day"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "LeBron James Top Ten"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       NBA.us
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           43
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        43
+
+[  Info  ]      elapstime / updated show  0.09 seconds
+[  Debug ] 
+[  Info  ] (  65/385 ) TVTV.US -- chan. (xmltv_id=MLBNetwork.us) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 31/01/2023 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 31/01/2023 23:00
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Jackie Robinson"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Jackie Robinson"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "MLB Tonight"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "MLB Tonight"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "MLB Tonight"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "MLB Tonight"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "MLB Tonight"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "MLB Tonight"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Baseball Hall of Fame Election"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "MLB Tonight"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Baseball Hall of Fame Election"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Hot Stove"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Hot Stove"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "High Heat"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "MLB Now"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Hot Stove"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Intentional Talk"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "MLB Now"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Intentional Talk"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "MLB Tonight"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "MLB Now"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "MLB Now"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Movie"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "MLB Tonight"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "MLB Tonight"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "MLB Now"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "MLB Tonight"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "MLB Now"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "MLB Tonight"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "MLB Now"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "MLB Tonight"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "MLB Tonight"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "MLB Tonight"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Hot Stove"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Hot Stove"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "High Heat"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "MLB Now"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Hot Stove"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Intentional Talk"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       MLBNetwork.us
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           39
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        39
+
+[  Info  ]      elapstime / updated show  0.08 seconds
+[  Debug ] 
+[  Info  ] (  66/385 ) NOS.PT -- chan. (xmltv_id=rtp1.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       rtp1.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           32
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        32
+
+[  Info  ]      elapstime / updated show  0.09 seconds
+[  Debug ] 
+[  Info  ] (  67/385 ) NOS.PT -- chan. (xmltv_id=rtp2.pt) -- mode Force
+[Warning ] server error, code 503
+[Warning ] server error, code 503
+[Warning ] server error, code 503
+[  Info  ] 
+[  Info  ]    Summary for update of       rtp2.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           125
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        125
+
+[  Info  ]      elapstime / updated show  0.12 seconds
+[  Debug ] 
+[  Info  ] (  68/385 ) NOS.PT -- chan. (xmltv_id=sic.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       sic.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           39
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        39
+
+[  Info  ]      elapstime / updated show  0.13 seconds
+[  Debug ] 
+[  Info  ] (  69/385 ) NOS.PT -- chan. (xmltv_id=TVI.pt) -- mode Force
+[Warning ] server error, code 503
+[Warning ] server error, code 503
+[  Info  ] 
+[  Info  ]    Summary for update of       TVI.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           37
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        37
+
+[  Info  ]      elapstime / updated show  0.14 seconds
+[  Debug ] 
+[  Info  ] (  70/385 ) NOS.PT -- chan. (xmltv_id=sicnoticias.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       sicnoticias.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           44
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        44
+
+[  Info  ]      elapstime / updated show  0.14 seconds
+[  Debug ] 
+[  Info  ] (  71/385 ) NOS.PT -- chan. (xmltv_id=TVI24.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       TVI24.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           30
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        30
+
+[  Info  ]      elapstime / updated show  0.15 seconds
+[  Debug ] 
+[  Info  ] (  72/385 ) NOS.PT -- chan. (xmltv_id=CMTV.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       CMTV.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           51
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        51
+
+[  Info  ]      elapstime / updated show  0.15 seconds
+[  Debug ] 
+[  Info  ] (  73/385 ) NOS.PT -- chan. (xmltv_id=RTP3.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       RTP3.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           64
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        64
+
+[  Info  ]      elapstime / updated show  0.16 seconds
+[  Debug ] 
+[  Info  ] (  74/385 ) NOS.PT -- chan. (xmltv_id=SkyNews.uk) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       SkyNews.uk
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           31
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        31
+
+[  Info  ]      elapstime / updated show  0.16 seconds
+[  Debug ] 
+[  Info  ] (  75/385 ) NOS.PT -- chan. (xmltv_id=Euronews.nws) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       Euronews.nws
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           95
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        95
+
+[  Info  ]      elapstime / updated show  0.16 seconds
+[  Debug ] 
+[  Info  ] (  76/385 ) NOS.PT -- chan. (xmltv_id=RecordNews.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       RecordNews.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           86
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        86
+
+[  Info  ]      elapstime / updated show  0.17 seconds
+[  Debug ] 
+[  Info  ] (  77/385 ) NOS.PT -- chan. (xmltv_id=rtpmemoria.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       rtpmemoria.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           74
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        74
+
+[  Info  ]      elapstime / updated show  0.17 seconds
+[  Debug ] 
+[  Info  ] (  78/385 ) NOS.PT -- chan. (xmltv_id=sicradical.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       sicradical.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           79
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        79
+
+[  Info  ]      elapstime / updated show  0.17 seconds
+[  Debug ] 
+[  Info  ] (  79/385 ) NOS.PT -- chan. (xmltv_id=sicmulher.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       sicmulher.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           72
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        72
+
+[  Info  ]      elapstime / updated show  0.18 seconds
+[  Debug ] 
+[  Info  ] (  80/385 ) NOS.PT -- chan. (xmltv_id=SicCaras.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       SicCaras.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           65
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        65
+
+[  Info  ]      elapstime / updated show  0.18 seconds
+[  Debug ] 
+[  Info  ] (  81/385 ) NOS.PT -- chan. (xmltv_id=eentertainment.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       eentertainment.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           53
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        53
+
+[  Info  ]      elapstime / updated show  0.18 seconds
+[  Debug ] 
+[  Info  ] (  82/385 ) NOS.PT -- chan. (xmltv_id=TVIFiccao.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       TVIFiccao.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           43
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        43
+
+[  Info  ]      elapstime / updated show  0.18 seconds
+[  Debug ] 
+[  Info  ] (  83/385 ) NOS.PT -- chan. (xmltv_id=TVIReal.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       TVIReal.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           53
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        53
+
+[  Info  ]      elapstime / updated show  0.18 seconds
+[  Debug ] 
+[  Info  ] (  84/385 ) NOS.PT -- chan. (xmltv_id=TVIREALC1.pt) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Info  ]    Summary for update of       TVIREALC1.pt
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        0
+
+[  Debug ] 
+[  Info  ] (  85/385 ) NOS.PT -- chan. (xmltv_id=TVIREALC2.pt) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Info  ]    Summary for update of       TVIREALC2.pt
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        0
+
+[  Debug ] 
+[  Info  ] (  86/385 ) NOS.PT -- chan. (xmltv_id=TVIREALC3.pt) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Info  ]    Summary for update of       TVIREALC3.pt
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        0
+
+[  Debug ] 
+[  Info  ] (  87/385 ) NOS.PT -- chan. (xmltv_id=TVIREALC4.pt) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Info  ]    Summary for update of       TVIREALC4.pt
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        0
+
+[  Debug ] 
+[  Info  ] (  88/385 ) NOS.PT -- chan. (xmltv_id=TVIREALM.pt) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Info  ]    Summary for update of       TVIREALM.pt
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        0
+
+[  Debug ] 
+[  Info  ] (  89/385 ) NOS.PT -- chan. (xmltv_id=CasaCozinha.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       CasaCozinha.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           80
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        80
+
+[  Info  ]      elapstime / updated show  0.18 seconds
+[  Debug ] 
+[  Info  ] (  90/385 ) MEO.PT -- chan. (xmltv_id=MasChic.ar) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       MasChic.ar
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           84
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        84
+
+[  Info  ]      elapstime / updated show  0.18 seconds
+[  Debug ] 
+[  Info  ] (  91/385 ) NOS.PT -- chan. (xmltv_id=24Kitchen.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       24Kitchen.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           109
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        109
+
+[  Info  ]      elapstime / updated show  0.18 seconds
+[  Debug ] 
+[  Info  ] (  92/385 ) NOS.PT -- chan. (xmltv_id=FoodNetwork.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       FoodNetwork.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           80
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        80
+
+[  Info  ]      elapstime / updated show  0.18 seconds
+[  Debug ] 
+[  Info  ] (  93/385 ) NOS.PT -- chan. (xmltv_id=FashionTV.eu) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       FashionTV.eu
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           95
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        95
+
+[  Info  ]      elapstime / updated show  0.18 seconds
+[  Debug ] 
+[  Info  ] (  94/385 ) MEO.PT -- chan. (xmltv_id=Gametoon.eu) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       Gametoon.eu
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           22
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        22
+
+[  Info  ]      elapstime / updated show  0.18 seconds
+[  Debug ] 
+[  Info  ] (  95/385 ) NOS.PT -- chan. (xmltv_id=Nautical.eu) -- mode Force
+[Warning ] server error, code 503
+[Warning ] server error, code 503
+[  Info  ] 
+[  Info  ]    Summary for update of       Nautical.eu
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           75
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        75
+
+[  Info  ]      elapstime / updated show  0.18 seconds
+[  Debug ] 
+[  Info  ] (  96/385 ) NOS.PT -- chan. (xmltv_id=CanalQ.pt) -- mode Force
+[Warning ] server error, code 503
+[Warning ] server error, code 503
+[Warning ] server error, code 503
+[Warning ] server error, code 503
+[Warning ] server error, code 503
+[Warning ] server error, code 503
+[Warning ] server error, code 503
+[  Info  ] 
+[  Info  ]    Summary for update of       CanalQ.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           82
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        82
+
+[  Info  ]      elapstime / updated show  0.19 seconds
+[  Debug ] 
+[  Info  ] (  97/385 ) NOS.PT -- chan. (xmltv_id=SportTVplus.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       SportTVplus.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           63
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        63
+
+[  Info  ]      elapstime / updated show  0.19 seconds
+[  Debug ] 
+[  Info  ] (  98/385 ) NOS.PT -- chan. (xmltv_id=sporttv1.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       sporttv1.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           41
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        41
+
+[  Info  ]      elapstime / updated show  0.19 seconds
+[  Debug ] 
+[  Info  ] (  99/385 ) NOS.PT -- chan. (xmltv_id=sporttv2.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       sporttv2.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           30
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        30
+
+[  Info  ]      elapstime / updated show  0.19 seconds
+[  Debug ] 
+[  Info  ] ( 100/385 ) NOS.PT -- chan. (xmltv_id=sporttv3.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       sporttv3.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           20
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        20
+
+[  Info  ]      elapstime / updated show  0.19 seconds
+[  Debug ] 
+[  Info  ] ( 101/385 ) NOS.PT -- chan. (xmltv_id=sporttv4.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       sporttv4.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           23
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        23
+
+[  Info  ]      elapstime / updated show  0.19 seconds
+[  Debug ] 
+[  Info  ] ( 102/385 ) NOS.PT -- chan. (xmltv_id=sporttv5.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       sporttv5.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           12
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        12
+
+[  Info  ]      elapstime / updated show  0.19 seconds
+[  Debug ] 
+[  Info  ] ( 103/385 ) NOS.PT -- chan. (xmltv_id=SportTV6.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       SportTV6.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           6
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        6
+
+[  Info  ]      elapstime / updated show  0.19 seconds
+[  Debug ] 
+[  Info  ] ( 104/385 ) NOS.PT -- chan. (xmltv_id=NBA.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       NBA.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           25
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        25
+
+[  Info  ]      elapstime / updated show  0.19 seconds
+[  Debug ] 
+[  Info  ] ( 105/385 ) NOS.PT -- chan. (xmltv_id=ElevenSports1.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       ElevenSports1.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           29
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        29
+
+[  Info  ]      elapstime / updated show  0.19 seconds
+[  Debug ] 
+[  Info  ] ( 106/385 ) NOS.PT -- chan. (xmltv_id=ElevenSports2.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       ElevenSports2.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           31
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        31
+
+[  Info  ]      elapstime / updated show  0.19 seconds
+[  Debug ] 
+[  Info  ] ( 107/385 ) NOS.PT -- chan. (xmltv_id=ElevenSports3.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       ElevenSports3.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           31
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        31
+
+[  Info  ]      elapstime / updated show  0.19 seconds
+[  Debug ] 
+[  Info  ] ( 108/385 ) NOS.PT -- chan. (xmltv_id=ElevenSports4.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       ElevenSports4.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           14
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        14
+
+[  Info  ]      elapstime / updated show  0.19 seconds
+[  Debug ] 
+[  Info  ] ( 109/385 ) NOS.PT -- chan. (xmltv_id=ElevenSports5.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       ElevenSports5.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           10
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        10
+
+[  Info  ]      elapstime / updated show  0.19 seconds
+[  Debug ] 
+[  Info  ] ( 110/385 ) NOS.PT -- chan. (xmltv_id=ElevenSports6.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       ElevenSports6.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           10
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        10
+
+[  Info  ]      elapstime / updated show  0.19 seconds
+[  Debug ] 
+[  Info  ] ( 111/385 ) NOS.PT -- chan. (xmltv_id=Canal11.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       Canal11.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           46
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        46
+
+[  Info  ]      elapstime / updated show  0.19 seconds
+[  Debug ] 
+[  Info  ] ( 112/385 ) MEO.PT -- chan. (xmltv_id=ABolaTV.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       ABolaTV.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           76
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        76
+
+[  Info  ]      elapstime / updated show  0.19 seconds
+[  Debug ] 
+[  Info  ] ( 113/385 ) NOS.PT -- chan. (xmltv_id=BenficaTV.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       BenficaTV.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           62
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        62
+
+[  Info  ]      elapstime / updated show  0.19 seconds
+[  Debug ] 
+[  Info  ] ( 114/385 ) NOS.PT -- chan. (xmltv_id=PortoCanal.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       PortoCanal.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           48
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        48
+
+[  Info  ]      elapstime / updated show  0.19 seconds
+[  Debug ] 
+[  Info  ] ( 115/385 ) NOS.PT -- chan. (xmltv_id=SPORTINGTV.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       SPORTINGTV.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           82
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        82
+
+[  Info  ]      elapstime / updated show  0.19 seconds
+[  Debug ] 
+[  Info  ] ( 116/385 ) NOS.PT -- chan. (xmltv_id=Eurosport1.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       Eurosport1.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           36
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        36
+
+[  Info  ]      elapstime / updated show  0.19 seconds
+[  Debug ] 
+[  Info  ] ( 117/385 ) NOS.PT -- chan. (xmltv_id=Eurosport2.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       Eurosport2.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           43
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        43
+
+[  Info  ]      elapstime / updated show  0.19 seconds
+[  Debug ] 
+[  Info  ] ( 118/385 ) TUDONUMCLICK.COM -- chan. (xmltv_id=CacaVision.pt) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Info  ]    Summary for update of       CacaVision.pt
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        0
+
+[  Debug ] 
+[  Info  ] ( 119/385 ) NOS.PT -- chan. (xmltv_id=cazaepesca.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       cazaepesca.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           88
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        88
+
+[  Info  ]      elapstime / updated show  0.19 seconds
+[  Debug ] 
+[  Info  ] ( 120/385 ) NOS.PT -- chan. (xmltv_id=TorosTV.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       TorosTV.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           42
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        42
+
+[  Info  ]      elapstime / updated show  0.19 seconds
+[  Debug ] 
+[  Info  ] ( 121/385 ) NOS.PT -- chan. (xmltv_id=FightNetwork.ca) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       FightNetwork.ca
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           43
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        43
+
+[  Info  ]      elapstime / updated show  0.19 seconds
+[  Debug ] 
+[  Info  ] ( 122/385 ) NOS.PT -- chan. (xmltv_id=Motorvision.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       Motorvision.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           91
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        91
+
+[  Info  ]      elapstime / updated show  0.19 seconds
+[  Debug ] 
+[  Info  ] ( 123/385 ) NOS.PT -- chan. (xmltv_id=FuelTV.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       FuelTV.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           94
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        94
+
+[  Info  ]      elapstime / updated show  0.19 seconds
+[  Debug ] 
+[  Info  ] ( 124/385 ) NOS.PT -- chan. (xmltv_id=NOSStudios.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       NOSStudios.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           30
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        30
+
+[  Info  ]      elapstime / updated show  0.19 seconds
+[  Debug ] 
+[  Info  ] ( 125/385 ) NOS.PT -- chan. (xmltv_id=tvc1.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       tvc1.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           28
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        28
+
+[  Info  ]      elapstime / updated show  0.19 seconds
+[  Debug ] 
+[  Info  ] ( 126/385 ) NOS.PT -- chan. (xmltv_id=tvc2.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       tvc2.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           30
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        30
+
+[  Info  ]      elapstime / updated show  0.19 seconds
+[  Debug ] 
+[  Info  ] ( 127/385 ) NOS.PT -- chan. (xmltv_id=tvc3.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       tvc3.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           39
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        39
+
+[  Info  ]      elapstime / updated show  0.19 seconds
+[  Debug ] 
+[  Info  ] ( 128/385 ) NOS.PT -- chan. (xmltv_id=tvc4.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       tvc4.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           39
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        39
+
+[  Info  ]      elapstime / updated show  0.19 seconds
+[  Debug ] 
+[  Info  ] ( 129/385 ) NOS.PT -- chan. (xmltv_id=hollywood.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       hollywood.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           27
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        27
+
+[  Info  ]      elapstime / updated show  0.19 seconds
+[  Debug ] 
+[  Info  ] ( 130/385 ) NOS.PT -- chan. (xmltv_id=AXNBlack.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       AXNBlack.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           28
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        28
+
+[  Info  ]      elapstime / updated show  0.20 seconds
+[  Debug ] 
+[  Info  ] ( 131/385 ) NOS.PT -- chan. (xmltv_id=FoxMovies.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       FoxMovies.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           28
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        28
+
+[  Info  ]      elapstime / updated show  0.20 seconds
+[  Debug ] 
+[  Info  ] ( 132/385 ) NOS.PT -- chan. (xmltv_id=AMC.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       AMC.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           29
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        29
+
+[  Info  ]      elapstime / updated show  0.20 seconds
+[  Debug ] 
+[  Info  ] ( 133/385 ) NOS.PT -- chan. (xmltv_id=amcbreak.pt) -- mode Force
+[Warning ] server error, code 503
+[Warning ] server error, code 503
+[  Info  ] 
+[  Info  ]    Summary for update of       amcbreak.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           100
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        100
+
+[  Info  ]      elapstime / updated show  0.20 seconds
+[  Debug ] 
+[  Info  ] ( 134/385 ) NOS.PT -- chan. (xmltv_id=amccrime.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       amccrime.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           65
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        65
+
+[  Info  ]      elapstime / updated show  0.20 seconds
+[  Debug ] 
+[  Info  ] ( 135/385 ) MEO.PT -- chan. (xmltv_id=Cinemundo.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       Cinemundo.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           24
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        24
+
+[  Info  ]      elapstime / updated show  0.20 seconds
+[  Debug ] 
+[  Info  ] ( 136/385 ) MEO.PT -- chan. (xmltv_id=axn.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       axn.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           50
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        50
+
+[  Info  ]      elapstime / updated show  0.20 seconds
+[  Debug ] 
+[  Info  ] ( 137/385 ) NOS.PT -- chan. (xmltv_id=AXNWhite.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       AXNWhite.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           43
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        43
+
+[  Info  ]      elapstime / updated show  0.20 seconds
+[  Debug ] 
+[  Info  ] ( 138/385 ) NOS.PT -- chan. (xmltv_id=fox.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       fox.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           62
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        62
+
+[  Info  ]      elapstime / updated show  0.20 seconds
+[  Debug ] 
+[  Info  ] ( 139/385 ) NOS.PT -- chan. (xmltv_id=foxlife.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       foxlife.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           53
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        53
+
+[  Info  ]      elapstime / updated show  0.20 seconds
+[  Debug ] 
+[  Info  ] ( 140/385 ) NOS.PT -- chan. (xmltv_id=foxcrime.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       foxcrime.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           50
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        50
+
+[  Info  ]      elapstime / updated show  0.20 seconds
+[  Debug ] 
+[  Info  ] ( 141/385 ) NOS.PT -- chan. (xmltv_id=FOXComedy.pt) -- mode Force
+[Warning ] server error, code 503
+[  Info  ] 
+[  Info  ]    Summary for update of       FOXComedy.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           118
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        118
+
+[  Info  ]      elapstime / updated show  0.20 seconds
+[  Debug ] 
+[  Info  ] ( 142/385 ) NOS.PT -- chan. (xmltv_id=SyFy.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       SyFy.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           62
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        62
+
+[  Info  ]      elapstime / updated show  0.20 seconds
+[  Debug ] 
+[  Info  ] ( 143/385 ) NOS.PT -- chan. (xmltv_id=disneychannel.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       disneychannel.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           125
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        125
+
+[  Info  ]      elapstime / updated show  0.20 seconds
+[  Debug ] 
+[  Info  ] ( 144/385 ) NOS.PT -- chan. (xmltv_id=DisneyJunior.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       DisneyJunior.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           156
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        156
+
+[  Info  ]      elapstime / updated show  0.20 seconds
+[  Debug ] 
+[  Info  ] ( 145/385 ) NOS.PT -- chan. (xmltv_id=canalpanda.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       canalpanda.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           218
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        218
+
+[  Info  ]      elapstime / updated show  0.20 seconds
+[  Debug ] 
+[  Info  ] ( 146/385 ) NOS.PT -- chan. (xmltv_id=PandaKids.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       PandaKids.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           131
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        131
+
+[  Info  ]      elapstime / updated show  0.20 seconds
+[  Debug ] 
+[  Info  ] ( 147/385 ) NOS.PT -- chan. (xmltv_id=PandaBiggs.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       PandaBiggs.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           89
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        89
+
+[  Info  ]      elapstime / updated show  0.20 seconds
+[  Debug ] 
+[  Info  ] ( 148/385 ) NOS.PT -- chan. (xmltv_id=SicK.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       SicK.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           110
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        110
+
+[  Info  ]      elapstime / updated show  0.20 seconds
+[  Debug ] 
+[  Info  ] ( 149/385 ) NOS.PT -- chan. (xmltv_id=Nickelodeon.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       Nickelodeon.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           136
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        136
+
+[  Info  ]      elapstime / updated show  0.20 seconds
+[  Debug ] 
+[  Info  ] ( 150/385 ) NOS.PT -- chan. (xmltv_id=NickJr.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       NickJr.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           207
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        207
+
+[  Info  ]      elapstime / updated show  0.20 seconds
+[  Debug ] 
+[  Info  ] ( 151/385 ) NOS.PT -- chan. (xmltv_id=cartoon.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       cartoon.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           241
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        241
+
+[  Info  ]      elapstime / updated show  0.20 seconds
+[  Debug ] 
+[  Info  ] ( 152/385 ) NOS.PT -- chan. (xmltv_id=BabyTV.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       BabyTV.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           95
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        95
+
+[  Info  ]      elapstime / updated show  0.20 seconds
+[  Debug ] 
+[  Info  ] ( 153/385 ) MEO.PT -- chan. (xmltv_id=ClubbingTV.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       ClubbingTV.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           98
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        98
+
+[  Info  ]      elapstime / updated show  0.20 seconds
+[  Debug ] 
+[  Info  ] ( 154/385 ) NOS.PT -- chan. (xmltv_id=mtvportugal.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       mtvportugal.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           61
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        61
+
+[  Info  ]      elapstime / updated show  0.20 seconds
+[  Debug ] 
+[  Info  ] ( 155/385 ) MEO.PT -- chan. (xmltv_id=AfroMusic.pt) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 31/01/2023 22:35
+[  Info  ] 
+[  Info  ]    Summary for update of       AfroMusic.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           44
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        44
+
+[  Info  ]      elapstime / updated show  0.20 seconds
+[  Debug ] 
+[  Info  ] ( 156/385 ) MEO.PT -- chan. (xmltv_id=AlmaLusa.pt) -- mode Force
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "R\u0026B"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "R&B"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "R\u0026B"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "R&B"
+[  Info  ] 
+[  Info  ]    Summary for update of       AlmaLusa.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           36
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        36
+
+[  Info  ]      elapstime / updated show  0.20 seconds
+[  Debug ] 
+[  Info  ] ( 157/385 ) NOS.PT -- chan. (xmltv_id=mcmtop.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       mcmtop.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           8
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        8
+
+[  Info  ]      elapstime / updated show  0.20 seconds
+[  Debug ] 
+[  Info  ] ( 158/385 ) NOS.PT -- chan. (xmltv_id=MCMPop.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       MCMPop.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           5
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        5
+
+[  Info  ]      elapstime / updated show  0.20 seconds
+[  Debug ] 
+[  Info  ] ( 159/385 ) NOS.PT -- chan. (xmltv_id=TraceTV.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       TraceTV.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           20
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        20
+
+[  Info  ]      elapstime / updated show  0.20 seconds
+[  Debug ] 
+[  Info  ] ( 160/385 ) NOS.PT -- chan. (xmltv_id=mezzo.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       mezzo.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           38
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        38
+
+[  Info  ]      elapstime / updated show  0.20 seconds
+[  Debug ] 
+[  Info  ] ( 161/385 ) NOS.PT -- chan. (xmltv_id=TravelChannel.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       TravelChannel.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           43
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        43
+
+[  Info  ]      elapstime / updated show  0.20 seconds
+[  Debug ] 
+[  Info  ] ( 162/385 ) NOS.PT -- chan. (xmltv_id=investigationdiscovery.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       investigationdiscovery.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           50
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        50
+
+[  Info  ]      elapstime / updated show  0.20 seconds
+[  Debug ] 
+[  Info  ] ( 163/385 ) NOS.PT -- chan. (xmltv_id=nationalgeographic.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       nationalgeographic.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           64
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        64
+
+[  Info  ]      elapstime / updated show  0.20 seconds
+[  Debug ] 
+[  Info  ] ( 164/385 ) NOS.PT -- chan. (xmltv_id=NatGeoWild.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       NatGeoWild.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           66
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        66
+
+[  Info  ]      elapstime / updated show  0.20 seconds
+[  Debug ] 
+[  Info  ] ( 165/385 ) NOS.PT -- chan. (xmltv_id=discoverychannel.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       discoverychannel.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           62
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        62
+
+[  Info  ]      elapstime / updated show  0.20 seconds
+[  Debug ] 
+[  Info  ] ( 166/385 ) NOS.PT -- chan. (xmltv_id=odisseia.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       odisseia.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           66
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        66
+
+[  Info  ]      elapstime / updated show  0.20 seconds
+[  Debug ] 
+[  Info  ] ( 167/385 ) NOS.PT -- chan. (xmltv_id=HistoryChannel.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       HistoryChannel.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           59
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        59
+
+[  Info  ]      elapstime / updated show  0.20 seconds
+[  Debug ] 
+[  Info  ] ( 168/385 ) MEO.PT -- chan. (xmltv_id=HGTV.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       HGTV.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           59
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        59
+
+[  Info  ]      elapstime / updated show  0.20 seconds
+[  Debug ] 
+[  Info  ] ( 169/385 ) NOS.PT -- chan. (xmltv_id=TLC.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       TLC.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           66
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        66
+
+[  Info  ]      elapstime / updated show  0.20 seconds
+[  Debug ] 
+[  Info  ] ( 170/385 ) NOS.PT -- chan. (xmltv_id=blaze.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       blaze.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           100
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        100
+
+[  Info  ]      elapstime / updated show  0.20 seconds
+[  Debug ] 
+[  Info  ] ( 171/385 ) NOS.PT -- chan. (xmltv_id=canal180.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       canal180.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           69
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        69
+
+[  Info  ]      elapstime / updated show  0.20 seconds
+[  Debug ] 
+[  Info  ] ( 172/385 ) MEO.PT -- chan. (xmltv_id=advnce.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       advnce.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           12
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        12
+
+[  Info  ]      elapstime / updated show  0.20 seconds
+[  Debug ] 
+[  Info  ] ( 173/385 ) MEO.PT -- chan. (xmltv_id=dizichannel.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       dizichannel.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           46
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        46
+
+[  Info  ]      elapstime / updated show  0.20 seconds
+[  Debug ] 
+[  Info  ] ( 174/385 ) NOS.PT -- chan. (xmltv_id=KURIAKOSTV.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       KURIAKOSTV.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           65
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        65
+
+[  Info  ]      elapstime / updated show  0.20 seconds
+[  Debug ] 
+[  Info  ] ( 175/385 ) NOS.PT -- chan. (xmltv_id=CANCAONOVA.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       CANCAONOVA.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           67
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        67
+
+[  Info  ]      elapstime / updated show  0.20 seconds
+[  Debug ] 
+[  Info  ] ( 176/385 ) NOS.PT -- chan. (xmltv_id=TVGlobo.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       TVGlobo.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           61
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        61
+
+[  Info  ]      elapstime / updated show  0.20 seconds
+[  Debug ] 
+[  Info  ] ( 177/385 ) NOS.PT -- chan. (xmltv_id=tvrecord.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       tvrecord.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           74
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        74
+
+[  Info  ]      elapstime / updated show  0.20 seconds
+[  Debug ] 
+[  Info  ] ( 178/385 ) NOS.PT -- chan. (xmltv_id=RTPMadeira.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       RTPMadeira.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           23
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        23
+
+[  Info  ]      elapstime / updated show  0.20 seconds
+[  Debug ] 
+[  Info  ] ( 179/385 ) NOS.PT -- chan. (xmltv_id=RTPAcores.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       RTPAcores.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           53
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        53
+
+[  Info  ]      elapstime / updated show  0.20 seconds
+[  Debug ] 
+[  Info  ] ( 180/385 ) NOS.PT -- chan. (xmltv_id=RTPAfrica.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       RTPAfrica.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           51
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        51
+
+[  Info  ]      elapstime / updated show  0.20 seconds
+[  Debug ] 
+[  Info  ] ( 181/385 ) NOS.PT -- chan. (xmltv_id=zapvivahd.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       zapvivahd.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           40
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        40
+
+[  Info  ]      elapstime / updated show  0.20 seconds
+[  Debug ] 
+[  Info  ] ( 182/385 ) NOS.PT -- chan. (xmltv_id=Hot.pt) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       Hot.pt
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           32
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        32
+
+[  Info  ]      elapstime / updated show  0.20 seconds
+[  Debug ] 
+[  Info  ] ( 183/385 ) NOS.PT -- chan. (xmltv_id=PenthouseGold.ero) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       PenthouseGold.ero
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           40
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        40
+
+[  Info  ]      elapstime / updated show  0.20 seconds
+[  Debug ] 
+[  Info  ] ( 184/385 ) NOS.PT -- chan. (xmltv_id=VividRed.ero) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       VividRed.ero
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           40
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        40
+
+[  Info  ]      elapstime / updated show  0.20 seconds
+[  Info  ] 
+[  Info  ] ( 185/385 ) MI.TV -- chan. (xmltv_id=Bbcworldnews.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 186/385 ) MI.TV -- chan. (xmltv_id=Redeclube.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 187/385 ) MI.TV -- chan. (xmltv_id=tvclubepe.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 188/385 ) MI.TV -- chan. (xmltv_id=Foxnews.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 189/385 ) MI.TV -- chan. (xmltv_id=RedeSeculo21.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 190/385 ) MI.TV -- chan. (xmltv_id=Rede21.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 191/385 ) MI.TV -- chan. (xmltv_id=Cnt.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 192/385 ) MI.TV -- chan. (xmltv_id=Boavontadetv.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 193/385 ) MI.TV -- chan. (xmltv_id=Agromais.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 194/385 ) MI.TV -- chan. (xmltv_id=Boomerang.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 195/385 ) MI.TV -- chan. (xmltv_id=CanaldoBoi.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 196/385 ) MI.TV -- chan. (xmltv_id=Cartoonnetwork.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 197/385 ) MI.TV -- chan. (xmltv_id=Cnnbrasil.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 198/385 ) MI.TV -- chan. (xmltv_id=Discoverykids.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 199/385 ) MI.TV -- chan. (xmltv_id=Disneyjrhd.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 200/385 ) MI.TV -- chan. (xmltv_id=Disneyxd.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 201/385 ) MI.TV -- chan. (xmltv_id=Futura.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 202/385 ) MI.TV -- chan. (xmltv_id=Globosp.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 203/385 ) MI.TV -- chan. (xmltv_id=Idealtv.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 204/385 ) MI.TV -- chan. (xmltv_id=Mtvlive.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 205/385 ) MI.TV -- chan. (xmltv_id=Premierefchd.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 206/385 ) MI.TV -- chan. (xmltv_id=Playboytv.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 207/385 ) MI.TV -- chan. (xmltv_id=Sextreme.cl) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 208/385 ) MI.TV -- chan. (xmltv_id=Sexyhot.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 209/385 ) MI.TV -- chan. (xmltv_id=Sportv2.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 210/385 ) MI.TV -- chan. (xmltv_id=Sportv3.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 211/385 ) CLAROTV.COM.BR -- chan. (xmltv_id=Rci.br) -- mode Force
+[Warning ] server error, code 500
+[Error   ] Unable to update channel Rci.br
+[Critical] Generic syntax exception:
+[Critical]    message: 
+[Error   ] no index page data received from Rci.br
+[Error   ] unable to update channel, try again later
+[  Info  ] Existing guide data restored!
+[  Debug ] 
+[  Info  ] ( 211/385 ) CLAROTV.COM.BR -- chan. (xmltv_id=Shoptime.br) -- mode Force
+[Warning ] server error, code 500
+[Error   ] Unable to update channel Shoptime.br
+[Critical] Generic syntax exception:
+[Critical]    message: 
+[Error   ] no index page data received from Shoptime.br
+[Error   ] unable to update channel, try again later
+[  Info  ] Existing guide data restored!
+[  Info  ] 
+[  Info  ] ( 211/385 ) MI.TV -- chan. (xmltv_id=venus.pt) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 212/385 ) MI.TV -- chan. (xmltv_id=Woohoo.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 213/385 ) ALEMDATELA.COM -- chan. (xmltv_id=GloboEPTVCampinas.br) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Info  ]    Summary for update of       GloboEPTVCampinas.br
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        0
+
+[  Info  ] 
+[  Info  ] ( 214/385 ) MI.TV -- chan. (xmltv_id=Intertvgminas.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 215/385 ) MI.TV -- chan. (xmltv_id=altolitoral.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 216/385 ) MI.TV -- chan. (xmltv_id=Nhk.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 217/385 ) ALEMDATELA.COM -- chan. (xmltv_id=TNTSports.br) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Info  ]    Summary for update of       TNTSports.br
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        0
+
+[  Info  ] 
+[  Info  ] ( 218/385 ) MI.TV -- chan. (xmltv_id=TraceBrazuca.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 219/385 ) ALEMDATELA.COM -- chan. (xmltv_id=TVAsabranca.br) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Info  ]    Summary for update of       TVAsabranca.br
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        0
+
+[  Debug ] 
+[  Info  ] ( 220/385 ) ALEMDATELA.COM -- chan. (xmltv_id=Tvfronteira.br) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Info  ]    Summary for update of       Tvfronteira.br
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        0
+
+[  Info  ] 
+[  Info  ] ( 221/385 ) MI.TV -- chan. (xmltv_id=Tvriosul.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 222/385 ) ALEMDATELA.COM -- chan. (xmltv_id=Tvtembauru.br) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Info  ]    Summary for update of       Tvtembauru.br
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        0
+
+[  Debug ] 
+[  Info  ] ( 223/385 ) ALEMDATELA.COM -- chan. (xmltv_id=Tvtribuna.br) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Info  ]    Summary for update of       Tvtribuna.br
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        0
+
+[  Debug ] 
+[  Info  ] ( 224/385 ) ALEMDATELA.COM -- chan. (xmltv_id=Vangsaojchd.br) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Info  ]    Summary for update of       Vangsaojchd.br
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        0
+
+[  Info  ] 
+[  Info  ] ( 225/385 ) MI.TV -- chan. (xmltv_id=sbtdf.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 226/385 ) MI.TV -- chan. (xmltv_id=bandrj.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 227/385 ) MI.TV -- chan. (xmltv_id=Recordminas.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 228/385 ) MI.TV -- chan. (xmltv_id=Recorddf.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 229/385 ) MI.TV -- chan. (xmltv_id=Recordrs.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 230/385 ) MI.TV -- chan. (xmltv_id=Sbtalterosa.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 231/385 ) MI.TV -- chan. (xmltv_id=sbtrj.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 232/385 ) MI.TV -- chan. (xmltv_id=sbtrs.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 233/385 ) MI.TV -- chan. (xmltv_id=Globorj.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 234/385 ) MI.TV -- chan. (xmltv_id=Globominas.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 235/385 ) MI.TV -- chan. (xmltv_id=Golfchannel.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 236/385 ) MI.TV -- chan. (xmltv_id=DiscoveryCivilization.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 237/385 ) MI.TV -- chan. (xmltv_id=DogTV.pt) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 238/385 ) MI.TV -- chan. (xmltv_id=Ae.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 239/385 ) MI.TV -- chan. (xmltv_id=Amc.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 240/385 ) MI.TV -- chan. (xmltv_id=Animalplanet.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 241/385 ) MI.TV -- chan. (xmltv_id=Arte1.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 242/385 ) MI.TV -- chan. (xmltv_id=Axn.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 243/385 ) MI.TV -- chan. (xmltv_id=BabyTV.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 244/385 ) MI.TV -- chan. (xmltv_id=BandRede.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 245/385 ) MI.TV -- chan. (xmltv_id=Bandnews.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 246/385 ) MI.TV -- chan. (xmltv_id=Bandsportshd.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 247/385 ) MI.TV -- chan. (xmltv_id=Bishd.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 248/385 ) MI.TV -- chan. (xmltv_id=Canalbrasil.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 249/385 ) MI.TV -- chan. (xmltv_id=Off.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 250/385 ) MI.TV -- chan. (xmltv_id=Canalrural.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 251/385 ) MI.TV -- chan. (xmltv_id=CancaoNova.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 252/385 ) MI.TV -- chan. (xmltv_id=Cinemax.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 253/385 ) MI.TV -- chan. (xmltv_id=Cnninternacional.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 254/385 ) ALEMDATELA.COM -- chan. (xmltv_id=CNNespanol.ar) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Info  ]    Summary for update of       CNNespanol.ar
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        0
+
+[  Info  ] 
+[  Info  ] ( 255/385 ) MI.TV -- chan. (xmltv_id=Comedycentral.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 256/385 ) MI.TV -- chan. (xmltv_id=Curta.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 257/385 ) MI.TV -- chan. (xmltv_id=Discovery.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 258/385 ) MI.TV -- chan. (xmltv_id=Homehealth.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 259/385 ) MI.TV -- chan. (xmltv_id=DiscoveryScience.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 260/385 ) MI.TV -- chan. (xmltv_id=Hdtheater.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 261/385 ) MI.TV -- chan. (xmltv_id=Discturbohd.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 262/385 ) MI.TV -- chan. (xmltv_id=Discoveryworldhd.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 263/385 ) MI.TV -- chan. (xmltv_id=Jpnews.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 264/385 ) MI.TV -- chan. (xmltv_id=Disneychannel.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 265/385 ) MI.TV -- chan. (xmltv_id=E.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 266/385 ) MI.TV -- chan. (xmltv_id=ESPNInternational.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 267/385 ) MI.TV -- chan. (xmltv_id=ESPN+.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 268/385 ) MI.TV -- chan. (xmltv_id=Espnbrasil.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 269/385 ) MI.TV -- chan. (xmltv_id=Espnextra.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 270/385 ) MI.TV -- chan. (xmltv_id=Fashiontv.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 271/385 ) MI.TV -- chan. (xmltv_id=FilmArts.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 272/385 ) MI.TV -- chan. (xmltv_id=Fishtv.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 273/385 ) MI.TV -- chan. (xmltv_id=Foodnetworkhd.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 274/385 ) MI.TV -- chan. (xmltv_id=Fox.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 275/385 ) MI.TV -- chan. (xmltv_id=Foxpremium1.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 276/385 ) MI.TV -- chan. (xmltv_id=Foxpremium2.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 277/385 ) MI.TV -- chan. (xmltv_id=Foxlife.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 278/385 ) MI.TV -- chan. (xmltv_id=Foxsports.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 279/385 ) MI.TV -- chan. (xmltv_id=Foxsports2.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 280/385 ) MI.TV -- chan. (xmltv_id=Fx.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 281/385 ) MI.TV -- chan. (xmltv_id=TVGazeta.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 282/385 ) MI.TV -- chan. (xmltv_id=GloboBrasilia.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 283/385 ) MI.TV -- chan. (xmltv_id=Globorecife.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 284/385 ) MI.TV -- chan. (xmltv_id=Globonews.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 285/385 ) MI.TV -- chan. (xmltv_id=Gloob.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 286/385 ) MI.TV -- chan. (xmltv_id=Gloobinho.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 287/385 ) MI.TV -- chan. (xmltv_id=Gnt.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 288/385 ) MI.TV -- chan. (xmltv_id=Hbo.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 289/385 ) MI.TV -- chan. (xmltv_id=Hbo2.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 290/385 ) MI.TV -- chan. (xmltv_id=Hboplus.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 291/385 ) MI.TV -- chan. (xmltv_id=Hbofamily.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 292/385 ) MI.TV -- chan. (xmltv_id=Max.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 293/385 ) MI.TV -- chan. (xmltv_id=Maxup.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 294/385 ) MI.TV -- chan. (xmltv_id=Hbosignature.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 295/385 ) MI.TV -- chan. (xmltv_id=Maxprime.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 296/385 ) MI.TV -- chan. (xmltv_id=Historychannel.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 297/385 ) MI.TV -- chan. (xmltv_id=H2.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 298/385 ) MI.TV -- chan. (xmltv_id=iSat.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 299/385 ) MI.TV -- chan. (xmltv_id=Investigacaodiscoveryid.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 300/385 ) MI.TV -- chan. (xmltv_id=Inttvcabugi.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 301/385 ) MI.TV -- chan. (xmltv_id=Lifetime.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 302/385 ) MI.TV -- chan. (xmltv_id=+globosat.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 303/385 ) MI.TV -- chan. (xmltv_id=Megapix.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 304/385 ) MI.TV -- chan. (xmltv_id=Mtv.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 305/385 ) MI.TV -- chan. (xmltv_id=Multishow.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 306/385 ) MI.TV -- chan. (xmltv_id=Musicboxbrazil.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 307/385 ) MI.TV -- chan. (xmltv_id=Nationalgeographic.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 308/385 ) MI.TV -- chan. (xmltv_id=Nickelodeon.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 309/385 ) MI.TV -- chan. (xmltv_id=NickJr.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 310/385 ) MI.TV -- chan. (xmltv_id=NSCTV.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 311/385 ) MI.TV -- chan. (xmltv_id=Paramounthd.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 312/385 ) MI.TV -- chan. (xmltv_id=Premiere2.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 313/385 ) MI.TV -- chan. (xmltv_id=Premiere3.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 314/385 ) MI.TV -- chan. (xmltv_id=Premiere4.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 315/385 ) MI.TV -- chan. (xmltv_id=Premiere5.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 316/385 ) MI.TV -- chan. (xmltv_id=Premiere6.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 317/385 ) MI.TV -- chan. (xmltv_id=Premiere7.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 318/385 ) MI.TV -- chan. (xmltv_id=Premiere8.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 319/385 ) MI.TV -- chan. (xmltv_id=Primeboxbrazil.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 320/385 ) MI.TV -- chan. (xmltv_id=GloboPortoAlegre.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 321/385 ) MI.TV -- chan. (xmltv_id=Rederecord.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 322/385 ) MI.TV -- chan. (xmltv_id=Rederecordrj.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 323/385 ) MI.TV -- chan. (xmltv_id=Recordnews.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 324/385 ) MI.TV -- chan. (xmltv_id=Redeamazonica.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 325/385 ) MI.TV -- chan. (xmltv_id=Tvbahia.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 326/385 ) MI.TV -- chan. (xmltv_id=Redebrasil.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 327/385 ) MI.TV -- chan. (xmltv_id=RedeFami­lia.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 328/385 ) MI.TV -- chan. (xmltv_id=Redegospel.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 329/385 ) MI.TV -- chan. (xmltv_id=RedeSuperdeTelevisao.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 330/385 ) MI.TV -- chan. (xmltv_id=Redevida.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 331/385 ) MI.TV -- chan. (xmltv_id=Redetv.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 332/385 ) MI.TV -- chan. (xmltv_id=Rit.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 333/385 ) MI.TV -- chan. (xmltv_id=Rpccuritiba.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 334/385 ) MI.TV -- chan. (xmltv_id=Sbt.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 335/385 ) MI.TV -- chan. (xmltv_id=Sony.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 336/385 ) MI.TV -- chan. (xmltv_id=Space.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 337/385 ) MI.TV -- chan. (xmltv_id=Sportv.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 338/385 ) MI.TV -- chan. (xmltv_id=Studiouniversal.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 339/385 ) MI.TV -- chan. (xmltv_id=Syfy.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 340/385 ) MI.TV -- chan. (xmltv_id=Tbs.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 341/385 ) MI.TV -- chan. (xmltv_id=Tcm.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 342/385 ) MI.TV -- chan. (xmltv_id=Tcpremium.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 343/385 ) MI.TV -- chan. (xmltv_id=Tcaction.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 344/385 ) MI.TV -- chan. (xmltv_id=Tctouch.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 345/385 ) MI.TV -- chan. (xmltv_id=Tcfun.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 346/385 ) MI.TV -- chan. (xmltv_id=Tcpipoca.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 347/385 ) MI.TV -- chan. (xmltv_id=Tccult.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 348/385 ) MI.TV -- chan. (xmltv_id=Terraviva.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 349/385 ) MI.TV -- chan. (xmltv_id=Tlc.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 350/385 ) MI.TV -- chan. (xmltv_id=Tnt.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 351/385 ) MI.TV -- chan. (xmltv_id=TNTSerie.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 352/385 ) MI.TV -- chan. (xmltv_id=Tooncast.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 353/385 ) MI.TV -- chan. (xmltv_id=Travelboxbrazil.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 354/385 ) MI.TV -- chan. (xmltv_id=Trutv.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 355/385 ) MI.TV -- chan. (xmltv_id=Tvbrasil.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 356/385 ) MI.TV -- chan. (xmltv_id=GloboAnhangueraGoias.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 357/385 ) MI.TV -- chan. (xmltv_id=Tvaparecida.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 358/385 ) MI.TV -- chan. (xmltv_id=Tvcabobranco.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 359/385 ) MI.TV -- chan. (xmltv_id=Tvcamara.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 360/385 ) MI.TV -- chan. (xmltv_id=Centroamerica.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 361/385 ) MI.TV -- chan. (xmltv_id=tvclube.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 362/385 ) MI.TV -- chan. (xmltv_id=Tvcultura.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 363/385 ) MI.TV -- chan. (xmltv_id=Tvdiario.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 364/385 ) MI.TV -- chan. (xmltv_id=Tvdiariosp.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 365/385 ) MI.TV -- chan. (xmltv_id=Tvescola.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 366/385 ) MI.TV -- chan. (xmltv_id=Tvgazetaalagoas.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 367/385 ) MI.TV -- chan. (xmltv_id=TVGazetaes.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 368/385 ) MI.TV -- chan. (xmltv_id=Tvintegracao.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 369/385 ) MI.TV -- chan. (xmltv_id=Tvjustica.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 370/385 ) MI.TV -- chan. (xmltv_id=Tvliberalbelem.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 371/385 ) MI.TV -- chan. (xmltv_id=Tvmirante.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 372/385 ) MI.TV -- chan. (xmltv_id=Tvmorena.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 373/385 ) MI.TV -- chan. (xmltv_id=Tvnovotempo.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 374/385 ) MI.TV -- chan. (xmltv_id=Tvratimbum.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 375/385 ) MI.TV -- chan. (xmltv_id=Tvsenado.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 376/385 ) MI.TV -- chan. (xmltv_id=Tvsergipe.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 377/385 ) MI.TV -- chan. (xmltv_id=Verdesmares.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 378/385 ) MI.TV -- chan. (xmltv_id=Universalchannel.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 379/385 ) MI.TV -- chan. (xmltv_id=VH1.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 380/385 ) MI.TV -- chan. (xmltv_id=Viva.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 381/385 ) MI.TV -- chan. (xmltv_id=Warnerchannel.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] ( 382/385 ) MI.TV -- chan. (xmltv_id=Zoomoo.br) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Debug ] 
+[  Debug ] 7116 shows in 385 channels
+[  Debug ] 0 updated shows
+[  Debug ] 7116 new shows added
+[  Info  ] 
+[  Info  ] 
+[        ] Job finished at 01/02/2023 16:10:40 done in 29m 14s
