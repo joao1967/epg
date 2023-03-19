@@ -7,7 +7,7 @@
 [        ]  thanks to Paul Weterings, Mat8861, Blackbear199 and all the contributing users 
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 19/03/2023 11:11:55
+[        ] Job started at 19/03/2023 12:57:04
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.15.26.0
 [  Debug ] Environment: 6.0.13
@@ -52,7 +52,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        2
 
-[  Info  ]      elapstime / updated show  0.02 seconds
+[  Info  ]      elapstime / updated show  0.03 seconds
 [  Debug ] 
 [  Info  ] (   2/360 ) APP.PLEX.TV -- chan. (xmltv_id=Adultos.br) -- mode Force
 [  Info  ] 
@@ -96,7 +96,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        2
 
-[  Info  ]      elapstime / updated show  0.00 seconds
+[  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
 [  Info  ] (   6/360 ) APP.PLEX.TV -- chan. (xmltv_id=CanalVoleiBrasil.br) -- mode Force
 [  Info  ] 
@@ -107,7 +107,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        2
 
-[  Info  ]      elapstime / updated show  0.00 seconds
+[  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
 [  Info  ] (   7/360 ) APP.PLEX.TV -- chan. (xmltv_id=Estaduais.br) -- mode Force
 [  Info  ] 
@@ -475,7 +475,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        30
 
-[  Info  ]      elapstime / updated show  0.00 seconds
+[  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
 [  Info  ] (  37/360 ) APP.PLEX.TV -- chan. (xmltv_id=Starplus.br) -- mode Force
 [  Info  ] 
@@ -486,7 +486,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        2
 
-[  Info  ]      elapstime / updated show  0.00 seconds
+[  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
 [  Info  ] (  38/360 ) APP.PLEX.TV -- chan. (xmltv_id=Primevideo.br) -- mode Force
 [  Info  ] 
@@ -497,7 +497,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        2
 
-[  Info  ]      elapstime / updated show  0.00 seconds
+[  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
 [  Info  ] (  39/360 ) APP.PLEX.TV -- chan. (xmltv_id=LiveClubes.br) -- mode Force
 [  Info  ] 
@@ -508,7 +508,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        2
 
-[  Info  ]      elapstime / updated show  0.00 seconds
+[  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
 [  Info  ] (  40/360 ) APP.PLEX.TV -- chan. (xmltv_id=Informativo.br) -- mode Force
 [  Info  ] 
@@ -519,7 +519,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        2
 
-[  Info  ]      elapstime / updated show  0.00 seconds
+[  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
 [  Info  ] (  41/360 ) APP.PLEX.TV -- chan. (xmltv_id=Plutotv.br) -- mode Force
 [  Info  ] 
@@ -530,7 +530,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        2
 
-[  Info  ]      elapstime / updated show  0.00 seconds
+[  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
 [  Info  ] (  42/360 ) MI.TV -- chan. (xmltv_id=Sbtnordeste.br) -- mode Force
 [  Info  ] 
@@ -541,7 +541,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        23
 
-[  Info  ]      elapstime / updated show  0.00 seconds
+[  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
 [  Info  ] (  43/360 ) MEO.PT -- chan. (xmltv_id=TravelXP.pt) -- mode Force
 [Error   ] no shows in indexpage!
@@ -561,7 +561,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        31
 
-[  Info  ]      elapstime / updated show  0.00 seconds
+[  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
 [  Info  ] (  45/360 ) CLAROTV.COM.BR -- chan. (xmltv_id=Like.br) -- mode Force
 [Warning ] server error, code 500
@@ -1104,6 +1104,12 @@
 [  Debug ]    suspicious      title in index page
 [  Debug ] Can't match any (sub)detail title(s) with any index title(s):
 [  Debug ]        index title(s):
+[  Debug ]                        "MLB Baseball"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
 [  Debug ]                        "MLB Tonight"
 [  Debug ]  (sub)detail title(s):
 [Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
@@ -1229,9 +1235,9 @@
 [  Info  ]    Summary for update of       rtp2.pt
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           107
+[  Info  ]      new shows added           115
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        107
+[  Info  ]      total after update        115
 
 [  Info  ]      elapstime / updated show  0.07 seconds
 [  Debug ] 
@@ -1361,9 +1367,9 @@
 [  Info  ]    Summary for update of       sicmulher.pt
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           66
+[  Info  ]      new shows added           64
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        66
+[  Info  ]      total after update        64
 
 [  Info  ]      elapstime / updated show  0.16 seconds
 [  Debug ] 
@@ -1372,9 +1378,9 @@
 [  Info  ]    Summary for update of       SicCaras.pt
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           67
+[  Info  ]      new shows added           61
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        67
+[  Info  ]      total after update        61
 
 [  Info  ]      elapstime / updated show  0.16 seconds
 [  Debug ] 
@@ -1495,7 +1501,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        111
 
-[  Info  ]      elapstime / updated show  0.18 seconds
+[  Info  ]      elapstime / updated show  0.17 seconds
 [  Debug ] 
 [  Info  ] (  74/360 ) NOS.PT -- chan. (xmltv_id=FoodNetwork.pt) -- mode Force
 [  Info  ] 
@@ -1603,7 +1609,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        25
 
-[  Info  ]      elapstime / updated show  0.19 seconds
+[  Info  ]      elapstime / updated show  0.18 seconds
 [  Debug ] 
 [  Info  ] (  84/360 ) NOS.PT -- chan. (xmltv_id=sporttv5.pt) -- mode Force
 [  Info  ] 
@@ -1614,7 +1620,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        16
 
-[  Info  ]      elapstime / updated show  0.19 seconds
+[  Info  ]      elapstime / updated show  0.18 seconds
 [  Debug ] 
 [  Info  ] (  85/360 ) NOS.PT -- chan. (xmltv_id=SportTV6.pt) -- mode Force
 [  Info  ] 
@@ -1625,7 +1631,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        12
 
-[  Info  ]      elapstime / updated show  0.19 seconds
+[  Info  ]      elapstime / updated show  0.18 seconds
 [  Debug ] 
 [  Info  ] (  86/360 ) NOS.PT -- chan. (xmltv_id=NBA.pt) -- mode Force
 [  Info  ] 
@@ -1636,7 +1642,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        24
 
-[  Info  ]      elapstime / updated show  0.19 seconds
+[  Info  ]      elapstime / updated show  0.18 seconds
 [  Debug ] 
 [  Info  ] (  87/360 ) NOS.PT -- chan. (xmltv_id=ElevenSports1.pt) -- mode Force
 [  Info  ] 
@@ -1647,7 +1653,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        37
 
-[  Info  ]      elapstime / updated show  0.19 seconds
+[  Info  ]      elapstime / updated show  0.18 seconds
 [  Debug ] 
 [  Info  ] (  88/360 ) NOS.PT -- chan. (xmltv_id=ElevenSports2.pt) -- mode Force
 [  Info  ] 
@@ -1822,6 +1828,8 @@
 [  Info  ]      elapstime / updated show  0.19 seconds
 [  Debug ] 
 [  Info  ] ( 104/360 ) NOS.PT -- chan. (xmltv_id=Motorvision.pt) -- mode Force
+[Warning ] server error, code 503
+[Warning ] server error, code 503
 [  Info  ] 
 [  Info  ]    Summary for update of       Motorvision.pt
 [  Info  ]      missing shows added       0
@@ -1830,7 +1838,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        82
 
-[  Info  ]      elapstime / updated show  0.20 seconds
+[  Info  ]      elapstime / updated show  0.19 seconds
 [  Debug ] 
 [  Info  ] ( 105/360 ) NOS.PT -- chan. (xmltv_id=FuelTV.pt) -- mode Force
 [  Info  ] 
@@ -1841,7 +1849,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        120
 
-[  Info  ]      elapstime / updated show  0.20 seconds
+[  Info  ]      elapstime / updated show  0.19 seconds
 [  Debug ] 
 [  Info  ] ( 106/360 ) NOS.PT -- chan. (xmltv_id=NOSStudios.pt) -- mode Force
 [  Info  ] 
@@ -1852,7 +1860,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        30
 
-[  Info  ]      elapstime / updated show  0.20 seconds
+[  Info  ]      elapstime / updated show  0.19 seconds
 [  Debug ] 
 [  Info  ] ( 107/360 ) NOS.PT -- chan. (xmltv_id=tvc1.pt) -- mode Force
 [  Info  ] 
@@ -1863,7 +1871,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        28
 
-[  Info  ]      elapstime / updated show  0.20 seconds
+[  Info  ]      elapstime / updated show  0.19 seconds
 [  Debug ] 
 [  Info  ] ( 108/360 ) NOS.PT -- chan. (xmltv_id=tvc2.pt) -- mode Force
 [  Info  ] 
@@ -1874,7 +1882,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        31
 
-[  Info  ]      elapstime / updated show  0.20 seconds
+[  Info  ]      elapstime / updated show  0.19 seconds
 [  Debug ] 
 [  Info  ] ( 109/360 ) NOS.PT -- chan. (xmltv_id=tvc3.pt) -- mode Force
 [  Info  ] 
@@ -1885,7 +1893,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        35
 
-[  Info  ]      elapstime / updated show  0.20 seconds
+[  Info  ]      elapstime / updated show  0.19 seconds
 [  Debug ] 
 [  Info  ] ( 110/360 ) NOS.PT -- chan. (xmltv_id=tvc4.pt) -- mode Force
 [  Info  ] 
@@ -1896,7 +1904,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        32
 
-[  Info  ]      elapstime / updated show  0.20 seconds
+[  Info  ]      elapstime / updated show  0.19 seconds
 [  Debug ] 
 [  Info  ] ( 111/360 ) NOS.PT -- chan. (xmltv_id=hollywood.pt) -- mode Force
 [  Info  ] 
@@ -1907,7 +1915,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        28
 
-[  Info  ]      elapstime / updated show  0.20 seconds
+[  Info  ]      elapstime / updated show  0.19 seconds
 [  Debug ] 
 [  Info  ] ( 112/360 ) NOS.PT -- chan. (xmltv_id=AXNBlack.pt) -- mode Force
 [  Info  ] 
@@ -1918,7 +1926,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        26
 
-[  Info  ]      elapstime / updated show  0.20 seconds
+[  Info  ]      elapstime / updated show  0.19 seconds
 [  Debug ] 
 [  Info  ] ( 113/360 ) NOS.PT -- chan. (xmltv_id=FoxMovies.pt) -- mode Force
 [  Info  ] 
@@ -1929,7 +1937,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        26
 
-[  Info  ]      elapstime / updated show  0.20 seconds
+[  Info  ]      elapstime / updated show  0.19 seconds
 [  Debug ] 
 [  Info  ] ( 114/360 ) NOS.PT -- chan. (xmltv_id=AMC.pt) -- mode Force
 [  Info  ] 
@@ -1940,7 +1948,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        30
 
-[  Info  ]      elapstime / updated show  0.20 seconds
+[  Info  ]      elapstime / updated show  0.19 seconds
 [  Debug ] 
 [  Info  ] ( 115/360 ) NOS.PT -- chan. (xmltv_id=amcbreak.pt) -- mode Force
 [  Info  ] 
@@ -2005,7 +2013,6 @@
 [  Info  ]      elapstime / updated show  0.20 seconds
 [  Debug ] 
 [  Info  ] ( 121/360 ) NOS.PT -- chan. (xmltv_id=foxlife.pt) -- mode Force
-[Warning ] server error, code 502
 [  Info  ] 
 [  Info  ]    Summary for update of       foxlife.pt
 [  Info  ]      missing shows added       0
@@ -2109,9 +2116,9 @@
 [  Info  ]    Summary for update of       SicK.pt
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           113
+[  Info  ]      new shows added           104
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        113
+[  Info  ]      total after update        104
 
 [  Info  ]      elapstime / updated show  0.20 seconds
 [  Debug ] 
@@ -2142,9 +2149,9 @@
 [  Info  ]    Summary for update of       cartoon.pt
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           245
+[  Info  ]      new shows added           250
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        245
+[  Info  ]      total after update        250
 
 [  Info  ]      elapstime / updated show  0.20 seconds
 [  Debug ] 
@@ -2409,7 +2416,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        61
 
-[  Info  ]      elapstime / updated show  0.21 seconds
+[  Info  ]      elapstime / updated show  0.20 seconds
 [  Debug ] 
 [  Info  ] ( 159/360 ) NOS.PT -- chan. (xmltv_id=tvrecord.pt) -- mode Force
 [  Info  ] 
@@ -2420,7 +2427,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        55
 
-[  Info  ]      elapstime / updated show  0.21 seconds
+[  Info  ]      elapstime / updated show  0.20 seconds
 [  Debug ] 
 [  Info  ] ( 160/360 ) NOS.PT -- chan. (xmltv_id=RTPMadeira.pt) -- mode Force
 [  Info  ] 
@@ -2431,7 +2438,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        24
 
-[  Info  ]      elapstime / updated show  0.21 seconds
+[  Info  ]      elapstime / updated show  0.20 seconds
 [  Debug ] 
 [  Info  ] ( 161/360 ) NOS.PT -- chan. (xmltv_id=RTPAcores.pt) -- mode Force
 [  Info  ] 
@@ -2442,18 +2449,18 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        62
 
-[  Info  ]      elapstime / updated show  0.21 seconds
+[  Info  ]      elapstime / updated show  0.20 seconds
 [  Debug ] 
 [  Info  ] ( 162/360 ) NOS.PT -- chan. (xmltv_id=RTPAfrica.pt) -- mode Force
 [  Info  ] 
 [  Info  ]    Summary for update of       RTPAfrica.pt
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           56
+[  Info  ]      new shows added           58
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        56
+[  Info  ]      total after update        58
 
-[  Info  ]      elapstime / updated show  0.21 seconds
+[  Info  ]      elapstime / updated show  0.20 seconds
 [  Debug ] 
 [  Info  ] ( 163/360 ) NOS.PT -- chan. (xmltv_id=zapvivahd.pt) -- mode Force
 [  Info  ] 
@@ -2464,7 +2471,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        31
 
-[  Info  ]      elapstime / updated show  0.21 seconds
+[  Info  ]      elapstime / updated show  0.20 seconds
 [  Debug ] 
 [  Info  ] ( 164/360 ) NOS.PT -- chan. (xmltv_id=Hot.pt) -- mode Force
 [  Info  ] 
@@ -2475,7 +2482,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        34
 
-[  Info  ]      elapstime / updated show  0.21 seconds
+[  Info  ]      elapstime / updated show  0.20 seconds
 [  Debug ] 
 [  Info  ] ( 165/360 ) NOS.PT -- chan. (xmltv_id=PenthouseGold.ero) -- mode Force
 [  Info  ] 
@@ -2486,7 +2493,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        42
 
-[  Info  ]      elapstime / updated show  0.21 seconds
+[  Info  ]      elapstime / updated show  0.20 seconds
 [  Debug ] 
 [  Info  ] ( 166/360 ) NOS.PT -- chan. (xmltv_id=VividRed.ero) -- mode Force
 [  Info  ] 
@@ -2497,7 +2504,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        42
 
-[  Info  ]      elapstime / updated show  0.21 seconds
+[  Info  ]      elapstime / updated show  0.20 seconds
 [  Debug ] 
 [  Info  ] ( 167/360 ) MI.TV -- chan. (xmltv_id=Glbonacional.br) -- mode Force
 [  Debug ]    skipped show without a title at 19/03/2023 12:25:00
@@ -2587,7 +2594,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        63
 
-[  Info  ]      elapstime / updated show  0.20 seconds
+[  Info  ]      elapstime / updated show  0.19 seconds
 [  Debug ] 
 [  Info  ] ( 175/360 ) MI.TV -- chan. (xmltv_id=Boavontadetv.br) -- mode Force
 [  Info  ] 
@@ -2771,7 +2778,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        56
 
-[  Info  ]      elapstime / updated show  0.17 seconds
+[  Info  ]      elapstime / updated show  0.16 seconds
 [  Debug ] 
 [  Info  ] ( 192/360 ) MI.TV -- chan. (xmltv_id=Sportv2.br) -- mode Force
 [  Info  ] 
@@ -2782,7 +2789,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        25
 
-[  Info  ]      elapstime / updated show  0.17 seconds
+[  Info  ]      elapstime / updated show  0.16 seconds
 [  Debug ] 
 [  Info  ] ( 193/360 ) MI.TV -- chan. (xmltv_id=Sportv3.br) -- mode Force
 [  Info  ] 
@@ -2805,7 +2812,7 @@
 [  Info  ] Existing guide data restored!
 [  Debug ] 
 [  Info  ] ( 194/360 ) CLAROTV.COM.BR -- chan. (xmltv_id=Shoptime.br) -- mode Force
-[Warning ] server error, code 502
+[Warning ] server error, code 500
 [Error   ] Unable to update channel Shoptime.br
 [Critical] Generic syntax exception:
 [Critical]    message: 
@@ -3013,7 +3020,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        88
 
-[  Info  ]      elapstime / updated show  0.16 seconds
+[  Info  ]      elapstime / updated show  0.15 seconds
 [  Debug ] 
 [  Info  ] ( 213/360 ) MI.TV -- chan. (xmltv_id=DogTV.pt) -- mode Force
 [  Info  ] 
@@ -3364,7 +3371,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        27
 
-[  Info  ]      elapstime / updated show  0.14 seconds
+[  Info  ]      elapstime / updated show  0.13 seconds
 [  Debug ] 
 [  Info  ] ( 245/360 ) MI.TV -- chan. (xmltv_id=Fashiontv.br) -- mode Force
 [  Info  ] 
@@ -3914,7 +3921,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        57
 
-[  Info  ]      elapstime / updated show  0.11 seconds
+[  Info  ]      elapstime / updated show  0.12 seconds
 [  Debug ] 
 [  Info  ] ( 295/360 ) MI.TV -- chan. (xmltv_id=GloboPortoAlegre.br) -- mode Force
 [  Debug ]    skipped show without a title at 19/03/2023 12:25:00
@@ -4282,7 +4289,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        198
 
-[  Info  ]      elapstime / updated show  0.10 seconds
+[  Info  ]      elapstime / updated show  0.11 seconds
 [  Debug ] 
 [  Info  ] ( 328/360 ) MI.TV -- chan. (xmltv_id=Travelboxbrazil.br) -- mode Force
 [  Info  ] 
@@ -4293,7 +4300,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        96
 
-[  Info  ]      elapstime / updated show  0.10 seconds
+[  Info  ]      elapstime / updated show  0.11 seconds
 [  Debug ] 
 [  Info  ] ( 329/360 ) MI.TV -- chan. (xmltv_id=Trutv.br) -- mode Force
 [  Info  ] 
@@ -4304,7 +4311,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        90
 
-[  Info  ]      elapstime / updated show  0.10 seconds
+[  Info  ]      elapstime / updated show  0.11 seconds
 [  Debug ] 
 [  Info  ] ( 330/360 ) MI.TV -- chan. (xmltv_id=Tvbrasil.br) -- mode Force
 [  Info  ] 
@@ -4621,11 +4628,11 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        521
 
-[  Info  ]      elapstime / updated show  0.09 seconds
+[  Info  ]      elapstime / updated show  0.10 seconds
 [  Debug ] 
-[  Debug ] 16385 shows in 360 channels
+[  Debug ] 16383 shows in 360 channels
 [  Debug ] 0 updated shows
-[  Debug ] 16385 new shows added
+[  Debug ] 16383 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 19/03/2023 11:41:26 done in 29m 31s
+[        ] Job finished at 19/03/2023 13:27:08 done in 30m 3s
