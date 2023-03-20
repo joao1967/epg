@@ -7,10 +7,10 @@
 [        ]  thanks to Paul Weterings, Mat8861, Blackbear199 and all the contributing users 
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 20/03/2023 03:01:04
+[        ] Job started at 20/03/2023 17:16:46
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.15.26.0
-[  Debug ] Environment: 6.0.1
+[  Debug ] Environment: 6.0.13
 [  Debug ] 
 [  Debug ] Loading timezone data
 [  Debug ] Embedded timezones source: WG.common.timezone.timezonesdata.txt
@@ -34,368 +34,7 @@
 [  Info  ] found: /home/azx0025/epg2/.wg++/./siteini.pack/Portugal/nos.pt.ini -- Revision 05
 [  Debug ] 
 [  Info  ] found: /home/azx0025/epg2/.wg++/./siteini.pack/Portugal/tudonumclick.com.ini -- Revision 01
-[  Debug ] xmltv input file - /home/azx0025/epg2/.wg++/guide.xml - found
-[  Debug ] 83 superfluous shows removed
-[  Info  ] Found existing channel (xmltv_id=AFazenda.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Adultos.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Anime.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=BBB.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Vazio.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=CanalVoleiBrasil.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Estaduais.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=CBBTV.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Cineskyplay.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Conmeboltv.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=CopadoBrasil.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=DAZN.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Desenhos.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=ElevenSports.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=F1TV.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=FaceboolWatch.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=HBOMax.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Youtube.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=LBF.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=LNFTV.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=MLBExtraInnings.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=NBALeaguePass.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=NBB.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=NFLGamePass.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=NossoFutebolNe.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=NossoFutebol.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=NSports.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Onefootball.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Polishop.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Powercouple.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Radios.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=SerieseProgramas.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Sound.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=TennisChannel.us) in the config file
-[  Info  ] Found existing channel (xmltv_id=Sesctv.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=recorditapoan.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Starplus.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Primevideo.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=LiveClubes.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Informativo.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Plutotv.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Sbtnordeste.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=TravelXP.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=Eurochannel.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Like.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=NFLNetwork.ca) in the config file
-[  Info  ] Found existing channel (xmltv_id=NBA.us) in the config file
-[  Info  ] Found existing channel (xmltv_id=MLBNetwork.us) in the config file
-[  Info  ] Found existing channel (xmltv_id=rtp1.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=rtp2.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=sic.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=TVI.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=sicnoticias.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=TVI24.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=CMTV.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=RTP3.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=SkyNews.uk) in the config file
-[  Info  ] Found existing channel (xmltv_id=Euronews.nws) in the config file
-[  Info  ] Found existing channel (xmltv_id=RecordNews.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=rtpmemoria.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=sicradical.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=sicmulher.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=SicCaras.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=eentertainment.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=TVIFiccao.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=TVIReal.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=TVIREALC1.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=TVIREALC2.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=TVIREALC3.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=TVIREALC4.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=TVIREALM.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=CasaCozinha.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=MasChic.ar) in the config file
-[  Info  ] Found existing channel (xmltv_id=24Kitchen.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=FoodNetwork.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=FashionTV.eu) in the config file
-[  Info  ] Found existing channel (xmltv_id=Gametoon.eu) in the config file
-[  Info  ] Found existing channel (xmltv_id=Nautical.eu) in the config file
-[  Info  ] Found existing channel (xmltv_id=CanalQ.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=SportTVplus.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=sporttv1.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=sporttv2.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=sporttv3.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=sporttv4.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=sporttv5.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=SportTV6.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=NBA.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=ElevenSports1.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=ElevenSports2.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=ElevenSports3.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=ElevenSports4.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=ElevenSports5.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=ElevenSports6.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=Canal11.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=ABolaTV.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=BenficaTV.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=PortoCanal.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=SPORTINGTV.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=Eurosport1.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=Eurosport2.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=CacaVision.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=cazaepesca.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=TorosTV.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=FightNetwork.ca) in the config file
-[  Info  ] Found existing channel (xmltv_id=Motorvision.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=FuelTV.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=NOSStudios.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=tvc1.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=tvc2.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=tvc3.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=tvc4.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=hollywood.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=AXNBlack.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=FoxMovies.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=AMC.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=amcbreak.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=amccrime.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=Cinemundo.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=axn.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=AXNWhite.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=fox.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=foxlife.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=foxcrime.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=FOXComedy.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=SyFy.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=disneychannel.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=DisneyJunior.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=canalpanda.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=PandaKids.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=PandaBiggs.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=SicK.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=Nickelodeon.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=NickJr.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=cartoon.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=BabyTV.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=ClubbingTV.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=mtvportugal.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=AfroMusic.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=AlmaLusa.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=mcmtop.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=MCMPop.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=TraceTV.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=mezzo.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=TravelChannel.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=investigationdiscovery.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=nationalgeographic.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=NatGeoWild.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=discoverychannel.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=odisseia.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=HistoryChannel.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=HGTV.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=TLC.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=blaze.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=canal180.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=advnce.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=dizichannel.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=KURIAKOSTV.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=CANCAONOVA.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=TVGlobo.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=tvrecord.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=RTPMadeira.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=RTPAcores.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=RTPAfrica.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=zapvivahd.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=Hot.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=PenthouseGold.ero) in the config file
-[  Info  ] Found existing channel (xmltv_id=VividRed.ero) in the config file
-[  Info  ] Found existing channel (xmltv_id=Glbonacional.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Bbcworldnews.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Redeclube.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=tvclubepe.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Foxnews.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=RedeSeculo21.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Rede21.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Cnt.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Boavontadetv.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Agromais.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Boomerang.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=CanaldoBoi.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Cartoonnetwork.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Cnnbrasil.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Discoverykids.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Disneyjrhd.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Disneyxd.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Futura.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Globosp.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Idealtv.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Mtvlive.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Premierefchd.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Playboytv.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Sextreme.cl) in the config file
-[  Info  ] Found existing channel (xmltv_id=Sexyhot.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Sportv2.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Sportv3.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Rci.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Shoptime.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=venus.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=Woohoo.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Intertvgminas.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=altolitoral.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Nhk.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=TraceBrazuca.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Tvriosul.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=sbtdf.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=bandrj.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Recordminas.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Recorddf.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Recordrs.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Sbtalterosa.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=sbtrj.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=sbtrs.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Globorj.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Globominas.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Golfchannel.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=DiscoveryCivilization.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=DogTV.pt) in the config file
-[  Info  ] Found existing channel (xmltv_id=Ae.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Amc.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Animalplanet.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Arte1.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Axn.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=BabyTV.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=BandRede.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Bandnews.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Bandsportshd.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Bishd.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Canalbrasil.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Off.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Canalrural.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=CancaoNova.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Cinemax.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Cnninternacional.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Comedycentral.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Curta.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Discovery.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Homehealth.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=DiscoveryScience.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Hdtheater.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Discturbohd.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Discoveryworldhd.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Jpnews.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Disneychannel.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=E.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=ESPNInternational.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=ESPN+.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Espnbrasil.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Espnextra.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Fashiontv.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=FilmArts.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Fishtv.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Foodnetworkhd.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Fox.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Foxpremium1.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Foxpremium2.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Foxlife.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Foxsports.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Foxsports2.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Fx.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=TVGazeta.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=GloboBrasilia.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Globorecife.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Globonews.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Gloob.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Gloobinho.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Gnt.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Hbo.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Hbo2.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Hboplus.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Hbofamily.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Max.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Maxup.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Hbosignature.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Maxprime.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Historychannel.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=H2.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=iSat.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Investigacaodiscoveryid.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Inttvcabugi.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Lifetime.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=+globosat.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Megapix.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Mtv.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Multishow.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Musicboxbrazil.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Nationalgeographic.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Nickelodeon.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=NickJr.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=NSCTV.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Paramounthd.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Premiere2.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Premiere3.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Premiere4.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Premiere5.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Premiere6.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Premiere7.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Premiere8.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Primeboxbrazil.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=GloboPortoAlegre.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Rederecord.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Rederecordrj.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Recordnews.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Redeamazonica.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Tvbahia.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Redebrasil.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=RedeFami­lia.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Redegospel.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=RedeSuperdeTelevisao.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Redevida.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Redetv.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Rit.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Rpccuritiba.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Sbt.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Sony.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Space.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Sportv.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Studiouniversal.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Syfy.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Tbs.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Tcm.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Tcpremium.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Tcaction.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Tctouch.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Tcfun.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Tcpipoca.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Tccult.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Terraviva.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Tlc.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Tnt.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=TNTSerie.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Tooncast.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Travelboxbrazil.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Trutv.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Tvbrasil.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=GloboAnhangueraGoias.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Tvaparecida.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Tvcabobranco.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Tvcamara.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Centroamerica.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=tvclube.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Tvcultura.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Tvdiario.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Tvdiariosp.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Tvescola.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Tvgazetaalagoas.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=TVGazetaes.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Tvintegracao.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Tvjustica.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Tvliberalbelem.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Tvmirante.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Tvmorena.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Tvnovotempo.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Tvratimbum.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Tvsenado.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Tvsergipe.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Verdesmares.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Universalchannel.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=VH1.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Viva.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Warnerchannel.br) in the config file
-[  Info  ] Found existing channel (xmltv_id=Zoomoo.br) in the config file
+[  Info  ] input file /home/azx0025/epg2/.wg++/guide.xml not found   ... created a new one ... 
 [  Info  ] 
 [  Info  ] 
 [  Info  ]       i=index  .=same  c=change  g=gab  r=replace  n=new
@@ -457,7 +96,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        2
 
-[  Info  ]      elapstime / updated show  0.01 seconds
+[  Info  ]      elapstime / updated show  0.00 seconds
 [  Debug ] 
 [  Info  ] (   6/360 ) APP.PLEX.TV -- chan. (xmltv_id=CanalVoleiBrasil.br) -- mode Force
 [  Info  ] 
@@ -937,13 +576,13 @@
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
 [  Info  ] (  45/360 ) CLAROTV.COM.BR -- chan. (xmltv_id=Like.br) -- mode Force
-[Warning ] server error, code 502
+[Warning ] server error, code 500
 [Error   ] Unable to update channel Like.br
 [Critical] Generic syntax exception:
 [Critical]    message: 
 [Error   ] no index page data received from Like.br
 [Error   ] unable to update channel, try again later
-[  Info  ] No guide data to restore
+[  Info  ] Existing guide data restored!
 [  Debug ] 
 [  Info  ] (  45/360 ) TVTV.US -- chan. (xmltv_id=NFLNetwork.ca) -- mode Force
 [  Debug ]    skipped : show that happened before 'today' @ 19/03/2023 22:00
@@ -1183,6 +822,18 @@
 [  Debug ] Can't match any (sub)detail title(s) with any index title(s):
 [  Debug ]        index title(s):
 [  Debug ]                        "NBA Basketball"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "NBA GameTime"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "NBA GameTime"
 [  Debug ]  (sub)detail title(s):
 [Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
 [  Debug ]    suspicious      title in index page
@@ -1520,12 +1171,6 @@
 [  Debug ]    suspicious      title in index page
 [  Debug ] Can't match any (sub)detail title(s) with any index title(s):
 [  Debug ]        index title(s):
-[  Debug ]                        "MLB Baseball"
-[  Debug ]  (sub)detail title(s):
-[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
 [  Debug ]                        "High Heat"
 [  Debug ]  (sub)detail title(s):
 [Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
@@ -1693,7 +1338,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        30
 
-[  Info  ]      elapstime / updated show  0.10 seconds
+[  Info  ]      elapstime / updated show  0.11 seconds
 [  Debug ] 
 [  Info  ] (  54/360 ) NOS.PT -- chan. (xmltv_id=CMTV.pt) -- mode Force
 [  Info  ] 
@@ -1740,6 +1385,7 @@
 [  Info  ]      elapstime / updated show  0.14 seconds
 [  Debug ] 
 [  Info  ] (  58/360 ) NOS.PT -- chan. (xmltv_id=RecordNews.pt) -- mode Force
+[Warning ] server error, code 503
 [  Info  ] 
 [  Info  ]    Summary for update of       RecordNews.pt
 [  Info  ]      missing shows added       0
@@ -1751,7 +1397,6 @@
 [  Info  ]      elapstime / updated show  0.15 seconds
 [  Debug ] 
 [  Info  ] (  59/360 ) NOS.PT -- chan. (xmltv_id=rtpmemoria.pt) -- mode Force
-[Warning ] server error, code 503
 [  Info  ] 
 [  Info  ]    Summary for update of       rtpmemoria.pt
 [  Info  ]      missing shows added       0
@@ -1771,7 +1416,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        73
 
-[  Info  ]      elapstime / updated show  0.16 seconds
+[  Info  ]      elapstime / updated show  0.15 seconds
 [  Debug ] 
 [  Info  ] (  61/360 ) NOS.PT -- chan. (xmltv_id=sicmulher.pt) -- mode Force
 [  Info  ] 
@@ -1815,7 +1460,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        42
 
-[  Info  ]      elapstime / updated show  0.17 seconds
+[  Info  ]      elapstime / updated show  0.16 seconds
 [  Debug ] 
 [  Info  ] (  65/360 ) NOS.PT -- chan. (xmltv_id=TVIReal.pt) -- mode Force
 [  Info  ] 
@@ -1912,7 +1557,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        113
 
-[  Info  ]      elapstime / updated show  0.18 seconds
+[  Info  ]      elapstime / updated show  0.17 seconds
 [  Debug ] 
 [  Info  ] (  74/360 ) NOS.PT -- chan. (xmltv_id=FoodNetwork.pt) -- mode Force
 [  Info  ] 
@@ -1923,7 +1568,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        92
 
-[  Info  ]      elapstime / updated show  0.18 seconds
+[  Info  ]      elapstime / updated show  0.17 seconds
 [  Debug ] 
 [  Info  ] (  75/360 ) NOS.PT -- chan. (xmltv_id=FashionTV.eu) -- mode Force
 [  Info  ] 
@@ -2031,7 +1676,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        8
 
-[  Info  ]      elapstime / updated show  0.19 seconds
+[  Info  ]      elapstime / updated show  0.18 seconds
 [  Debug ] 
 [  Info  ] (  85/360 ) NOS.PT -- chan. (xmltv_id=SportTV6.pt) -- mode Force
 [  Info  ] 
@@ -2042,7 +1687,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        8
 
-[  Info  ]      elapstime / updated show  0.19 seconds
+[  Info  ]      elapstime / updated show  0.18 seconds
 [  Debug ] 
 [  Info  ] (  86/360 ) NOS.PT -- chan. (xmltv_id=NBA.pt) -- mode Force
 [  Info  ] 
@@ -2053,7 +1698,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        27
 
-[  Info  ]      elapstime / updated show  0.19 seconds
+[  Info  ]      elapstime / updated show  0.18 seconds
 [  Debug ] 
 [  Info  ] (  87/360 ) NOS.PT -- chan. (xmltv_id=ElevenSports1.pt) -- mode Force
 [  Info  ] 
@@ -2064,7 +1709,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        44
 
-[  Info  ]      elapstime / updated show  0.19 seconds
+[  Info  ]      elapstime / updated show  0.18 seconds
 [  Debug ] 
 [  Info  ] (  88/360 ) NOS.PT -- chan. (xmltv_id=ElevenSports2.pt) -- mode Force
 [  Info  ] 
@@ -2075,7 +1720,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        34
 
-[  Info  ]      elapstime / updated show  0.19 seconds
+[  Info  ]      elapstime / updated show  0.18 seconds
 [  Debug ] 
 [  Info  ] (  89/360 ) NOS.PT -- chan. (xmltv_id=ElevenSports3.pt) -- mode Force
 [  Info  ] 
@@ -2086,7 +1731,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        30
 
-[  Info  ]      elapstime / updated show  0.19 seconds
+[  Info  ]      elapstime / updated show  0.18 seconds
 [  Debug ] 
 [  Info  ] (  90/360 ) NOS.PT -- chan. (xmltv_id=ElevenSports4.pt) -- mode Force
 [  Info  ] 
@@ -2097,7 +1742,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        8
 
-[  Info  ]      elapstime / updated show  0.19 seconds
+[  Info  ]      elapstime / updated show  0.18 seconds
 [  Debug ] 
 [  Info  ] (  91/360 ) NOS.PT -- chan. (xmltv_id=ElevenSports5.pt) -- mode Force
 [  Info  ] 
@@ -2108,7 +1753,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        8
 
-[  Info  ]      elapstime / updated show  0.19 seconds
+[  Info  ]      elapstime / updated show  0.18 seconds
 [  Debug ] 
 [  Info  ] (  92/360 ) NOS.PT -- chan. (xmltv_id=ElevenSports6.pt) -- mode Force
 [  Info  ] 
@@ -2119,7 +1764,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        8
 
-[  Info  ]      elapstime / updated show  0.19 seconds
+[  Info  ]      elapstime / updated show  0.18 seconds
 [  Debug ] 
 [  Info  ] (  93/360 ) NOS.PT -- chan. (xmltv_id=Canal11.pt) -- mode Force
 [  Info  ] 
@@ -2157,9 +1802,9 @@
 [  Info  ]    Summary for update of       PortoCanal.pt
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           26
+[  Info  ]      new shows added           42
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        26
+[  Info  ]      total after update        42
 
 [  Info  ]      elapstime / updated show  0.19 seconds
 [  Debug ] 
@@ -2335,7 +1980,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        26
 
-[  Info  ]      elapstime / updated show  0.20 seconds
+[  Info  ]      elapstime / updated show  0.19 seconds
 [  Debug ] 
 [  Info  ] ( 113/360 ) NOS.PT -- chan. (xmltv_id=FoxMovies.pt) -- mode Force
 [  Info  ] 
@@ -2346,7 +1991,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        28
 
-[  Info  ]      elapstime / updated show  0.20 seconds
+[  Info  ]      elapstime / updated show  0.19 seconds
 [  Debug ] 
 [  Info  ] ( 114/360 ) NOS.PT -- chan. (xmltv_id=AMC.pt) -- mode Force
 [  Info  ] 
@@ -2357,7 +2002,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        29
 
-[  Info  ]      elapstime / updated show  0.20 seconds
+[  Info  ]      elapstime / updated show  0.19 seconds
 [  Debug ] 
 [  Info  ] ( 115/360 ) NOS.PT -- chan. (xmltv_id=amcbreak.pt) -- mode Force
 [  Info  ] 
@@ -2368,7 +2013,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        116
 
-[  Info  ]      elapstime / updated show  0.20 seconds
+[  Info  ]      elapstime / updated show  0.19 seconds
 [  Debug ] 
 [  Info  ] ( 116/360 ) NOS.PT -- chan. (xmltv_id=amccrime.pt) -- mode Force
 [  Info  ] 
@@ -2379,7 +2024,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        68
 
-[  Info  ]      elapstime / updated show  0.20 seconds
+[  Info  ]      elapstime / updated show  0.19 seconds
 [  Debug ] 
 [  Info  ] ( 117/360 ) MEO.PT -- chan. (xmltv_id=Cinemundo.pt) -- mode Force
 [Error   ] no shows in indexpage!
@@ -2408,7 +2053,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        46
 
-[  Info  ]      elapstime / updated show  0.20 seconds
+[  Info  ]      elapstime / updated show  0.19 seconds
 [  Debug ] 
 [  Info  ] ( 120/360 ) NOS.PT -- chan. (xmltv_id=fox.pt) -- mode Force
 [  Info  ] 
@@ -2419,9 +2064,10 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        60
 
-[  Info  ]      elapstime / updated show  0.20 seconds
+[  Info  ]      elapstime / updated show  0.19 seconds
 [  Debug ] 
 [  Info  ] ( 121/360 ) NOS.PT -- chan. (xmltv_id=foxlife.pt) -- mode Force
+[Warning ] server error, code 503
 [  Info  ] 
 [  Info  ]    Summary for update of       foxlife.pt
 [  Info  ]      missing shows added       0
@@ -2430,7 +2076,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        54
 
-[  Info  ]      elapstime / updated show  0.20 seconds
+[  Info  ]      elapstime / updated show  0.19 seconds
 [  Debug ] 
 [  Info  ] ( 122/360 ) NOS.PT -- chan. (xmltv_id=foxcrime.pt) -- mode Force
 [  Info  ] 
@@ -2441,7 +2087,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        47
 
-[  Info  ]      elapstime / updated show  0.20 seconds
+[  Info  ]      elapstime / updated show  0.19 seconds
 [  Debug ] 
 [  Info  ] ( 123/360 ) NOS.PT -- chan. (xmltv_id=FOXComedy.pt) -- mode Force
 [  Info  ] 
@@ -2452,7 +2098,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        126
 
-[  Info  ]      elapstime / updated show  0.20 seconds
+[  Info  ]      elapstime / updated show  0.19 seconds
 [  Debug ] 
 [  Info  ] ( 124/360 ) NOS.PT -- chan. (xmltv_id=SyFy.pt) -- mode Force
 [  Info  ] 
@@ -2463,7 +2109,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        58
 
-[  Info  ]      elapstime / updated show  0.20 seconds
+[  Info  ]      elapstime / updated show  0.19 seconds
 [  Debug ] 
 [  Info  ] ( 125/360 ) NOS.PT -- chan. (xmltv_id=disneychannel.pt) -- mode Force
 [  Info  ] 
@@ -2488,6 +2134,9 @@
 [  Info  ]      elapstime / updated show  0.20 seconds
 [  Debug ] 
 [  Info  ] ( 127/360 ) NOS.PT -- chan. (xmltv_id=canalpanda.pt) -- mode Force
+[Warning ] server error, code 503
+[Warning ] server error, code 503
+[Warning ] server error, code 503
 [  Info  ] 
 [  Info  ]    Summary for update of       canalpanda.pt
 [  Info  ]      missing shows added       0
@@ -2510,6 +2159,8 @@
 [  Info  ]      elapstime / updated show  0.20 seconds
 [  Debug ] 
 [  Info  ] ( 129/360 ) NOS.PT -- chan. (xmltv_id=PandaBiggs.pt) -- mode Force
+[Warning ] server error, code 503
+[Warning ] server error, code 503
 [  Info  ] 
 [  Info  ]    Summary for update of       PandaBiggs.pt
 [  Info  ]      missing shows added       0
@@ -2554,6 +2205,25 @@
 [  Info  ]      elapstime / updated show  0.20 seconds
 [  Debug ] 
 [  Info  ] ( 133/360 ) NOS.PT -- chan. (xmltv_id=cartoon.pt) -- mode Force
+[Warning ] server error, code 503
+[Warning ] server error, code 503
+[Warning ] server error, code 503
+[Warning ] server error, code 503
+[Warning ] server error, code 503
+[Warning ] server error, code 503
+[Warning ] server error, code 503
+[Warning ] server error, code 503
+[Warning ] server error, code 503
+[Warning ] server error, code 503
+[Warning ] server error, code 503
+[Warning ] server error, code 503
+[Warning ] server error, code 503
+[Warning ] server error, code 503
+[Warning ] server error, code 503
+[Warning ] server error, code 503
+[Warning ] server error, code 503
+[Warning ] server error, code 503
+[Warning ] server error, code 503
 [  Info  ] 
 [  Info  ]    Summary for update of       cartoon.pt
 [  Info  ]      missing shows added       0
@@ -2658,6 +2328,7 @@
 [  Info  ]      elapstime / updated show  0.20 seconds
 [  Debug ] 
 [  Info  ] ( 143/360 ) NOS.PT -- chan. (xmltv_id=TravelChannel.pt) -- mode Force
+[Warning ] server error, code 503
 [  Info  ] 
 [  Info  ]    Summary for update of       TravelChannel.pt
 [  Info  ]      missing shows added       0
@@ -2732,7 +2403,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        68
 
-[  Info  ]      elapstime / updated show  0.21 seconds
+[  Info  ]      elapstime / updated show  0.20 seconds
 [  Debug ] 
 [  Info  ] ( 150/360 ) MEO.PT -- chan. (xmltv_id=HGTV.pt) -- mode Force
 [Error   ] no shows in indexpage!
@@ -2752,7 +2423,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        65
 
-[  Info  ]      elapstime / updated show  0.21 seconds
+[  Info  ]      elapstime / updated show  0.20 seconds
 [  Debug ] 
 [  Info  ] ( 152/360 ) NOS.PT -- chan. (xmltv_id=blaze.pt) -- mode Force
 [  Info  ] 
@@ -2763,7 +2434,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        116
 
-[  Info  ]      elapstime / updated show  0.21 seconds
+[  Info  ]      elapstime / updated show  0.20 seconds
 [  Debug ] 
 [  Info  ] ( 153/360 ) NOS.PT -- chan. (xmltv_id=canal180.pt) -- mode Force
 [  Info  ] 
@@ -2774,7 +2445,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        68
 
-[  Info  ]      elapstime / updated show  0.21 seconds
+[  Info  ]      elapstime / updated show  0.20 seconds
 [  Debug ] 
 [  Info  ] ( 154/360 ) MEO.PT -- chan. (xmltv_id=advnce.pt) -- mode Force
 [Error   ] no shows in indexpage!
@@ -2803,7 +2474,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        65
 
-[  Info  ]      elapstime / updated show  0.21 seconds
+[  Info  ]      elapstime / updated show  0.20 seconds
 [  Debug ] 
 [  Info  ] ( 157/360 ) NOS.PT -- chan. (xmltv_id=CANCAONOVA.pt) -- mode Force
 [  Info  ] 
@@ -2814,7 +2485,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        72
 
-[  Info  ]      elapstime / updated show  0.21 seconds
+[  Info  ]      elapstime / updated show  0.20 seconds
 [  Debug ] 
 [  Info  ] ( 158/360 ) NOS.PT -- chan. (xmltv_id=TVGlobo.pt) -- mode Force
 [  Info  ] 
@@ -2825,7 +2496,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        59
 
-[  Info  ]      elapstime / updated show  0.21 seconds
+[  Info  ]      elapstime / updated show  0.20 seconds
 [  Debug ] 
 [  Info  ] ( 159/360 ) NOS.PT -- chan. (xmltv_id=tvrecord.pt) -- mode Force
 [  Info  ] 
@@ -2836,7 +2507,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        64
 
-[  Info  ]      elapstime / updated show  0.21 seconds
+[  Info  ]      elapstime / updated show  0.20 seconds
 [  Debug ] 
 [  Info  ] ( 160/360 ) NOS.PT -- chan. (xmltv_id=RTPMadeira.pt) -- mode Force
 [  Info  ] 
@@ -2847,7 +2518,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        23
 
-[  Info  ]      elapstime / updated show  0.21 seconds
+[  Info  ]      elapstime / updated show  0.20 seconds
 [  Debug ] 
 [  Info  ] ( 161/360 ) NOS.PT -- chan. (xmltv_id=RTPAcores.pt) -- mode Force
 [  Info  ] 
@@ -2858,7 +2529,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        64
 
-[  Info  ]      elapstime / updated show  0.21 seconds
+[  Info  ]      elapstime / updated show  0.20 seconds
 [  Debug ] 
 [  Info  ] ( 162/360 ) NOS.PT -- chan. (xmltv_id=RTPAfrica.pt) -- mode Force
 [  Info  ] 
@@ -2869,9 +2540,10 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        61
 
-[  Info  ]      elapstime / updated show  0.21 seconds
+[  Info  ]      elapstime / updated show  0.20 seconds
 [  Debug ] 
 [  Info  ] ( 163/360 ) NOS.PT -- chan. (xmltv_id=zapvivahd.pt) -- mode Force
+[Warning ] server error, code 503
 [  Info  ] 
 [  Info  ]    Summary for update of       zapvivahd.pt
 [  Info  ]      missing shows added       0
@@ -2880,9 +2552,12 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        39
 
-[  Info  ]      elapstime / updated show  0.21 seconds
+[  Info  ]      elapstime / updated show  0.20 seconds
 [  Debug ] 
 [  Info  ] ( 164/360 ) NOS.PT -- chan. (xmltv_id=Hot.pt) -- mode Force
+[Warning ] server error, code 503
+[Warning ] server error, code 503
+[Warning ] server error, code 503
 [  Info  ] 
 [  Info  ]    Summary for update of       Hot.pt
 [  Info  ]      missing shows added       0
@@ -2891,7 +2566,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        36
 
-[  Info  ]      elapstime / updated show  0.21 seconds
+[  Info  ]      elapstime / updated show  0.20 seconds
 [  Debug ] 
 [  Info  ] ( 165/360 ) NOS.PT -- chan. (xmltv_id=PenthouseGold.ero) -- mode Force
 [  Info  ] 
@@ -2902,7 +2577,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        48
 
-[  Info  ]      elapstime / updated show  0.21 seconds
+[  Info  ]      elapstime / updated show  0.20 seconds
 [  Debug ] 
 [  Info  ] ( 166/360 ) NOS.PT -- chan. (xmltv_id=VividRed.ero) -- mode Force
 [  Info  ] 
@@ -2913,7 +2588,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        48
 
-[  Info  ]      elapstime / updated show  0.21 seconds
+[  Info  ]      elapstime / updated show  0.20 seconds
 [  Debug ] 
 [  Info  ] ( 167/360 ) MI.TV -- chan. (xmltv_id=Glbonacional.br) -- mode Force
 [  Info  ] 
@@ -2922,9 +2597,9 @@
 [  Info  ]      changed shows updated     0
 [  Info  ]      new shows added           37
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        50
+[  Info  ]      total after update        37
 
-[  Info  ]      elapstime / updated show  0.21 seconds
+[  Info  ]      elapstime / updated show  0.20 seconds
 [  Debug ] 
 [  Info  ] ( 168/360 ) MI.TV -- chan. (xmltv_id=Bbcworldnews.br) -- mode Force
 [  Info  ] 
@@ -2979,7 +2654,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        79
 
-[  Info  ]      elapstime / updated show  0.20 seconds
+[  Info  ]      elapstime / updated show  0.19 seconds
 [  Debug ] 
 [  Info  ] ( 173/360 ) MI.TV -- chan. (xmltv_id=Rede21.br) -- mode Force
 [  Info  ] 
@@ -2990,7 +2665,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        8
 
-[  Info  ]      elapstime / updated show  0.20 seconds
+[  Info  ]      elapstime / updated show  0.19 seconds
 [  Debug ] 
 [  Info  ] ( 174/360 ) MI.TV -- chan. (xmltv_id=Cnt.br) -- mode Force
 [  Info  ] 
@@ -3001,7 +2676,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        66
 
-[  Info  ]      elapstime / updated show  0.20 seconds
+[  Info  ]      elapstime / updated show  0.19 seconds
 [  Debug ] 
 [  Info  ] ( 175/360 ) MI.TV -- chan. (xmltv_id=Boavontadetv.br) -- mode Force
 [  Info  ] 
@@ -3034,7 +2709,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        216
 
-[  Info  ]      elapstime / updated show  0.19 seconds
+[  Info  ]      elapstime / updated show  0.18 seconds
 [  Debug ] 
 [  Info  ] ( 178/360 ) MI.TV -- chan. (xmltv_id=CanaldoBoi.br) -- mode Force
 [  Info  ] 
@@ -3045,7 +2720,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        46
 
-[  Info  ]      elapstime / updated show  0.19 seconds
+[  Info  ]      elapstime / updated show  0.18 seconds
 [  Debug ] 
 [  Info  ] ( 179/360 ) MI.TV -- chan. (xmltv_id=Cartoonnetwork.br) -- mode Force
 [  Info  ] 
@@ -3078,7 +2753,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        224
 
-[  Info  ]      elapstime / updated show  0.18 seconds
+[  Info  ]      elapstime / updated show  0.17 seconds
 [  Debug ] 
 [  Info  ] ( 182/360 ) MI.TV -- chan. (xmltv_id=Disneyjrhd.br) -- mode Force
 [Error   ] no shows in indexpage!
@@ -3184,7 +2859,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        51
 
-[  Info  ]      elapstime / updated show  0.17 seconds
+[  Info  ]      elapstime / updated show  0.16 seconds
 [  Debug ] 
 [  Info  ] ( 192/360 ) MI.TV -- chan. (xmltv_id=Sportv2.br) -- mode Force
 [  Debug ]    skipped show without a title at 22/03/2023 00:00:00
@@ -3196,18 +2871,18 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        24
 
-[  Info  ]      elapstime / updated show  0.17 seconds
+[  Info  ]      elapstime / updated show  0.16 seconds
 [  Debug ] 
 [  Info  ] ( 193/360 ) MI.TV -- chan. (xmltv_id=Sportv3.br) -- mode Force
 [  Info  ] 
 [  Info  ]    Summary for update of       Sportv3.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           30
+[  Info  ]      new shows added           31
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        30
+[  Info  ]      total after update        31
 
-[  Info  ]      elapstime / updated show  0.17 seconds
+[  Info  ]      elapstime / updated show  0.16 seconds
 [  Debug ] 
 [  Info  ] ( 194/360 ) CLAROTV.COM.BR -- chan. (xmltv_id=Rci.br) -- mode Force
 [Warning ] server error, code 500
@@ -3216,7 +2891,7 @@
 [Critical]    message: 
 [Error   ] no index page data received from Rci.br
 [Error   ] unable to update channel, try again later
-[  Info  ] No guide data to restore
+[  Info  ] Existing guide data restored!
 [  Debug ] 
 [  Info  ] ( 194/360 ) CLAROTV.COM.BR -- chan. (xmltv_id=Shoptime.br) -- mode Force
 [Warning ] server error, code 500
@@ -3225,7 +2900,7 @@
 [Critical]    message: 
 [Error   ] no index page data received from Shoptime.br
 [Error   ] unable to update channel, try again later
-[  Info  ] No guide data to restore
+[  Info  ] Existing guide data restored!
 [  Debug ] 
 [  Info  ] ( 194/360 ) MI.TV -- chan. (xmltv_id=venus.pt) -- mode Force
 [  Info  ] 
@@ -3236,7 +2911,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        53
 
-[  Info  ]      elapstime / updated show  0.17 seconds
+[  Info  ]      elapstime / updated show  0.16 seconds
 [  Debug ] 
 [  Info  ] ( 195/360 ) MI.TV -- chan. (xmltv_id=Woohoo.br) -- mode Force
 [  Info  ] 
@@ -3422,7 +3097,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        87
 
-[  Info  ]      elapstime / updated show  0.16 seconds
+[  Info  ]      elapstime / updated show  0.15 seconds
 [  Debug ] 
 [  Info  ] ( 213/360 ) MI.TV -- chan. (xmltv_id=DogTV.pt) -- mode Force
 [  Info  ] 
@@ -3433,7 +3108,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        42
 
-[  Info  ]      elapstime / updated show  0.16 seconds
+[  Info  ]      elapstime / updated show  0.15 seconds
 [  Debug ] 
 [  Info  ] ( 214/360 ) MI.TV -- chan. (xmltv_id=Ae.br) -- mode Force
 [  Info  ] 
@@ -3444,7 +3119,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        53
 
-[  Info  ]      elapstime / updated show  0.16 seconds
+[  Info  ]      elapstime / updated show  0.15 seconds
 [  Debug ] 
 [  Info  ] ( 215/360 ) MI.TV -- chan. (xmltv_id=Amc.br) -- mode Force
 [  Info  ] 
@@ -3455,7 +3130,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        26
 
-[  Info  ]      elapstime / updated show  0.16 seconds
+[  Info  ]      elapstime / updated show  0.15 seconds
 [  Debug ] 
 [  Info  ] ( 216/360 ) MI.TV -- chan. (xmltv_id=Animalplanet.br) -- mode Force
 [  Info  ] 
@@ -3567,7 +3242,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        77
 
-[  Info  ]      elapstime / updated show  0.15 seconds
+[  Info  ]      elapstime / updated show  0.14 seconds
 [  Debug ] 
 [  Info  ] ( 226/360 ) MI.TV -- chan. (xmltv_id=Canalrural.br) -- mode Force
 [  Info  ] 
@@ -3578,7 +3253,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        41
 
-[  Info  ]      elapstime / updated show  0.15 seconds
+[  Info  ]      elapstime / updated show  0.14 seconds
 [  Debug ] 
 [  Info  ] ( 227/360 ) MI.TV -- chan. (xmltv_id=CancaoNova.br) -- mode Force
 [  Info  ] 
@@ -3589,7 +3264,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        61
 
-[  Info  ]      elapstime / updated show  0.15 seconds
+[  Info  ]      elapstime / updated show  0.14 seconds
 [  Debug ] 
 [  Info  ] ( 228/360 ) MI.TV -- chan. (xmltv_id=Cinemax.br) -- mode Force
 [  Info  ] 
@@ -3600,7 +3275,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        26
 
-[  Info  ]      elapstime / updated show  0.15 seconds
+[  Info  ]      elapstime / updated show  0.14 seconds
 [  Debug ] 
 [  Info  ] ( 229/360 ) MI.TV -- chan. (xmltv_id=Cnninternacional.br) -- mode Force
 [Error   ] no shows in indexpage!
@@ -3620,7 +3295,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        85
 
-[  Info  ]      elapstime / updated show  0.15 seconds
+[  Info  ]      elapstime / updated show  0.14 seconds
 [  Debug ] 
 [  Info  ] ( 231/360 ) MI.TV -- chan. (xmltv_id=Curta.br) -- mode Force
 [  Info  ] 
@@ -3741,7 +3416,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        33
 
-[  Info  ]      elapstime / updated show  0.14 seconds
+[  Info  ]      elapstime / updated show  0.13 seconds
 [  Debug ] 
 [  Info  ] ( 242/360 ) MI.TV -- chan. (xmltv_id=ESPN+.br) -- mode Force
 [  Debug ]    skipped show without a title at 21/03/2023 06:00:00
@@ -3753,7 +3428,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        27
 
-[  Info  ]      elapstime / updated show  0.14 seconds
+[  Info  ]      elapstime / updated show  0.13 seconds
 [  Debug ] 
 [  Info  ] ( 243/360 ) MI.TV -- chan. (xmltv_id=Espnbrasil.br) -- mode Force
 [  Info  ] 
@@ -3764,7 +3439,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        27
 
-[  Info  ]      elapstime / updated show  0.14 seconds
+[  Info  ]      elapstime / updated show  0.13 seconds
 [  Debug ] 
 [  Info  ] ( 244/360 ) MI.TV -- chan. (xmltv_id=Espnextra.br) -- mode Force
 [  Info  ] 
@@ -3775,7 +3450,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        28
 
-[  Info  ]      elapstime / updated show  0.14 seconds
+[  Info  ]      elapstime / updated show  0.13 seconds
 [  Debug ] 
 [  Info  ] ( 245/360 ) MI.TV -- chan. (xmltv_id=Fashiontv.br) -- mode Force
 [  Info  ] 
@@ -3786,7 +3461,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        71
 
-[  Info  ]      elapstime / updated show  0.14 seconds
+[  Info  ]      elapstime / updated show  0.13 seconds
 [  Debug ] 
 [  Info  ] ( 246/360 ) MI.TV -- chan. (xmltv_id=FilmArts.br) -- mode Force
 [  Info  ] 
@@ -3797,7 +3472,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        35
 
-[  Info  ]      elapstime / updated show  0.14 seconds
+[  Info  ]      elapstime / updated show  0.13 seconds
 [  Debug ] 
 [  Info  ] ( 247/360 ) MI.TV -- chan. (xmltv_id=Fishtv.br) -- mode Force
 [  Info  ] 
@@ -3808,7 +3483,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        68
 
-[  Info  ]      elapstime / updated show  0.14 seconds
+[  Info  ]      elapstime / updated show  0.13 seconds
 [  Debug ] 
 [  Info  ] ( 248/360 ) MI.TV -- chan. (xmltv_id=Foodnetworkhd.br) -- mode Force
 [  Info  ] 
@@ -3958,7 +3633,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        300
 
-[  Info  ]      elapstime / updated show  0.13 seconds
+[  Info  ]      elapstime / updated show  0.12 seconds
 [  Debug ] 
 [  Info  ] ( 262/360 ) MI.TV -- chan. (xmltv_id=Gnt.br) -- mode Force
 [  Info  ] 
@@ -3969,7 +3644,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        59
 
-[  Info  ]      elapstime / updated show  0.13 seconds
+[  Info  ]      elapstime / updated show  0.12 seconds
 [  Debug ] 
 [  Info  ] ( 263/360 ) MI.TV -- chan. (xmltv_id=Hbo.br) -- mode Force
 [  Info  ] 
@@ -3980,7 +3655,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        26
 
-[  Info  ]      elapstime / updated show  0.13 seconds
+[  Info  ]      elapstime / updated show  0.12 seconds
 [  Debug ] 
 [  Info  ] ( 264/360 ) MI.TV -- chan. (xmltv_id=Hbo2.br) -- mode Force
 [  Info  ] 
@@ -3991,7 +3666,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        22
 
-[  Info  ]      elapstime / updated show  0.13 seconds
+[  Info  ]      elapstime / updated show  0.12 seconds
 [  Debug ] 
 [  Info  ] ( 265/360 ) MI.TV -- chan. (xmltv_id=Hboplus.br) -- mode Force
 [  Info  ] 
@@ -4002,7 +3677,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        26
 
-[  Info  ]      elapstime / updated show  0.13 seconds
+[  Info  ]      elapstime / updated show  0.12 seconds
 [  Debug ] 
 [  Info  ] ( 266/360 ) MI.TV -- chan. (xmltv_id=Hbofamily.br) -- mode Force
 [  Info  ] 
@@ -4013,7 +3688,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        27
 
-[  Info  ]      elapstime / updated show  0.13 seconds
+[  Info  ]      elapstime / updated show  0.12 seconds
 [  Debug ] 
 [  Info  ] ( 267/360 ) MI.TV -- chan. (xmltv_id=Max.br) -- mode Force
 [  Info  ] 
@@ -4024,7 +3699,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        23
 
-[  Info  ]      elapstime / updated show  0.13 seconds
+[  Info  ]      elapstime / updated show  0.12 seconds
 [  Debug ] 
 [  Info  ] ( 268/360 ) MI.TV -- chan. (xmltv_id=Maxup.br) -- mode Force
 [  Info  ] 
@@ -4035,7 +3710,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        22
 
-[  Info  ]      elapstime / updated show  0.13 seconds
+[  Info  ]      elapstime / updated show  0.12 seconds
 [  Debug ] 
 [  Info  ] ( 269/360 ) MI.TV -- chan. (xmltv_id=Hbosignature.br) -- mode Force
 [  Info  ] 
@@ -4046,7 +3721,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        43
 
-[  Info  ]      elapstime / updated show  0.13 seconds
+[  Info  ]      elapstime / updated show  0.12 seconds
 [  Debug ] 
 [  Info  ] ( 270/360 ) MI.TV -- chan. (xmltv_id=Maxprime.br) -- mode Force
 [  Info  ] 
@@ -4211,7 +3886,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        84
 
-[  Info  ]      elapstime / updated show  0.12 seconds
+[  Info  ]      elapstime / updated show  0.11 seconds
 [  Debug ] 
 [  Info  ] ( 285/360 ) MI.TV -- chan. (xmltv_id=NSCTV.br) -- mode Force
 [  Info  ] 
@@ -4222,7 +3897,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        37
 
-[  Info  ]      elapstime / updated show  0.12 seconds
+[  Info  ]      elapstime / updated show  0.11 seconds
 [  Debug ] 
 [  Info  ] ( 286/360 ) MI.TV -- chan. (xmltv_id=Paramounthd.br) -- mode Force
 [  Info  ] 
@@ -4233,7 +3908,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        29
 
-[  Info  ]      elapstime / updated show  0.12 seconds
+[  Info  ]      elapstime / updated show  0.11 seconds
 [  Debug ] 
 [  Info  ] ( 287/360 ) MI.TV -- chan. (xmltv_id=Premiere2.br) -- mode Force
 [  Info  ] 
@@ -4244,7 +3919,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        6
 
-[  Info  ]      elapstime / updated show  0.12 seconds
+[  Info  ]      elapstime / updated show  0.11 seconds
 [  Debug ] 
 [  Info  ] ( 288/360 ) MI.TV -- chan. (xmltv_id=Premiere3.br) -- mode Force
 [  Info  ] 
@@ -4255,7 +3930,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        6
 
-[  Info  ]      elapstime / updated show  0.12 seconds
+[  Info  ]      elapstime / updated show  0.11 seconds
 [  Debug ] 
 [  Info  ] ( 289/360 ) MI.TV -- chan. (xmltv_id=Premiere4.br) -- mode Force
 [  Debug ]    skipped : show that happened before 'today' @ 19/03/2023 23:30
@@ -4267,7 +3942,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        6
 
-[  Info  ]      elapstime / updated show  0.12 seconds
+[  Info  ]      elapstime / updated show  0.11 seconds
 [  Debug ] 
 [  Info  ] ( 290/360 ) MI.TV -- chan. (xmltv_id=Premiere5.br) -- mode Force
 [  Info  ] 
@@ -4278,7 +3953,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        6
 
-[  Info  ]      elapstime / updated show  0.12 seconds
+[  Info  ]      elapstime / updated show  0.11 seconds
 [  Debug ] 
 [  Info  ] ( 291/360 ) MI.TV -- chan. (xmltv_id=Premiere6.br) -- mode Force
 [  Info  ] 
@@ -4289,7 +3964,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        6
 
-[  Info  ]      elapstime / updated show  0.12 seconds
+[  Info  ]      elapstime / updated show  0.11 seconds
 [  Debug ] 
 [  Info  ] ( 292/360 ) MI.TV -- chan. (xmltv_id=Premiere7.br) -- mode Force
 [  Info  ] 
@@ -4300,7 +3975,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        6
 
-[  Info  ]      elapstime / updated show  0.12 seconds
+[  Info  ]      elapstime / updated show  0.11 seconds
 [  Debug ] 
 [  Info  ] ( 293/360 ) MI.TV -- chan. (xmltv_id=Premiere8.br) -- mode Force
 [  Info  ] 
@@ -4311,7 +3986,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        11
 
-[  Info  ]      elapstime / updated show  0.12 seconds
+[  Info  ]      elapstime / updated show  0.11 seconds
 [  Debug ] 
 [  Info  ] ( 294/360 ) MI.TV -- chan. (xmltv_id=Primeboxbrazil.br) -- mode Force
 [  Info  ] 
@@ -4322,7 +3997,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        62
 
-[  Info  ]      elapstime / updated show  0.12 seconds
+[  Info  ]      elapstime / updated show  0.11 seconds
 [  Debug ] 
 [  Info  ] ( 295/360 ) MI.TV -- chan. (xmltv_id=GloboPortoAlegre.br) -- mode Force
 [  Info  ] 
@@ -4333,7 +4008,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        37
 
-[  Info  ]      elapstime / updated show  0.12 seconds
+[  Info  ]      elapstime / updated show  0.11 seconds
 [  Debug ] 
 [  Info  ] ( 296/360 ) MI.TV -- chan. (xmltv_id=Rederecord.br) -- mode Force
 [  Info  ] 
@@ -4344,7 +4019,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        46
 
-[  Info  ]      elapstime / updated show  0.12 seconds
+[  Info  ]      elapstime / updated show  0.11 seconds
 [  Debug ] 
 [  Info  ] ( 297/360 ) MI.TV -- chan. (xmltv_id=Rederecordrj.br) -- mode Force
 [  Info  ] 
@@ -4355,7 +4030,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        37
 
-[  Info  ]      elapstime / updated show  0.12 seconds
+[  Info  ]      elapstime / updated show  0.11 seconds
 [  Debug ] 
 [  Info  ] ( 298/360 ) MI.TV -- chan. (xmltv_id=Recordnews.br) -- mode Force
 [  Debug ]    skipped show without a title at 20/03/2023 21:50:00
@@ -4368,7 +4043,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        95
 
-[  Info  ]      elapstime / updated show  0.12 seconds
+[  Info  ]      elapstime / updated show  0.11 seconds
 [  Debug ] 
 [  Info  ] ( 299/360 ) MI.TV -- chan. (xmltv_id=Redeamazonica.br) -- mode Force
 [  Info  ] 
@@ -4379,7 +4054,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        37
 
-[  Info  ]      elapstime / updated show  0.12 seconds
+[  Info  ]      elapstime / updated show  0.11 seconds
 [  Debug ] 
 [  Info  ] ( 300/360 ) MI.TV -- chan. (xmltv_id=Tvbahia.br) -- mode Force
 [  Info  ] 
@@ -4665,7 +4340,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        41
 
-[  Info  ]      elapstime / updated show  0.11 seconds
+[  Info  ]      elapstime / updated show  0.10 seconds
 [  Debug ] 
 [  Info  ] ( 326/360 ) MI.TV -- chan. (xmltv_id=TNTSerie.br) -- mode Force
 [  Info  ] 
@@ -4676,18 +4351,18 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        56
 
-[  Info  ]      elapstime / updated show  0.11 seconds
+[  Info  ]      elapstime / updated show  0.10 seconds
 [  Debug ] 
 [  Info  ] ( 327/360 ) MI.TV -- chan. (xmltv_id=Tooncast.br) -- mode Force
 [  Info  ] 
 [  Info  ]    Summary for update of       Tooncast.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           197
+[  Info  ]      new shows added           208
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        197
+[  Info  ]      total after update        208
 
-[  Info  ]      elapstime / updated show  0.11 seconds
+[  Info  ]      elapstime / updated show  0.10 seconds
 [  Debug ] 
 [  Info  ] ( 328/360 ) MI.TV -- chan. (xmltv_id=Travelboxbrazil.br) -- mode Force
 [  Info  ] 
@@ -4698,7 +4373,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        97
 
-[  Info  ]      elapstime / updated show  0.11 seconds
+[  Info  ]      elapstime / updated show  0.10 seconds
 [  Debug ] 
 [  Info  ] ( 329/360 ) MI.TV -- chan. (xmltv_id=Trutv.br) -- mode Force
 [  Info  ] 
@@ -4709,7 +4384,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        93
 
-[  Info  ]      elapstime / updated show  0.11 seconds
+[  Info  ]      elapstime / updated show  0.10 seconds
 [  Debug ] 
 [  Info  ] ( 330/360 ) MI.TV -- chan. (xmltv_id=Tvbrasil.br) -- mode Force
 [  Info  ] 
@@ -4720,7 +4395,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        90
 
-[  Info  ]      elapstime / updated show  0.11 seconds
+[  Info  ]      elapstime / updated show  0.10 seconds
 [  Debug ] 
 [  Info  ] ( 331/360 ) MI.TV -- chan. (xmltv_id=GloboAnhangueraGoias.br) -- mode Force
 [  Info  ] 
@@ -5004,7 +4679,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        78
 
-[  Info  ]      elapstime / updated show  0.10 seconds
+[  Info  ]      elapstime / updated show  0.09 seconds
 [  Debug ] 
 [  Info  ] ( 357/360 ) MI.TV -- chan. (xmltv_id=Zoomoo.br) -- mode Force
 [  Info  ] 
@@ -5015,11 +4690,11 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        546
 
-[  Info  ]      elapstime / updated show  0.10 seconds
+[  Info  ]      elapstime / updated show  0.09 seconds
 [  Debug ] 
-[  Debug ] 16683 shows in 360 channels
+[  Debug ] 16698 shows in 360 channels
 [  Debug ] 0 updated shows
-[  Debug ] 16670 new shows added
+[  Debug ] 16698 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 20/03/2023 03:31:46 done in 30m 41s
+[        ] Job finished at 20/03/2023 17:46:08 done in 29m 22s
