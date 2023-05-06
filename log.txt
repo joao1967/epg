@@ -7,7 +7,7 @@
 [        ]  thanks to Paul Weterings, Mat8861, Blackbear199 and all the contributing users 
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 04/05/2023 15:00:04
+[        ] Job started at 05/05/2023 15:00:04
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.15.26.0
 [  Debug ] Environment: 6.0.12
@@ -407,50 +407,8 @@
 [  Info  ]      elapstime / updated show  0.00 seconds
 [  Debug ] 
 [  Info  ] (  34/360 ) TVTV.US -- chan. (xmltv_id=TennisChannel.us) -- mode Force
-[  Debug ]    skipped : show that happened before 'today' @ 03/05/2023 22:00
-[  Debug ]    skipped : show that happened before 'today' @ 03/05/2023 22:30
-[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Tennis Channel Live at Madrid"
-[  Debug ]  (sub)detail title(s):
-[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "2023 Mutua Madrid Open Tennis"
-[  Debug ]  (sub)detail title(s):
-[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "2023 Mutua Madrid Open Tennis"
-[  Debug ]  (sub)detail title(s):
-[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "2023 Mutua Madrid Open Tennis"
-[  Debug ]  (sub)detail title(s):
-[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Tennis Channel Live at Madrid"
-[  Debug ]  (sub)detail title(s):
-[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "2023 Mutua Madrid Open Tennis"
-[  Debug ]  (sub)detail title(s):
-[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "2023 Mutua Madrid Open Tennis"
-[  Debug ]  (sub)detail title(s):
+[  Debug ]    skipped : show that happened before 'today' @ 04/05/2023 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 04/05/2023 22:30
 [Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
 [  Debug ]    suspicious      title in index page
 [  Debug ] Can't match any (sub)detail title(s) with any index title(s):
@@ -582,15 +540,45 @@
 [  Debug ] Can't match any (sub)detail title(s) with any index title(s):
 [  Debug ]        index title(s):
 [  Debug ]                        "2023 Mutua Madrid Open Tennis"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "PPA Tour Pickleball"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "2023 Mutua Madrid Open Tennis"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "2023 Mutua Madrid Open Tennis"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "ATP Encore"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "WTA Encore"
 [  Debug ]  (sub)detail title(s):
 [  Debug ]    skipped  : last show, no next startime to use as stop
 [  Info  ] 
 [  Info  ]    Summary for update of       TennisChannel.us
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           30
+[  Info  ]      new shows added           28
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        30
+[  Info  ]      total after update        28
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -599,9 +587,9 @@
 [  Info  ]    Summary for update of       Sesctv.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           143
+[  Info  ]      new shows added           145
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        143
+[  Info  ]      total after update        145
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -610,9 +598,9 @@
 [  Info  ]    Summary for update of       recorditapoan.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           74
+[  Info  ]      new shows added           67
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        74
+[  Info  ]      total after update        67
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -676,9 +664,9 @@
 [  Info  ]    Summary for update of       Sbtnordeste.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           56
+[  Info  ]      new shows added           53
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        56
+[  Info  ]      total after update        53
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -696,9 +684,9 @@
 [  Info  ]    Summary for update of       Eurochannel.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           62
+[  Info  ]      new shows added           63
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        62
+[  Info  ]      total after update        63
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -712,92 +700,8 @@
 [  Info  ] Existing guide data restored!
 [  Debug ] 
 [  Info  ] (  45/360 ) TVTV.US -- chan. (xmltv_id=NFLNetwork.ca) -- mode Force
-[  Debug ]    skipped : show that happened before 'today' @ 03/05/2023 22:00
-[  Debug ]    skipped : show that happened before 'today' @ 03/05/2023 23:00
-[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Path to the Draft"
-[  Debug ]  (sub)detail title(s):
-[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "NFL Total Access"
-[  Debug ]  (sub)detail title(s):
-[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Path to the Draft"
-[  Debug ]  (sub)detail title(s):
-[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "NFL Total Access"
-[  Debug ]  (sub)detail title(s):
-[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Path to the Draft"
-[  Debug ]  (sub)detail title(s):
-[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "NFL Total Access"
-[  Debug ]  (sub)detail title(s):
-[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Path to the Draft"
-[  Debug ]  (sub)detail title(s):
-[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "NFL Football"
-[  Debug ]  (sub)detail title(s):
-[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "NFL Total Access"
-[  Debug ]  (sub)detail title(s):
-[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Good Morning Football"
-[  Debug ]  (sub)detail title(s):
-[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Good Morning Football"
-[  Debug ]  (sub)detail title(s):
-[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "NFL Football"
-[  Debug ]  (sub)detail title(s):
-[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "NFL Total Access"
-[  Debug ]  (sub)detail title(s):
-[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "NFL Football"
-[  Debug ]  (sub)detail title(s):
+[  Debug ]    skipped : show that happened before 'today' @ 04/05/2023 20:00
+[  Debug ]    skipped : show that happened before 'today' @ 04/05/2023 23:00
 [Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
 [  Debug ]    suspicious      title in index page
 [  Debug ] Can't match any (sub)detail title(s) with any index title(s):
@@ -1001,172 +905,124 @@
 [  Debug ] Can't match any (sub)detail title(s) with any index title(s):
 [  Debug ]        index title(s):
 [  Debug ]                        "A Football Life"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "A Football Life"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "A Football Life"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "A Football Life"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Hard Knocks: Training Camp With the Detroit Lions"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Hard Knocks: Training Camp With the Detroit Lions"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Hard Knocks: Training Camp With the Detroit Lions"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Hard Knocks: Training Camp With the Detroit Lions"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Hard Knocks: Training Camp With the Detroit Lions"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Top 10"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Top 10"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Top 10"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Top 10"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Top 10"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "NFL Mic'd Up"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Good Morning Football"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Good Morning Football"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "NFL Football"
 [  Debug ]  (sub)detail title(s):
 [  Debug ]    skipped  : last show, no next startime to use as stop
 [  Info  ] 
 [  Info  ]    Summary for update of       NFLNetwork.ca
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           49
+[  Info  ]      new shows added           52
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        49
+[  Info  ]      total after update        52
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
 [  Info  ] (  46/360 ) TVTV.US -- chan. (xmltv_id=NBA.us) -- mode Force
-[  Debug ]    skipped : show that happened before 'today' @ 03/05/2023 22:00
-[  Debug ]    skipped : show that happened before 'today' @ 03/05/2023 23:00
-[  Debug ]    skipped : show that happened before 'today' @ 03/05/2023 23:30
-[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "NBA Finals: Defining Moments"
-[  Debug ]  (sub)detail title(s):
-[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "High Tops"
-[  Debug ]  (sub)detail title(s):
-[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Shooter's Paradise"
-[  Debug ]  (sub)detail title(s):
-[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Playoff Central"
-[  Debug ]  (sub)detail title(s):
-[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Playoff Central"
-[  Debug ]  (sub)detail title(s):
-[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "NBA Playoff Playback"
-[  Debug ]  (sub)detail title(s):
-[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "NBA Playoff Playback"
-[  Debug ]  (sub)detail title(s):
-[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Inside the NBA"
-[  Debug ]  (sub)detail title(s):
-[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Inside the NBA"
-[  Debug ]  (sub)detail title(s):
-[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Shooter's Paradise"
-[  Debug ]  (sub)detail title(s):
-[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Inside the NBA"
-[  Debug ]  (sub)detail title(s):
-[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Inside the NBA"
-[  Debug ]  (sub)detail title(s):
-[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Inside the NBA"
-[  Debug ]  (sub)detail title(s):
-[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Inside the NBA"
-[  Debug ]  (sub)detail title(s):
-[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Inside the NBA"
-[  Debug ]  (sub)detail title(s):
-[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "NBA Playoff Playback"
-[  Debug ]  (sub)detail title(s):
-[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "NBA Playoff Playback"
-[  Debug ]  (sub)detail title(s):
-[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "NBA Playoff Playback"
-[  Debug ]  (sub)detail title(s):
-[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "NBA Playoff Playback"
-[  Debug ]  (sub)detail title(s):
-[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "NBA Playoff Playback"
-[  Debug ]  (sub)detail title(s):
-[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "NBA Playoff Playback"
-[  Debug ]  (sub)detail title(s):
-[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "NBA Playoff Playback"
-[  Debug ]  (sub)detail title(s):
-[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "NBA 2K League Post Up"
-[  Debug ]  (sub)detail title(s):
-[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "NBA Playoff Playback"
-[  Debug ]  (sub)detail title(s):
-[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "NBA Playoff Playback"
-[  Debug ]  (sub)detail title(s):
+[  Debug ]    skipped : show that happened before 'today' @ 04/05/2023 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 04/05/2023 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 04/05/2023 23:30
 [Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
 [  Debug ]    suspicious      title in index page
 [  Debug ] Can't match any (sub)detail title(s) with any index title(s):
@@ -1471,7 +1327,7 @@
 [  Debug ]    suspicious      title in index page
 [  Debug ] Can't match any (sub)detail title(s) with any index title(s):
 [  Debug ]        index title(s):
-[  Debug ]                        "NBA2K League"
+[  Debug ]                        "Basketball Stories: Sir Charles & The Doctor"
 [  Debug ]  (sub)detail title(s):
 [Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
 [  Debug ]    suspicious      title in index page
@@ -1641,128 +1497,158 @@
 [  Debug ]        index title(s):
 [  Debug ]                        "Hoops Africa: Ubuntu Matters"
 [  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "David Stern: 30 Years"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Playoff Central"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Playoff Central"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "The Doctor"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Playoff Central"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Playoff Central"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "NBA Playoff Playback"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "NBA Playoff Playback"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "NBA Playoff Playback"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "NBA Action"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Inside the NBA"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Inside the NBA"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Inside the NBA"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Inside the NBA"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Inside the NBA"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Inside the NBA"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "NBA Playoff Playback"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "NBA Playoff Playback"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "NBA Playoff Playback"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "NBA Playoff Playback"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "NBA Playoff Playback"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "NBA Playoff Playback"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Shooter's Paradise"
+[  Debug ]  (sub)detail title(s):
 [  Debug ]    skipped  : last show, no next startime to use as stop
 [  Info  ] 
 [  Info  ]    Summary for update of       NBA.us
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           104
+[  Info  ]      new shows added           102
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        104
+[  Info  ]      total after update        102
 
-[  Info  ]      elapstime / updated show  0.01 seconds
+[  Info  ]      elapstime / updated show  0.02 seconds
 [  Debug ] 
 [  Info  ] (  47/360 ) TVTV.US -- chan. (xmltv_id=MLBNetwork.us) -- mode Force
-[  Debug ]    skipped : show that happened before 'today' @ 03/05/2023 22:00
-[  Debug ]    skipped : show that happened before 'today' @ 03/05/2023 23:00
-[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "MLB Baseball"
-[  Debug ]  (sub)detail title(s):
-[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Quick Pitch"
-[  Debug ]  (sub)detail title(s):
-[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Quick Pitch"
-[  Debug ]  (sub)detail title(s):
-[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Quick Pitch"
-[  Debug ]  (sub)detail title(s):
-[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Quick Pitch"
-[  Debug ]  (sub)detail title(s):
-[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Quick Pitch"
-[  Debug ]  (sub)detail title(s):
-[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Quick Pitch"
-[  Debug ]  (sub)detail title(s):
-[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Quick Pitch"
-[  Debug ]  (sub)detail title(s):
-[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Quick Pitch"
-[  Debug ]  (sub)detail title(s):
-[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Quick Pitch"
-[  Debug ]  (sub)detail title(s):
-[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "MLB Central"
-[  Debug ]  (sub)detail title(s):
-[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "High Heat"
-[  Debug ]  (sub)detail title(s):
-[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "MLB Now"
-[  Debug ]  (sub)detail title(s):
-[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "MLB Baseball"
-[  Debug ]  (sub)detail title(s):
-[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "MLB Baseball"
-[  Debug ]  (sub)detail title(s):
-[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "MLB Baseball"
-[  Debug ]  (sub)detail title(s):
-[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Quick Pitch"
-[  Debug ]  (sub)detail title(s):
-[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
-[  Debug ]    suspicious      title in index page
-[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
-[  Debug ]        index title(s):
-[  Debug ]                        "Quick Pitch"
-[  Debug ]  (sub)detail title(s):
+[  Debug ]    skipped : show that happened before 'today' @ 04/05/2023 20:00
+[  Debug ]    skipped : show that happened before 'today' @ 04/05/2023 23:00
 [Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
 [  Debug ]    suspicious      title in index page
 [  Debug ] Can't match any (sub)detail title(s) with any index title(s):
@@ -2081,14 +1967,134 @@
 [  Debug ]        index title(s):
 [  Debug ]                        "MLB Tonight"
 [  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "MLB Baseball"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "MLB Tonight"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "The Naked Gun: From the Files of Police Squad!"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Quick Pitch"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Quick Pitch"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Quick Pitch"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Plays of the Week"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Quick Pitch"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Plays of the Week"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Quick Pitch"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Plays of the Week"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Quick Pitch"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Quick Pitch"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Quick Pitch"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "MLB Central"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "High Heat"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "MLB Now"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "MLB Central"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "MLB Now"
+[  Debug ]  (sub)detail title(s):
+[Warning ] error downloading page: Response status code does not indicate success: 429 (Too Many Requests).
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Off Base"
+[  Debug ]  (sub)detail title(s):
 [  Debug ]    skipped  : last show, no next startime to use as stop
 [  Info  ] 
 [  Info  ]    Summary for update of       MLBNetwork.us
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           72
+[  Info  ]      new shows added           75
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        72
+[  Info  ]      total after update        75
 
 [  Info  ]      elapstime / updated show  0.02 seconds
 [  Debug ] 
@@ -3169,9 +3175,9 @@
 [  Info  ]    Summary for update of       Glbonacional.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           78
+[  Info  ]      new shows added           73
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        78
+[  Info  ]      total after update        73
 
 [  Info  ]      elapstime / updated show  0.02 seconds
 [  Debug ] 
@@ -3192,9 +3198,9 @@
 [  Info  ]    Summary for update of       Redeclube.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           76
+[  Info  ]      new shows added           71
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        76
+[  Info  ]      total after update        71
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -3203,9 +3209,9 @@
 [  Info  ]    Summary for update of       tvclubepe.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           62
+[  Info  ]      new shows added           60
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        62
+[  Info  ]      total after update        60
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -3214,9 +3220,9 @@
 [  Info  ]    Summary for update of       Foxnews.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           85
+[  Info  ]      new shows added           86
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        85
+[  Info  ]      total after update        86
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -3225,9 +3231,9 @@
 [  Info  ]    Summary for update of       RedeSeculo21.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           164
+[  Info  ]      new shows added           174
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        164
+[  Info  ]      total after update        174
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -3236,9 +3242,9 @@
 [  Info  ]    Summary for update of       Rede21.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           18
+[  Info  ]      new shows added           17
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        18
+[  Info  ]      total after update        17
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -3247,9 +3253,9 @@
 [  Info  ]    Summary for update of       Cnt.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           132
+[  Info  ]      new shows added           127
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        132
+[  Info  ]      total after update        127
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -3258,9 +3264,9 @@
 [  Info  ]    Summary for update of       Boavontadetv.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           242
+[  Info  ]      new shows added           228
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        242
+[  Info  ]      total after update        228
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -3269,9 +3275,9 @@
 [  Info  ]    Summary for update of       Agromais.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           113
+[  Info  ]      new shows added           114
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        113
+[  Info  ]      total after update        114
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -3280,9 +3286,9 @@
 [  Info  ]    Summary for update of       Boomerang.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           297
+[  Info  ]      new shows added           301
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        297
+[  Info  ]      total after update        301
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -3302,9 +3308,9 @@
 [  Info  ]    Summary for update of       Cartoonnetwork.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           220
+[  Info  ]      new shows added           212
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        220
+[  Info  ]      total after update        212
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -3313,9 +3319,9 @@
 [  Info  ]    Summary for update of       Cnnbrasil.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           46
+[  Info  ]      new shows added           45
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        46
+[  Info  ]      total after update        45
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -3324,9 +3330,9 @@
 [  Info  ]    Summary for update of       Discoverykids.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           443
+[  Info  ]      new shows added           441
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        443
+[  Info  ]      total after update        441
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -3353,9 +3359,9 @@
 [  Info  ]    Summary for update of       Futura.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           257
+[  Info  ]      new shows added           242
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        257
+[  Info  ]      total after update        242
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -3365,9 +3371,9 @@
 [  Info  ]    Summary for update of       Globosp.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           77
+[  Info  ]      new shows added           72
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        77
+[  Info  ]      total after update        72
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -3387,9 +3393,9 @@
 [  Info  ]    Summary for update of       Mtvlive.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           104
+[  Info  ]      new shows added           105
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        104
+[  Info  ]      total after update        105
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -3398,9 +3404,9 @@
 [  Info  ]    Summary for update of       Premierefchd.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           56
+[  Info  ]      new shows added           77
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        56
+[  Info  ]      total after update        77
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -3420,9 +3426,9 @@
 [  Info  ]    Summary for update of       Sextreme.cl
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           72
+[  Info  ]      new shows added           74
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        72
+[  Info  ]      total after update        74
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -3431,23 +3437,24 @@
 [  Info  ]    Summary for update of       Sexyhot.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           102
+[  Info  ]      new shows added           97
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        102
+[  Info  ]      total after update        97
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
 [  Info  ] ( 192/360 ) MI.TV -- chan. (xmltv_id=Sportv2.br) -- mode Force
 [  Debug ]    skipped show without a title at 06/05/2023 01:00:00
 [  Debug ]    skipped show without a title at 07/05/2023 07:00:00
-[  Debug ]    skipped show without a title at 07/05/2023 21:30:00
+[  Debug ]    skipped show without a title at 07/05/2023 18:00:00
+[  Debug ]    skipped show without a title at 08/05/2023 09:30:00
 [  Info  ] 
 [  Info  ]    Summary for update of       Sportv2.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           46
+[  Info  ]      new shows added           47
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        46
+[  Info  ]      total after update        47
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -3456,9 +3463,9 @@
 [  Info  ]    Summary for update of       Sportv3.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           51
+[  Info  ]      new shows added           52
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        51
+[  Info  ]      total after update        52
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -3485,9 +3492,9 @@
 [  Info  ]    Summary for update of       venus.pt
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           98
+[  Info  ]      new shows added           99
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        98
+[  Info  ]      total after update        99
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -3496,33 +3503,33 @@
 [  Info  ]    Summary for update of       Woohoo.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           171
+[  Info  ]      new shows added           175
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        171
+[  Info  ]      total after update        175
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
 [  Info  ] ( 196/360 ) MI.TV -- chan. (xmltv_id=Intertvgminas.br) -- mode Force
-[  Debug ]    skipped show without a title at 07/05/2023 12:25:00
+[  Debug ]    skipped show without a title at 07/05/2023 12:10:00
 [  Info  ] 
 [  Info  ]    Summary for update of       Intertvgminas.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           79
+[  Info  ]      new shows added           77
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        79
+[  Info  ]      total after update        77
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
 [  Info  ] ( 197/360 ) MI.TV -- chan. (xmltv_id=altolitoral.br) -- mode Force
-[  Debug ]    skipped show without a title at 07/05/2023 12:35:00
+[  Debug ]    skipped show without a title at 07/05/2023 12:10:00
 [  Info  ] 
 [  Info  ]    Summary for update of       altolitoral.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           78
+[  Info  ]      new shows added           73
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        78
+[  Info  ]      total after update        73
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -3532,9 +3539,9 @@
 [  Info  ]    Summary for update of       Nhk.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           227
+[  Info  ]      new shows added           222
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        227
+[  Info  ]      total after update        222
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -3555,9 +3562,9 @@
 [  Info  ]    Summary for update of       Tvriosul.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           79
+[  Info  ]      new shows added           74
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        79
+[  Info  ]      total after update        74
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -3639,9 +3646,9 @@
 [  Info  ]    Summary for update of       Globorj.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           77
+[  Info  ]      new shows added           72
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        77
+[  Info  ]      total after update        72
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -3651,23 +3658,24 @@
 [  Info  ]    Summary for update of       Globominas.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           79
+[  Info  ]      new shows added           74
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        79
+[  Info  ]      total after update        74
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
 [  Info  ] ( 211/360 ) MI.TV -- chan. (xmltv_id=Golfchannel.br) -- mode Force
-[  Debug ]    skipped show without a title at 04/05/2023 17:00:00
 [  Debug ]    skipped show without a title at 06/05/2023 16:00:00
 [  Debug ]    skipped show without a title at 07/05/2023 16:00:00
+[  Debug ]    skipped show without a title at 08/05/2023 18:00:00
+[  Debug ]    skipped show without a title at 08/05/2023 20:00:00
 [  Info  ] 
 [  Info  ]    Summary for update of       Golfchannel.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           46
+[  Info  ]      new shows added           36
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        46
+[  Info  ]      total after update        36
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -3676,9 +3684,9 @@
 [  Info  ]    Summary for update of       DiscoveryCivilization.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           187
+[  Info  ]      new shows added           186
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        187
+[  Info  ]      total after update        186
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -3698,9 +3706,9 @@
 [  Info  ]    Summary for update of       Ae.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           86
+[  Info  ]      new shows added           91
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        86
+[  Info  ]      total after update        91
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -3709,9 +3717,9 @@
 [  Info  ]    Summary for update of       Amc.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           71
+[  Info  ]      new shows added           69
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        71
+[  Info  ]      total after update        69
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -3720,9 +3728,9 @@
 [  Info  ]    Summary for update of       Animalplanet.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           102
+[  Info  ]      new shows added           103
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        102
+[  Info  ]      total after update        103
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -3731,9 +3739,9 @@
 [  Info  ]    Summary for update of       Arte1.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           121
+[  Info  ]      new shows added           118
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        121
+[  Info  ]      total after update        118
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -3764,9 +3772,9 @@
 [  Info  ]    Summary for update of       BandRede.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           78
+[  Info  ]      new shows added           77
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        78
+[  Info  ]      total after update        77
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -3775,24 +3783,25 @@
 [  Info  ]    Summary for update of       Bandnews.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           70
+[  Info  ]      new shows added           66
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        70
+[  Info  ]      total after update        66
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
 [  Info  ] ( 222/360 ) MI.TV -- chan. (xmltv_id=Bandsportshd.br) -- mode Force
-[  Debug ]    skipped show without a title at 04/05/2023 22:45:00
 [  Debug ]    skipped show without a title at 06/05/2023 23:00:00
 [  Debug ]    skipped show without a title at 07/05/2023 18:00:00
 [  Debug ]    skipped show without a title at 07/05/2023 23:00:00
+[  Debug ]    skipped show without a title at 08/05/2023 09:00:00
+[  Debug ]    skipped show without a title at 08/05/2023 21:30:00
 [  Info  ] 
 [  Info  ]    Summary for update of       Bandsportshd.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           77
+[  Info  ]      new shows added           78
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        77
+[  Info  ]      total after update        78
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -3801,9 +3810,9 @@
 [  Info  ]    Summary for update of       Bishd.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           101
+[  Info  ]      new shows added           104
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        101
+[  Info  ]      total after update        104
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -3812,9 +3821,9 @@
 [  Info  ]    Summary for update of       Canalbrasil.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           90
+[  Info  ]      new shows added           97
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        90
+[  Info  ]      total after update        97
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -3834,9 +3843,9 @@
 [  Info  ]    Summary for update of       Canalrural.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           55
+[  Info  ]      new shows added           62
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        55
+[  Info  ]      total after update        62
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -3845,9 +3854,9 @@
 [  Info  ]    Summary for update of       CancaoNova.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           125
+[  Info  ]      new shows added           161
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        125
+[  Info  ]      total after update        161
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -3876,9 +3885,9 @@
 [  Info  ]    Summary for update of       Comedycentral.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           176
+[  Info  ]      new shows added           175
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        176
+[  Info  ]      total after update        175
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -3887,9 +3896,9 @@
 [  Info  ]    Summary for update of       Curta.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           117
+[  Info  ]      new shows added           113
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        117
+[  Info  ]      total after update        113
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -3898,9 +3907,9 @@
 [  Info  ]    Summary for update of       Discovery.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           112
+[  Info  ]      new shows added           114
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        112
+[  Info  ]      total after update        114
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -3909,9 +3918,9 @@
 [  Info  ]    Summary for update of       Homehealth.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           104
+[  Info  ]      new shows added           99
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        104
+[  Info  ]      total after update        99
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -3920,9 +3929,9 @@
 [  Info  ]    Summary for update of       DiscoveryScience.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           117
+[  Info  ]      new shows added           118
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        117
+[  Info  ]      total after update        118
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -3931,9 +3940,9 @@
 [  Info  ]    Summary for update of       Hdtheater.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           109
+[  Info  ]      new shows added           115
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        109
+[  Info  ]      total after update        115
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -3953,9 +3962,9 @@
 [  Info  ]    Summary for update of       Discoveryworldhd.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           186
+[  Info  ]      new shows added           177
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        186
+[  Info  ]      total after update        177
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -3964,9 +3973,9 @@
 [  Info  ]    Summary for update of       Jpnews.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           60
+[  Info  ]      new shows added           67
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        60
+[  Info  ]      total after update        67
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -3975,9 +3984,9 @@
 [  Info  ]    Summary for update of       Disneychannel.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           189
+[  Info  ]      new shows added           198
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        189
+[  Info  ]      total after update        198
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -3986,9 +3995,9 @@
 [  Info  ]    Summary for update of       E.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           100
+[  Info  ]      new shows added           98
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        100
+[  Info  ]      total after update        98
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -3997,9 +4006,9 @@
 [  Info  ]    Summary for update of       ESPNInternational.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           71
+[  Info  ]      new shows added           66
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        71
+[  Info  ]      total after update        66
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -4008,9 +4017,9 @@
 [  Info  ]    Summary for update of       ESPN+.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           59
+[  Info  ]      new shows added           58
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        59
+[  Info  ]      total after update        58
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -4019,9 +4028,9 @@
 [  Info  ]    Summary for update of       Espnbrasil.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           63
+[  Info  ]      new shows added           62
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        63
+[  Info  ]      total after update        62
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -4030,9 +4039,9 @@
 [  Info  ]    Summary for update of       Espnextra.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           59
+[  Info  ]      new shows added           56
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        59
+[  Info  ]      total after update        56
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -4041,9 +4050,9 @@
 [  Info  ]    Summary for update of       Fashiontv.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           160
+[  Info  ]      new shows added           154
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        160
+[  Info  ]      total after update        154
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -4052,9 +4061,9 @@
 [  Info  ]    Summary for update of       FilmArts.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           73
+[  Info  ]      new shows added           67
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        73
+[  Info  ]      total after update        67
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -4063,9 +4072,9 @@
 [  Info  ]    Summary for update of       Fishtv.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           135
+[  Info  ]      new shows added           143
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        135
+[  Info  ]      total after update        143
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -4074,9 +4083,9 @@
 [  Info  ]    Summary for update of       Foodnetworkhd.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           181
+[  Info  ]      new shows added           179
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        181
+[  Info  ]      total after update        179
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -4085,9 +4094,9 @@
 [  Info  ]    Summary for update of       Fox.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           89
+[  Info  ]      new shows added           86
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        89
+[  Info  ]      total after update        86
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -4136,9 +4145,9 @@
 [  Info  ]    Summary for update of       Foxsports2.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           54
+[  Info  ]      new shows added           52
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        54
+[  Info  ]      total after update        52
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -4158,9 +4167,9 @@
 [  Info  ]    Summary for update of       TVGazeta.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           49
+[  Info  ]      new shows added           54
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        49
+[  Info  ]      total after update        54
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -4170,21 +4179,21 @@
 [  Info  ]    Summary for update of       GloboBrasilia.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           78
+[  Info  ]      new shows added           73
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        78
+[  Info  ]      total after update        73
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
 [  Info  ] ( 258/360 ) MI.TV -- chan. (xmltv_id=Globorecife.br) -- mode Force
-[  Debug ]    skipped show without a title at 07/05/2023 12:25:00
+[  Debug ]    skipped show without a title at 07/05/2023 12:10:00
 [  Info  ] 
 [  Info  ]    Summary for update of       Globorecife.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           77
+[  Info  ]      new shows added           72
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        77
+[  Info  ]      total after update        72
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -4204,9 +4213,9 @@
 [  Info  ]    Summary for update of       Gloob.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           247
+[  Info  ]      new shows added           243
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        247
+[  Info  ]      total after update        243
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -4215,9 +4224,9 @@
 [  Info  ]    Summary for update of       Gloobinho.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           623
+[  Info  ]      new shows added           608
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        623
+[  Info  ]      total after update        608
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -4237,9 +4246,9 @@
 [  Info  ]    Summary for update of       Hbo.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           53
+[  Info  ]      new shows added           54
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        53
+[  Info  ]      total after update        54
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -4248,9 +4257,9 @@
 [  Info  ]    Summary for update of       Hbo2.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           53
+[  Info  ]      new shows added           52
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        53
+[  Info  ]      total after update        52
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -4281,9 +4290,9 @@
 [  Info  ]    Summary for update of       Max.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           47
+[  Info  ]      new shows added           48
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        47
+[  Info  ]      total after update        48
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -4292,9 +4301,9 @@
 [  Info  ]    Summary for update of       Maxup.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           55
+[  Info  ]      new shows added           58
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        55
+[  Info  ]      total after update        58
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -4303,9 +4312,9 @@
 [  Info  ]    Summary for update of       Hbosignature.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           66
+[  Info  ]      new shows added           67
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        66
+[  Info  ]      total after update        67
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -4314,9 +4323,9 @@
 [  Info  ]    Summary for update of       Maxprime.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           50
+[  Info  ]      new shows added           48
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        50
+[  Info  ]      total after update        48
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -4325,9 +4334,9 @@
 [  Info  ]    Summary for update of       Historychannel.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           124
+[  Info  ]      new shows added           125
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        124
+[  Info  ]      total after update        125
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -4336,9 +4345,9 @@
 [  Info  ]    Summary for update of       H2.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           104
+[  Info  ]      new shows added           103
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        104
+[  Info  ]      total after update        103
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -4347,9 +4356,9 @@
 [  Info  ]    Summary for update of       iSat.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           90
+[  Info  ]      new shows added           110
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        90
+[  Info  ]      total after update        110
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -4358,21 +4367,21 @@
 [  Info  ]    Summary for update of       Investigacaodiscoveryid.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           124
+[  Info  ]      new shows added           126
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        124
+[  Info  ]      total after update        126
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
 [  Info  ] ( 275/360 ) MI.TV -- chan. (xmltv_id=Inttvcabugi.br) -- mode Force
-[  Debug ]    skipped show without a title at 07/05/2023 12:25:00
+[  Debug ]    skipped show without a title at 07/05/2023 12:10:00
 [  Info  ] 
 [  Info  ]    Summary for update of       Inttvcabugi.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           80
+[  Info  ]      new shows added           75
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        80
+[  Info  ]      total after update        75
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -4381,9 +4390,9 @@
 [  Info  ]    Summary for update of       Lifetime.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           61
+[  Info  ]      new shows added           63
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        61
+[  Info  ]      total after update        63
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -4403,9 +4412,9 @@
 [  Info  ]    Summary for update of       Megapix.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           49
+[  Info  ]      new shows added           47
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        49
+[  Info  ]      total after update        47
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -4414,9 +4423,9 @@
 [  Info  ]    Summary for update of       Mtv.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           96
+[  Info  ]      new shows added           94
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        96
+[  Info  ]      total after update        94
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -4425,9 +4434,9 @@
 [  Info  ]    Summary for update of       Multishow.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           152
+[  Info  ]      new shows added           161
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        152
+[  Info  ]      total after update        161
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -4436,9 +4445,9 @@
 [  Info  ]    Summary for update of       Musicboxbrazil.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           144
+[  Info  ]      new shows added           139
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        144
+[  Info  ]      total after update        139
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -4447,9 +4456,9 @@
 [  Info  ]    Summary for update of       Nationalgeographic.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           127
+[  Info  ]      new shows added           126
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        127
+[  Info  ]      total after update        126
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -4458,9 +4467,9 @@
 [  Info  ]    Summary for update of       Nickelodeon.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           179
+[  Info  ]      new shows added           180
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        179
+[  Info  ]      total after update        180
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -4476,14 +4485,14 @@
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
 [  Info  ] ( 285/360 ) MI.TV -- chan. (xmltv_id=NSCTV.br) -- mode Force
-[  Debug ]    skipped show without a title at 07/05/2023 12:25:00
+[  Debug ]    skipped show without a title at 07/05/2023 12:10:00
 [  Info  ] 
 [  Info  ]    Summary for update of       NSCTV.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           76
+[  Info  ]      new shows added           73
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        76
+[  Info  ]      total after update        73
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -4503,9 +4512,9 @@
 [  Info  ]    Summary for update of       Premiere2.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           17
+[  Info  ]      new shows added           18
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        17
+[  Info  ]      total after update        18
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -4525,9 +4534,9 @@
 [  Info  ]    Summary for update of       Premiere4.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           15
+[  Info  ]      new shows added           16
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        15
+[  Info  ]      total after update        16
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -4580,9 +4589,9 @@
 [  Info  ]    Summary for update of       Primeboxbrazil.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           130
+[  Info  ]      new shows added           132
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        130
+[  Info  ]      total after update        132
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -4592,9 +4601,9 @@
 [  Info  ]    Summary for update of       GloboPortoAlegre.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           78
+[  Info  ]      new shows added           74
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        78
+[  Info  ]      total after update        74
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -4603,9 +4612,9 @@
 [  Info  ]    Summary for update of       Rederecord.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           86
+[  Info  ]      new shows added           82
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        86
+[  Info  ]      total after update        82
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -4614,46 +4623,46 @@
 [  Info  ]    Summary for update of       Rederecordrj.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           72
+[  Info  ]      new shows added           66
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        72
+[  Info  ]      total after update        66
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
 [  Info  ] ( 298/360 ) MI.TV -- chan. (xmltv_id=Recordnews.br) -- mode Force
-[  Debug ]    skipped show without a title at 04/05/2023 21:50:00
 [  Debug ]    skipped show without a title at 05/05/2023 21:50:00
+[  Debug ]    skipped show without a title at 08/05/2023 21:50:00
 [  Info  ] 
 [  Info  ]    Summary for update of       Recordnews.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           193
+[  Info  ]      new shows added           180
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        193
+[  Info  ]      total after update        180
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
 [  Info  ] ( 299/360 ) MI.TV -- chan. (xmltv_id=Redeamazonica.br) -- mode Force
-[  Debug ]    skipped show without a title at 07/05/2023 12:25:00
+[  Debug ]    skipped show without a title at 07/05/2023 12:10:00
 [  Info  ] 
 [  Info  ]    Summary for update of       Redeamazonica.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           81
+[  Info  ]      new shows added           75
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        81
+[  Info  ]      total after update        75
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
 [  Info  ] ( 300/360 ) MI.TV -- chan. (xmltv_id=Tvbahia.br) -- mode Force
-[  Debug ]    skipped show without a title at 07/05/2023 12:25:00
+[  Debug ]    skipped show without a title at 07/05/2023 12:10:00
 [  Info  ] 
 [  Info  ]    Summary for update of       Tvbahia.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           81
+[  Info  ]      new shows added           75
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        81
+[  Info  ]      total after update        75
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -4684,9 +4693,9 @@
 [  Info  ]    Summary for update of       Redegospel.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           100
+[  Info  ]      new shows added           96
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        100
+[  Info  ]      total after update        96
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -4695,9 +4704,9 @@
 [  Info  ]    Summary for update of       RedeSuperdeTelevisao.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           150
+[  Info  ]      new shows added           151
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        150
+[  Info  ]      total after update        151
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -4728,21 +4737,21 @@
 [  Info  ]    Summary for update of       Rit.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           103
+[  Info  ]      new shows added           97
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        103
+[  Info  ]      total after update        97
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
 [  Info  ] ( 308/360 ) MI.TV -- chan. (xmltv_id=Rpccuritiba.br) -- mode Force
-[  Debug ]    skipped show without a title at 07/05/2023 12:05:00
+[  Debug ]    skipped show without a title at 07/05/2023 12:10:00
 [  Info  ] 
 [  Info  ]    Summary for update of       Rpccuritiba.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           80
+[  Info  ]      new shows added           74
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        80
+[  Info  ]      total after update        74
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -4751,9 +4760,9 @@
 [  Info  ]    Summary for update of       Sbt.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           55
+[  Info  ]      new shows added           50
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        55
+[  Info  ]      total after update        50
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -4762,9 +4771,9 @@
 [  Info  ]    Summary for update of       Sony.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           82
+[  Info  ]      new shows added           85
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        82
+[  Info  ]      total after update        85
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -4773,9 +4782,9 @@
 [  Info  ]    Summary for update of       Space.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           59
+[  Info  ]      new shows added           56
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        59
+[  Info  ]      total after update        56
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -4784,9 +4793,9 @@
 [  Info  ]    Summary for update of       Sportv.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           51
+[  Info  ]      new shows added           47
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        51
+[  Info  ]      total after update        47
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -4806,9 +4815,9 @@
 [  Info  ]    Summary for update of       Syfy.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           111
+[  Info  ]      new shows added           108
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        111
+[  Info  ]      total after update        108
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -4817,9 +4826,9 @@
 [  Info  ]    Summary for update of       Tbs.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           136
+[  Info  ]      new shows added           132
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        136
+[  Info  ]      total after update        132
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -4828,9 +4837,9 @@
 [  Info  ]    Summary for update of       Tcm.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           60
+[  Info  ]      new shows added           61
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        60
+[  Info  ]      total after update        61
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -4839,9 +4848,9 @@
 [  Info  ]    Summary for update of       Tcpremium.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           48
+[  Info  ]      new shows added           47
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        48
+[  Info  ]      total after update        47
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -4850,9 +4859,9 @@
 [  Info  ]    Summary for update of       Tcaction.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           49
+[  Info  ]      new shows added           48
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        49
+[  Info  ]      total after update        48
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -4861,9 +4870,9 @@
 [  Info  ]    Summary for update of       Tctouch.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           48
+[  Info  ]      new shows added           49
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        48
+[  Info  ]      total after update        49
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -4883,9 +4892,9 @@
 [  Info  ]    Summary for update of       Tcpipoca.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           49
+[  Info  ]      new shows added           48
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        49
+[  Info  ]      total after update        48
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -4894,9 +4903,9 @@
 [  Info  ]    Summary for update of       Tccult.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           47
+[  Info  ]      new shows added           45
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        47
+[  Info  ]      total after update        45
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -4905,9 +4914,9 @@
 [  Info  ]    Summary for update of       Terraviva.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           63
+[  Info  ]      new shows added           79
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        63
+[  Info  ]      total after update        79
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -4916,9 +4925,9 @@
 [  Info  ]    Summary for update of       Tlc.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           104
+[  Info  ]      new shows added           110
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        104
+[  Info  ]      total after update        110
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -4927,9 +4936,9 @@
 [  Info  ]    Summary for update of       Tnt.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           67
+[  Info  ]      new shows added           64
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        67
+[  Info  ]      total after update        64
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -4938,9 +4947,9 @@
 [  Info  ]    Summary for update of       TNTSerie.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           113
+[  Info  ]      new shows added           115
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        113
+[  Info  ]      total after update        115
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -4949,9 +4958,9 @@
 [  Info  ]    Summary for update of       Tooncast.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           426
+[  Info  ]      new shows added           424
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        426
+[  Info  ]      total after update        424
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -4960,9 +4969,9 @@
 [  Info  ]    Summary for update of       Travelboxbrazil.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           197
+[  Info  ]      new shows added           190
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        197
+[  Info  ]      total after update        190
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -4982,21 +4991,21 @@
 [  Info  ]    Summary for update of       Tvbrasil.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           148
+[  Info  ]      new shows added           150
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        148
+[  Info  ]      total after update        150
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
 [  Info  ] ( 331/360 ) MI.TV -- chan. (xmltv_id=GloboAnhangueraGoias.br) -- mode Force
-[  Debug ]    skipped show without a title at 07/05/2023 12:25:00
+[  Debug ]    skipped show without a title at 07/05/2023 12:10:00
 [  Info  ] 
 [  Info  ]    Summary for update of       GloboAnhangueraGoias.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           77
+[  Info  ]      new shows added           73
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        77
+[  Info  ]      total after update        73
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -5005,9 +5014,9 @@
 [  Info  ]    Summary for update of       Tvaparecida.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           106
+[  Info  ]      new shows added           103
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        106
+[  Info  ]      total after update        103
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -5017,9 +5026,9 @@
 [  Info  ]    Summary for update of       Tvcabobranco.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           77
+[  Info  ]      new shows added           73
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        77
+[  Info  ]      total after update        73
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -5028,21 +5037,21 @@
 [  Info  ]    Summary for update of       Tvcamara.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           88
+[  Info  ]      new shows added           104
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        88
+[  Info  ]      total after update        104
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
 [  Info  ] ( 335/360 ) MI.TV -- chan. (xmltv_id=Centroamerica.br) -- mode Force
-[  Debug ]    skipped show without a title at 07/05/2023 12:25:00
+[  Debug ]    skipped show without a title at 07/05/2023 12:10:00
 [  Info  ] 
 [  Info  ]    Summary for update of       Centroamerica.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           80
+[  Info  ]      new shows added           78
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        80
+[  Info  ]      total after update        78
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -5051,9 +5060,9 @@
 [  Info  ]    Summary for update of       tvclube.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           62
+[  Info  ]      new shows added           60
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        62
+[  Info  ]      total after update        60
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -5062,9 +5071,9 @@
 [  Info  ]    Summary for update of       Tvcultura.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           180
+[  Info  ]      new shows added           212
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        180
+[  Info  ]      total after update        212
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -5073,21 +5082,21 @@
 [  Info  ]    Summary for update of       Tvdiario.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           99
+[  Info  ]      new shows added           98
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        99
+[  Info  ]      total after update        98
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
 [  Info  ] ( 339/360 ) MI.TV -- chan. (xmltv_id=Tvdiariosp.br) -- mode Force
-[  Debug ]    skipped show without a title at 07/05/2023 12:25:00
+[  Debug ]    skipped show without a title at 07/05/2023 12:10:00
 [  Info  ] 
 [  Info  ]    Summary for update of       Tvdiariosp.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           79
+[  Info  ]      new shows added           76
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        79
+[  Info  ]      total after update        76
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -5096,33 +5105,33 @@
 [  Info  ]    Summary for update of       Tvescola.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           224
+[  Info  ]      new shows added           223
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        224
+[  Info  ]      total after update        223
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
 [  Info  ] ( 341/360 ) MI.TV -- chan. (xmltv_id=Tvgazetaalagoas.br) -- mode Force
-[  Debug ]    skipped show without a title at 07/05/2023 12:25:00
+[  Debug ]    skipped show without a title at 07/05/2023 12:10:00
 [  Info  ] 
 [  Info  ]    Summary for update of       Tvgazetaalagoas.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           77
+[  Info  ]      new shows added           72
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        77
+[  Info  ]      total after update        72
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
 [  Info  ] ( 342/360 ) MI.TV -- chan. (xmltv_id=TVGazetaes.br) -- mode Force
-[  Debug ]    skipped show without a title at 07/05/2023 12:25:00
+[  Debug ]    skipped show without a title at 07/05/2023 12:10:00
 [  Info  ] 
 [  Info  ]    Summary for update of       TVGazetaes.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           77
+[  Info  ]      new shows added           72
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        77
+[  Info  ]      total after update        72
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -5140,21 +5149,21 @@
 [  Info  ]    Summary for update of       Tvjustica.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           161
+[  Info  ]      new shows added           163
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        161
+[  Info  ]      total after update        163
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
 [  Info  ] ( 345/360 ) MI.TV -- chan. (xmltv_id=Tvliberalbelem.br) -- mode Force
-[  Debug ]    skipped show without a title at 07/05/2023 12:25:00
+[  Debug ]    skipped show without a title at 07/05/2023 12:10:00
 [  Info  ] 
 [  Info  ]    Summary for update of       Tvliberalbelem.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           76
+[  Info  ]      new shows added           73
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        76
+[  Info  ]      total after update        73
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -5164,21 +5173,21 @@
 [  Info  ]    Summary for update of       Tvmirante.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           80
+[  Info  ]      new shows added           74
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        80
+[  Info  ]      total after update        74
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
 [  Info  ] ( 347/360 ) MI.TV -- chan. (xmltv_id=Tvmorena.br) -- mode Force
-[  Debug ]    skipped show without a title at 07/05/2023 12:25:00
+[  Debug ]    skipped show without a title at 07/05/2023 12:10:00
 [  Info  ] 
 [  Info  ]    Summary for update of       Tvmorena.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           80
+[  Info  ]      new shows added           77
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        80
+[  Info  ]      total after update        77
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -5187,9 +5196,9 @@
 [  Info  ]    Summary for update of       Tvnovotempo.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           127
+[  Info  ]      new shows added           122
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        127
+[  Info  ]      total after update        122
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -5198,9 +5207,9 @@
 [  Info  ]    Summary for update of       Tvratimbum.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           308
+[  Info  ]      new shows added           310
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        308
+[  Info  ]      total after update        310
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -5209,33 +5218,33 @@
 [  Info  ]    Summary for update of       Tvsenado.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           111
+[  Info  ]      new shows added           109
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        111
+[  Info  ]      total after update        109
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
 [  Info  ] ( 351/360 ) MI.TV -- chan. (xmltv_id=Tvsergipe.br) -- mode Force
-[  Debug ]    skipped show without a title at 07/05/2023 12:25:00
+[  Debug ]    skipped show without a title at 07/05/2023 12:10:00
 [  Info  ] 
 [  Info  ]    Summary for update of       Tvsergipe.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           79
+[  Info  ]      new shows added           73
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        79
+[  Info  ]      total after update        73
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
 [  Info  ] ( 352/360 ) MI.TV -- chan. (xmltv_id=Verdesmares.br) -- mode Force
-[  Debug ]    skipped show without a title at 07/05/2023 12:30:00
+[  Debug ]    skipped show without a title at 07/05/2023 12:10:00
 [  Info  ] 
 [  Info  ]    Summary for update of       Verdesmares.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           82
+[  Info  ]      new shows added           74
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        82
+[  Info  ]      total after update        74
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -5255,9 +5264,9 @@
 [  Info  ]    Summary for update of       VH1.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           33
+[  Info  ]      new shows added           32
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        33
+[  Info  ]      total after update        32
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -5266,9 +5275,9 @@
 [  Info  ]    Summary for update of       Viva.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           133
+[  Info  ]      new shows added           130
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        133
+[  Info  ]      total after update        130
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -5277,9 +5286,9 @@
 [  Info  ]    Summary for update of       Warnerchannel.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           156
+[  Info  ]      new shows added           150
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        156
+[  Info  ]      total after update        150
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -5288,15 +5297,15 @@
 [  Info  ]    Summary for update of       Zoomoo.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           1059
+[  Info  ]      new shows added           1001
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        1059
+[  Info  ]      total after update        1001
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
-[  Debug ] 20360 shows in 360 channels
+[  Debug ] 20190 shows in 360 channels
 [  Debug ] 0 updated shows
-[  Debug ] 20360 new shows added
+[  Debug ] 20190 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 04/05/2023 15:09:41 done in 9m 36s
+[        ] Job finished at 05/05/2023 15:09:36 done in 9m 31s
