@@ -7,7 +7,7 @@
 [        ]  thanks to Paul Weterings, Mat8861, Blackbear199 and all the contributing users 
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 25/08/2023 23:00:04
+[        ] Job started at 26/08/2023 23:00:06
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.15.107.0
 [  Debug ] Environment: 6.0.13
@@ -402,9 +402,9 @@
 [  Info  ]    Summary for update of       Sesctv.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           134
+[  Info  ]      new shows added           137
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        134
+[  Info  ]      total after update        137
 
 [  Info  ]      elapstime / updated show  0.00 seconds
 [  Debug ] 
@@ -413,9 +413,9 @@
 [  Info  ]    Summary for update of       recorditapoan.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           65
+[  Info  ]      new shows added           66
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        65
+[  Info  ]      total after update        66
 
 [  Info  ]      elapstime / updated show  0.00 seconds
 [  Debug ] 
@@ -479,9 +479,9 @@
 [  Info  ]    Summary for update of       Sbtnordeste.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           56
+[  Info  ]      new shows added           57
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        56
+[  Info  ]      total after update        57
 
 [  Info  ]      elapstime / updated show  0.00 seconds
 [  Debug ] 
@@ -490,9 +490,9 @@
 [  Info  ]    Summary for update of       Eurochannel.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           59
+[  Info  ]      new shows added           58
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        59
+[  Info  ]      total after update        58
 
 [  Info  ]      elapstime / updated show  0.00 seconds
 [  Debug ] 
@@ -511,9 +511,9 @@
 [  Info  ]    Summary for update of       Glbonacional.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           76
+[  Info  ]      new shows added           75
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        76
+[  Info  ]      total after update        75
 
 [  Info  ]      elapstime / updated show  0.00 seconds
 [  Debug ] 
@@ -522,9 +522,9 @@
 [  Info  ]    Summary for update of       Bbcworldnews.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           190
+[  Info  ]      new shows added           194
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        190
+[  Info  ]      total after update        194
 
 [  Info  ]      elapstime / updated show  0.00 seconds
 [  Debug ] 
@@ -534,9 +534,9 @@
 [  Info  ]    Summary for update of       Redeclube.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           75
+[  Info  ]      new shows added           74
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        75
+[  Info  ]      total after update        74
 
 [  Info  ]      elapstime / updated show  0.00 seconds
 [  Debug ] 
@@ -545,9 +545,9 @@
 [  Info  ]    Summary for update of       tvclubepe.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           58
+[  Info  ]      new shows added           59
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        58
+[  Info  ]      total after update        59
 
 [  Info  ]      elapstime / updated show  0.00 seconds
 [  Debug ] 
@@ -600,9 +600,9 @@
 [  Info  ]    Summary for update of       Boavontadetv.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           244
+[  Info  ]      new shows added           245
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        244
+[  Info  ]      total after update        245
 
 [  Info  ]      elapstime / updated show  0.00 seconds
 [  Debug ] 
@@ -622,9 +622,9 @@
 [  Info  ]    Summary for update of       Boomerang.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           315
+[  Info  ]      new shows added           595
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        315
+[  Info  ]      total after update        595
 
 [  Info  ]      elapstime / updated show  0.00 seconds
 [  Debug ] 
@@ -633,9 +633,9 @@
 [  Info  ]    Summary for update of       CanaldoBoi.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           71
+[  Info  ]      new shows added           74
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        71
+[  Info  ]      total after update        74
 
 [  Info  ]      elapstime / updated show  0.00 seconds
 [  Debug ] 
@@ -644,9 +644,9 @@
 [  Info  ]    Summary for update of       Cartoonnetwork.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           193
+[  Info  ]      new shows added           353
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        193
+[  Info  ]      total after update        353
 
 [  Info  ]      elapstime / updated show  0.00 seconds
 [  Debug ] 
@@ -655,9 +655,9 @@
 [  Info  ]    Summary for update of       Cnnbrasil.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           56
+[  Info  ]      new shows added           59
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        56
+[  Info  ]      total after update        59
 
 [  Info  ]      elapstime / updated show  0.00 seconds
 [  Debug ] 
@@ -695,11 +695,11 @@
 [  Info  ]    Summary for update of       Futura.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           247
+[  Info  ]      new shows added           265
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        247
+[  Info  ]      total after update        265
 
-[  Info  ]      elapstime / updated show  0.00 seconds
+[  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
 [  Info  ] (  61/236 ) MI.TV -- chan. (xmltv_id=Globosp.br) -- mode Force
 [  Debug ]    skipped show without a title at 27/08/2023 11:55:00
@@ -707,11 +707,11 @@
 [  Info  ]    Summary for update of       Globosp.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           75
+[  Info  ]      new shows added           74
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        75
+[  Info  ]      total after update        74
 
-[  Info  ]      elapstime / updated show  0.00 seconds
+[  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
 [  Info  ] (  62/236 ) MI.TV -- chan. (xmltv_id=Idealtv.br) -- mode Force
 [  Info  ] 
@@ -722,18 +722,18 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        61
 
-[  Info  ]      elapstime / updated show  0.00 seconds
+[  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
 [  Info  ] (  63/236 ) MI.TV -- chan. (xmltv_id=Mtvlive.br) -- mode Force
 [  Info  ] 
 [  Info  ]    Summary for update of       Mtvlive.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           95
+[  Info  ]      new shows added           98
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        95
+[  Info  ]      total after update        98
 
-[  Info  ]      elapstime / updated show  0.00 seconds
+[  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
 [  Info  ] (  64/236 ) MI.TV -- chan. (xmltv_id=Premierefchd.br) -- mode Force
 [  Info  ] 
@@ -744,62 +744,62 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        81
 
-[  Info  ]      elapstime / updated show  0.00 seconds
+[  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
 [  Info  ] (  65/236 ) MI.TV -- chan. (xmltv_id=Playboytv.br) -- mode Force
 [  Info  ] 
 [  Info  ]    Summary for update of       Playboytv.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           151
+[  Info  ]      new shows added           153
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        151
+[  Info  ]      total after update        153
 
-[  Info  ]      elapstime / updated show  0.00 seconds
+[  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
 [  Info  ] (  66/236 ) MI.TV -- chan. (xmltv_id=Sextreme.cl) -- mode Force
 [  Info  ] 
 [  Info  ]    Summary for update of       Sextreme.cl
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           68
+[  Info  ]      new shows added           69
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        68
+[  Info  ]      total after update        69
 
-[  Info  ]      elapstime / updated show  0.00 seconds
+[  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
 [  Info  ] (  67/236 ) MI.TV -- chan. (xmltv_id=Sexyhot.br) -- mode Force
 [  Info  ] 
 [  Info  ]    Summary for update of       Sexyhot.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           98
+[  Info  ]      new shows added           102
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        98
+[  Info  ]      total after update        102
 
-[  Info  ]      elapstime / updated show  0.00 seconds
+[  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
 [  Info  ] (  68/236 ) MI.TV -- chan. (xmltv_id=Sportv2.br) -- mode Force
 [  Info  ] 
 [  Info  ]    Summary for update of       Sportv2.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           60
+[  Info  ]      new shows added           55
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        60
+[  Info  ]      total after update        55
 
-[  Info  ]      elapstime / updated show  0.00 seconds
+[  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
 [  Info  ] (  69/236 ) MI.TV -- chan. (xmltv_id=Sportv3.br) -- mode Force
 [  Info  ] 
 [  Info  ]    Summary for update of       Sportv3.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           67
+[  Info  ]      new shows added           52
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        67
+[  Info  ]      total after update        52
 
-[  Info  ]      elapstime / updated show  0.00 seconds
+[  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
 [  Info  ] (  70/236 ) CLAROTV.COM.BR -- chan. (xmltv_id=Rci.br) -- mode Force
 [Warning ] server error, code 500
@@ -811,7 +811,7 @@
 [  Info  ] Existing guide data restored!
 [  Debug ] 
 [  Info  ] (  70/236 ) CLAROTV.COM.BR -- chan. (xmltv_id=Shoptime.br) -- mode Force
-[Warning ] server error, code 502
+[Warning ] server error, code 500
 [Error   ] Unable to update channel Shoptime.br
 [Critical] Generic syntax exception:
 [Critical]    message: 
@@ -824,22 +824,22 @@
 [  Info  ]    Summary for update of       venus.pt
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           100
+[  Info  ]      new shows added           99
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        100
+[  Info  ]      total after update        99
 
-[  Info  ]      elapstime / updated show  0.00 seconds
+[  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
 [  Info  ] (  71/236 ) MI.TV -- chan. (xmltv_id=Woohoo.br) -- mode Force
 [  Info  ] 
 [  Info  ]    Summary for update of       Woohoo.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           163
+[  Info  ]      new shows added           144
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        163
+[  Info  ]      total after update        144
 
-[  Info  ]      elapstime / updated show  0.00 seconds
+[  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
 [  Info  ] (  72/236 ) MI.TV -- chan. (xmltv_id=Intertvgminas.br) -- mode Force
 [  Debug ]    skipped show without a title at 27/08/2023 11:55:00
@@ -847,11 +847,11 @@
 [  Info  ]    Summary for update of       Intertvgminas.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           80
+[  Info  ]      new shows added           79
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        80
+[  Info  ]      total after update        79
 
-[  Info  ]      elapstime / updated show  0.00 seconds
+[  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
 [  Info  ] (  73/236 ) MI.TV -- chan. (xmltv_id=altolitoral.br) -- mode Force
 [  Debug ]    skipped show without a title at 27/08/2023 11:55:00
@@ -859,23 +859,21 @@
 [  Info  ]    Summary for update of       altolitoral.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           76
+[  Info  ]      new shows added           75
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        76
+[  Info  ]      total after update        75
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
 [  Info  ] (  74/236 ) MI.TV -- chan. (xmltv_id=Nhk.br) -- mode Force
-[  Debug ]    skipped show without a title at 26/08/2023 09:05:00
-[  Debug ]    skipped show without a title at 26/08/2023 10:30:00
 [  Debug ]    skipped show without a title at 27/08/2023 14:45:00
 [  Info  ] 
 [  Info  ]    Summary for update of       Nhk.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           226
+[  Info  ]      new shows added           237
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        226
+[  Info  ]      total after update        237
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -884,9 +882,9 @@
 [  Info  ]    Summary for update of       TraceBrazuca.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           33
+[  Info  ]      new shows added           32
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        33
+[  Info  ]      total after update        32
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -896,9 +894,9 @@
 [  Info  ]    Summary for update of       Tvriosul.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           76
+[  Info  ]      new shows added           75
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        76
+[  Info  ]      total after update        75
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -980,9 +978,9 @@
 [  Info  ]    Summary for update of       Globorj.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           75
+[  Info  ]      new shows added           74
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        75
+[  Info  ]      total after update        74
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -992,9 +990,9 @@
 [  Info  ]    Summary for update of       Globominas.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           77
+[  Info  ]      new shows added           76
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        77
+[  Info  ]      total after update        76
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -1003,13 +1001,19 @@
 [  Debug ]    skipped show without a title at 27/08/2023 15:00:00
 [  Debug ]    skipped show without a title at 28/08/2023 16:00:00
 [  Debug ]    skipped show without a title at 28/08/2023 18:00:00
+[  Debug ]    skipped show without a title at 29/08/2023 16:00:00
+[  Debug ]    skipped show without a title at 29/08/2023 18:00:00
+[  Debug ]    skipped show without a title at 29/08/2023 21:00:00
+[  Debug ]    skipped show without a title at 29/08/2023 22:00:00
+[  Debug ]    skipped show without a title at 29/08/2023 22:30:00
+[  Debug ]    skipped show without a title at 29/08/2023 23:00:00
 [  Info  ] 
 [  Info  ]    Summary for update of       Golfchannel.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           27
+[  Info  ]      new shows added           25
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        27
+[  Info  ]      total after update        25
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -1018,9 +1022,9 @@
 [  Info  ]    Summary for update of       DiscoveryCivilization.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           184
+[  Info  ]      new shows added           183
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        184
+[  Info  ]      total after update        183
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -1040,9 +1044,9 @@
 [  Info  ]    Summary for update of       Ae.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           90
+[  Info  ]      new shows added           96
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        90
+[  Info  ]      total after update        96
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -1051,9 +1055,9 @@
 [  Info  ]    Summary for update of       Amc.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           78
+[  Info  ]      new shows added           74
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        78
+[  Info  ]      total after update        74
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -1062,9 +1066,9 @@
 [  Info  ]    Summary for update of       Animalplanet.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           108
+[  Info  ]      new shows added           107
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        108
+[  Info  ]      total after update        107
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -1073,9 +1077,9 @@
 [  Info  ]    Summary for update of       Arte1.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           109
+[  Info  ]      new shows added           124
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        109
+[  Info  ]      total after update        124
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -1106,9 +1110,9 @@
 [  Info  ]    Summary for update of       BandRede.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           76
+[  Info  ]      new shows added           75
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        76
+[  Info  ]      total after update        75
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -1124,18 +1128,17 @@
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
 [  Info  ] (  98/236 ) MI.TV -- chan. (xmltv_id=Bandsportshd.br) -- mode Force
-[  Debug ]    skipped show without a title at 25/08/2023 22:45:00
 [  Debug ]    skipped show without a title at 26/08/2023 20:00:00
 [  Debug ]    skipped show without a title at 27/08/2023 18:00:00
-[  Debug ]    skipped show without a title at 27/08/2023 22:30:00
 [  Debug ]    skipped show without a title at 28/08/2023 22:45:00
+[  Debug ]    skipped show without a title at 29/08/2023 22:45:00
 [  Info  ] 
 [  Info  ]    Summary for update of       Bandsportshd.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           77
+[  Info  ]      new shows added           73
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        77
+[  Info  ]      total after update        73
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -1144,9 +1147,9 @@
 [  Info  ]    Summary for update of       Bishd.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           113
+[  Info  ]      new shows added           114
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        113
+[  Info  ]      total after update        114
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -1155,9 +1158,9 @@
 [  Info  ]    Summary for update of       Canalbrasil.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           90
+[  Info  ]      new shows added           96
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        90
+[  Info  ]      total after update        96
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -1166,9 +1169,9 @@
 [  Info  ]    Summary for update of       Off.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           163
+[  Info  ]      new shows added           161
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        163
+[  Info  ]      total after update        161
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -1177,9 +1180,9 @@
 [  Info  ]    Summary for update of       Canalrural.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           65
+[  Info  ]      new shows added           67
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        65
+[  Info  ]      total after update        67
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -1188,9 +1191,9 @@
 [  Info  ]    Summary for update of       CancaoNova.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           136
+[  Info  ]      new shows added           134
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        136
+[  Info  ]      total after update        134
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -1199,9 +1202,9 @@
 [  Info  ]    Summary for update of       Cinemax.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           55
+[  Info  ]      new shows added           52
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        55
+[  Info  ]      total after update        52
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -1219,9 +1222,9 @@
 [  Info  ]    Summary for update of       Comedycentral.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           186
+[  Info  ]      new shows added           183
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        186
+[  Info  ]      total after update        183
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -1241,9 +1244,9 @@
 [  Info  ]    Summary for update of       Discovery.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           105
+[  Info  ]      new shows added           106
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        105
+[  Info  ]      total after update        106
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -1274,9 +1277,9 @@
 [  Info  ]    Summary for update of       Hdtheater.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           125
+[  Info  ]      new shows added           126
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        125
+[  Info  ]      total after update        126
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -1285,9 +1288,9 @@
 [  Info  ]    Summary for update of       Discturbohd.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           108
+[  Info  ]      new shows added           112
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        108
+[  Info  ]      total after update        112
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -1296,9 +1299,9 @@
 [  Info  ]    Summary for update of       Discoveryworldhd.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           177
+[  Info  ]      new shows added           171
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        177
+[  Info  ]      total after update        171
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -1307,9 +1310,9 @@
 [  Info  ]    Summary for update of       Jpnews.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           67
+[  Info  ]      new shows added           69
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        67
+[  Info  ]      total after update        69
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -1318,9 +1321,9 @@
 [  Info  ]    Summary for update of       Disneychannel.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           194
+[  Info  ]      new shows added           200
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        194
+[  Info  ]      total after update        200
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -1340,9 +1343,9 @@
 [  Info  ]    Summary for update of       ESPNInternational.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           63
+[  Info  ]      new shows added           61
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        63
+[  Info  ]      total after update        61
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -1351,9 +1354,9 @@
 [  Info  ]    Summary for update of       ESPN+.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           60
+[  Info  ]      new shows added           65
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        60
+[  Info  ]      total after update        65
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -1362,9 +1365,9 @@
 [  Info  ]    Summary for update of       Espnbrasil.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           67
+[  Info  ]      new shows added           65
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        67
+[  Info  ]      total after update        65
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -1373,9 +1376,9 @@
 [  Info  ]    Summary for update of       Espnextra.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           56
+[  Info  ]      new shows added           58
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        56
+[  Info  ]      total after update        58
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -1384,9 +1387,9 @@
 [  Info  ]    Summary for update of       Fashiontv.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           163
+[  Info  ]      new shows added           159
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        163
+[  Info  ]      total after update        159
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -1395,9 +1398,9 @@
 [  Info  ]    Summary for update of       FilmArts.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           76
+[  Info  ]      new shows added           77
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        76
+[  Info  ]      total after update        77
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -1406,9 +1409,9 @@
 [  Info  ]    Summary for update of       Fishtv.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           138
+[  Info  ]      new shows added           145
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        138
+[  Info  ]      total after update        145
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -1417,9 +1420,9 @@
 [  Info  ]    Summary for update of       Foodnetworkhd.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           187
+[  Info  ]      new shows added           189
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        187
+[  Info  ]      total after update        189
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -1428,9 +1431,9 @@
 [  Info  ]    Summary for update of       Fox.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           98
+[  Info  ]      new shows added           99
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        98
+[  Info  ]      total after update        99
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -1457,9 +1460,9 @@
 [  Info  ]    Summary for update of       Foxlife.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           52
+[  Info  ]      new shows added           54
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        52
+[  Info  ]      total after update        54
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -1479,9 +1482,9 @@
 [  Info  ]    Summary for update of       Foxsports2.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           56
+[  Info  ]      new shows added           55
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        56
+[  Info  ]      total after update        55
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -1490,9 +1493,9 @@
 [  Info  ]    Summary for update of       Fx.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           48
+[  Info  ]      new shows added           54
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        48
+[  Info  ]      total after update        54
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -1501,9 +1504,9 @@
 [  Info  ]    Summary for update of       TVGazeta.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           48
+[  Info  ]      new shows added           43
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        48
+[  Info  ]      total after update        43
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -1513,9 +1516,9 @@
 [  Info  ]    Summary for update of       GloboBrasilia.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           76
+[  Info  ]      new shows added           75
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        76
+[  Info  ]      total after update        75
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -1525,9 +1528,9 @@
 [  Info  ]    Summary for update of       Globorecife.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           75
+[  Info  ]      new shows added           74
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        75
+[  Info  ]      total after update        74
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -1536,9 +1539,9 @@
 [  Info  ]    Summary for update of       Globonews.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           67
+[  Info  ]      new shows added           68
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        67
+[  Info  ]      total after update        68
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -1547,9 +1550,9 @@
 [  Info  ]    Summary for update of       Gloob.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           234
+[  Info  ]      new shows added           221
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        234
+[  Info  ]      total after update        221
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -1569,9 +1572,9 @@
 [  Info  ]    Summary for update of       Gnt.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           115
+[  Info  ]      new shows added           114
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        115
+[  Info  ]      total after update        114
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -1580,9 +1583,9 @@
 [  Info  ]    Summary for update of       Hbo.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           51
+[  Info  ]      new shows added           50
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        51
+[  Info  ]      total after update        50
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -1591,9 +1594,9 @@
 [  Info  ]    Summary for update of       Hbo2.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           54
+[  Info  ]      new shows added           52
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        54
+[  Info  ]      total after update        52
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -1602,9 +1605,9 @@
 [  Info  ]    Summary for update of       Hboplus.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           51
+[  Info  ]      new shows added           50
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        51
+[  Info  ]      total after update        50
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -1613,9 +1616,9 @@
 [  Info  ]    Summary for update of       Hbofamily.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           49
+[  Info  ]      new shows added           51
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        49
+[  Info  ]      total after update        51
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -1624,9 +1627,9 @@
 [  Info  ]    Summary for update of       Max.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           48
+[  Info  ]      new shows added           49
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        48
+[  Info  ]      total after update        49
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -1635,9 +1638,9 @@
 [  Info  ]    Summary for update of       Maxup.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           54
+[  Info  ]      new shows added           56
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        54
+[  Info  ]      total after update        56
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -1646,9 +1649,9 @@
 [  Info  ]    Summary for update of       Hbosignature.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           65
+[  Info  ]      new shows added           68
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        65
+[  Info  ]      total after update        68
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -1679,9 +1682,9 @@
 [  Info  ]    Summary for update of       H2.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           101
+[  Info  ]      new shows added           100
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        101
+[  Info  ]      total after update        100
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -1690,9 +1693,9 @@
 [  Info  ]    Summary for update of       iSat.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           110
+[  Info  ]      new shows added           126
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        110
+[  Info  ]      total after update        126
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -1701,9 +1704,9 @@
 [  Info  ]    Summary for update of       Investigacaodiscoveryid.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           119
+[  Info  ]      new shows added           124
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        119
+[  Info  ]      total after update        124
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -1713,9 +1716,9 @@
 [  Info  ]    Summary for update of       Inttvcabugi.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           78
+[  Info  ]      new shows added           77
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        78
+[  Info  ]      total after update        77
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -1724,9 +1727,9 @@
 [  Info  ]    Summary for update of       Lifetime.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           81
+[  Info  ]      new shows added           83
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        81
+[  Info  ]      total after update        83
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -1735,9 +1738,9 @@
 [  Info  ]    Summary for update of       +globosat.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           159
+[  Info  ]      new shows added           157
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        159
+[  Info  ]      total after update        157
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -1746,9 +1749,9 @@
 [  Info  ]    Summary for update of       Megapix.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           46
+[  Info  ]      new shows added           47
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        46
+[  Info  ]      total after update        47
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -1757,9 +1760,9 @@
 [  Info  ]    Summary for update of       Mtv.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           100
+[  Info  ]      new shows added           99
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        100
+[  Info  ]      total after update        99
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -1768,9 +1771,9 @@
 [  Info  ]    Summary for update of       Multishow.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           137
+[  Info  ]      new shows added           134
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        137
+[  Info  ]      total after update        134
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -1779,9 +1782,9 @@
 [  Info  ]    Summary for update of       Musicboxbrazil.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           133
+[  Info  ]      new shows added           145
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        133
+[  Info  ]      total after update        145
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -1790,9 +1793,9 @@
 [  Info  ]    Summary for update of       Nationalgeographic.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           121
+[  Info  ]      new shows added           124
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        121
+[  Info  ]      total after update        124
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -1812,9 +1815,9 @@
 [  Info  ]    Summary for update of       NickJr.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           184
+[  Info  ]      new shows added           186
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        184
+[  Info  ]      total after update        186
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -1824,9 +1827,9 @@
 [  Info  ]    Summary for update of       NSCTV.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           75
+[  Info  ]      new shows added           74
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        75
+[  Info  ]      total after update        74
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -1835,9 +1838,9 @@
 [  Info  ]    Summary for update of       Paramounthd.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           60
+[  Info  ]      new shows added           63
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        60
+[  Info  ]      total after update        63
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -1846,9 +1849,9 @@
 [  Info  ]    Summary for update of       Premiere2.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           18
+[  Info  ]      new shows added           16
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        18
+[  Info  ]      total after update        16
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -1923,9 +1926,9 @@
 [  Info  ]    Summary for update of       Primeboxbrazil.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           149
+[  Info  ]      new shows added           144
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        149
+[  Info  ]      total after update        144
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -1935,9 +1938,9 @@
 [  Info  ]    Summary for update of       GloboPortoAlegre.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           76
+[  Info  ]      new shows added           75
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        76
+[  Info  ]      total after update        75
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -1946,9 +1949,9 @@
 [  Info  ]    Summary for update of       Rederecord.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           81
+[  Info  ]      new shows added           82
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        81
+[  Info  ]      total after update        82
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -1957,22 +1960,22 @@
 [  Info  ]    Summary for update of       Rederecordrj.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           65
+[  Info  ]      new shows added           66
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        65
+[  Info  ]      total after update        66
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
 [  Info  ] ( 174/236 ) MI.TV -- chan. (xmltv_id=Recordnews.br) -- mode Force
-[  Debug ]    skipped show without a title at 25/08/2023 21:50:00
 [  Debug ]    skipped show without a title at 28/08/2023 21:50:00
+[  Debug ]    skipped show without a title at 29/08/2023 21:50:00
 [  Info  ] 
 [  Info  ]    Summary for update of       Recordnews.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           180
+[  Info  ]      new shows added           178
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        180
+[  Info  ]      total after update        178
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -1982,9 +1985,9 @@
 [  Info  ]    Summary for update of       Redeamazonica.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           78
+[  Info  ]      new shows added           77
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        78
+[  Info  ]      total after update        77
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -1994,9 +1997,9 @@
 [  Info  ]    Summary for update of       Tvbahia.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           78
+[  Info  ]      new shows added           77
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        78
+[  Info  ]      total after update        77
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -2005,9 +2008,9 @@
 [  Info  ]    Summary for update of       Redebrasil.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           116
+[  Info  ]      new shows added           118
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        116
+[  Info  ]      total after update        118
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -2027,9 +2030,9 @@
 [  Info  ]    Summary for update of       Redegospel.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           96
+[  Info  ]      new shows added           95
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        96
+[  Info  ]      total after update        95
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -2038,9 +2041,9 @@
 [  Info  ]    Summary for update of       RedeSuperdeTelevisao.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           152
+[  Info  ]      new shows added           136
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        152
+[  Info  ]      total after update        136
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -2049,9 +2052,9 @@
 [  Info  ]    Summary for update of       Redevida.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           147
+[  Info  ]      new shows added           158
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        147
+[  Info  ]      total after update        158
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -2083,9 +2086,9 @@
 [  Info  ]    Summary for update of       Rpccuritiba.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           78
+[  Info  ]      new shows added           77
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        78
+[  Info  ]      total after update        77
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -2094,9 +2097,9 @@
 [  Info  ]    Summary for update of       Sbt.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           49
+[  Info  ]      new shows added           46
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        49
+[  Info  ]      total after update        46
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -2105,9 +2108,9 @@
 [  Info  ]    Summary for update of       Sony.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           89
+[  Info  ]      new shows added           90
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        89
+[  Info  ]      total after update        90
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -2116,9 +2119,9 @@
 [  Info  ]    Summary for update of       Space.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           52
+[  Info  ]      new shows added           54
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        52
+[  Info  ]      total after update        54
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -2127,9 +2130,9 @@
 [  Info  ]    Summary for update of       Sportv.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           73
+[  Info  ]      new shows added           72
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        73
+[  Info  ]      total after update        72
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -2149,9 +2152,9 @@
 [  Info  ]    Summary for update of       Syfy.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           105
+[  Info  ]      new shows added           102
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        105
+[  Info  ]      total after update        102
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -2169,9 +2172,9 @@
 [  Info  ]    Summary for update of       Tcm.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           55
+[  Info  ]      new shows added           59
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        55
+[  Info  ]      total after update        59
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -2180,9 +2183,9 @@
 [  Info  ]    Summary for update of       Tcpremium.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           50
+[  Info  ]      new shows added           49
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        50
+[  Info  ]      total after update        49
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -2202,9 +2205,9 @@
 [  Info  ]    Summary for update of       Tctouch.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           47
+[  Info  ]      new shows added           48
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        47
+[  Info  ]      total after update        48
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -2246,9 +2249,9 @@
 [  Info  ]    Summary for update of       Terraviva.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           65
+[  Info  ]      new shows added           79
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        65
+[  Info  ]      total after update        79
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -2257,9 +2260,9 @@
 [  Info  ]    Summary for update of       Tlc.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           112
+[  Info  ]      new shows added           117
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        112
+[  Info  ]      total after update        117
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -2268,9 +2271,9 @@
 [  Info  ]    Summary for update of       Tnt.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           64
+[  Info  ]      new shows added           68
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        64
+[  Info  ]      total after update        68
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -2279,9 +2282,9 @@
 [  Info  ]    Summary for update of       TNTSerie.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           119
+[  Info  ]      new shows added           121
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        119
+[  Info  ]      total after update        121
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -2290,9 +2293,9 @@
 [  Info  ]    Summary for update of       Tooncast.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           438
+[  Info  ]      new shows added           441
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        438
+[  Info  ]      total after update        441
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -2312,9 +2315,9 @@
 [  Info  ]    Summary for update of       Trutv.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           192
+[  Info  ]      new shows added           199
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        192
+[  Info  ]      total after update        199
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -2335,9 +2338,9 @@
 [  Info  ]    Summary for update of       GloboAnhangueraGoias.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           76
+[  Info  ]      new shows added           75
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        76
+[  Info  ]      total after update        75
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -2346,9 +2349,9 @@
 [  Info  ]    Summary for update of       Tvaparecida.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           107
+[  Info  ]      new shows added           108
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        107
+[  Info  ]      total after update        108
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -2358,9 +2361,9 @@
 [  Info  ]    Summary for update of       Tvcabobranco.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           75
+[  Info  ]      new shows added           74
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        75
+[  Info  ]      total after update        74
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -2369,9 +2372,9 @@
 [  Info  ]    Summary for update of       Tvcamara.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           104
+[  Info  ]      new shows added           91
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        104
+[  Info  ]      total after update        91
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -2381,9 +2384,9 @@
 [  Info  ]    Summary for update of       Centroamerica.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           80
+[  Info  ]      new shows added           78
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        80
+[  Info  ]      total after update        78
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -2392,9 +2395,9 @@
 [  Info  ]    Summary for update of       tvclube.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           58
+[  Info  ]      new shows added           59
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        58
+[  Info  ]      total after update        59
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -2403,9 +2406,9 @@
 [  Info  ]    Summary for update of       Tvcultura.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           180
+[  Info  ]      new shows added           188
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        180
+[  Info  ]      total after update        188
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -2426,9 +2429,9 @@
 [  Info  ]    Summary for update of       Tvdiariosp.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           76
+[  Info  ]      new shows added           75
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        76
+[  Info  ]      total after update        75
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -2437,9 +2440,9 @@
 [  Info  ]    Summary for update of       Tvescola.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           190
+[  Info  ]      new shows added           192
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        190
+[  Info  ]      total after update        192
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -2449,9 +2452,9 @@
 [  Info  ]    Summary for update of       Tvgazetaalagoas.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           75
+[  Info  ]      new shows added           74
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        75
+[  Info  ]      total after update        74
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -2461,9 +2464,9 @@
 [  Info  ]    Summary for update of       TVGazetaes.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           75
+[  Info  ]      new shows added           74
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        75
+[  Info  ]      total after update        74
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -2481,9 +2484,9 @@
 [  Info  ]    Summary for update of       Tvjustica.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           156
+[  Info  ]      new shows added           159
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        156
+[  Info  ]      total after update        159
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -2493,9 +2496,9 @@
 [  Info  ]    Summary for update of       Tvliberalbelem.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           76
+[  Info  ]      new shows added           75
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        76
+[  Info  ]      total after update        75
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -2505,9 +2508,9 @@
 [  Info  ]    Summary for update of       Tvmirante.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           76
+[  Info  ]      new shows added           75
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        76
+[  Info  ]      total after update        75
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -2517,9 +2520,9 @@
 [  Info  ]    Summary for update of       Tvmorena.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           80
+[  Info  ]      new shows added           78
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        80
+[  Info  ]      total after update        78
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -2528,9 +2531,9 @@
 [  Info  ]    Summary for update of       Tvnovotempo.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           162
+[  Info  ]      new shows added           160
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        162
+[  Info  ]      total after update        160
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -2550,9 +2553,9 @@
 [  Info  ]    Summary for update of       Tvsenado.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           106
+[  Info  ]      new shows added           105
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        106
+[  Info  ]      total after update        105
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -2562,9 +2565,9 @@
 [  Info  ]    Summary for update of       Tvsergipe.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           77
+[  Info  ]      new shows added           76
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        77
+[  Info  ]      total after update        76
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -2574,9 +2577,9 @@
 [  Info  ]    Summary for update of       Verdesmares.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           79
+[  Info  ]      new shows added           78
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        79
+[  Info  ]      total after update        78
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -2596,9 +2599,9 @@
 [  Info  ]    Summary for update of       VH1.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           30
+[  Info  ]      new shows added           28
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        30
+[  Info  ]      total after update        28
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -2607,9 +2610,9 @@
 [  Info  ]    Summary for update of       Viva.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           125
+[  Info  ]      new shows added           127
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        125
+[  Info  ]      total after update        127
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -2618,9 +2621,9 @@
 [  Info  ]    Summary for update of       Warnerchannel.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           159
+[  Info  ]      new shows added           160
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        159
+[  Info  ]      total after update        160
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
@@ -2629,15 +2632,15 @@
 [  Info  ]    Summary for update of       Zoomoo.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           845
+[  Info  ]      new shows added           847
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        845
+[  Info  ]      total after update        847
 
 [  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
-[  Debug ] 19743 shows in 236 channels
+[  Debug ] 20249 shows in 236 channels
 [  Debug ] 0 updated shows
-[  Debug ] 19743 new shows added
+[  Debug ] 20249 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 25/08/2023 23:05:31 done in 5m 27s
+[        ] Job finished at 26/08/2023 23:07:18 done in 7m 12s
