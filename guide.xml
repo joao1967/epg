@@ -170,6 +170,7 @@
   </channel>
   <channel id="Sesctv.br">
     <display-name lang="es">SescTV</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/br_sesctv_l.png" />
     <url>http://www.mi.tv</url>
   </channel>
   <channel id="recorditapoan.br">
@@ -948,11 +949,6 @@
     <display-name lang="es">Zoomoo Kids</display-name>
     <url>http://www.mi.tv</url>
   </channel>
-  <programme start="20230911000000 +0000" stop="20230911235000 +0000" channel="AFazenda.br">
-    <title lang="pt">A Fazenda 14</title>
-    <sub-title lang="pt">Reality</sub-title>
-    <desc lang="pt">O reality show mais “fogo no feno” do Brasil chega à 14ª temporada com apresentação de Adriane Galisteu e um elenco que é um verdadeiro Celeiro de Lendas.</desc>
-  </programme>
   <programme start="20230912000000 +0000" stop="20230912235000 +0000" channel="AFazenda.br">
     <title lang="pt">A Fazenda 14</title>
     <sub-title lang="pt">Reality</sub-title>
@@ -968,10 +964,10 @@
     <sub-title lang="pt">Reality</sub-title>
     <desc lang="pt">O reality show mais “fogo no feno” do Brasil chega à 14ª temporada com apresentação de Adriane Galisteu e um elenco que é um verdadeiro Celeiro de Lendas.</desc>
   </programme>
-  <programme start="20230911000000 +0000" stop="20230911235000 +0000" channel="Adultos.br">
-    <title lang="pt">Conteúdo Adulto</title>
-    <sub-title lang="pt">Não recomendado para menores de 18 anos</sub-title>
-    <desc lang="pt">Assista à filmes e cenas das melhores produtoras de conteúdos adultos nacionais e internacionais.</desc>
+  <programme start="20230915000000 +0000" stop="20230915235000 +0000" channel="AFazenda.br">
+    <title lang="pt">A Fazenda 14</title>
+    <sub-title lang="pt">Reality</sub-title>
+    <desc lang="pt">O reality show mais “fogo no feno” do Brasil chega à 14ª temporada com apresentação de Adriane Galisteu e um elenco que é um verdadeiro Celeiro de Lendas.</desc>
   </programme>
   <programme start="20230912000000 +0000" stop="20230912235000 +0000" channel="Adultos.br">
     <title lang="pt">Conteúdo Adulto</title>
@@ -988,10 +984,10 @@
     <sub-title lang="pt">Não recomendado para menores de 18 anos</sub-title>
     <desc lang="pt">Assista à filmes e cenas das melhores produtoras de conteúdos adultos nacionais e internacionais.</desc>
   </programme>
-  <programme start="20230911000000 +0000" stop="20230911235000 +0000" channel="Anime.br">
-    <title lang="pt">Animes 24H</title>
-    <sub-title lang="pt">Animes e Tokusatsu</sub-title>
-    <desc lang="pt">Assista 24h o melhor conteúdo da cultura japonesa.</desc>
+  <programme start="20230915000000 +0000" stop="20230915235000 +0000" channel="Adultos.br">
+    <title lang="pt">Conteúdo Adulto</title>
+    <sub-title lang="pt">Não recomendado para menores de 18 anos</sub-title>
+    <desc lang="pt">Assista à filmes e cenas das melhores produtoras de conteúdos adultos nacionais e internacionais.</desc>
   </programme>
   <programme start="20230912000000 +0000" stop="20230912235000 +0000" channel="Anime.br">
     <title lang="pt">Animes 24H</title>
@@ -1008,10 +1004,10 @@
     <sub-title lang="pt">Animes e Tokusatsu</sub-title>
     <desc lang="pt">Assista 24h o melhor conteúdo da cultura japonesa.</desc>
   </programme>
-  <programme start="20230911000000 +0000" stop="20230911235000 +0000" channel="BBB.br">
-    <title lang="pt">Big Brother Brasil 23</title>
-    <sub-title lang="pt">Reality</sub-title>
-    <desc lang="pt">Essa edição do BBB promete e começa com as emoções da Casa de Vidro! Com o pay-per-view Big Brother Brasil você não perde um segundo da casa mais vigiada do país e assiste tudo ao vivo, 24 horas por dia!</desc>
+  <programme start="20230915000000 +0000" stop="20230915235000 +0000" channel="Anime.br">
+    <title lang="pt">Animes 24H</title>
+    <sub-title lang="pt">Animes e Tokusatsu</sub-title>
+    <desc lang="pt">Assista 24h o melhor conteúdo da cultura japonesa.</desc>
   </programme>
   <programme start="20230912000000 +0000" stop="20230912235000 +0000" channel="BBB.br">
     <title lang="pt">Big Brother Brasil 23</title>
@@ -1028,10 +1024,10 @@
     <sub-title lang="pt">Reality</sub-title>
     <desc lang="pt">Essa edição do BBB promete e começa com as emoções da Casa de Vidro! Com o pay-per-view Big Brother Brasil você não perde um segundo da casa mais vigiada do país e assiste tudo ao vivo, 24 horas por dia!</desc>
   </programme>
-  <programme start="20230911000000 +0000" stop="20230911235000 +0000" channel="Vazio.br">
-    <title lang="pt">Programação não disponível</title>
-    <sub-title lang="pt">Ausente</sub-title>
-    <desc lang="pt">Informação não disponibilizada pelo canal.</desc>
+  <programme start="20230915000000 +0000" stop="20230915235000 +0000" channel="BBB.br">
+    <title lang="pt">Big Brother Brasil 23</title>
+    <sub-title lang="pt">Reality</sub-title>
+    <desc lang="pt">Essa edição do BBB promete e começa com as emoções da Casa de Vidro! Com o pay-per-view Big Brother Brasil você não perde um segundo da casa mais vigiada do país e assiste tudo ao vivo, 24 horas por dia!</desc>
   </programme>
   <programme start="20230912000000 +0000" stop="20230912235000 +0000" channel="Vazio.br">
     <title lang="pt">Programação não disponível</title>
@@ -1048,10 +1044,10 @@
     <sub-title lang="pt">Ausente</sub-title>
     <desc lang="pt">Informação não disponibilizada pelo canal.</desc>
   </programme>
-  <programme start="20230911000000 +0000" stop="20230911235000 +0000" channel="CanalVoleiBrasil.br">
-    <title lang="pt">Programação Canal Vôlei Brasil</title>
-    <sub-title lang="pt">Disponível Somente em Eventos</sub-title>
-    <desc lang="pt">Assista à partidas exclusivas da Superliga Masculina e Feminina de Vôlei.</desc>
+  <programme start="20230915000000 +0000" stop="20230915235000 +0000" channel="Vazio.br">
+    <title lang="pt">Programação não disponível</title>
+    <sub-title lang="pt">Ausente</sub-title>
+    <desc lang="pt">Informação não disponibilizada pelo canal.</desc>
   </programme>
   <programme start="20230912000000 +0000" stop="20230912235000 +0000" channel="CanalVoleiBrasil.br">
     <title lang="pt">Programação Canal Vôlei Brasil</title>
@@ -1068,10 +1064,10 @@
     <sub-title lang="pt">Disponível Somente em Eventos</sub-title>
     <desc lang="pt">Assista à partidas exclusivas da Superliga Masculina e Feminina de Vôlei.</desc>
   </programme>
-  <programme start="20230911000000 +0000" stop="20230911235000 +0000" channel="Estaduais.br">
-    <title lang="pt">Campeonatos Estaduais 2023</title>
+  <programme start="20230915000000 +0000" stop="20230915235000 +0000" channel="CanalVoleiBrasil.br">
+    <title lang="pt">Programação Canal Vôlei Brasil</title>
     <sub-title lang="pt">Disponível Somente em Eventos</sub-title>
-    <desc lang="pt">Acompanhe os jogos dos Campeonatos Estaduais 2023.</desc>
+    <desc lang="pt">Assista à partidas exclusivas da Superliga Masculina e Feminina de Vôlei.</desc>
   </programme>
   <programme start="20230912000000 +0000" stop="20230912235000 +0000" channel="Estaduais.br">
     <title lang="pt">Campeonatos Estaduais 2023</title>
@@ -1088,10 +1084,10 @@
     <sub-title lang="pt">Disponível Somente em Eventos</sub-title>
     <desc lang="pt">Acompanhe os jogos dos Campeonatos Estaduais 2023.</desc>
   </programme>
-  <programme start="20230911000000 +0000" stop="20230911235000 +0000" channel="CBBTV.br">
-    <title lang="pt">Programação CBB TV</title>
+  <programme start="20230915000000 +0000" stop="20230915235000 +0000" channel="Estaduais.br">
+    <title lang="pt">Campeonatos Estaduais 2023</title>
     <sub-title lang="pt">Disponível Somente em Eventos</sub-title>
-    <desc lang="pt">Acompanhe à partidas exclusivas transmitidas pela Confederação Brasileira de Basquete.</desc>
+    <desc lang="pt">Acompanhe os jogos dos Campeonatos Estaduais 2023.</desc>
   </programme>
   <programme start="20230912000000 +0000" stop="20230912235000 +0000" channel="CBBTV.br">
     <title lang="pt">Programação CBB TV</title>
@@ -1108,10 +1104,10 @@
     <sub-title lang="pt">Disponível Somente em Eventos</sub-title>
     <desc lang="pt">Acompanhe à partidas exclusivas transmitidas pela Confederação Brasileira de Basquete.</desc>
   </programme>
-  <programme start="20230911000000 +0000" stop="20230911235000 +0000" channel="Cineskyplay.br">
-    <title lang="pt">Filme</title>
-    <sub-title lang="pt">Conteúdo sob Demanda</sub-title>
-    <desc lang="pt">Assista aos principais lançamentos que saíram do cinema direto para a sua casa.</desc>
+  <programme start="20230915000000 +0000" stop="20230915235000 +0000" channel="CBBTV.br">
+    <title lang="pt">Programação CBB TV</title>
+    <sub-title lang="pt">Disponível Somente em Eventos</sub-title>
+    <desc lang="pt">Acompanhe à partidas exclusivas transmitidas pela Confederação Brasileira de Basquete.</desc>
   </programme>
   <programme start="20230912000000 +0000" stop="20230912235000 +0000" channel="Cineskyplay.br">
     <title lang="pt">Filme</title>
@@ -1128,10 +1124,10 @@
     <sub-title lang="pt">Conteúdo sob Demanda</sub-title>
     <desc lang="pt">Assista aos principais lançamentos que saíram do cinema direto para a sua casa.</desc>
   </programme>
-  <programme start="20230911000000 +0000" stop="20230911235000 +0000" channel="Conmeboltv.br">
-    <title lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</title>
-    <sub-title lang="pt">Disponível Somente em Eventos</sub-title>
-    <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</desc>
+  <programme start="20230915000000 +0000" stop="20230915235000 +0000" channel="Cineskyplay.br">
+    <title lang="pt">Filme</title>
+    <sub-title lang="pt">Conteúdo sob Demanda</sub-title>
+    <desc lang="pt">Assista aos principais lançamentos que saíram do cinema direto para a sua casa.</desc>
   </programme>
   <programme start="20230912000000 +0000" stop="20230912235000 +0000" channel="Conmeboltv.br">
     <title lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</title>
@@ -1148,10 +1144,10 @@
     <sub-title lang="pt">Disponível Somente em Eventos</sub-title>
     <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</desc>
   </programme>
-  <programme start="20230911000000 +0000" stop="20230911235000 +0000" channel="CopadoBrasil.br">
-    <title lang="pt">Programação Copa do Brasil</title>
+  <programme start="20230915000000 +0000" stop="20230915235000 +0000" channel="Conmeboltv.br">
+    <title lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</title>
     <sub-title lang="pt">Disponível Somente em Eventos</sub-title>
-    <desc lang="pt">Acompanhe à transmissões exclusivas ao vivo de partidas da Copa do Brasil de Futebol.</desc>
+    <desc lang="pt">CONMEBOL Libertadores e Sulamericana com jogos exclusivos.</desc>
   </programme>
   <programme start="20230912000000 +0000" stop="20230912235000 +0000" channel="CopadoBrasil.br">
     <title lang="pt">Programação Copa do Brasil</title>
@@ -1168,10 +1164,10 @@
     <sub-title lang="pt">Disponível Somente em Eventos</sub-title>
     <desc lang="pt">Acompanhe à transmissões exclusivas ao vivo de partidas da Copa do Brasil de Futebol.</desc>
   </programme>
-  <programme start="20230911000000 +0000" stop="20230911235000 +0000" channel="DAZN.br">
-    <title lang="pt">Programação DAZN</title>
+  <programme start="20230915000000 +0000" stop="20230915235000 +0000" channel="CopadoBrasil.br">
+    <title lang="pt">Programação Copa do Brasil</title>
     <sub-title lang="pt">Disponível Somente em Eventos</sub-title>
-    <desc lang="pt">Assista à Major Soccer League, Boxe, MMA, Euroliga de Basquete e muito mais.</desc>
+    <desc lang="pt">Acompanhe à transmissões exclusivas ao vivo de partidas da Copa do Brasil de Futebol.</desc>
   </programme>
   <programme start="20230912000000 +0000" stop="20230912235000 +0000" channel="DAZN.br">
     <title lang="pt">Programação DAZN</title>
@@ -1188,10 +1184,10 @@
     <sub-title lang="pt">Disponível Somente em Eventos</sub-title>
     <desc lang="pt">Assista à Major Soccer League, Boxe, MMA, Euroliga de Basquete e muito mais.</desc>
   </programme>
-  <programme start="20230911000000 +0000" stop="20230911235000 +0000" channel="Desenhos.br">
-    <title lang="pt">Desenhos 24H</title>
-    <sub-title lang="pt">Infantil</sub-title>
-    <desc lang="pt">Assista 24h seus desenhos favoritos e animações musicais.</desc>
+  <programme start="20230915000000 +0000" stop="20230915235000 +0000" channel="DAZN.br">
+    <title lang="pt">Programação DAZN</title>
+    <sub-title lang="pt">Disponível Somente em Eventos</sub-title>
+    <desc lang="pt">Assista à Major Soccer League, Boxe, MMA, Euroliga de Basquete e muito mais.</desc>
   </programme>
   <programme start="20230912000000 +0000" stop="20230912235000 +0000" channel="Desenhos.br">
     <title lang="pt">Desenhos 24H</title>
@@ -1208,10 +1204,10 @@
     <sub-title lang="pt">Infantil</sub-title>
     <desc lang="pt">Assista 24h seus desenhos favoritos e animações musicais.</desc>
   </programme>
-  <programme start="20230911000000 +0000" stop="20230911235000 +0000" channel="ElevenSports.br">
-    <title lang="pt">Programação Eleven Sports</title>
-    <sub-title lang="pt">Disponível Somente em Eventos</sub-title>
-    <desc lang="pt">Acompanhe à transmissões ao vivo e sob demanda de partidas dos Campeonatos Estaduais, Brasileirão Feminino.</desc>
+  <programme start="20230915000000 +0000" stop="20230915235000 +0000" channel="Desenhos.br">
+    <title lang="pt">Desenhos 24H</title>
+    <sub-title lang="pt">Infantil</sub-title>
+    <desc lang="pt">Assista 24h seus desenhos favoritos e animações musicais.</desc>
   </programme>
   <programme start="20230912000000 +0000" stop="20230912235000 +0000" channel="ElevenSports.br">
     <title lang="pt">Programação Eleven Sports</title>
@@ -1228,10 +1224,10 @@
     <sub-title lang="pt">Disponível Somente em Eventos</sub-title>
     <desc lang="pt">Acompanhe à transmissões ao vivo e sob demanda de partidas dos Campeonatos Estaduais, Brasileirão Feminino.</desc>
   </programme>
-  <programme start="20230911000000 +0000" stop="20230911235000 +0000" channel="F1TV.br">
-    <title lang="pt">Programação F1TV</title>
+  <programme start="20230915000000 +0000" stop="20230915235000 +0000" channel="ElevenSports.br">
+    <title lang="pt">Programação Eleven Sports</title>
     <sub-title lang="pt">Disponível Somente em Eventos</sub-title>
-    <desc lang="pt">Assista à todas as sessões da Fórmula 1 com várias câmeras exclusivas, dados diretos da pista, além de poder acompanhar também a F2 e a F3.</desc>
+    <desc lang="pt">Acompanhe à transmissões ao vivo e sob demanda de partidas dos Campeonatos Estaduais, Brasileirão Feminino.</desc>
   </programme>
   <programme start="20230912000000 +0000" stop="20230912235000 +0000" channel="F1TV.br">
     <title lang="pt">Programação F1TV</title>
@@ -1248,10 +1244,10 @@
     <sub-title lang="pt">Disponível Somente em Eventos</sub-title>
     <desc lang="pt">Assista à todas as sessões da Fórmula 1 com várias câmeras exclusivas, dados diretos da pista, além de poder acompanhar também a F2 e a F3.</desc>
   </programme>
-  <programme start="20230911000000 +0000" stop="20230911235000 +0000" channel="FaceboolWatch.br">
-    <title lang="pt">Programação Facebook Watch</title>
+  <programme start="20230915000000 +0000" stop="20230915235000 +0000" channel="F1TV.br">
+    <title lang="pt">Programação F1TV</title>
     <sub-title lang="pt">Disponível Somente em Eventos</sub-title>
-    <desc lang="pt">Assista à partidas exculisivas da Conmebol Libertadores às quintas-feiras.</desc>
+    <desc lang="pt">Assista à todas as sessões da Fórmula 1 com várias câmeras exclusivas, dados diretos da pista, além de poder acompanhar também a F2 e a F3.</desc>
   </programme>
   <programme start="20230912000000 +0000" stop="20230912235000 +0000" channel="FaceboolWatch.br">
     <title lang="pt">Programação Facebook Watch</title>
@@ -1268,10 +1264,10 @@
     <sub-title lang="pt">Disponível Somente em Eventos</sub-title>
     <desc lang="pt">Assista à partidas exculisivas da Conmebol Libertadores às quintas-feiras.</desc>
   </programme>
-  <programme start="20230911000000 +0000" stop="20230911235000 +0000" channel="HBOMax.br">
-    <title lang="pt">Programação TNT Sports</title>
+  <programme start="20230915000000 +0000" stop="20230915235000 +0000" channel="FaceboolWatch.br">
+    <title lang="pt">Programação Facebook Watch</title>
     <sub-title lang="pt">Disponível Somente em Eventos</sub-title>
-    <desc lang="pt">Acompanhe todos os jogos da UEFA Champions League, Eliminatórias da Copa do Mundo e o Campeonato Paulista.</desc>
+    <desc lang="pt">Assista à partidas exculisivas da Conmebol Libertadores às quintas-feiras.</desc>
   </programme>
   <programme start="20230912000000 +0000" stop="20230912235000 +0000" channel="HBOMax.br">
     <title lang="pt">Programação TNT Sports</title>
@@ -1288,10 +1284,10 @@
     <sub-title lang="pt">Disponível Somente em Eventos</sub-title>
     <desc lang="pt">Acompanhe todos os jogos da UEFA Champions League, Eliminatórias da Copa do Mundo e o Campeonato Paulista.</desc>
   </programme>
-  <programme start="20230911000000 +0000" stop="20230911235000 +0000" channel="Youtube.br">
-    <title lang="pt">Transmissão Youtube</title>
+  <programme start="20230915000000 +0000" stop="20230915235000 +0000" channel="HBOMax.br">
+    <title lang="pt">Programação TNT Sports</title>
     <sub-title lang="pt">Disponível Somente em Eventos</sub-title>
-    <desc lang="pt">Acompanhe lives, jogos, shows ao vivo e muito mais.</desc>
+    <desc lang="pt">Acompanhe todos os jogos da UEFA Champions League, Eliminatórias da Copa do Mundo e o Campeonato Paulista.</desc>
   </programme>
   <programme start="20230912000000 +0000" stop="20230912235000 +0000" channel="Youtube.br">
     <title lang="pt">Transmissão Youtube</title>
@@ -1308,10 +1304,10 @@
     <sub-title lang="pt">Disponível Somente em Eventos</sub-title>
     <desc lang="pt">Acompanhe lives, jogos, shows ao vivo e muito mais.</desc>
   </programme>
-  <programme start="20230911000000 +0000" stop="20230911235000 +0000" channel="LBF.br">
-    <title lang="pt">Programação LBF Live</title>
+  <programme start="20230915000000 +0000" stop="20230915235000 +0000" channel="Youtube.br">
+    <title lang="pt">Transmissão Youtube</title>
     <sub-title lang="pt">Disponível Somente em Eventos</sub-title>
-    <desc lang="pt">Acompanhe à partidas exclusivas da liga de basquete feminino nacional.</desc>
+    <desc lang="pt">Acompanhe lives, jogos, shows ao vivo e muito mais.</desc>
   </programme>
   <programme start="20230912000000 +0000" stop="20230912235000 +0000" channel="LBF.br">
     <title lang="pt">Programação LBF Live</title>
@@ -1328,10 +1324,10 @@
     <sub-title lang="pt">Disponível Somente em Eventos</sub-title>
     <desc lang="pt">Acompanhe à partidas exclusivas da liga de basquete feminino nacional.</desc>
   </programme>
-  <programme start="20230911000000 +0000" stop="20230911235000 +0000" channel="LNFTV.br">
-    <title lang="pt">Liga Nacional de Futsal 2022</title>
+  <programme start="20230915000000 +0000" stop="20230915235000 +0000" channel="LBF.br">
+    <title lang="pt">Programação LBF Live</title>
     <sub-title lang="pt">Disponível Somente em Eventos</sub-title>
-    <desc lang="pt">Acompanhe as emoções do principal torneio de futsal masculino no Brasil.</desc>
+    <desc lang="pt">Acompanhe à partidas exclusivas da liga de basquete feminino nacional.</desc>
   </programme>
   <programme start="20230912000000 +0000" stop="20230912235000 +0000" channel="LNFTV.br">
     <title lang="pt">Liga Nacional de Futsal 2022</title>
@@ -1348,10 +1344,10 @@
     <sub-title lang="pt">Disponível Somente em Eventos</sub-title>
     <desc lang="pt">Acompanhe as emoções do principal torneio de futsal masculino no Brasil.</desc>
   </programme>
-  <programme start="20230911000000 +0000" stop="20230911235000 +0000" channel="MLBExtraInnings.br">
-    <title lang="pt">MLB Extra Innings</title>
+  <programme start="20230915000000 +0000" stop="20230915235000 +0000" channel="LNFTV.br">
+    <title lang="pt">Liga Nacional de Futsal 2022</title>
     <sub-title lang="pt">Disponível Somente em Eventos</sub-title>
-    <desc lang="pt">Acompanhe as grandes partidas de baseball profissional norte-americano.</desc>
+    <desc lang="pt">Acompanhe as emoções do principal torneio de futsal masculino no Brasil.</desc>
   </programme>
   <programme start="20230912000000 +0000" stop="20230912235000 +0000" channel="MLBExtraInnings.br">
     <title lang="pt">MLB Extra Innings</title>
@@ -1368,10 +1364,10 @@
     <sub-title lang="pt">Disponível Somente em Eventos</sub-title>
     <desc lang="pt">Acompanhe as grandes partidas de baseball profissional norte-americano.</desc>
   </programme>
-  <programme start="20230911000000 +0000" stop="20230911235000 +0000" channel="NBALeaguePass.br">
-    <title lang="pt">NBA League Pass</title>
+  <programme start="20230915000000 +0000" stop="20230915235000 +0000" channel="MLBExtraInnings.br">
+    <title lang="pt">MLB Extra Innings</title>
     <sub-title lang="pt">Disponível Somente em Eventos</sub-title>
-    <desc lang="pt">Acompanhe as grandes partidas do basquete profissional norte-americano.</desc>
+    <desc lang="pt">Acompanhe as grandes partidas de baseball profissional norte-americano.</desc>
   </programme>
   <programme start="20230912000000 +0000" stop="20230912235000 +0000" channel="NBALeaguePass.br">
     <title lang="pt">NBA League Pass</title>
@@ -1388,10 +1384,10 @@
     <sub-title lang="pt">Disponível Somente em Eventos</sub-title>
     <desc lang="pt">Acompanhe as grandes partidas do basquete profissional norte-americano.</desc>
   </programme>
-  <programme start="20230911000000 +0000" stop="20230911235000 +0000" channel="NBB.br">
-    <title lang="pt">NBB 2022/2023</title>
+  <programme start="20230915000000 +0000" stop="20230915235000 +0000" channel="NBALeaguePass.br">
+    <title lang="pt">NBA League Pass</title>
     <sub-title lang="pt">Disponível Somente em Eventos</sub-title>
-    <desc lang="pt">Acompanhe à partidas exclusivas da principal liga do basquete nacional.</desc>
+    <desc lang="pt">Acompanhe as grandes partidas do basquete profissional norte-americano.</desc>
   </programme>
   <programme start="20230912000000 +0000" stop="20230912235000 +0000" channel="NBB.br">
     <title lang="pt">NBB 2022/2023</title>
@@ -1408,10 +1404,10 @@
     <sub-title lang="pt">Disponível Somente em Eventos</sub-title>
     <desc lang="pt">Acompanhe à partidas exclusivas da principal liga do basquete nacional.</desc>
   </programme>
-  <programme start="20230911000000 +0000" stop="20230911235000 +0000" channel="NFLGamePass.br">
-    <title lang="pt">NFL Game Pass</title>
+  <programme start="20230915000000 +0000" stop="20230915235000 +0000" channel="NBB.br">
+    <title lang="pt">NBB 2022/2023</title>
     <sub-title lang="pt">Disponível Somente em Eventos</sub-title>
-    <desc lang="pt">Acompanhe Acompanhe partidas do futebol profissional norte-americano.</desc>
+    <desc lang="pt">Acompanhe à partidas exclusivas da principal liga do basquete nacional.</desc>
   </programme>
   <programme start="20230912000000 +0000" stop="20230912235000 +0000" channel="NFLGamePass.br">
     <title lang="pt">NFL Game Pass</title>
@@ -1428,10 +1424,10 @@
     <sub-title lang="pt">Disponível Somente em Eventos</sub-title>
     <desc lang="pt">Acompanhe Acompanhe partidas do futebol profissional norte-americano.</desc>
   </programme>
-  <programme start="20230911000000 +0000" stop="20230911235000 +0000" channel="NossoFutebolNe.br">
-    <title lang="pt">Nosso Futebol - Copa do Nordeste</title>
+  <programme start="20230915000000 +0000" stop="20230915235000 +0000" channel="NFLGamePass.br">
+    <title lang="pt">NFL Game Pass</title>
     <sub-title lang="pt">Disponível Somente em Eventos</sub-title>
-    <desc lang="pt">Acompanhe as emoções do principal torneio da região Nordeste do país.</desc>
+    <desc lang="pt">Acompanhe Acompanhe partidas do futebol profissional norte-americano.</desc>
   </programme>
   <programme start="20230912000000 +0000" stop="20230912235000 +0000" channel="NossoFutebolNe.br">
     <title lang="pt">Nosso Futebol - Copa do Nordeste</title>
@@ -1448,10 +1444,10 @@
     <sub-title lang="pt">Disponível Somente em Eventos</sub-title>
     <desc lang="pt">Acompanhe as emoções do principal torneio da região Nordeste do país.</desc>
   </programme>
-  <programme start="20230911000000 +0000" stop="20230911235000 +0000" channel="NossoFutebol.br">
-    <title lang="pt">Nosso Futebol - Estaduais</title>
+  <programme start="20230915000000 +0000" stop="20230915235000 +0000" channel="NossoFutebolNe.br">
+    <title lang="pt">Nosso Futebol - Copa do Nordeste</title>
     <sub-title lang="pt">Disponível Somente em Eventos</sub-title>
-    <desc lang="pt">Acompanhe os jogos dos Campeonatos Estaduais 2023.</desc>
+    <desc lang="pt">Acompanhe as emoções do principal torneio da região Nordeste do país.</desc>
   </programme>
   <programme start="20230912000000 +0000" stop="20230912235000 +0000" channel="NossoFutebol.br">
     <title lang="pt">Nosso Futebol - Estaduais</title>
@@ -1468,10 +1464,10 @@
     <sub-title lang="pt">Disponível Somente em Eventos</sub-title>
     <desc lang="pt">Acompanhe os jogos dos Campeonatos Estaduais 2023.</desc>
   </programme>
-  <programme start="20230911000000 +0000" stop="20230911235000 +0000" channel="NSports.br">
-    <title lang="pt">Programação NSports</title>
+  <programme start="20230915000000 +0000" stop="20230915235000 +0000" channel="NossoFutebol.br">
+    <title lang="pt">Nosso Futebol - Estaduais</title>
     <sub-title lang="pt">Disponível Somente em Eventos</sub-title>
-    <desc lang="pt">Acompanhe à transmissão dos jogos do Campeonato Brasileiro Série C.</desc>
+    <desc lang="pt">Acompanhe os jogos dos Campeonatos Estaduais 2023.</desc>
   </programme>
   <programme start="20230912000000 +0000" stop="20230912235000 +0000" channel="NSports.br">
     <title lang="pt">Programação NSports</title>
@@ -1488,10 +1484,10 @@
     <sub-title lang="pt">Disponível Somente em Eventos</sub-title>
     <desc lang="pt">Acompanhe à transmissão dos jogos do Campeonato Brasileiro Série C.</desc>
   </programme>
-  <programme start="20230911000000 +0000" stop="20230911235000 +0000" channel="Onefootball.br">
-    <title lang="pt">Programação OneFootball</title>
+  <programme start="20230915000000 +0000" stop="20230915235000 +0000" channel="NSports.br">
+    <title lang="pt">Programação NSports</title>
     <sub-title lang="pt">Disponível Somente em Eventos</sub-title>
-    <desc lang="pt">Acompanhe as partidas emocionantes do Campeonato Alemão de Futebol.</desc>
+    <desc lang="pt">Acompanhe à transmissão dos jogos do Campeonato Brasileiro Série C.</desc>
   </programme>
   <programme start="20230912000000 +0000" stop="20230912235000 +0000" channel="Onefootball.br">
     <title lang="pt">Programação OneFootball</title>
@@ -1508,10 +1504,10 @@
     <sub-title lang="pt">Disponível Somente em Eventos</sub-title>
     <desc lang="pt">Acompanhe as partidas emocionantes do Campeonato Alemão de Futebol.</desc>
   </programme>
-  <programme start="20230911000000 +0000" stop="20230911235000 +0000" channel="Polishop.br">
-    <title lang="pt">Programação Polishop TV</title>
-    <sub-title lang="pt">Variedades</sub-title>
-    <desc lang="pt">São 24 horas de programas que apresentam inovações e produtos diferenciados que trazem praticidade, economia e facilidade para sua vida. O espaço perfeito para quem gosta de novidades e valoriza oportunidades e ofertas especiais.</desc>
+  <programme start="20230915000000 +0000" stop="20230915235000 +0000" channel="Onefootball.br">
+    <title lang="pt">Programação OneFootball</title>
+    <sub-title lang="pt">Disponível Somente em Eventos</sub-title>
+    <desc lang="pt">Acompanhe as partidas emocionantes do Campeonato Alemão de Futebol.</desc>
   </programme>
   <programme start="20230912000000 +0000" stop="20230912235000 +0000" channel="Polishop.br">
     <title lang="pt">Programação Polishop TV</title>
@@ -1528,10 +1524,10 @@
     <sub-title lang="pt">Variedades</sub-title>
     <desc lang="pt">São 24 horas de programas que apresentam inovações e produtos diferenciados que trazem praticidade, economia e facilidade para sua vida. O espaço perfeito para quem gosta de novidades e valoriza oportunidades e ofertas especiais.</desc>
   </programme>
-  <programme start="20230911000000 +0000" stop="20230911235000 +0000" channel="Powercouple.br">
-    <title lang="pt">Power Couple Brasil</title>
-    <sub-title lang="pt">Reality Show</sub-title>
-    <desc lang="pt">Acompanhe um reality show inusitado e eletrizante com casais famosos onde só o amor não basta para vencer um prêmio milionário.</desc>
+  <programme start="20230915000000 +0000" stop="20230915235000 +0000" channel="Polishop.br">
+    <title lang="pt">Programação Polishop TV</title>
+    <sub-title lang="pt">Variedades</sub-title>
+    <desc lang="pt">São 24 horas de programas que apresentam inovações e produtos diferenciados que trazem praticidade, economia e facilidade para sua vida. O espaço perfeito para quem gosta de novidades e valoriza oportunidades e ofertas especiais.</desc>
   </programme>
   <programme start="20230912000000 +0000" stop="20230912235000 +0000" channel="Powercouple.br">
     <title lang="pt">Power Couple Brasil</title>
@@ -1548,10 +1544,10 @@
     <sub-title lang="pt">Reality Show</sub-title>
     <desc lang="pt">Acompanhe um reality show inusitado e eletrizante com casais famosos onde só o amor não basta para vencer um prêmio milionário.</desc>
   </programme>
-  <programme start="20230911000000 +0000" stop="20230911235000 +0000" channel="Radios.br">
-    <title lang="pt">Rádios</title>
-    <sub-title lang="pt">Rádios</sub-title>
-    <desc lang="pt">Acompanhe a programação ao vivo das mais variadas rádios do Brasil.</desc>
+  <programme start="20230915000000 +0000" stop="20230915235000 +0000" channel="Powercouple.br">
+    <title lang="pt">Power Couple Brasil</title>
+    <sub-title lang="pt">Reality Show</sub-title>
+    <desc lang="pt">Acompanhe um reality show inusitado e eletrizante com casais famosos onde só o amor não basta para vencer um prêmio milionário.</desc>
   </programme>
   <programme start="20230912000000 +0000" stop="20230912235000 +0000" channel="Radios.br">
     <title lang="pt">Rádios</title>
@@ -1568,10 +1564,10 @@
     <sub-title lang="pt">Rádios</sub-title>
     <desc lang="pt">Acompanhe a programação ao vivo das mais variadas rádios do Brasil.</desc>
   </programme>
-  <programme start="20230911000000 +0000" stop="20230911235000 +0000" channel="SerieseProgramas.br">
-    <title lang="pt">Séries e Programas 24H</title>
-    <sub-title lang="pt">Programas e Séries</sub-title>
-    <desc lang="pt">Assista 24h séries, programas de TV e canais do Youtube.</desc>
+  <programme start="20230915000000 +0000" stop="20230915235000 +0000" channel="Radios.br">
+    <title lang="pt">Rádios</title>
+    <sub-title lang="pt">Rádios</sub-title>
+    <desc lang="pt">Acompanhe a programação ao vivo das mais variadas rádios do Brasil.</desc>
   </programme>
   <programme start="20230912000000 +0000" stop="20230912235000 +0000" channel="SerieseProgramas.br">
     <title lang="pt">Séries e Programas 24H</title>
@@ -1588,10 +1584,10 @@
     <sub-title lang="pt">Programas e Séries</sub-title>
     <desc lang="pt">Assista 24h séries, programas de TV e canais do Youtube.</desc>
   </programme>
-  <programme start="20230911000000 +0000" stop="20230911235000 +0000" channel="Sound.br">
-    <title lang="pt">Sound!</title>
-    <sub-title lang="pt">Música</sub-title>
-    <desc lang="pt">Uma seleção de variados estilos musicais diferentes, 24 horas por dia à sua disposição.</desc>
+  <programme start="20230915000000 +0000" stop="20230915235000 +0000" channel="SerieseProgramas.br">
+    <title lang="pt">Séries e Programas 24H</title>
+    <sub-title lang="pt">Programas e Séries</sub-title>
+    <desc lang="pt">Assista 24h séries, programas de TV e canais do Youtube.</desc>
   </programme>
   <programme start="20230912000000 +0000" stop="20230912235000 +0000" channel="Sound.br">
     <title lang="pt">Sound!</title>
@@ -1608,10 +1604,10 @@
     <sub-title lang="pt">Música</sub-title>
     <desc lang="pt">Uma seleção de variados estilos musicais diferentes, 24 horas por dia à sua disposição.</desc>
   </programme>
-  <programme start="20230911000000 +0000" stop="20230911235000 +0000" channel="Starplus.br">
-    <title lang="pt">Programação Star+</title>
-    <sub-title lang="pt">Disponível Somente em Eventos</sub-title>
-    <desc lang="pt">Assista à transmissões exclusivas da Premier League, La Liga e outros eventos esportivos.</desc>
+  <programme start="20230915000000 +0000" stop="20230915235000 +0000" channel="Sound.br">
+    <title lang="pt">Sound!</title>
+    <sub-title lang="pt">Música</sub-title>
+    <desc lang="pt">Uma seleção de variados estilos musicais diferentes, 24 horas por dia à sua disposição.</desc>
   </programme>
   <programme start="20230912000000 +0000" stop="20230912235000 +0000" channel="Starplus.br">
     <title lang="pt">Programação Star+</title>
@@ -1628,10 +1624,10 @@
     <sub-title lang="pt">Disponível Somente em Eventos</sub-title>
     <desc lang="pt">Assista à transmissões exclusivas da Premier League, La Liga e outros eventos esportivos.</desc>
   </programme>
-  <programme start="20230911000000 +0000" stop="20230911235000 +0000" channel="Primevideo.br">
-    <title lang="pt">Prime Video</title>
+  <programme start="20230915000000 +0000" stop="20230915235000 +0000" channel="Starplus.br">
+    <title lang="pt">Programação Star+</title>
     <sub-title lang="pt">Disponível Somente em Eventos</sub-title>
-    <desc lang="pt">Assista à partidas exclusivas da Copa do Brasil, NBA e muito mais.</desc>
+    <desc lang="pt">Assista à transmissões exclusivas da Premier League, La Liga e outros eventos esportivos.</desc>
   </programme>
   <programme start="20230912000000 +0000" stop="20230912235000 +0000" channel="Primevideo.br">
     <title lang="pt">Prime Video</title>
@@ -1648,10 +1644,10 @@
     <sub-title lang="pt">Disponível Somente em Eventos</sub-title>
     <desc lang="pt">Assista à partidas exclusivas da Copa do Brasil, NBA e muito mais.</desc>
   </programme>
-  <programme start="20230911000000 +0000" stop="20230911235000 +0000" channel="LiveClubes.br">
-    <title lang="pt">Live de Clubes</title>
+  <programme start="20230915000000 +0000" stop="20230915235000 +0000" channel="Primevideo.br">
+    <title lang="pt">Prime Video</title>
     <sub-title lang="pt">Disponível Somente em Eventos</sub-title>
-    <desc lang="pt">Assista à transmissões exclusivas do seu time do coração.</desc>
+    <desc lang="pt">Assista à partidas exclusivas da Copa do Brasil, NBA e muito mais.</desc>
   </programme>
   <programme start="20230912000000 +0000" stop="20230912235000 +0000" channel="LiveClubes.br">
     <title lang="pt">Live de Clubes</title>
@@ -1668,10 +1664,10 @@
     <sub-title lang="pt">Disponível Somente em Eventos</sub-title>
     <desc lang="pt">Assista à transmissões exclusivas do seu time do coração.</desc>
   </programme>
-  <programme start="20230911000000 +0000" stop="20230911235000 +0000" channel="Informativo.br">
-    <title lang="pt">Informações Diárias</title>
-    <sub-title lang="pt">Info</sub-title>
-    <desc lang="pt">Confira nossa programação diária de contéudos Ondemand e acompanhe onde será transmitido os principais eventos esportivos do dia.</desc>
+  <programme start="20230915000000 +0000" stop="20230915235000 +0000" channel="LiveClubes.br">
+    <title lang="pt">Live de Clubes</title>
+    <sub-title lang="pt">Disponível Somente em Eventos</sub-title>
+    <desc lang="pt">Assista à transmissões exclusivas do seu time do coração.</desc>
   </programme>
   <programme start="20230912000000 +0000" stop="20230912235000 +0000" channel="Informativo.br">
     <title lang="pt">Informações Diárias</title>
@@ -1688,10 +1684,10 @@
     <sub-title lang="pt">Info</sub-title>
     <desc lang="pt">Confira nossa programação diária de contéudos Ondemand e acompanhe onde será transmitido os principais eventos esportivos do dia.</desc>
   </programme>
-  <programme start="20230911000000 +0000" stop="20230911235000 +0000" channel="Plutotv.br">
-    <title lang="pt">Guia de Canais - Pluto TV</title>
+  <programme start="20230915000000 +0000" stop="20230915235000 +0000" channel="Informativo.br">
+    <title lang="pt">Informações Diárias</title>
     <sub-title lang="pt">Info</sub-title>
-    <desc lang="pt">Descubra a grande variedade de Canais, Filmes e Séries na PlutoTV!</desc>
+    <desc lang="pt">Confira nossa programação diária de contéudos Ondemand e acompanhe onde será transmitido os principais eventos esportivos do dia.</desc>
   </programme>
   <programme start="20230912000000 +0000" stop="20230912235000 +0000" channel="Plutotv.br">
     <title lang="pt">Guia de Canais - Pluto TV</title>
@@ -1708,111 +1704,45 @@
     <sub-title lang="pt">Info</sub-title>
     <desc lang="pt">Descubra a grande variedade de Canais, Filmes e Séries na PlutoTV!</desc>
   </programme>
-  <programme start="20230911010000 -0300" stop="20230911015500 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate: One Vault</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <credits>
-      <director>Renato Ribeiro</director>
-    </credits>
-    <category lang="pt">Luta</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
+  <programme start="20230915000000 +0000" stop="20230915235000 +0000" channel="Plutotv.br">
+    <title lang="pt">Guia de Canais - Pluto TV</title>
+    <sub-title lang="pt">Info</sub-title>
+    <desc lang="pt">Descubra a grande variedade de Canais, Filmes e Séries na PlutoTV!</desc>
   </programme>
-  <programme start="20230911015500 -0300" stop="20230911020000 -0300" channel="Combate HD">
-    <title lang="pt">Faixa Digital: Perfil Usman Nurmagomedov</title>
+  <programme start="20230912013000 -0300" stop="20230912024000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate</title>
+    <sub-title lang="pt">Espírito da Luta: Arqueologia da Luta</sub-title>
   </programme>
-  <programme start="20230911020000 -0300" stop="20230911050000 -0300" channel="Combate HD">
-    <title lang="pt">One Friday Fights 28</title>
-  </programme>
-  <programme start="20230911050000 -0300" stop="20230911070000 -0300" channel="Combate HD">
-    <title lang="pt">Boxe: Navarette x Valdez</title>
-  </programme>
-  <programme start="20230911070000 -0300" stop="20230911110000 -0300" channel="Combate HD">
-    <title lang="pt">Bellator 298: Storley x Ward</title>
-  </programme>
-  <programme start="20230911110000 -0300" stop="20230911112500 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate: Finalizações Jungle</title>
-  </programme>
-  <programme start="20230911112500 -0300" stop="20230911120000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate: One Vault</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <credits>
-      <director>Renato Ribeiro</director>
-    </credits>
-    <category lang="pt">Luta</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230911120000 -0300" stop="20230911125500 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate: One Vault</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <credits>
-      <director>Renato Ribeiro</director>
-    </credits>
-    <category lang="pt">Luta</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230911125500 -0300" stop="20230911130000 -0300" channel="Combate HD">
+  <programme start="20230912024000 -0300" stop="20230912030000 -0300" channel="Combate HD">
     <title lang="pt">Faixa Digital</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <credits>
+      <director>Renato Ribeiro</director>
+    </credits>
+    <category lang="pt">Luta</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
   </programme>
-  <programme start="20230911130000 -0300" stop="20230911133000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate: Nocautes Jungle</title>
-  </programme>
-  <programme start="20230911133000 -0300" stop="20230911140000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate: Finalizações Jungle</title>
-  </programme>
-  <programme start="20230911140000 -0300" stop="20230911160000 -0300" channel="Combate HD">
+  <programme start="20230912030000 -0300" stop="20230912050000 -0300" channel="Combate HD">
     <title lang="pt">Boxe: Navarette x Valdez</title>
   </programme>
-  <programme start="20230911160000 -0300" stop="20230911162000 -0300" channel="Combate HD">
-    <title lang="pt">Faixa Digital: Top 5 Celebridades na Luta</title>
-  </programme>
-  <programme start="20230911162000 -0300" stop="20230911162500 -0300" channel="Combate HD">
-    <title lang="pt">Faixa Digital: Perfil Usman Nurmagomedov</title>
-  </programme>
-  <programme start="20230911162500 -0300" stop="20230911183000 -0300" channel="Combate HD">
+  <programme start="20230912050000 -0300" stop="20230912070500 -0300" channel="Combate HD">
     <title lang="pt">Grand Prix De Judô</title>
     <sub-title lang="pt">Astana, Cazaquistão</sub-title>
   </programme>
-  <programme start="20230911183000 -0300" stop="20230911200000 -0300" channel="Combate HD">
+  <programme start="20230912070500 -0300" stop="20230912083500 -0300" channel="Combate HD">
     <title lang="pt">Grand Prix De Judô</title>
     <sub-title lang="pt">Astana, Cazaquistão</sub-title>
   </programme>
-  <programme start="20230911200000 -0300" stop="20230911230000 -0300" channel="Combate HD">
+  <programme start="20230912083500 -0300" stop="20230912090000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate: Finalizações Jungle</title>
+  </programme>
+  <programme start="20230912090000 -0300" stop="20230912120000 -0300" channel="Combate HD">
     <title lang="pt">WNO 19: Meregali x Duarte</title>
     <sub-title lang="pt">Card Principal</sub-title>
   </programme>
-  <programme start="20230911230000 -0300" stop="20230912003000 -0300" channel="Combate HD">
-    <title lang="pt">Super Rizin 2</title>
-    <desc lang="pt">Acompanhe grandes lutas do Rizin, um dos principais eventos do MMA nacional.</desc>
-    <category lang="pt">Luta</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230912003000 -0300" stop="20230912023000 -0300" channel="Combate HD">
-    <title lang="pt">Grand Prix De Judô</title>
-    <sub-title lang="pt">Croácia</sub-title>
-  </programme>
-  <programme start="20230912023000 -0300" stop="20230912030000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate</title>
-  </programme>
-  <programme start="20230912030000 -0300" stop="20230912053000 -0300" channel="Combate HD">
-    <title lang="pt">Grand Prix De Judô</title>
-    <sub-title lang="pt">Croácia</sub-title>
-  </programme>
-  <programme start="20230912053000 -0300" stop="20230912073000 -0300" channel="Combate HD">
-    <title lang="pt">Grand Prix De Judô</title>
-    <sub-title lang="pt">Croácia</sub-title>
-  </programme>
-  <programme start="20230912073000 -0300" stop="20230912080000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate: Nocautes Jungle</title>
-  </programme>
-  <programme start="20230912080000 -0300" stop="20230912083000 -0300" channel="Combate HD">
+  <programme start="20230912120000 -0300" stop="20230912125500 -0300" channel="Combate HD">
     <title lang="pt">Sessão Combate: One Vault</title>
     <desc lang="pt">Sinopse não disponível.</desc>
     <credits>
@@ -1823,33 +1753,22 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20230912083000 -0300" stop="20230912090000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate</title>
+  <programme start="20230912125500 -0300" stop="20230912130000 -0300" channel="Combate HD">
+    <title lang="pt">Faixa Digital</title>
   </programme>
-  <programme start="20230912090000 -0300" stop="20230912113000 -0300" channel="Combate HD">
+  <programme start="20230912130000 -0300" stop="20230912150000 -0300" channel="Combate HD">
+    <title lang="pt">Boxe: Navarette x Valdez</title>
+  </programme>
+  <programme start="20230912150000 -0300" stop="20230912170500 -0300" channel="Combate HD">
     <title lang="pt">Grand Prix De Judô</title>
-    <sub-title lang="pt">Croácia</sub-title>
+    <sub-title lang="pt">Astana, Cazaquistão</sub-title>
   </programme>
-  <programme start="20230912113000 -0300" stop="20230912133000 -0300" channel="Combate HD">
+  <programme start="20230912170500 -0300" stop="20230912183500 -0300" channel="Combate HD">
     <title lang="pt">Grand Prix De Judô</title>
-    <sub-title lang="pt">Croácia</sub-title>
+    <sub-title lang="pt">Astana, Cazaquistão</sub-title>
   </programme>
-  <programme start="20230912133000 -0300" stop="20230912153000 -0300" channel="Combate HD">
-    <title lang="pt">Grand Prix De Judô</title>
-    <sub-title lang="pt">Croácia</sub-title>
-  </programme>
-  <programme start="20230912153000 -0300" stop="20230912183000 -0300" channel="Combate HD">
-    <title lang="pt">PFL 2023</title>
-    <sub-title lang="pt">Regular Season #Playoffs 2</sub-title>
-  </programme>
-  <programme start="20230912183000 -0300" stop="20230912190000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate</title>
-  </programme>
-  <programme start="20230912190000 -0300" stop="20230912190500 -0300" channel="Combate HD">
-    <title lang="pt">Faixa Digital: Perfil Jake Paul</title>
-  </programme>
-  <programme start="20230912190500 -0300" stop="20230912200000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate: One Vault</title>
+  <programme start="20230912183500 -0300" stop="20230912185000 -0300" channel="Combate HD">
+    <title lang="pt">Faixa Digital: Análise Combate</title>
     <desc lang="pt">Sinopse não disponível.</desc>
     <credits>
       <director>Renato Ribeiro</director>
@@ -1859,37 +1778,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20230912200000 -0300" stop="20230912230000 -0300" channel="Combate HD">
-    <title lang="pt">Glory 87: Beztati x Kaito</title>
-  </programme>
-  <programme start="20230912230000 -0300" stop="20230913020000 -0300" channel="Combate HD">
-    <title lang="pt">PFL 2023</title>
-    <sub-title lang="pt">Regular Season #Playoffs 2</sub-title>
-  </programme>
-  <programme start="20230913020000 -0300" stop="20230913025500 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate: One Vault</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <credits>
-      <director>Renato Ribeiro</director>
-    </credits>
-    <category lang="pt">Luta</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230913025500 -0300" stop="20230913030000 -0300" channel="Combate HD">
-    <title lang="pt">Faixa Digital: Perfil Usman Nurmagomedov</title>
-  </programme>
-  <programme start="20230913030000 -0300" stop="20230913035000 -0300" channel="Combate HD">
-    <title lang="pt">Flograppling WNO</title>
-    <sub-title lang="pt">Buchecha</sub-title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <category lang="pt">Luta</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230913035000 -0300" stop="20230913040000 -0300" channel="Combate HD">
+  <programme start="20230912185000 -0300" stop="20230912190000 -0300" channel="Combate HD">
     <title lang="pt">Faixa Digital</title>
     <desc lang="pt">Sinopse não disponível.</desc>
     <credits>
@@ -1900,16 +1789,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20230913040000 -0300" stop="20230913070000 -0300" channel="Combate HD">
-    <title lang="pt">KSW 85: Parnasse x Ruchala</title>
-  </programme>
-  <programme start="20230913070000 -0300" stop="20230913100000 -0300" channel="Combate HD">
-    <title lang="pt">Glory 87: Beztati x Kaito</title>
-  </programme>
-  <programme start="20230913100000 -0300" stop="20230913102500 -0300" channel="Combate HD">
-    <title lang="pt">Faixa Digital: Top 5 Celebridades na Luta</title>
-  </programme>
-  <programme start="20230913102500 -0300" stop="20230913112000 -0300" channel="Combate HD">
+  <programme start="20230912190000 -0300" stop="20230912195500 -0300" channel="Combate HD">
     <title lang="pt">Sessão Combate: One Vault</title>
     <desc lang="pt">Sinopse não disponível.</desc>
     <credits>
@@ -1920,20 +1800,19 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20230913112000 -0300" stop="20230913132500 -0300" channel="Combate HD">
-    <title lang="pt">Boxe: Navarette x Valdez</title>
+  <programme start="20230912195500 -0300" stop="20230912200000 -0300" channel="Combate HD">
+    <title lang="pt">Faixa Digital: Top Nocautes John Lineker</title>
   </programme>
-  <programme start="20230913132500 -0300" stop="20230913162500 -0300" channel="Combate HD">
-    <title lang="pt">Glory 87: Beztati x Kaito</title>
+  <programme start="20230912200000 -0300" stop="20230912225000 -0300" channel="Combate HD">
+    <title lang="pt">Boxe: Whindersson Nunes x King Kenny</title>
   </programme>
-  <programme start="20230913162500 -0300" stop="20230913192500 -0300" channel="Combate HD">
-    <title lang="pt">PFL 2023</title>
-    <sub-title lang="pt">Regular Season #Playoffs 2</sub-title>
-  </programme>
-  <programme start="20230913192500 -0300" stop="20230913193000 -0300" channel="Combate HD">
-    <title lang="pt">Programação do Canal</title>
-    <desc lang="pt">Programação não informada pelo canal.</desc>
-    <category lang="pt">Diversos</category>
+  <programme start="20230912225000 -0300" stop="20230912230000 -0300" channel="Combate HD">
+    <title lang="pt">Faixa Digital: Top Nocautes Brasileiros no Bellator</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <credits>
+      <director>Renato Ribeiro</director>
+    </credits>
+    <category lang="pt">Luta</category>
     <rating system="BR">
       <value>5</value>
     </rating>
@@ -1946,45 +1825,46 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20230911000000 -0300" stop="20230911060000 -0300" channel="Like.br">
-    <title lang="pt">Dicas do Que Assistir? Aqui Tem!</title>
+  <programme start="20230914013000 -0300" stop="20230914043000 -0300" channel="Combate HD">
+    <title lang="pt">Glory 87: Beztati x Kaito</title>
+  </programme>
+  <programme start="20230914043000 -0300" stop="20230914050000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate</title>
+  </programme>
+  <programme start="20230914050000 -0300" stop="20230914080000 -0300" channel="Combate HD">
+    <title lang="pt">KSW 85: Parnasse x Ruchala</title>
+  </programme>
+  <programme start="20230914080000 -0300" stop="20230914110000 -0300" channel="Combate HD">
+    <title lang="pt">PFL 2023</title>
+    <sub-title lang="pt">Regular Season #Playoffs 3</sub-title>
+  </programme>
+  <programme start="20230914110000 -0300" stop="20230914130500 -0300" channel="Combate HD">
+    <title lang="pt">Boxe: Navarette x Valdez</title>
+  </programme>
+  <programme start="20230914130500 -0300" stop="20230914160300 -0300" channel="Combate HD">
+    <title lang="pt">Glory 87: Beztati x Kaito</title>
+  </programme>
+  <programme start="20230914160300 -0300" stop="20230914190000 -0300" channel="Combate HD">
+    <title lang="pt">PFL 2023</title>
+    <sub-title lang="pt">Regular Season #Playoffs 3</sub-title>
+  </programme>
+  <programme start="20230914190000 -0300" stop="20230914200000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate: One Vault</title>
     <desc lang="pt">Sinopse não disponível.</desc>
-    <category lang="pt">Diversos</category>
+    <credits>
+      <director>Renato Ribeiro</director>
+    </credits>
+    <category lang="pt">Luta</category>
     <rating system="BR">
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20230911060000 -0300" stop="20230911120000 -0300" channel="Like.br">
-    <title lang="pt">Trailers, Entrevistas e Festivais</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <category lang="pt">Cinema</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
+  <programme start="20230914200000 -0300" stop="20230914230000 -0300" channel="Combate HD">
+    <title lang="pt">KSW 85: Parnasse x Ruchala</title>
   </programme>
-  <programme start="20230911120000 -0300" stop="20230911180000 -0300" channel="Like.br">
-    <title lang="pt">Programe-se com as Dicas do Like</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <category lang="pt">Diversos</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230911180000 -0300" stop="20230911220000 -0300" channel="Like.br">
-    <title lang="pt">Fique Por Dentro dos Filmes e Programas de TV</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <category lang="pt">Cinema</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230911220000 -0300" stop="20230912000000 -0300" channel="Like.br">
-    <title lang="pt">Todas as Novidades da Sua TV Por Assinatura</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <category lang="pt">Diversos</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
+  <programme start="20230914230000 -0300" stop="20230915020000 -0300" channel="Combate HD">
+    <title lang="pt">PFL 2023</title>
+    <sub-title lang="pt">Regular Season #Playoffs 3</sub-title>
   </programme>
   <programme start="20230912000000 -0300" stop="20230912060000 -0300" channel="Like.br">
     <title lang="pt">Dicas do Que Assistir? Aqui Tem!</title>
@@ -2106,393 +1986,42 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20230911020000 -0300" stop="20230911021500 -0300" channel="Rci.br">
-    <title lang="pt">Novena do Espírito Santo</title>
-    <desc lang="pt">Padre André Ricardo reza a Novena do Espírito Santo.</desc>
-    <category lang="pt">Religião</category>
+  <programme start="20230915000000 -0300" stop="20230915060000 -0300" channel="Like.br">
+    <title lang="pt">Dicas do Que Assistir? Aqui Tem!</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Diversos</category>
     <rating system="BR">
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20230911021500 -0300" stop="20230911023000 -0300" channel="Rci.br">
-    <title lang="pt">Alô Devoto</title>
-    <desc lang="pt">Notícias sobre a Obra do Novo Santuário, Obras Sociais, Redes Sociais.</desc>
-    <category lang="pt">Informativo</category>
+  <programme start="20230915060000 -0300" stop="20230915120000 -0300" channel="Like.br">
+    <title lang="pt">Todas as Novidades da Sua TV Por Assinatura</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Diversos</category>
     <rating system="BR">
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20230911023000 -0300" stop="20230911030000 -0300" channel="Rci.br">
-    <title lang="pt">Novena dos Filhos do Pai Eterno</title>
-    <desc lang="pt">Padre João Paulo dos Santos reza a Novena dos Filhos do Pai Eterno.</desc>
-    <category lang="pt">Religião</category>
+  <programme start="20230915120000 -0300" stop="20230915180000 -0300" channel="Like.br">
+    <title lang="pt">Fique Por Dentro dos Filmes e Programas de TV</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Cinema</category>
     <rating system="BR">
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20230911030000 -0300" stop="20230911031500 -0300" channel="Rci.br">
-    <title lang="pt">Terço da Misericórdia</title>
-    <desc lang="pt">Terço da Divina Misericórdia direto do Santuário do Bom Jesus da Lapa – BA.</desc>
-    <category lang="pt">Religião</category>
+  <programme start="20230915180000 -0300" stop="20230915220000 -0300" channel="Like.br">
+    <title lang="pt">Programe-se com as Dicas do Like</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Diversos</category>
     <rating system="BR">
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20230911031500 -0300" stop="20230911033000 -0300" channel="Rci.br">
-    <title lang="pt">Alô Devoto</title>
-    <desc lang="pt">Notícias sobre a Obra do Novo Santuário, Obras Sociais, Redes Sociais.</desc>
-    <category lang="pt">Informativo</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230911033000 -0300" stop="20230911040000 -0300" channel="Rci.br">
-    <title lang="pt">Terço da Família</title>
-    <desc lang="pt">Vamos juntos rezar o Santo Terço com os devotos do Pai Eterno.</desc>
-    <category lang="pt">Religião</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230911040000 -0300" stop="20230911041500 -0300" channel="Rci.br">
-    <title lang="pt">Palavra da Salvação</title>
-    <desc lang="pt">Momento de meditar o evangelho do dia com Padre João Paulo Santos.</desc>
-    <category lang="pt">Religião</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230911041500 -0300" stop="20230911043000 -0300" channel="Rci.br">
-    <title lang="pt">Novena Ao Sagrado Coração de Jesus</title>
-    <desc lang="pt">Padre Robson de Oliveira reza a Novena ao Sagrado Coração de Jesus.</desc>
-    <category lang="pt">Religião</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230911043000 -0300" stop="20230911044500 -0300" channel="Rci.br">
-    <title lang="pt">Alô Devoto</title>
-    <desc lang="pt">Notícias sobre a Obra do Novo Santuário, Obras Sociais, Redes Sociais.</desc>
-    <category lang="pt">Informativo</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230911044500 -0300" stop="20230911050000 -0300" channel="Rci.br">
-    <title lang="pt">Mãe Maria</title>
-    <desc lang="pt">Reflexão e oração com o presidente da CNBB, Dom Walmor Oliveira de Azevedo.</desc>
-    <category lang="pt">Religião</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230911050000 -0300" stop="20230911053000 -0300" channel="Rci.br">
-    <title lang="pt">Novena dos Filhos do Pai Eterno</title>
-    <desc lang="pt">Padre João Paulo dos Santos reza a Novena dos Filhos do Pai Eterno.</desc>
-    <category lang="pt">Religião</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230911053000 -0300" stop="20230911060000 -0300" channel="Rci.br">
-    <title lang="pt">Vitrine Aprenda E Faça</title>
-    <desc lang="pt">Claudia Pacheco traz dicas para a produção de artesanato de forma simples e descomplicada.</desc>
-    <credits>
-      <actor>Claudia Pacheco</actor>
-    </credits>
-    <category lang="pt">Artes</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230911060000 -0300" stop="20230911063000 -0300" channel="Rci.br">
-    <title lang="pt">Terço Ao Sagrado Coração de Jesus</title>
-    <desc lang="pt">Irmã Claudete reza o Santo Terço Sagrado Coração de Jesus.</desc>
-    <category lang="pt">Religião</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230911063000 -0300" stop="20230911064000 -0300" channel="Rci.br">
-    <title lang="pt">Mãe Maria</title>
-    <desc lang="pt">Reflexão e oração com o presidente da CNBB, Dom Walmor Oliveira de Azevedo.</desc>
-    <category lang="pt">Religião</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230911064000 -0300" stop="20230911065500 -0300" channel="Rci.br">
-    <title lang="pt">Novena do Espírito Santo</title>
-    <desc lang="pt">Padre André Ricardo reza a Novena do Espírito Santo.</desc>
-    <category lang="pt">Religião</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230911065500 -0300" stop="20230911074500 -0300" channel="Rci.br">
-    <title lang="pt">Santa Missa</title>
-    <desc lang="pt">Santa Missa do Santuário Basílica do Divino Pai Eterno.</desc>
-    <category lang="pt">Religião</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230911074500 -0300" stop="20230911080000 -0300" channel="Rci.br">
-    <title lang="pt">Alô Devoto</title>
-    <desc lang="pt">Notícias sobre a Obra do Novo Santuário, Obras Sociais, Redes Sociais.</desc>
-    <category lang="pt">Informativo</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230911080000 -0300" stop="20230911081500 -0300" channel="Rci.br">
-    <title lang="pt">Palavra da Salvação</title>
-    <desc lang="pt">Momento de meditar o evangelho do dia com Padre João Paulo Santos.</desc>
-    <category lang="pt">Religião</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230911081500 -0300" stop="20230911083000 -0300" channel="Rci.br">
-    <title lang="pt">Novena Ao Sagrado Coração de Jesus</title>
-    <desc lang="pt">Padre Robson de Oliveira reza a Novena ao Sagrado Coração de Jesus.</desc>
-    <category lang="pt">Religião</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230911083000 -0300" stop="20230911090000 -0300" channel="Rci.br">
-    <title lang="pt">Novena do Perpétuo Socorro</title>
-    <desc lang="pt">Padre Marco Aurélio reza a Novena de Nossa Senhora do Perpétuo Socorro.</desc>
-    <category lang="pt">Religião</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230911090000 -0300" stop="20230911100000 -0300" channel="Rci.br">
-    <title lang="pt">Santo Café</title>
-    <desc lang="pt">Wilker Oliveira aborda os principais assuntos no início do seu dia.</desc>
-    <category lang="pt">Informativo</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230911100000 -0300" stop="20230911103000 -0300" channel="Rci.br">
-    <title lang="pt">Novena dos Filhos do Pai Eterno</title>
-    <desc lang="pt">Padre João Paulo dos Santos reza a Novena dos Filhos do Pai Eterno.</desc>
-    <category lang="pt">Religião</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230911103000 -0300" stop="20230911113000 -0300" channel="Rci.br">
-    <title lang="pt">Aqui em Casa</title>
-    <desc lang="pt">No Aqui em Casa, você tem culinária, artesanato, dicas para o bem-estar e notícias.</desc>
-    <category lang="pt">Culinária</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230911113000 -0300" stop="20230911113500 -0300" channel="Rci.br">
-    <title lang="pt">Diálogos</title>
-    <desc lang="pt">Em sintonia com o Magistério da Igreja, com a fé e com a Palavra de Deus.</desc>
-    <category lang="pt">Religião</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230911113500 -0300" stop="20230911114500 -0300" channel="Rci.br">
-    <title lang="pt">Igreja em Saída</title>
-    <sub-title lang="pt">A Igreja no Brasil</sub-title>
-    <desc lang="pt">Você confere as principais notícias da Igreja no Brasil e as mensagens do Papa Francisco.</desc>
-    <category lang="pt">Informativo</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230911114500 -0300" stop="20230911120000 -0300" channel="Rci.br">
-    <title lang="pt">Novena do Espírito Santo</title>
-    <desc lang="pt">Padre André Ricardo reza a Novena do Espírito Santo.</desc>
-    <category lang="pt">Religião</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230911120000 -0300" stop="20230911123000 -0300" channel="Rci.br">
-    <title lang="pt">Novena dos Filhos do Pai Eterno</title>
-    <desc lang="pt">Padre João Paulo dos Santos reza a Novena dos Filhos do Pai Eterno.</desc>
-    <category lang="pt">Religião</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230911123000 -0300" stop="20230911130000 -0300" channel="Rci.br">
-    <title lang="pt">Terço da Família</title>
-    <desc lang="pt">Vamos juntos rezar o Santo Terço com os devotos do Pai Eterno.</desc>
-    <category lang="pt">Religião</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230911130000 -0300" stop="20230911131500 -0300" channel="Rci.br">
-    <title lang="pt">Palavra da Salvação</title>
-    <desc lang="pt">Momento de meditar o evangelho do dia com Padre João Paulo Santos.</desc>
-    <category lang="pt">Religião</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230911131500 -0300" stop="20230911133000 -0300" channel="Rci.br">
-    <title lang="pt">Mãe Maria</title>
-    <desc lang="pt">Reflexão e oração com o presidente da CNBB, Dom Walmor Oliveira de Azevedo.</desc>
-    <category lang="pt">Religião</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230911133000 -0300" stop="20230911134500 -0300" channel="Rci.br">
-    <title lang="pt">Novena Ao Sagrado Coração de Jesus</title>
-    <desc lang="pt">Padre Robson de Oliveira reza a Novena ao Sagrado Coração de Jesus.</desc>
-    <category lang="pt">Religião</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230911134500 -0300" stop="20230911141500 -0300" channel="Rci.br">
-    <title lang="pt">Vitrine Aprenda E Faça</title>
-    <desc lang="pt">Claudia Pacheco traz dicas para a produção de artesanato de forma simples e descomplicada.</desc>
-    <credits>
-      <actor>Claudia Pacheco</actor>
-    </credits>
-    <category lang="pt">Artes</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230911141500 -0300" stop="20230911144500 -0300" channel="Rci.br">
-    <title lang="pt">Novena do Perpétuo Socorro</title>
-    <desc lang="pt">Padre Marco Aurélio reza a Novena de Nossa Senhora do Perpétuo Socorro.</desc>
-    <category lang="pt">Religião</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230911144500 -0300" stop="20230911150000 -0300" channel="Rci.br">
-    <title lang="pt">Almanaque Católico</title>
-    <desc lang="pt">Padre Welinton traz convidados para debater as principais notícias sobre diversos temas da atualidade.</desc>
-    <category lang="pt">Religião</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230911150000 -0300" stop="20230911151500 -0300" channel="Rci.br">
-    <title lang="pt">Terço da Misericórdia</title>
-    <desc lang="pt">Terço da Divina Misericórdia direto do Santuário do Bom Jesus da Lapa – BA.</desc>
-    <category lang="pt">Religião</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230911151500 -0300" stop="20230911163000 -0300" channel="Rci.br">
-    <title lang="pt">Almanaque Católico</title>
-    <desc lang="pt">Padre Welinton traz convidados para debater as principais notícias sobre diversos temas da atualidade.</desc>
-    <category lang="pt">Religião</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230911163000 -0300" stop="20230911164500 -0300" channel="Rci.br">
-    <title lang="pt">Alô Devoto</title>
-    <desc lang="pt">Notícias sobre a Obra do Novo Santuário, Obras Sociais, Redes Sociais.</desc>
-    <category lang="pt">Informativo</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230911164500 -0300" stop="20230911171500 -0300" channel="Rci.br">
-    <title lang="pt">Novena dos Filhos do Pai Eterno</title>
-    <desc lang="pt">Padre João Paulo dos Santos reza a Novena dos Filhos do Pai Eterno.</desc>
-    <category lang="pt">Religião</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230911171500 -0300" stop="20230911180000 -0300" channel="Rci.br">
-    <title lang="pt">Terço Dos Filhos Do Pai Eterno</title>
-    <desc lang="pt">Apresentado pelo Padre Welinton Silva, direto do Santuário Basílica do Divino Pai Eterno.</desc>
-    <category lang="pt">Religião</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230911180000 -0300" stop="20230911184500 -0300" channel="Rci.br">
-    <title lang="pt">Jornal Brasil Hoje</title>
-    <desc lang="pt">As principais notícias da Igreja, do Brasil e do Mundo estão no Jornal Brasil Hoje.</desc>
-    <category lang="pt">Informativo</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230911184500 -0300" stop="20230911190000 -0300" channel="Rci.br">
-    <title lang="pt">Novena do Espírito Santo</title>
-    <desc lang="pt">Padre André Ricardo reza a Novena do Espírito Santo.</desc>
-    <category lang="pt">Religião</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230911190000 -0300" stop="20230911200000 -0300" channel="Rci.br">
-    <title lang="pt">Santa Missa</title>
-    <desc lang="pt">Santa Missa do Santuário Basílica do Divino Pai Eterno.</desc>
-    <category lang="pt">Religião</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230911200000 -0300" stop="20230911210000 -0300" channel="Rci.br">
-    <title lang="pt">Boa Noite Meu Pai</title>
-    <desc lang="pt">Padre Delair Cuerva faz um momento de reflexão, música e participação dos devotos.</desc>
-    <category lang="pt">Religião</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230911210000 -0300" stop="20230911213000 -0300" channel="Rci.br">
-    <title lang="pt">Novena dos Filhos do Pai Eterno</title>
-    <desc lang="pt">Padre João Paulo dos Santos reza a Novena dos Filhos do Pai Eterno.</desc>
-    <category lang="pt">Religião</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230911213000 -0300" stop="20230911220000 -0300" channel="Rci.br">
-    <title lang="pt">Ponto 3</title>
-    <desc lang="pt">Irmão Diego Joaquim recebe convidados para debater temas da atualidade.</desc>
-    <category lang="pt">Debate</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230911220000 -0300" stop="20230911223000 -0300" channel="Rci.br">
-    <title lang="pt">A Redenção</title>
-    <desc lang="pt">Irmão Diego Joaquim apresenta as meditações de Santo Afonso de Maria de Ligório.</desc>
-    <category lang="pt">Religião</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230911223000 -0300" stop="20230911230000 -0300" channel="Rci.br">
-    <title lang="pt">Novena do Perpétuo Socorro</title>
-    <desc lang="pt">Padre Marco Aurélio reza a Novena de Nossa Senhora do Perpétuo Socorro.</desc>
-    <category lang="pt">Religião</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230911230000 -0300" stop="20230912020000 -0300" channel="Rci.br">
-    <title lang="pt">Joias VIP</title>
-    <desc lang="pt">Especializado em vendas de relógios de excelente qualidade e lindas joias em ouro e prata.</desc>
-    <category lang="pt">Televendas</category>
+  <programme start="20230915220000 -0300" stop="20230916000000 -0300" channel="Like.br">
+    <title lang="pt">Trailers, Entrevistas e Festivais</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <category lang="pt">Cinema</category>
     <rating system="BR">
       <value>5</value>
     </rating>
@@ -2826,7 +2355,7 @@
   </programme>
   <programme start="20230912190000 -0300" stop="20230912200000 -0300" channel="Rci.br">
     <title lang="pt">Santa Missa</title>
-    <desc lang="pt">Santa Missa do Santuário Basílica do Divino Pai Eterno.</desc>
+    <desc lang="pt">Santa missa do santuário Matriz de Trindade.</desc>
     <category lang="pt">Religião</category>
     <rating system="BR">
       <value>5</value>
@@ -2868,373 +2397,6 @@
     <title lang="pt">Joias VIP</title>
     <desc lang="pt">Especializado em vendas de relógios de excelente qualidade e lindas joias em ouro e prata.</desc>
     <category lang="pt">Televendas</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230913020000 -0300" stop="20230913021500 -0300" channel="Rci.br">
-    <title lang="pt">Novena do Espírito Santo</title>
-    <desc lang="pt">Padre André Ricardo reza a Novena do Espírito Santo.</desc>
-    <category lang="pt">Religião</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230913021500 -0300" stop="20230913023000 -0300" channel="Rci.br">
-    <title lang="pt">Alô Devoto</title>
-    <desc lang="pt">Notícias sobre a Obra do Novo Santuário, Obras Sociais, Redes Sociais.</desc>
-    <category lang="pt">Informativo</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230913023000 -0300" stop="20230913030000 -0300" channel="Rci.br">
-    <title lang="pt">Novena dos Filhos do Pai Eterno</title>
-    <desc lang="pt">Padre João Paulo dos Santos reza a Novena dos Filhos do Pai Eterno.</desc>
-    <category lang="pt">Religião</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230913030000 -0300" stop="20230913031500 -0300" channel="Rci.br">
-    <title lang="pt">Terço da Misericórdia</title>
-    <desc lang="pt">Terço da Divina Misericórdia direto do Santuário do Bom Jesus da Lapa – BA.</desc>
-    <category lang="pt">Religião</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230913031500 -0300" stop="20230913040000 -0300" channel="Rci.br">
-    <title lang="pt">Jornal Brasil Hoje</title>
-    <desc lang="pt">As principais notícias da Igreja, do Brasil e do Mundo estão no Jornal Brasil Hoje.</desc>
-    <category lang="pt">Informativo</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230913040000 -0300" stop="20230913041500 -0300" channel="Rci.br">
-    <title lang="pt">Palavra da Salvação</title>
-    <desc lang="pt">Momento de meditar o evangelho do dia com Padre João Paulo Santos.</desc>
-    <category lang="pt">Religião</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230913041500 -0300" stop="20230913043000 -0300" channel="Rci.br">
-    <title lang="pt">Novena Ao Sagrado Coração de Jesus</title>
-    <desc lang="pt">Padre Robson de Oliveira reza a Novena ao Sagrado Coração de Jesus.</desc>
-    <category lang="pt">Religião</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230913043000 -0300" stop="20230913044500 -0300" channel="Rci.br">
-    <title lang="pt">Alô Devoto</title>
-    <desc lang="pt">Notícias sobre a Obra do Novo Santuário, Obras Sociais, Redes Sociais.</desc>
-    <category lang="pt">Informativo</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230913044500 -0300" stop="20230913050000 -0300" channel="Rci.br">
-    <title lang="pt">Mãe Maria</title>
-    <desc lang="pt">Reflexão e oração com o presidente da CNBB, Dom Walmor Oliveira de Azevedo.</desc>
-    <category lang="pt">Religião</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230913050000 -0300" stop="20230913053000 -0300" channel="Rci.br">
-    <title lang="pt">Novena dos Filhos do Pai Eterno</title>
-    <desc lang="pt">Padre João Paulo dos Santos reza a Novena dos Filhos do Pai Eterno.</desc>
-    <category lang="pt">Religião</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230913053000 -0300" stop="20230913060000 -0300" channel="Rci.br">
-    <title lang="pt">Vitrine Aprenda E Faça</title>
-    <desc lang="pt">Claudia Pacheco traz dicas para a produção de artesanato de forma simples e descomplicada.</desc>
-    <credits>
-      <actor>Claudia Pacheco</actor>
-    </credits>
-    <category lang="pt">Artes</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230913060000 -0300" stop="20230913063000 -0300" channel="Rci.br">
-    <title lang="pt">Terço Ao Sagrado Coração de Jesus</title>
-    <desc lang="pt">Irmã Claudete reza o Santo Terço Sagrado Coração de Jesus.</desc>
-    <category lang="pt">Religião</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230913063000 -0300" stop="20230913064000 -0300" channel="Rci.br">
-    <title lang="pt">Mãe Maria</title>
-    <desc lang="pt">Reflexão e oração com o presidente da CNBB, Dom Walmor Oliveira de Azevedo.</desc>
-    <category lang="pt">Religião</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230913064000 -0300" stop="20230913065500 -0300" channel="Rci.br">
-    <title lang="pt">Novena do Espírito Santo</title>
-    <desc lang="pt">Padre André Ricardo reza a Novena do Espírito Santo.</desc>
-    <category lang="pt">Religião</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230913065500 -0300" stop="20230913074500 -0300" channel="Rci.br">
-    <title lang="pt">Santa Missa</title>
-    <desc lang="pt">Santa Missa do Santuário Basílica do Divino Pai Eterno.</desc>
-    <category lang="pt">Religião</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230913074500 -0300" stop="20230913080000 -0300" channel="Rci.br">
-    <title lang="pt">Alô Devoto</title>
-    <desc lang="pt">Notícias sobre a Obra do Novo Santuário, Obras Sociais, Redes Sociais.</desc>
-    <category lang="pt">Informativo</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230913080000 -0300" stop="20230913081500 -0300" channel="Rci.br">
-    <title lang="pt">Palavra da Salvação</title>
-    <desc lang="pt">Momento de meditar o evangelho do dia com Padre João Paulo Santos.</desc>
-    <category lang="pt">Religião</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230913081500 -0300" stop="20230913083000 -0300" channel="Rci.br">
-    <title lang="pt">Novena Ao Sagrado Coração de Jesus</title>
-    <desc lang="pt">Padre Robson de Oliveira reza a Novena ao Sagrado Coração de Jesus.</desc>
-    <category lang="pt">Religião</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230913083000 -0300" stop="20230913090000 -0300" channel="Rci.br">
-    <title lang="pt">Novena do Perpétuo Socorro</title>
-    <desc lang="pt">Padre Marco Aurélio reza a Novena de Nossa Senhora do Perpétuo Socorro.</desc>
-    <category lang="pt">Religião</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230913090000 -0300" stop="20230913100000 -0300" channel="Rci.br">
-    <title lang="pt">Santo Café</title>
-    <desc lang="pt">Wilker Oliveira aborda os principais assuntos no início do seu dia.</desc>
-    <category lang="pt">Informativo</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230913100000 -0300" stop="20230913103000 -0300" channel="Rci.br">
-    <title lang="pt">Novena dos Filhos do Pai Eterno</title>
-    <desc lang="pt">Padre João Paulo dos Santos reza a Novena dos Filhos do Pai Eterno.</desc>
-    <category lang="pt">Religião</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230913103000 -0300" stop="20230913113000 -0300" channel="Rci.br">
-    <title lang="pt">Aqui em Casa</title>
-    <desc lang="pt">No Aqui em Casa, você tem culinária, artesanato, dicas para o bem-estar e notícias.</desc>
-    <category lang="pt">Culinária</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230913113000 -0300" stop="20230913113500 -0300" channel="Rci.br">
-    <title lang="pt">Diálogos</title>
-    <desc lang="pt">Em sintonia com o Magistério da Igreja, com a fé e com a Palavra de Deus.</desc>
-    <category lang="pt">Religião</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230913113500 -0300" stop="20230913114500 -0300" channel="Rci.br">
-    <title lang="pt">Igreja em Saída</title>
-    <sub-title lang="pt">A Igreja no Brasil</sub-title>
-    <desc lang="pt">Você confere as principais notícias da Igreja no Brasil e as mensagens do Papa Francisco.</desc>
-    <category lang="pt">Informativo</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230913114500 -0300" stop="20230913120000 -0300" channel="Rci.br">
-    <title lang="pt">Novena do Espírito Santo</title>
-    <desc lang="pt">Padre André Ricardo reza a Novena do Espírito Santo.</desc>
-    <category lang="pt">Religião</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230913120000 -0300" stop="20230913123000 -0300" channel="Rci.br">
-    <title lang="pt">Novena dos Filhos do Pai Eterno</title>
-    <desc lang="pt">Padre João Paulo dos Santos reza a Novena dos Filhos do Pai Eterno.</desc>
-    <category lang="pt">Religião</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230913123000 -0300" stop="20230913130000 -0300" channel="Rci.br">
-    <title lang="pt">Terço da Família</title>
-    <desc lang="pt">Vamos juntos rezar o Santo Terço com os devotos do Pai Eterno.</desc>
-    <category lang="pt">Religião</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230913130000 -0300" stop="20230913131500 -0300" channel="Rci.br">
-    <title lang="pt">Palavra da Salvação</title>
-    <desc lang="pt">Momento de meditar o evangelho do dia com Padre João Paulo Santos.</desc>
-    <category lang="pt">Religião</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230913131500 -0300" stop="20230913133000 -0300" channel="Rci.br">
-    <title lang="pt">Mãe Maria</title>
-    <desc lang="pt">Reflexão e oração com o presidente da CNBB, Dom Walmor Oliveira de Azevedo.</desc>
-    <category lang="pt">Religião</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230913133000 -0300" stop="20230913134500 -0300" channel="Rci.br">
-    <title lang="pt">Novena Ao Sagrado Coração de Jesus</title>
-    <desc lang="pt">Padre Robson de Oliveira reza a Novena ao Sagrado Coração de Jesus.</desc>
-    <category lang="pt">Religião</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230913134500 -0300" stop="20230913141500 -0300" channel="Rci.br">
-    <title lang="pt">Vitrine Aprenda E Faça</title>
-    <desc lang="pt">Claudia Pacheco traz dicas para a produção de artesanato de forma simples e descomplicada.</desc>
-    <credits>
-      <actor>Claudia Pacheco</actor>
-    </credits>
-    <category lang="pt">Artes</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230913141500 -0300" stop="20230913144500 -0300" channel="Rci.br">
-    <title lang="pt">Novena do Perpétuo Socorro</title>
-    <desc lang="pt">Padre Marco Aurélio reza a Novena de Nossa Senhora do Perpétuo Socorro.</desc>
-    <category lang="pt">Religião</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230913144500 -0300" stop="20230913150000 -0300" channel="Rci.br">
-    <title lang="pt">Almanaque Católico</title>
-    <desc lang="pt">Padre Welinton traz convidados para debater as principais notícias sobre diversos temas da atualidade.</desc>
-    <category lang="pt">Religião</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230913150000 -0300" stop="20230913151500 -0300" channel="Rci.br">
-    <title lang="pt">Terço da Misericórdia</title>
-    <desc lang="pt">Terço da Divina Misericórdia direto do Santuário do Bom Jesus da Lapa – BA.</desc>
-    <category lang="pt">Religião</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230913151500 -0300" stop="20230913163000 -0300" channel="Rci.br">
-    <title lang="pt">Almanaque Católico</title>
-    <desc lang="pt">Padre Welinton traz convidados para debater as principais notícias sobre diversos temas da atualidade.</desc>
-    <category lang="pt">Religião</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230913163000 -0300" stop="20230913164500 -0300" channel="Rci.br">
-    <title lang="pt">Alô Devoto</title>
-    <desc lang="pt">Notícias sobre a Obra do Novo Santuário, Obras Sociais, Redes Sociais.</desc>
-    <category lang="pt">Informativo</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230913164500 -0300" stop="20230913171500 -0300" channel="Rci.br">
-    <title lang="pt">Novena dos Filhos do Pai Eterno</title>
-    <desc lang="pt">Padre João Paulo dos Santos reza a Novena dos Filhos do Pai Eterno.</desc>
-    <category lang="pt">Religião</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230913171500 -0300" stop="20230913180000 -0300" channel="Rci.br">
-    <title lang="pt">Terço Dos Filhos Do Pai Eterno</title>
-    <desc lang="pt">Apresentado pelo Padre Welinton Silva, direto do Santuário Basílica do Divino Pai Eterno.</desc>
-    <category lang="pt">Religião</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230913180000 -0300" stop="20230913184500 -0300" channel="Rci.br">
-    <title lang="pt">Jornal Brasil Hoje</title>
-    <desc lang="pt">As principais notícias da Igreja, do Brasil e do Mundo estão no Jornal Brasil Hoje.</desc>
-    <category lang="pt">Informativo</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230913184500 -0300" stop="20230913190000 -0300" channel="Rci.br">
-    <title lang="pt">Novena do Espírito Santo</title>
-    <desc lang="pt">Padre André Ricardo reza a Novena do Espírito Santo.</desc>
-    <category lang="pt">Religião</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230913190000 -0300" stop="20230913200000 -0300" channel="Rci.br">
-    <title lang="pt">Santa Missa</title>
-    <desc lang="pt">Santa missa do santuário Matriz de Trindade.</desc>
-    <category lang="pt">Religião</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230913200000 -0300" stop="20230913210000 -0300" channel="Rci.br">
-    <title lang="pt">Boa Noite Meu Pai</title>
-    <desc lang="pt">Padre Delair Cuerva faz um momento de reflexão, música e participação dos devotos.</desc>
-    <category lang="pt">Religião</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230913210000 -0300" stop="20230913213000 -0300" channel="Rci.br">
-    <title lang="pt">Novena dos Filhos do Pai Eterno</title>
-    <desc lang="pt">Padre João Paulo dos Santos reza a Novena dos Filhos do Pai Eterno.</desc>
-    <category lang="pt">Religião</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230913213000 -0300" stop="20230913223000 -0300" channel="Rci.br">
-    <title lang="pt">Conhecimento da Fé</title>
-    <desc lang="pt">Padre Welinton Silva nos conduz pelos caminhos da Paixão, Morte e Ressurreição de Jesus.</desc>
-    <category lang="pt">Religião</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20230913223000 -0300" stop="20230913230000 -0300" channel="Rci.br">
-    <title lang="pt">Novena do Perpétuo Socorro</title>
-    <desc lang="pt">Padre Marco Aurélio reza a Novena de Nossa Senhora do Perpétuo Socorro.</desc>
-    <category lang="pt">Religião</category>
     <rating system="BR">
       <value>5</value>
     </rating>
@@ -3616,5 +2778,1197 @@
     <rating system="BR">
       <value>5</value>
     </rating>
+  </programme>
+  <programme start="20230912000000 -0300" stop="20230912010000 -0300" channel="Shoptime.br">
+    <title lang="pt">Casa e Conforto</title>
+    <desc lang="pt">O programa mais tradicional do Shoptime continua a todo vapor. Comandado por Fabiana Boal e Babi Marttins, o Casa e Conforto permanece cheio de ofertas que irão deixar seu quarto uma suíte de hotel cinco estrelas.</desc>
+    <credits>
+      <director>Tereza Amorim</director>
+      <actor>Fabiana Boal</actor>
+      <actor>Babi Marttins</actor>
+    </credits>
+    <category lang="pt">Televendas</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20230912010000 -0300" stop="20230912020000 -0300" channel="Shoptime.br">
+    <title lang="pt">Especial Shoptime</title>
+    <desc lang="pt">Quer as melhores ofertas e marcas do mercado? Então você está no lugar certo. O programa Especial Shoptime traz uma variedade incrível de produtos, que irão mudar a sua vida e te fazer economizar muito.</desc>
+    <credits>
+      <director>Tereza Amorim</director>
+      <actor>Vários Apresentadores</actor>
+    </credits>
+    <category lang="pt">Televendas</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20230912020000 -0300" stop="20230912030000 -0300" channel="Shoptime.br">
+    <title lang="pt">Especial Shoptime</title>
+    <desc lang="pt">Quer as melhores ofertas e marcas do mercado? Então você está no lugar certo. O programa Especial Shoptime traz uma variedade incrível de produtos, que irão mudar a sua vida e te fazer economizar muito.</desc>
+    <credits>
+      <director>Tereza Amorim</director>
+      <actor>Vários Apresentadores</actor>
+    </credits>
+    <category lang="pt">Televendas</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20230912030000 -0300" stop="20230912040000 -0300" channel="Shoptime.br">
+    <title lang="pt">Assim é Fácil</title>
+    <desc lang="pt">O programa mais variado do Shoptime traz para sua casa itens diversos de construção, jardinagem, limpeza e manutenção.</desc>
+    <credits>
+      <director>Tereza Amorim</director>
+      <actor>André Saporetti</actor>
+      <actor>Davi Lopes</actor>
+      <actor>Babi Marttins</actor>
+    </credits>
+    <category lang="pt">Televendas</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20230912040000 -0300" stop="20230912050000 -0300" channel="Shoptime.br">
+    <title lang="pt">Casa e Conforto</title>
+    <desc lang="pt">O programa mais tradicional do Shoptime continua a todo vapor. Comandado por Fabiana Boal e Babi Marttins, o Casa e Conforto permanece cheio de ofertas que irão deixar seu quarto uma suíte de hotel cinco estrelas.</desc>
+    <credits>
+      <director>Tereza Amorim</director>
+      <actor>Fabiana Boal</actor>
+      <actor>Babi Marttins</actor>
+    </credits>
+    <category lang="pt">Televendas</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20230912050000 -0300" stop="20230912060000 -0300" channel="Shoptime.br">
+    <title lang="pt">Especial Shoptime</title>
+    <desc lang="pt">Quer as melhores ofertas e marcas do mercado? Então você está no lugar certo. O programa Especial Shoptime traz uma variedade incrível de produtos, que irão mudar a sua vida e te fazer economizar muito.</desc>
+    <credits>
+      <director>Tereza Amorim</director>
+      <actor>Vários Apresentadores</actor>
+    </credits>
+    <category lang="pt">Televendas</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20230912060000 -0300" stop="20230912070000 -0300" channel="Shoptime.br">
+    <title lang="pt">Especial Shoptime</title>
+    <desc lang="pt">Quer as melhores ofertas e marcas do mercado? Então você está no lugar certo. O programa Especial Shoptime traz uma variedade incrível de produtos, que irão mudar a sua vida e te fazer economizar muito.</desc>
+    <credits>
+      <director>Tereza Amorim</director>
+      <actor>Vários Apresentadores</actor>
+    </credits>
+    <category lang="pt">Televendas</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20230912070000 -0300" stop="20230912080000 -0300" channel="Shoptime.br">
+    <title lang="pt">Especial Shoptime</title>
+    <desc lang="pt">Quer as melhores ofertas e marcas do mercado? Então você está no lugar certo. O programa Especial Shoptime traz uma variedade incrível de produtos, que irão mudar a sua vida e te fazer economizar muito.</desc>
+    <credits>
+      <director>Tereza Amorim</director>
+      <actor>Vários Apresentadores</actor>
+    </credits>
+    <category lang="pt">Televendas</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20230912080000 -0300" stop="20230912090000 -0300" channel="Shoptime.br">
+    <title lang="pt">Tudo Para Sua Casa</title>
+    <desc lang="pt">\.</desc>
+    <credits>
+      <director>Tereza Amorim</director>
+      <actor>Renata Pitanga e Adriana Tolentino</actor>
+    </credits>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20230912090000 -0300" stop="20230912100000 -0300" channel="Shoptime.br">
+    <title lang="pt">Casa e Conforto</title>
+    <desc lang="pt">O programa mais tradicional do Shoptime continua a todo vapor. Comandado por Fabiana Boal e Babi Marttins, o Casa e Conforto permanece cheio de ofertas que irão deixar seu quarto uma suíte de hotel cinco estrelas.</desc>
+    <credits>
+      <director>Tereza Amorim</director>
+      <actor>Fabiana Boal</actor>
+      <actor>Babi Marttins</actor>
+    </credits>
+    <category lang="pt">Televendas</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20230912100000 -0300" stop="20230912110000 -0300" channel="Shoptime.br">
+    <title lang="pt">Especial Shoptime</title>
+    <desc lang="pt">Quer as melhores ofertas e marcas do mercado? Então você está no lugar certo. O programa Especial Shoptime traz uma variedade incrível de produtos, que irão mudar a sua vida e te fazer economizar muito.</desc>
+    <credits>
+      <director>Tereza Amorim</director>
+      <actor>Vários Apresentadores</actor>
+    </credits>
+    <category lang="pt">Televendas</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20230912110000 -0300" stop="20230912120000 -0300" channel="Shoptime.br">
+    <title lang="pt">Casa e Conforto</title>
+    <desc lang="pt">O programa mais tradicional do Shoptime continua a todo vapor. Comandado por Fabiana Boal e Babi Marttins, o Casa e Conforto permanece cheio de ofertas que irão deixar seu quarto uma suíte de hotel cinco estrelas.</desc>
+    <credits>
+      <director>Tereza Amorim</director>
+      <actor>Fabiana Boal</actor>
+      <actor>Babi Marttins</actor>
+    </credits>
+    <category lang="pt">Televendas</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20230912120000 -0300" stop="20230912130000 -0300" channel="Shoptime.br">
+    <title lang="pt">Especial Shoptime</title>
+    <desc lang="pt">Quer as melhores ofertas e marcas do mercado? Então você está no lugar certo. O programa Especial Shoptime traz uma variedade incrível de produtos, que irão mudar a sua vida e te fazer economizar muito.</desc>
+    <credits>
+      <director>Tereza Amorim</director>
+      <actor>Vários Apresentadores</actor>
+    </credits>
+    <category lang="pt">Televendas</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20230912130000 -0300" stop="20230912140000 -0300" channel="Shoptime.br">
+    <title lang="pt">Especial Shoptime</title>
+    <desc lang="pt">Quer as melhores ofertas e marcas do mercado? Então você está no lugar certo. O programa Especial Shoptime traz uma variedade incrível de produtos, que irão mudar a sua vida e te fazer economizar muito.</desc>
+    <credits>
+      <director>Tereza Amorim</director>
+      <actor>Vários Apresentadores</actor>
+    </credits>
+    <category lang="pt">Televendas</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20230912140000 -0300" stop="20230912150000 -0300" channel="Shoptime.br">
+    <title lang="pt">Especial Shoptime</title>
+    <desc lang="pt">Quer as melhores ofertas e marcas do mercado? Então você está no lugar certo. O programa Especial Shoptime traz uma variedade incrível de produtos, que irão mudar a sua vida e te fazer economizar muito.</desc>
+    <credits>
+      <director>Tereza Amorim</director>
+      <actor>Vários Apresentadores</actor>
+    </credits>
+    <category lang="pt">Televendas</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20230912150000 -0300" stop="20230912160000 -0300" channel="Shoptime.br">
+    <title lang="pt">Casa e Conforto</title>
+    <desc lang="pt">O programa mais tradicional do Shoptime continua a todo vapor. Comandado por Fabiana Boal e Babi Marttins, o Casa e Conforto permanece cheio de ofertas que irão deixar seu quarto uma suíte de hotel cinco estrelas.</desc>
+    <credits>
+      <director>Tereza Amorim</director>
+      <actor>Fabiana Boal</actor>
+      <actor>Babi Marttins</actor>
+    </credits>
+    <category lang="pt">Televendas</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20230912160000 -0300" stop="20230912170000 -0300" channel="Shoptime.br">
+    <title lang="pt">Especial Shoptime</title>
+    <desc lang="pt">Quer as melhores ofertas e marcas do mercado? Então você está no lugar certo. O programa Especial Shoptime traz uma variedade incrível de produtos, que irão mudar a sua vida e te fazer economizar muito.</desc>
+    <credits>
+      <director>Tereza Amorim</director>
+      <actor>Vários Apresentadores</actor>
+    </credits>
+    <category lang="pt">Televendas</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20230912170000 -0300" stop="20230912180000 -0300" channel="Shoptime.br">
+    <title lang="pt">Especial Shoptime</title>
+    <desc lang="pt">Quer as melhores ofertas e marcas do mercado? Então você está no lugar certo. O programa Especial Shoptime traz uma variedade incrível de produtos, que irão mudar a sua vida e te fazer economizar muito.</desc>
+    <credits>
+      <director>Tereza Amorim</director>
+      <actor>Vários Apresentadores</actor>
+    </credits>
+    <category lang="pt">Televendas</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20230912180000 -0300" stop="20230912190000 -0300" channel="Shoptime.br">
+    <title lang="pt">Casa e Conforto</title>
+    <desc lang="pt">O programa mais tradicional do Shoptime continua a todo vapor. Comandado por Fabiana Boal e Babi Marttins, o Casa e Conforto permanece cheio de ofertas que irão deixar seu quarto uma suíte de hotel cinco estrelas.</desc>
+    <credits>
+      <director>Tereza Amorim</director>
+      <actor>Fabiana Boal</actor>
+      <actor>Babi Marttins</actor>
+    </credits>
+    <category lang="pt">Televendas</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20230912190000 -0300" stop="20230912200000 -0300" channel="Shoptime.br">
+    <title lang="pt">Especial Shoptime</title>
+    <desc lang="pt">Quer as melhores ofertas e marcas do mercado? Então você está no lugar certo. O programa Especial Shoptime traz uma variedade incrível de produtos, que irão mudar a sua vida e te fazer economizar muito.</desc>
+    <credits>
+      <director>Tereza Amorim</director>
+      <actor>Vários Apresentadores</actor>
+    </credits>
+    <category lang="pt">Televendas</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20230912200000 -0300" stop="20230912210000 -0300" channel="Shoptime.br">
+    <title lang="pt">Casa e Conforto</title>
+    <desc lang="pt">O programa mais tradicional do Shoptime continua a todo vapor. Comandado por Fabiana Boal e Babi Marttins, o Casa e Conforto permanece cheio de ofertas que irão deixar seu quarto uma suíte de hotel cinco estrelas.</desc>
+    <credits>
+      <director>Tereza Amorim</director>
+      <actor>Fabiana Boal</actor>
+      <actor>Babi Marttins</actor>
+    </credits>
+    <category lang="pt">Televendas</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20230912210000 -0300" stop="20230912220000 -0300" channel="Shoptime.br">
+    <title lang="pt">Especial Shoptime</title>
+    <desc lang="pt">Quer as melhores ofertas e marcas do mercado? Então você está no lugar certo. O programa Especial Shoptime traz uma variedade incrível de produtos, que irão mudar a sua vida e te fazer economizar muito.</desc>
+    <credits>
+      <director>Tereza Amorim</director>
+      <actor>Vários Apresentadores</actor>
+    </credits>
+    <category lang="pt">Televendas</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20230912220000 -0300" stop="20230912230000 -0300" channel="Shoptime.br">
+    <title lang="pt">Especial Shoptime</title>
+    <desc lang="pt">Quer as melhores ofertas e marcas do mercado? Então você está no lugar certo. O programa Especial Shoptime traz uma variedade incrível de produtos, que irão mudar a sua vida e te fazer economizar muito.</desc>
+    <credits>
+      <director>Tereza Amorim</director>
+      <actor>Vários Apresentadores</actor>
+    </credits>
+    <category lang="pt">Televendas</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20230912230000 -0300" stop="20230913000000 -0300" channel="Shoptime.br">
+    <title lang="pt">Assim é Fácil</title>
+    <desc lang="pt">O programa mais variado do Shoptime traz para sua casa itens diversos de construção, jardinagem, limpeza e manutenção.</desc>
+    <credits>
+      <director>Tereza Amorim</director>
+      <actor>André Saporetti</actor>
+      <actor>Davi Lopes</actor>
+      <actor>Babi Marttins</actor>
+    </credits>
+    <category lang="pt">Televendas</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20230913230000 -0300" stop="20230914000000 -0300" channel="Shoptime.br">
+    <title lang="pt">Tudo Para Sua Casa</title>
+    <desc lang="pt">\.</desc>
+    <credits>
+      <director>Tereza Amorim</director>
+      <actor>Renata Pitanga e Adriana Tolentino</actor>
+    </credits>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20230914000000 -0300" stop="20230914010000 -0300" channel="Shoptime.br">
+    <title lang="pt">Casa e Conforto</title>
+    <desc lang="pt">O programa mais tradicional do Shoptime continua a todo vapor. Comandado por Fabiana Boal e Babi Marttins, o Casa e Conforto permanece cheio de ofertas que irão deixar seu quarto uma suíte de hotel cinco estrelas.</desc>
+    <credits>
+      <director>Tereza Amorim</director>
+      <actor>Fabiana Boal</actor>
+      <actor>Babi Marttins</actor>
+    </credits>
+    <category lang="pt">Televendas</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20230914010000 -0300" stop="20230914020000 -0300" channel="Shoptime.br">
+    <title lang="pt">Especial Shoptime</title>
+    <desc lang="pt">Quer as melhores ofertas e marcas do mercado? Então você está no lugar certo. O programa Especial Shoptime traz uma variedade incrível de produtos, que irão mudar a sua vida e te fazer economizar muito.</desc>
+    <credits>
+      <director>Tereza Amorim</director>
+      <actor>Vários Apresentadores</actor>
+    </credits>
+    <category lang="pt">Televendas</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20230914020000 -0300" stop="20230914030000 -0300" channel="Shoptime.br">
+    <title lang="pt">Especial Shoptime</title>
+    <desc lang="pt">Quer as melhores ofertas e marcas do mercado? Então você está no lugar certo. O programa Especial Shoptime traz uma variedade incrível de produtos, que irão mudar a sua vida e te fazer economizar muito.</desc>
+    <credits>
+      <director>Tereza Amorim</director>
+      <actor>Vários Apresentadores</actor>
+    </credits>
+    <category lang="pt">Televendas</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20230914030000 -0300" stop="20230914040000 -0300" channel="Shoptime.br">
+    <title lang="pt">Assim é Fácil</title>
+    <desc lang="pt">O programa mais variado do Shoptime traz para sua casa itens diversos de construção, jardinagem, limpeza e manutenção.</desc>
+    <credits>
+      <director>Tereza Amorim</director>
+      <actor>André Saporetti</actor>
+      <actor>Davi Lopes</actor>
+      <actor>Babi Marttins</actor>
+    </credits>
+    <category lang="pt">Televendas</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20230914040000 -0300" stop="20230914050000 -0300" channel="Shoptime.br">
+    <title lang="pt">Casa e Conforto</title>
+    <desc lang="pt">O programa mais tradicional do Shoptime continua a todo vapor. Comandado por Fabiana Boal e Babi Marttins, o Casa e Conforto permanece cheio de ofertas que irão deixar seu quarto uma suíte de hotel cinco estrelas.</desc>
+    <credits>
+      <director>Tereza Amorim</director>
+      <actor>Fabiana Boal</actor>
+      <actor>Babi Marttins</actor>
+    </credits>
+    <category lang="pt">Televendas</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20230914050000 -0300" stop="20230914060000 -0300" channel="Shoptime.br">
+    <title lang="pt">Especial Shoptime</title>
+    <desc lang="pt">Quer as melhores ofertas e marcas do mercado? Então você está no lugar certo. O programa Especial Shoptime traz uma variedade incrível de produtos, que irão mudar a sua vida e te fazer economizar muito.</desc>
+    <credits>
+      <director>Tereza Amorim</director>
+      <actor>Vários Apresentadores</actor>
+    </credits>
+    <category lang="pt">Televendas</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20230914060000 -0300" stop="20230914070000 -0300" channel="Shoptime.br">
+    <title lang="pt">Especial Shoptime</title>
+    <desc lang="pt">Quer as melhores ofertas e marcas do mercado? Então você está no lugar certo. O programa Especial Shoptime traz uma variedade incrível de produtos, que irão mudar a sua vida e te fazer economizar muito.</desc>
+    <credits>
+      <director>Tereza Amorim</director>
+      <actor>Vários Apresentadores</actor>
+    </credits>
+    <category lang="pt">Televendas</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20230914070000 -0300" stop="20230914080000 -0300" channel="Shoptime.br">
+    <title lang="pt">Especial Shoptime</title>
+    <desc lang="pt">Quer as melhores ofertas e marcas do mercado? Então você está no lugar certo. O programa Especial Shoptime traz uma variedade incrível de produtos, que irão mudar a sua vida e te fazer economizar muito.</desc>
+    <credits>
+      <director>Tereza Amorim</director>
+      <actor>Vários Apresentadores</actor>
+    </credits>
+    <category lang="pt">Televendas</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20230914080000 -0300" stop="20230914090000 -0300" channel="Shoptime.br">
+    <title lang="pt">Tudo Para Sua Casa</title>
+    <desc lang="pt">\.</desc>
+    <credits>
+      <director>Tereza Amorim</director>
+      <actor>Renata Pitanga e Adriana Tolentino</actor>
+    </credits>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20230914090000 -0300" stop="20230914100000 -0300" channel="Shoptime.br">
+    <title lang="pt">Casa e Conforto</title>
+    <desc lang="pt">O programa mais tradicional do Shoptime continua a todo vapor. Comandado por Fabiana Boal e Babi Marttins, o Casa e Conforto permanece cheio de ofertas que irão deixar seu quarto uma suíte de hotel cinco estrelas.</desc>
+    <credits>
+      <director>Tereza Amorim</director>
+      <actor>Fabiana Boal</actor>
+      <actor>Babi Marttins</actor>
+    </credits>
+    <category lang="pt">Televendas</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20230914100000 -0300" stop="20230914110000 -0300" channel="Shoptime.br">
+    <title lang="pt">Especial Shoptime</title>
+    <desc lang="pt">Quer as melhores ofertas e marcas do mercado? Então você está no lugar certo. O programa Especial Shoptime traz uma variedade incrível de produtos, que irão mudar a sua vida e te fazer economizar muito.</desc>
+    <credits>
+      <director>Tereza Amorim</director>
+      <actor>Vários Apresentadores</actor>
+    </credits>
+    <category lang="pt">Televendas</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20230914110000 -0300" stop="20230914120000 -0300" channel="Shoptime.br">
+    <title lang="pt">Casa e Conforto</title>
+    <desc lang="pt">O programa mais tradicional do Shoptime continua a todo vapor. Comandado por Fabiana Boal e Babi Marttins, o Casa e Conforto permanece cheio de ofertas que irão deixar seu quarto uma suíte de hotel cinco estrelas.</desc>
+    <credits>
+      <director>Tereza Amorim</director>
+      <actor>Fabiana Boal</actor>
+      <actor>Babi Marttins</actor>
+    </credits>
+    <category lang="pt">Televendas</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20230914120000 -0300" stop="20230914130000 -0300" channel="Shoptime.br">
+    <title lang="pt">Especial Shoptime</title>
+    <desc lang="pt">Quer as melhores ofertas e marcas do mercado? Então você está no lugar certo. O programa Especial Shoptime traz uma variedade incrível de produtos, que irão mudar a sua vida e te fazer economizar muito.</desc>
+    <credits>
+      <director>Tereza Amorim</director>
+      <actor>Vários Apresentadores</actor>
+    </credits>
+    <category lang="pt">Televendas</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20230914130000 -0300" stop="20230914140000 -0300" channel="Shoptime.br">
+    <title lang="pt">Especial Shoptime</title>
+    <desc lang="pt">Quer as melhores ofertas e marcas do mercado? Então você está no lugar certo. O programa Especial Shoptime traz uma variedade incrível de produtos, que irão mudar a sua vida e te fazer economizar muito.</desc>
+    <credits>
+      <director>Tereza Amorim</director>
+      <actor>Vários Apresentadores</actor>
+    </credits>
+    <category lang="pt">Televendas</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20230914140000 -0300" stop="20230914150000 -0300" channel="Shoptime.br">
+    <title lang="pt">Especial Shoptime</title>
+    <desc lang="pt">Quer as melhores ofertas e marcas do mercado? Então você está no lugar certo. O programa Especial Shoptime traz uma variedade incrível de produtos, que irão mudar a sua vida e te fazer economizar muito.</desc>
+    <credits>
+      <director>Tereza Amorim</director>
+      <actor>Vários Apresentadores</actor>
+    </credits>
+    <category lang="pt">Televendas</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20230914150000 -0300" stop="20230914160000 -0300" channel="Shoptime.br">
+    <title lang="pt">Casa e Conforto</title>
+    <desc lang="pt">O programa mais tradicional do Shoptime continua a todo vapor. Comandado por Fabiana Boal e Babi Marttins, o Casa e Conforto permanece cheio de ofertas que irão deixar seu quarto uma suíte de hotel cinco estrelas.</desc>
+    <credits>
+      <director>Tereza Amorim</director>
+      <actor>Fabiana Boal</actor>
+      <actor>Babi Marttins</actor>
+    </credits>
+    <category lang="pt">Televendas</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20230914160000 -0300" stop="20230914170000 -0300" channel="Shoptime.br">
+    <title lang="pt">Especial Shoptime</title>
+    <desc lang="pt">Quer as melhores ofertas e marcas do mercado? Então você está no lugar certo. O programa Especial Shoptime traz uma variedade incrível de produtos, que irão mudar a sua vida e te fazer economizar muito.</desc>
+    <credits>
+      <director>Tereza Amorim</director>
+      <actor>Vários Apresentadores</actor>
+    </credits>
+    <category lang="pt">Televendas</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20230914170000 -0300" stop="20230914180000 -0300" channel="Shoptime.br">
+    <title lang="pt">Especial Shoptime</title>
+    <desc lang="pt">Quer as melhores ofertas e marcas do mercado? Então você está no lugar certo. O programa Especial Shoptime traz uma variedade incrível de produtos, que irão mudar a sua vida e te fazer economizar muito.</desc>
+    <credits>
+      <director>Tereza Amorim</director>
+      <actor>Vários Apresentadores</actor>
+    </credits>
+    <category lang="pt">Televendas</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20230914180000 -0300" stop="20230914190000 -0300" channel="Shoptime.br">
+    <title lang="pt">Casa e Conforto</title>
+    <desc lang="pt">O programa mais tradicional do Shoptime continua a todo vapor. Comandado por Fabiana Boal e Babi Marttins, o Casa e Conforto permanece cheio de ofertas que irão deixar seu quarto uma suíte de hotel cinco estrelas.</desc>
+    <credits>
+      <director>Tereza Amorim</director>
+      <actor>Fabiana Boal</actor>
+      <actor>Babi Marttins</actor>
+    </credits>
+    <category lang="pt">Televendas</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20230914190000 -0300" stop="20230914200000 -0300" channel="Shoptime.br">
+    <title lang="pt">Especial Shoptime</title>
+    <desc lang="pt">Quer as melhores ofertas e marcas do mercado? Então você está no lugar certo. O programa Especial Shoptime traz uma variedade incrível de produtos, que irão mudar a sua vida e te fazer economizar muito.</desc>
+    <credits>
+      <director>Tereza Amorim</director>
+      <actor>Vários Apresentadores</actor>
+    </credits>
+    <category lang="pt">Televendas</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20230914200000 -0300" stop="20230914210000 -0300" channel="Shoptime.br">
+    <title lang="pt">Casa e Conforto</title>
+    <desc lang="pt">O programa mais tradicional do Shoptime continua a todo vapor. Comandado por Fabiana Boal e Babi Marttins, o Casa e Conforto permanece cheio de ofertas que irão deixar seu quarto uma suíte de hotel cinco estrelas.</desc>
+    <credits>
+      <director>Tereza Amorim</director>
+      <actor>Fabiana Boal</actor>
+      <actor>Babi Marttins</actor>
+    </credits>
+    <category lang="pt">Televendas</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20230914210000 -0300" stop="20230914220000 -0300" channel="Shoptime.br">
+    <title lang="pt">Especial Shoptime</title>
+    <desc lang="pt">Quer as melhores ofertas e marcas do mercado? Então você está no lugar certo. O programa Especial Shoptime traz uma variedade incrível de produtos, que irão mudar a sua vida e te fazer economizar muito.</desc>
+    <credits>
+      <director>Tereza Amorim</director>
+      <actor>Vários Apresentadores</actor>
+    </credits>
+    <category lang="pt">Televendas</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20230914220000 -0300" stop="20230914230000 -0300" channel="Shoptime.br">
+    <title lang="pt">Especial Shoptime</title>
+    <desc lang="pt">Quer as melhores ofertas e marcas do mercado? Então você está no lugar certo. O programa Especial Shoptime traz uma variedade incrível de produtos, que irão mudar a sua vida e te fazer economizar muito.</desc>
+    <credits>
+      <director>Tereza Amorim</director>
+      <actor>Vários Apresentadores</actor>
+    </credits>
+    <category lang="pt">Televendas</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20230914230000 -0300" stop="20230915000000 -0300" channel="Shoptime.br">
+    <title lang="pt">Assim é Fácil</title>
+    <desc lang="pt">O programa mais variado do Shoptime traz para sua casa itens diversos de construção, jardinagem, limpeza e manutenção.</desc>
+    <credits>
+      <director>Tereza Amorim</director>
+      <actor>André Saporetti</actor>
+      <actor>Davi Lopes</actor>
+      <actor>Babi Marttins</actor>
+    </credits>
+    <category lang="pt">Televendas</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20230912053000 +0000" stop="20230912063000 +0000" channel="Sesctv.br">
+    <title lang="es">Movimento Violão</title>
+    <desc lang="es">Acompanhe o concerto do violonista carioca Luis Carlos Barbieri, gravado em 2018. No repertório do artista, obras de autores cariocas e do baiano Fred Schneiter.</desc>
+    <category lang="es">Music</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_movimento-viol-o_l_l.jpg" />
+  </programme>
+  <programme start="20230912063000 +0000" stop="20230912073000 +0000" channel="Sesctv.br">
+    <title lang="es">Instrumental Sesc Brasil</title>
+    <desc lang="es">Assista ao show do compositor e baixista Fernando Molinari no Teatro Anchieta, acompanhado por Bruno Valverde e Davi Filho. No repertório, funk americano, música brasileira e ritmos latino-americanos.</desc>
+    <category lang="es">Music</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_instrumental-sesc-brasil-1_l_l.jpg" />
+  </programme>
+  <programme start="20230912073000 +0000" stop="20230912083000 +0000" channel="Sesctv.br">
+    <title lang="es">Especial Musical</title>
+    <desc lang="es">O conjunto Pera Ensemble, formado por músicos da Alemanha e Turquia, interpreta um repertório de canções barrocas e turcas no espetáculo "Café: o Oriente Encontra o Ocidente". A apresentação integrou o Festival SESC de Música de Câmara.</desc>
+    <category lang="es">Music</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_especial-musical-1_l_l.jpg" />
+  </programme>
+  <programme start="20230912083000 +0000" stop="20230912085100 +0000" channel="Sesctv.br">
+    <title lang="es">Através da Cidade Invisível</title>
+    <date>2022</date>
+    <category lang="es">Documentary</category>
+  </programme>
+  <programme start="20230912085100 +0000" stop="20230912090000 +0000" channel="Sesctv.br">
+    <title lang="es">Gilson</title>
+    <date>2020</date>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20230912090000 +0000" stop="20230912100000 +0000" channel="Sesctv.br">
+    <title lang="es">Paulo Freire, um Homem do Mundo</title>
+    <category lang="es">Documentary</category>
+  </programme>
+  <programme start="20230912100000 +0000" stop="20230912103000 +0000" channel="Sesctv.br">
+    <title lang="es">O Cinema Sonhado</title>
+    <category lang="es">Art</category>
+  </programme>
+  <programme start="20230912103000 +0000" stop="20230912113000 +0000" channel="Sesctv.br">
+    <title lang="es">Envelhecer</title>
+    <category lang="es">Health</category>
+  </programme>
+  <programme start="20230912113000 +0000" stop="20230912120000 +0000" channel="Sesctv.br">
+    <title lang="es">Super Libris</title>
+    <category lang="es">Educational</category>
+  </programme>
+  <programme start="20230912120000 +0000" stop="20230912121500 +0000" channel="Sesctv.br">
+    <title lang="es">Sem Título - Conversas no Acervo Sesc de Arte</title>
+    <category lang="es">Art</category>
+  </programme>
+  <programme start="20230912121500 +0000" stop="20230912123000 +0000" channel="Sesctv.br">
+    <title lang="es">Vida por Esporte</title>
+  </programme>
+  <programme start="20230912123000 +0000" stop="20230912130000 +0000" channel="Sesctv.br">
+    <title lang="es">Passagem de Som</title>
+    <category lang="es">Music</category>
+  </programme>
+  <programme start="20230912130000 +0000" stop="20230912140000 +0000" channel="Sesctv.br">
+    <title lang="es">Instrumental Sesc Brasil</title>
+    <category lang="es">Music</category>
+  </programme>
+  <programme start="20230912140000 +0000" stop="20230912150000 +0000" channel="Sesctv.br">
+    <title lang="es">Movimento Violão</title>
+    <category lang="es">Music</category>
+  </programme>
+  <programme start="20230912150000 +0000" stop="20230912160000 +0000" channel="Sesctv.br">
+    <title lang="es">Especial Musical</title>
+    <category lang="es">Music</category>
+  </programme>
+  <programme start="20230912160000 +0000" stop="20230912163000 +0000" channel="Sesctv.br">
+    <title lang="es">A Cidade no Brasil</title>
+    <category lang="es">Interview</category>
+  </programme>
+  <programme start="20230912163000 +0000" stop="20230912173000 +0000" channel="Sesctv.br">
+    <title lang="es">Filosofia Pop</title>
+    <category lang="es">Variety</category>
+  </programme>
+  <programme start="20230912173000 +0000" stop="20230912180000 +0000" channel="Sesctv.br">
+    <title lang="es">Super Libris</title>
+    <category lang="es">Educational</category>
+  </programme>
+  <programme start="20230912180000 +0000" stop="20230912190000 +0000" channel="Sesctv.br">
+    <title lang="es">Sonora Brasil</title>
+    <category lang="es">Music</category>
+  </programme>
+  <programme start="20230912190000 +0000" stop="20230912200000 +0000" channel="Sesctv.br">
+    <title lang="es">Especial Musical</title>
+    <category lang="es">Music</category>
+  </programme>
+  <programme start="20230912200000 +0000" stop="20230912210000 +0000" channel="Sesctv.br">
+    <title lang="es">Paulo Freire, um Homem do Mundo</title>
+    <category lang="es">Documentary</category>
+  </programme>
+  <programme start="20230912210000 +0000" stop="20230912213000 +0000" channel="Sesctv.br">
+    <title lang="es">Monumentos</title>
+    <category lang="es">History</category>
+  </programme>
+  <programme start="20230912213000 +0000" stop="20230912223000 +0000" channel="Sesctv.br">
+    <title lang="es">Sons do Refúgio</title>
+    <category lang="es">Documentary</category>
+  </programme>
+  <programme start="20230912223000 +0000" stop="20230912230000 +0000" channel="Sesctv.br">
+    <title lang="es">Super Libris</title>
+    <category lang="es">Educational</category>
+  </programme>
+  <programme start="20230912230000 +0000" stop="20230912233000 +0000" channel="Sesctv.br">
+    <title lang="es">100 Anos de Cultura e Conflitos</title>
+    <category lang="es">Documentary</category>
+  </programme>
+  <programme start="20230912233000 +0000" stop="20230913000000 +0000" channel="Sesctv.br">
+    <title lang="es">Passagem de Som</title>
+    <category lang="es">Music</category>
+  </programme>
+  <programme start="20230913000000 +0000" stop="20230913010000 +0000" channel="Sesctv.br">
+    <title lang="es">Instrumental Sesc Brasil</title>
+    <category lang="es">Music</category>
+  </programme>
+  <programme start="20230913010000 +0000" stop="20230913020000 +0000" channel="Sesctv.br">
+    <title lang="es">Movimento Violão</title>
+    <category lang="es">Music</category>
+  </programme>
+  <programme start="20230913020000 +0000" stop="20230913024500 +0000" channel="Sesctv.br">
+    <title lang="es">Nas Beiras do Ribeira</title>
+    <category lang="es">Special</category>
+  </programme>
+  <programme start="20230913024500 +0000" stop="20230913033000 +0000" channel="Sesctv.br">
+    <title lang="es">Marangmotxíngmo Mïrang - Das Crianças Ikpeng para o Mundo</title>
+    <category lang="es">Special</category>
+  </programme>
+  <programme start="20230913033000 +0000" stop="20230913034500 +0000" channel="Sesctv.br">
+    <title lang="es">Vida por Esporte</title>
+  </programme>
+  <programme start="20230913034500 +0000" stop="20230913040000 +0000" channel="Sesctv.br">
+    <title lang="es">Sem Título - Conversas no Acervo Sesc de Arte</title>
+    <category lang="es">Art</category>
+  </programme>
+  <programme start="20230913040000 +0000" stop="20230913050000 +0000" channel="Sesctv.br">
+    <title lang="es">Sonora Brasil</title>
+    <category lang="es">Music</category>
+  </programme>
+  <programme start="20230913050000 +0000" stop="20230913051500 +0000" channel="Sesctv.br">
+    <title lang="es">Artérias</title>
+    <category lang="es">Documentary</category>
+  </programme>
+  <programme start="20230913051500 +0000" stop="20230913053000 +0000" channel="Sesctv.br">
+    <title lang="es">Artérias</title>
+    <category lang="es">Documentary</category>
+  </programme>
+  <programme start="20230913053000 +0000" stop="20230913060000 +0000" channel="Sesctv.br">
+    <title lang="es">A Cidade no Brasil</title>
+    <category lang="es">Interview</category>
+  </programme>
+  <programme start="20230913060000 +0000" stop="20230913070000 +0000" channel="Sesctv.br">
+    <title lang="es">Cena Inquieta</title>
+    <category lang="es">Art</category>
+  </programme>
+  <programme start="20230913070000 +0000" stop="20230913080000 +0000" channel="Sesctv.br">
+    <title lang="es">Feito Torto pra Ficar Direito</title>
+    <sub-title lang="es">Engenharia ou Arte</sub-title>
+  </programme>
+  <programme start="20230913080000 +0000" stop="20230913083000 +0000" channel="Sesctv.br">
+    <title lang="es">100 Anos de Cultura e Conflitos</title>
+    <category lang="es">Documentary</category>
+  </programme>
+  <programme start="20230913083000 +0000" stop="20230913084500 +0000" channel="Sesctv.br">
+    <title lang="es">Artérias</title>
+    <category lang="es">Documentary</category>
+  </programme>
+  <programme start="20230913084500 +0000" stop="20230913090000 +0000" channel="Sesctv.br">
+    <title lang="es">Sem Título - Conversas no Acervo Sesc de Arte</title>
+    <category lang="es">Art</category>
+  </programme>
+  <programme start="20230913090000 +0000" stop="20230913100000 +0000" channel="Sesctv.br">
+    <title lang="es">Amazônia, Arqueologia da Floresta</title>
+    <sub-title lang="es">Cemitério Bacabal</sub-title>
+  </programme>
+  <programme start="20230913100000 +0000" stop="20230913101500 +0000" channel="Sesctv.br">
+    <title lang="es">Artérias</title>
+    <category lang="es">Documentary</category>
+  </programme>
+  <programme start="20230913101500 +0000" stop="20230913103000 +0000" channel="Sesctv.br">
+    <title lang="es">Artérias</title>
+    <category lang="es">Documentary</category>
+  </programme>
+  <programme start="20230913103000 +0000" stop="20230913113000 +0000" channel="Sesctv.br">
+    <title lang="es">Filosofia Pop</title>
+    <category lang="es">Variety</category>
+  </programme>
+  <programme start="20230913113000 +0000" stop="20230913120000 +0000" channel="Sesctv.br">
+    <title lang="es">Super Libris</title>
+    <category lang="es">Educational</category>
+  </programme>
+  <programme start="20230913120000 +0000" stop="20230913130000 +0000" channel="Sesctv.br">
+    <title lang="es">Sonora Brasil</title>
+    <category lang="es">Music</category>
+  </programme>
+  <programme start="20230913130000 +0000" stop="20230913140000 +0000" channel="Sesctv.br">
+    <title lang="es">Especial Musical</title>
+    <category lang="es">Music</category>
+  </programme>
+  <programme start="20230913140000 +0000" stop="20230913141500 +0000" channel="Sesctv.br">
+    <title lang="es">Veronica</title>
+    <date>2020</date>
+    <category lang="es">Documentary</category>
+  </programme>
+  <programme start="20230913141500 +0000" stop="20230913143000 +0000" channel="Sesctv.br">
+    <title lang="es">Janelas Daqui</title>
+    <date>2020</date>
+    <category lang="es">Documentary</category>
+  </programme>
+  <programme start="20230913143000 +0000" stop="20230913150000 +0000" channel="Sesctv.br">
+    <title lang="es">Passagem de Som</title>
+    <category lang="es">Music</category>
+  </programme>
+  <programme start="20230913150000 +0000" stop="20230913160000 +0000" channel="Sesctv.br">
+    <title lang="es">Instrumental Sesc Brasil</title>
+    <category lang="es">Music</category>
+  </programme>
+  <programme start="20230913160000 +0000" stop="20230913170000 +0000" channel="Sesctv.br">
+    <title lang="es">Feito Torto pra Ficar Direito</title>
+    <sub-title lang="es">Engenharia ou Arte</sub-title>
+  </programme>
+  <programme start="20230913170000 +0000" stop="20230913180000 +0000" channel="Sesctv.br">
+    <title lang="es">Dança Contemporânea</title>
+    <category lang="es">Dance</category>
+  </programme>
+  <programme start="20230913180000 +0000" stop="20230913183000 +0000" channel="Sesctv.br">
+    <title lang="es">Monumentos</title>
+    <category lang="es">History</category>
+  </programme>
+  <programme start="20230913183000 +0000" stop="20230913193000 +0000" channel="Sesctv.br">
+    <title lang="es">Sons do Refúgio</title>
+    <category lang="es">Documentary</category>
+  </programme>
+  <programme start="20230913193000 +0000" stop="20230913200000 +0000" channel="Sesctv.br">
+    <title lang="es">Passagem de Som</title>
+    <category lang="es">Music</category>
+  </programme>
+  <programme start="20230913200000 +0000" stop="20230913210000 +0000" channel="Sesctv.br">
+    <title lang="es">Instrumental Sesc Brasil</title>
+    <category lang="es">Music</category>
+  </programme>
+  <programme start="20230913210000 +0000" stop="20230913211500 +0000" channel="Sesctv.br">
+    <title lang="es">Artérias</title>
+    <category lang="es">Documentary</category>
+  </programme>
+  <programme start="20230913211500 +0000" stop="20230913213000 +0000" channel="Sesctv.br">
+    <title lang="es">Artérias</title>
+    <category lang="es">Documentary</category>
+  </programme>
+  <programme start="20230913213000 +0000" stop="20230913223000 +0000" channel="Sesctv.br">
+    <title lang="es">Filosofia Pop</title>
+    <category lang="es">Variety</category>
+  </programme>
+  <programme start="20230913223000 +0000" stop="20230913230000 +0000" channel="Sesctv.br">
+    <title lang="es">Super Libris</title>
+    <category lang="es">Educational</category>
+  </programme>
+  <programme start="20230913230000 +0000" stop="20230914000000 +0000" channel="Sesctv.br">
+    <title lang="es">Sonora Brasil</title>
+    <category lang="es">Music</category>
+  </programme>
+  <programme start="20230914000000 +0000" stop="20230914010000 +0000" channel="Sesctv.br">
+    <title lang="es">Especial Musical</title>
+    <category lang="es">Music</category>
+  </programme>
+  <programme start="20230914010000 +0000" stop="20230914020000 +0000" channel="Sesctv.br">
+    <title lang="es">Especial Musical</title>
+    <category lang="es">Music</category>
+  </programme>
+  <programme start="20230914020000 +0000" stop="20230914034000 +0000" channel="Sesctv.br">
+    <title lang="es">Hestórias da Psicanálise - Leitores de Freud</title>
+    <date>2016</date>
+    <category lang="es">Documentary</category>
+  </programme>
+  <programme start="20230914034000 +0000" stop="20230914040000 +0000" channel="Sesctv.br">
+    <title lang="es">O Som do Silêncio</title>
+    <date>2017</date>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20230914040000 +0000" stop="20230914050000 +0000" channel="Sesctv.br">
+    <title lang="es">Dança Contemporânea</title>
+    <category lang="es">Dance</category>
+  </programme>
+  <programme start="20230914050000 +0000" stop="20230914052100 +0000" channel="Sesctv.br">
+    <title lang="es">Através da Cidade Invisível</title>
+    <date>2022</date>
+    <category lang="es">Documentary</category>
+  </programme>
+  <programme start="20230914052100 +0000" stop="20230914053000 +0000" channel="Sesctv.br">
+    <title lang="es">Gilson</title>
+    <date>2020</date>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20230914053000 +0000" stop="20230914063000 +0000" channel="Sesctv.br">
+    <title lang="es">Sons do Refúgio</title>
+    <category lang="es">Documentary</category>
+  </programme>
+  <programme start="20230914063000 +0000" stop="20230914070000 +0000" channel="Sesctv.br">
+    <title lang="es">Super Libris</title>
+    <category lang="es">Educational</category>
+  </programme>
+  <programme start="20230914070000 +0000" stop="20230914073000 +0000" channel="Sesctv.br">
+    <title lang="es">A Cidade no Brasil</title>
+    <category lang="es">Interview</category>
+  </programme>
+  <programme start="20230914073000 +0000" stop="20230914080000 +0000" channel="Sesctv.br">
+    <title lang="es">Passagem de Som</title>
+    <category lang="es">Music</category>
+  </programme>
+  <programme start="20230914080000 +0000" stop="20230914090000 +0000" channel="Sesctv.br">
+    <title lang="es">Instrumental Sesc Brasil</title>
+    <category lang="es">Music</category>
+  </programme>
+  <programme start="20230914090000 +0000" stop="20230914100000 +0000" channel="Sesctv.br">
+    <title lang="es">Feito Torto pra Ficar Direito</title>
+    <sub-title lang="es">Engenharia ou Arte</sub-title>
+  </programme>
+  <programme start="20230914100000 +0000" stop="20230914103000 +0000" channel="Sesctv.br">
+    <title lang="es">Super Libris</title>
+    <category lang="es">Educational</category>
+  </programme>
+  <programme start="20230914103000 +0000" stop="20230914113000 +0000" channel="Sesctv.br">
+    <title lang="es">Dança Contemporânea</title>
+    <category lang="es">Dance</category>
+  </programme>
+  <programme start="20230914113000 +0000" stop="20230914114500 +0000" channel="Sesctv.br">
+    <title lang="es">Artérias</title>
+    <category lang="es">Documentary</category>
+  </programme>
+  <programme start="20230914114500 +0000" stop="20230914120000 +0000" channel="Sesctv.br">
+    <title lang="es">Artérias</title>
+    <category lang="es">Documentary</category>
+  </programme>
+  <programme start="20230914120000 +0000" stop="20230914123000 +0000" channel="Sesctv.br">
+    <title lang="es">O Cinema Sonhado</title>
+    <category lang="es">Art</category>
+  </programme>
+  <programme start="20230914123000 +0000" stop="20230914130000 +0000" channel="Sesctv.br">
+    <title lang="es">Passagem de Som</title>
+    <category lang="es">Music</category>
+  </programme>
+  <programme start="20230914130000 +0000" stop="20230914140000 +0000" channel="Sesctv.br">
+    <title lang="es">Instrumental Sesc Brasil</title>
+    <category lang="es">Music</category>
+  </programme>
+  <programme start="20230914140000 +0000" stop="20230914141500 +0000" channel="Sesctv.br">
+    <title lang="es">Vida por Esporte</title>
+  </programme>
+  <programme start="20230914141500 +0000" stop="20230914143000 +0000" channel="Sesctv.br">
+    <title lang="es">Sem Título - Conversas no Acervo Sesc de Arte</title>
+    <category lang="es">Art</category>
+  </programme>
+  <programme start="20230914143000 +0000" stop="20230914150000 +0000" channel="Sesctv.br">
+    <title lang="es">A Cidade no Brasil</title>
+    <category lang="es">Interview</category>
+  </programme>
+  <programme start="20230914150000 +0000" stop="20230914160000 +0000" channel="Sesctv.br">
+    <title lang="es">Especial Musical</title>
+    <category lang="es">Music</category>
+  </programme>
+  <programme start="20230914160000 +0000" stop="20230914163000 +0000" channel="Sesctv.br">
+    <title lang="es">O Cinema Sonhado</title>
+    <category lang="es">Art</category>
+  </programme>
+  <programme start="20230914163000 +0000" stop="20230914173000 +0000" channel="Sesctv.br">
+    <title lang="es">Instrumental Sesc Brasil</title>
+    <category lang="es">Music</category>
+  </programme>
+  <programme start="20230914173000 +0000" stop="20230914183000 +0000" channel="Sesctv.br">
+    <title lang="es">Movimento Violão</title>
+    <category lang="es">Music</category>
+  </programme>
+  <programme start="20230914183000 +0000" stop="20230914184500 +0000" channel="Sesctv.br">
+    <title lang="es">Artérias</title>
+    <category lang="es">Documentary</category>
+  </programme>
+  <programme start="20230914184500 +0000" stop="20230914190000 +0000" channel="Sesctv.br">
+    <title lang="es">Artérias</title>
+    <category lang="es">Documentary</category>
+  </programme>
+  <programme start="20230914190000 +0000" stop="20230914200000 +0000" channel="Sesctv.br">
+    <title lang="es">Feito Torto pra Ficar Direito</title>
+    <sub-title lang="es">Engenharia ou Arte</sub-title>
+  </programme>
+  <programme start="20230914200000 +0000" stop="20230914210000 +0000" channel="Sesctv.br">
+    <title lang="es">Envelhecer</title>
+    <category lang="es">Health</category>
+  </programme>
+  <programme start="20230914210000 +0000" stop="20230914213000 +0000" channel="Sesctv.br">
+    <title lang="es">Super Libris</title>
+    <category lang="es">Educational</category>
+  </programme>
+  <programme start="20230914213000 +0000" stop="20230914223000 +0000" channel="Sesctv.br">
+    <title lang="es">Dança Contemporânea</title>
+    <category lang="es">Dance</category>
+  </programme>
+  <programme start="20230914223000 +0000" stop="20230914225100 +0000" channel="Sesctv.br">
+    <title lang="es">Através da Cidade Invisível</title>
+    <date>2022</date>
+    <category lang="es">Documentary</category>
+  </programme>
+  <programme start="20230914225100 +0000" stop="20230914230000 +0000" channel="Sesctv.br">
+    <title lang="es">Gilson</title>
+    <date>2020</date>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20230914230000 +0000" stop="20230914231500 +0000" channel="Sesctv.br">
+    <title lang="es">Veronica</title>
+    <date>2020</date>
+    <category lang="es">Documentary</category>
+  </programme>
+  <programme start="20230914231500 +0000" stop="20230914233000 +0000" channel="Sesctv.br">
+    <title lang="es">Janelas Daqui</title>
+    <date>2020</date>
+    <category lang="es">Documentary</category>
+  </programme>
+  <programme start="20230914233000 +0000" stop="20230915000000 +0000" channel="Sesctv.br">
+    <title lang="es">O Cinema Sonhado</title>
+    <category lang="es">Art</category>
+  </programme>
+  <programme start="20230915000000 +0000" stop="20230915001500 +0000" channel="Sesctv.br">
+    <title lang="es">Vida por Esporte</title>
+  </programme>
+  <programme start="20230915001500 +0000" stop="20230915003000 +0000" channel="Sesctv.br">
+    <title lang="es">Sem Título - Conversas no Acervo Sesc de Arte</title>
+    <category lang="es">Art</category>
+  </programme>
+  <programme start="20230915003000 +0000" stop="20230915004500 +0000" channel="Sesctv.br">
+    <title lang="es">Artérias</title>
+    <category lang="es">Documentary</category>
+  </programme>
+  <programme start="20230915004500 +0000" stop="20230915010000 +0000" channel="Sesctv.br">
+    <title lang="es">Artérias</title>
+    <category lang="es">Documentary</category>
+  </programme>
+  <programme start="20230915010000 +0000" stop="20230915011300 +0000" channel="Sesctv.br">
+    <title lang="es">Tina</title>
+    <date>2015</date>
+    <category lang="es">Biography</category>
+  </programme>
+  <programme start="20230915011300 +0000" stop="20230915013000 +0000" channel="Sesctv.br">
+    <title lang="es">Seremos Ouvidas</title>
+    <date>2020</date>
+    <category lang="es">Documentary</category>
+  </programme>
+  <programme start="20230915013000 +0000" stop="20230915020000 +0000" channel="Sesctv.br">
+    <title lang="es">100 Anos de Cultura e Conflitos</title>
+    <category lang="es">Documentary</category>
+  </programme>
+  <programme start="20230915020000 +0000" stop="20230915030000 +0000" channel="Sesctv.br">
+    <title lang="es">Cena Inquieta</title>
+    <category lang="es">Art</category>
+  </programme>
+  <programme start="20230915030000 +0000" stop="20230915033500 +0000" channel="Sesctv.br">
+    <title lang="es">Dois Paulos na Pauliceia</title>
+    <date>2021</date>
+    <category lang="es">Documentary</category>
+  </programme>
+  <programme start="20230915033500 +0000" stop="20230915043000 +0000" channel="Sesctv.br">
+    <title lang="es">Rito do Amor Selvagem</title>
+    <category lang="es">Special</category>
+  </programme>
+  <programme start="20230915043000 +0000" stop="20230915044300 +0000" channel="Sesctv.br">
+    <title lang="es">Tina</title>
+    <date>2015</date>
+    <category lang="es">Biography</category>
+  </programme>
+  <programme start="20230915044300 +0000" stop="20230915050000 +0000" channel="Sesctv.br">
+    <title lang="es">Seremos Ouvidas</title>
+    <date>2020</date>
+    <category lang="es">Documentary</category>
+  </programme>
+  <programme start="20230915050000 +0000" stop="20230915051500 +0000" channel="Sesctv.br">
+    <title lang="es">Artérias</title>
+    <category lang="es">Documentary</category>
+  </programme>
+  <programme start="20230915051500 +0000" stop="20230915053000 +0000" channel="Sesctv.br">
+    <title lang="es">Sem Título - Conversas no Acervo Sesc de Arte</title>
+    <category lang="es">Art</category>
+  </programme>
+  <programme start="20230915053000 +0000" stop="20230915063000 +0000" channel="Sesctv.br">
+    <title lang="es">Filosofia Pop</title>
+    <category lang="es">Variety</category>
+  </programme>
+  <programme start="20230915063000 +0000" stop="20230915070000 +0000" channel="Sesctv.br">
+    <title lang="es">Super Libris</title>
+    <category lang="es">Educational</category>
+  </programme>
+  <programme start="20230915070000 +0000" stop="20230915080000 +0000" channel="Sesctv.br">
+    <title lang="es">Sonora Brasil</title>
+    <category lang="es">Music</category>
+  </programme>
+  <programme start="20230915080000 +0000" stop="20230915090000 +0000" channel="Sesctv.br">
+    <title lang="es">Especial Musical</title>
+    <category lang="es">Music</category>
+  </programme>
+  <programme start="20230915090000 +0000" stop="20230915100000 +0000" channel="Sesctv.br">
+    <title lang="es">Sons do Refúgio</title>
+    <category lang="es">Documentary</category>
+  </programme>
+  <programme start="20230915100000 +0000" stop="20230915103000 +0000" channel="Sesctv.br">
+    <title lang="es">Passagem de Som</title>
+    <category lang="es">Music</category>
+  </programme>
+  <programme start="20230915103000 +0000" stop="20230915113000 +0000" channel="Sesctv.br">
+    <title lang="es">Instrumental Sesc Brasil</title>
+    <category lang="es">Music</category>
+  </programme>
+  <programme start="20230915113000 +0000" stop="20230915123000 +0000" channel="Sesctv.br">
+    <title lang="es">Movimento Violão</title>
+    <category lang="es">Music</category>
+  </programme>
+  <programme start="20230915123000 +0000" stop="20230915124500 +0000" channel="Sesctv.br">
+    <title lang="es">Artérias</title>
+    <category lang="es">Documentary</category>
+  </programme>
+  <programme start="20230915124500 +0000" stop="20230915130000 +0000" channel="Sesctv.br">
+    <title lang="es">Artérias</title>
+    <category lang="es">Documentary</category>
+  </programme>
+  <programme start="20230915130000 +0000" stop="20230915140000 +0000" channel="Sesctv.br">
+    <title lang="es">Filosofia Pop</title>
+    <category lang="es">Variety</category>
+  </programme>
+  <programme start="20230915140000 +0000" stop="20230915150000 +0000" channel="Sesctv.br">
+    <title lang="es">Feito Torto pra Ficar Direito</title>
+    <sub-title lang="es">Engenharia ou Arte</sub-title>
+  </programme>
+  <programme start="20230915150000 +0000" stop="20230915160000 +0000" channel="Sesctv.br">
+    <title lang="es">Instrumental Sesc Brasil</title>
+    <category lang="es">Music</category>
+  </programme>
+  <programme start="20230915160000 +0000" stop="20230915170000 +0000" channel="Sesctv.br">
+    <title lang="es">Amazônia, Arqueologia da Floresta</title>
+    <sub-title lang="es">Cemitério Bacabal</sub-title>
+  </programme>
+  <programme start="20230915170000 +0000" stop="20230915173000 +0000" channel="Sesctv.br">
+    <title lang="es">O Cinema Sonhado</title>
+    <category lang="es">Art</category>
+  </programme>
+  <programme start="20230915173000 +0000" stop="20230915180000 +0000" channel="Sesctv.br">
+    <title lang="es">A Cidade no Brasil</title>
+    <category lang="es">Interview</category>
+  </programme>
+  <programme start="20230915180000 +0000" stop="20230915190000 +0000" channel="Sesctv.br">
+    <title lang="es">Paulo Freire, um Homem do Mundo</title>
+    <category lang="es">Documentary</category>
+  </programme>
+  <programme start="20230915190000 +0000" stop="20230915200000 +0000" channel="Sesctv.br">
+    <title lang="es">Especial Musical</title>
+    <category lang="es">Music</category>
+  </programme>
+  <programme start="20230915200000 +0000" stop="20230915210000 +0000" channel="Sesctv.br">
+    <title lang="es">Especial Musical</title>
+    <category lang="es">Music</category>
+  </programme>
+  <programme start="20230915210000 +0000" stop="20230915210800 +0000" channel="Sesctv.br">
+    <title lang="es">Fronteira</title>
+    <date>2017</date>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20230915210800 +0000" stop="20230915212200 +0000" channel="Sesctv.br">
+    <title lang="es">A Sunny Day</title>
+    <date>2019</date>
+    <category lang="es">Science fiction</category>
+  </programme>
+  <programme start="20230915212200 +0000" stop="20230915213000 +0000" channel="Sesctv.br">
+    <title lang="es">O Fim da Fila</title>
+    <date>2016</date>
+    <category lang="es">Adventure</category>
+  </programme>
+  <programme start="20230915213000 +0000" stop="20230915220000 +0000" channel="Sesctv.br">
+    <title lang="es">Monumentos</title>
+    <category lang="es">History</category>
+  </programme>
+  <programme start="20230915220000 +0000" stop="20230915230000 +0000" channel="Sesctv.br">
+    <title lang="es">Movimento Violão</title>
+    <category lang="es">Music</category>
+  </programme>
+  <programme start="20230915230000 +0000" stop="20230916000000 +0000" channel="Sesctv.br">
+    <title lang="es">Instrumental Sesc Brasil</title>
+    <category lang="es">Music</category>
   </programme>
 </tv>

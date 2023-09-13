@@ -7,7 +7,7 @@
 [        ]  thanks to Paul Weterings, Mat8861, Blackbear199 and all the contributing users 
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 11/09/2023 23:00:04
+[        ] Job started at 12/09/2023 23:00:05
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.15.107.0
 [  Debug ] Environment: 6.0.13
@@ -43,7 +43,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        4
 
-[  Info  ]      elapstime / updated show  0.01 seconds
+[  Info  ]      elapstime / updated show  0.02 seconds
 [  Debug ] 
 [  Info  ] (   2/237 ) APP.PLEX.TV -- chan. (xmltv_id=Adultos.br) -- mode Force
 [  Info  ] 
@@ -65,7 +65,7 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        4
 
-[  Info  ]      elapstime / updated show  0.00 seconds
+[  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
 [  Info  ] (   4/237 ) APP.PLEX.TV -- chan. (xmltv_id=BBB.br) -- mode Force
 [  Info  ] 
@@ -453,22 +453,19 @@
 [  Info  ]      elapstime / updated show  0.00 seconds
 [  Debug ] 
 [  Info  ] (  39/237 ) CLAROTV.COM.BR -- chan. (xmltv_id=Combate HD) -- mode Force
-[  Debug ]    skipped : show that happened before 'today' @ 10/09/2023 21:00
-[  Debug ]    skipped : show starting before the actual show at11/09/2023 22:30
-[  Debug ]    conflicting stoptime or duration in show starting at 11/09/2023 23:00
-[  Debug ]    stoptime 12/09/2023 01:30               corrected to 12/09/2023 00:30
+[  Debug ]    skipped : show that happened before 'today' @ 11/09/2023 23:00
 [  Info  ] 
 [  Info  ]    Summary for update of       Combate HD
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           47
+[  Info  ]      new shows added           29
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        47
+[  Info  ]      total after update        29
 
-[  Info  ]      elapstime / updated show  0.08 seconds
+[  Info  ]      elapstime / updated show  0.07 seconds
 [  Debug ] 
 [  Info  ] (  40/237 ) CLAROTV.COM.BR -- chan. (xmltv_id=Like.br) -- mode Force
-[  Debug ]    skipped : show that happened before 'today' @ 10/09/2023 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 11/09/2023 22:00
 [  Info  ] 
 [  Info  ]    Summary for update of       Like.br
 [  Info  ]      missing shows added       0
@@ -477,39 +474,181 @@
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        20
 
-[  Info  ]      elapstime / updated show  0.12 seconds
+[  Info  ]      elapstime / updated show  0.10 seconds
 [  Debug ] 
 [  Info  ] (  41/237 ) CLAROTV.COM.BR -- chan. (xmltv_id=Rci.br) -- mode Force
-[  Debug ]    skipped : show that happened before 'today' @ 10/09/2023 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 11/09/2023 23:00
 [  Info  ] 
 [  Info  ]    Summary for update of       Rci.br
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           186
+[  Info  ]      new shows added           93
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        186
+[  Info  ]      total after update        93
 
-[  Info  ]      elapstime / updated show  0.20 seconds
+[  Info  ]      elapstime / updated show  0.17 seconds
 [  Debug ] 
 [  Info  ] (  42/237 ) CLAROTV.COM.BR -- chan. (xmltv_id=Shoptime.br) -- mode Force
-[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
-[Error   ] Unable to update channel Shoptime.br
-[Critical] Generic syntax exception:
-[Critical]    message: 
-[Error   ] no index page data received from Shoptime.br
-[Error   ] unable to update channel, try again later
-[  Info  ] Existing guide data restored!
+[  Debug ]    skipped : show that happened before 'today' @ 11/09/2023 23:00
+[  Info  ] 
+[  Info  ]    Summary for update of       Shoptime.br
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           49
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        49
+
+[  Info  ]      elapstime / updated show  0.19 seconds
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Sesctv.br) -- mode Force
+[  Info  ] (  43/237 ) MI.TV -- chan. (xmltv_id=Sesctv.br) -- mode Force
+[Warning ] error downloading page: An error occurred while sending the request.
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
-[Error   ] Unable to update channel Sesctv.br
-[Critical] Generic syntax exception:
-[Critical]    message: 
-[Error   ] no index page data received from Sesctv.br
-[Error   ] unable to update channel, try again later
-[  Info  ] Existing guide data restored!
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[Warning ] error downloading page: Connection refused (138.99.147.187:59100)
+[  Info  ] 
+[  Info  ]    Summary for update of       Sesctv.br
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           140
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        140
+
+[  Info  ]      elapstime / updated show  0.22 seconds
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=recorditapoan.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=recorditapoan.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel recorditapoan.br
 [Critical] Generic syntax exception:
@@ -518,7 +657,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Sbtnordeste.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Sbtnordeste.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Sbtnordeste.br
 [Critical] Generic syntax exception:
@@ -527,7 +666,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Eurochannel.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Eurochannel.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Eurochannel.br
 [Critical] Generic syntax exception:
@@ -536,7 +675,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Glbonacional.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Glbonacional.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Glbonacional.br
 [Critical] Generic syntax exception:
@@ -545,7 +684,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Bbcworldnews.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Bbcworldnews.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Bbcworldnews.br
 [Critical] Generic syntax exception:
@@ -554,7 +693,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Redeclube.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Redeclube.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Redeclube.br
 [Critical] Generic syntax exception:
@@ -563,7 +702,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=tvclubepe.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=tvclubepe.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel tvclubepe.br
 [Critical] Generic syntax exception:
@@ -572,7 +711,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Foxnews.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Foxnews.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Foxnews.br
 [Critical] Generic syntax exception:
@@ -581,7 +720,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=RedeSeculo21.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=RedeSeculo21.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel RedeSeculo21.br
 [Critical] Generic syntax exception:
@@ -590,7 +729,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Rede21.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Rede21.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Rede21.br
 [Critical] Generic syntax exception:
@@ -599,7 +738,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Cnt.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Cnt.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Cnt.br
 [Critical] Generic syntax exception:
@@ -608,7 +747,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Boavontadetv.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Boavontadetv.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Boavontadetv.br
 [Critical] Generic syntax exception:
@@ -617,7 +756,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Agromais.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Agromais.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Agromais.br
 [Critical] Generic syntax exception:
@@ -626,7 +765,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Boomerang.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Boomerang.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Boomerang.br
 [Critical] Generic syntax exception:
@@ -635,7 +774,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=CanaldoBoi.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=CanaldoBoi.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel CanaldoBoi.br
 [Critical] Generic syntax exception:
@@ -644,7 +783,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Cartoonnetwork.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Cartoonnetwork.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Cartoonnetwork.br
 [Critical] Generic syntax exception:
@@ -653,7 +792,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Cnnbrasil.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Cnnbrasil.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Cnnbrasil.br
 [Critical] Generic syntax exception:
@@ -662,7 +801,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Discoverykids.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Discoverykids.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Discoverykids.br
 [Critical] Generic syntax exception:
@@ -671,7 +810,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Disneyjrhd.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Disneyjrhd.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Disneyjrhd.br
 [Critical] Generic syntax exception:
@@ -680,7 +819,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Disneyxd.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Disneyxd.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Disneyxd.br
 [Critical] Generic syntax exception:
@@ -689,7 +828,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Futura.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Futura.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Futura.br
 [Critical] Generic syntax exception:
@@ -698,7 +837,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Globosp.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Globosp.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Globosp.br
 [Critical] Generic syntax exception:
@@ -707,7 +846,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Idealtv.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Idealtv.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Idealtv.br
 [Critical] Generic syntax exception:
@@ -716,7 +855,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Mtvlive.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Mtvlive.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Mtvlive.br
 [Critical] Generic syntax exception:
@@ -725,7 +864,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Premierefchd.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Premierefchd.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Premierefchd.br
 [Critical] Generic syntax exception:
@@ -734,7 +873,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Playboytv.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Playboytv.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Playboytv.br
 [Critical] Generic syntax exception:
@@ -743,7 +882,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Sextreme.cl) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Sextreme.cl) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Sextreme.cl
 [Critical] Generic syntax exception:
@@ -752,7 +891,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Sexyhot.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Sexyhot.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Sexyhot.br
 [Critical] Generic syntax exception:
@@ -761,7 +900,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Sportv2.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Sportv2.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Sportv2.br
 [Critical] Generic syntax exception:
@@ -770,7 +909,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Sportv3.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Sportv3.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Sportv3.br
 [Critical] Generic syntax exception:
@@ -779,7 +918,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=venus.pt) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=venus.pt) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel venus.pt
 [Critical] Generic syntax exception:
@@ -788,7 +927,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Woohoo.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Woohoo.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Woohoo.br
 [Critical] Generic syntax exception:
@@ -797,7 +936,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Intertvgminas.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Intertvgminas.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Intertvgminas.br
 [Critical] Generic syntax exception:
@@ -806,7 +945,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=altolitoral.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=altolitoral.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel altolitoral.br
 [Critical] Generic syntax exception:
@@ -815,7 +954,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Nhk.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Nhk.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Nhk.br
 [Critical] Generic syntax exception:
@@ -824,7 +963,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=TraceBrazuca.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=TraceBrazuca.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel TraceBrazuca.br
 [Critical] Generic syntax exception:
@@ -833,7 +972,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Tvriosul.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Tvriosul.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Tvriosul.br
 [Critical] Generic syntax exception:
@@ -842,7 +981,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=sbtdf.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=sbtdf.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel sbtdf.br
 [Critical] Generic syntax exception:
@@ -851,7 +990,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=bandrj.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=bandrj.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel bandrj.br
 [Critical] Generic syntax exception:
@@ -860,7 +999,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Recordminas.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Recordminas.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Recordminas.br
 [Critical] Generic syntax exception:
@@ -869,7 +1008,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Recorddf.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Recorddf.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Recorddf.br
 [Critical] Generic syntax exception:
@@ -878,7 +1017,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Recordrs.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Recordrs.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Recordrs.br
 [Critical] Generic syntax exception:
@@ -887,7 +1026,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Sbtalterosa.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Sbtalterosa.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Sbtalterosa.br
 [Critical] Generic syntax exception:
@@ -896,7 +1035,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=sbtrj.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=sbtrj.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel sbtrj.br
 [Critical] Generic syntax exception:
@@ -905,7 +1044,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=sbtrs.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=sbtrs.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel sbtrs.br
 [Critical] Generic syntax exception:
@@ -914,7 +1053,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Globorj.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Globorj.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Globorj.br
 [Critical] Generic syntax exception:
@@ -923,7 +1062,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Globominas.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Globominas.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Globominas.br
 [Critical] Generic syntax exception:
@@ -932,7 +1071,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Golfchannel.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Golfchannel.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Golfchannel.br
 [Critical] Generic syntax exception:
@@ -941,7 +1080,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=DiscoveryCivilization.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=DiscoveryCivilization.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel DiscoveryCivilization.br
 [Critical] Generic syntax exception:
@@ -950,7 +1089,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=DogTV.pt) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=DogTV.pt) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel DogTV.pt
 [Critical] Generic syntax exception:
@@ -959,7 +1098,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Ae.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Ae.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Ae.br
 [Critical] Generic syntax exception:
@@ -968,7 +1107,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Amc.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Amc.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Amc.br
 [Critical] Generic syntax exception:
@@ -977,7 +1116,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Animalplanet.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Animalplanet.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Animalplanet.br
 [Critical] Generic syntax exception:
@@ -986,7 +1125,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Arte1.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Arte1.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Arte1.br
 [Critical] Generic syntax exception:
@@ -995,7 +1134,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Axn.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Axn.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Axn.br
 [Critical] Generic syntax exception:
@@ -1004,7 +1143,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=BabyTV.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=BabyTV.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel BabyTV.br
 [Critical] Generic syntax exception:
@@ -1013,7 +1152,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=BandRede.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=BandRede.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel BandRede.br
 [Critical] Generic syntax exception:
@@ -1022,7 +1161,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Bandnews.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Bandnews.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Bandnews.br
 [Critical] Generic syntax exception:
@@ -1031,7 +1170,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Bandsportshd.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Bandsportshd.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Bandsportshd.br
 [Critical] Generic syntax exception:
@@ -1040,7 +1179,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Bishd.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Bishd.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Bishd.br
 [Critical] Generic syntax exception:
@@ -1049,7 +1188,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Canalbrasil.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Canalbrasil.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Canalbrasil.br
 [Critical] Generic syntax exception:
@@ -1058,7 +1197,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Off.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Off.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Off.br
 [Critical] Generic syntax exception:
@@ -1067,7 +1206,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Canalrural.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Canalrural.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Canalrural.br
 [Critical] Generic syntax exception:
@@ -1076,7 +1215,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=CancaoNova.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=CancaoNova.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel CancaoNova.br
 [Critical] Generic syntax exception:
@@ -1085,7 +1224,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Cinemax.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Cinemax.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Cinemax.br
 [Critical] Generic syntax exception:
@@ -1094,7 +1233,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Cnninternacional.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Cnninternacional.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Cnninternacional.br
 [Critical] Generic syntax exception:
@@ -1103,7 +1242,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Comedycentral.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Comedycentral.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Comedycentral.br
 [Critical] Generic syntax exception:
@@ -1112,7 +1251,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Curta.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Curta.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Curta.br
 [Critical] Generic syntax exception:
@@ -1121,7 +1260,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Discovery.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Discovery.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Discovery.br
 [Critical] Generic syntax exception:
@@ -1130,7 +1269,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Homehealth.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Homehealth.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Homehealth.br
 [Critical] Generic syntax exception:
@@ -1139,7 +1278,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=DiscoveryScience.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=DiscoveryScience.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel DiscoveryScience.br
 [Critical] Generic syntax exception:
@@ -1148,7 +1287,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Hdtheater.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Hdtheater.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Hdtheater.br
 [Critical] Generic syntax exception:
@@ -1157,7 +1296,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Discturbohd.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Discturbohd.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Discturbohd.br
 [Critical] Generic syntax exception:
@@ -1166,7 +1305,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Discoveryworldhd.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Discoveryworldhd.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Discoveryworldhd.br
 [Critical] Generic syntax exception:
@@ -1175,7 +1314,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Jpnews.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Jpnews.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Jpnews.br
 [Critical] Generic syntax exception:
@@ -1184,7 +1323,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Disneychannel.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Disneychannel.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Disneychannel.br
 [Critical] Generic syntax exception:
@@ -1193,7 +1332,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=E.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=E.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel E.br
 [Critical] Generic syntax exception:
@@ -1202,7 +1341,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=ESPNInternational.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=ESPNInternational.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel ESPNInternational.br
 [Critical] Generic syntax exception:
@@ -1211,7 +1350,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=ESPN+.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=ESPN+.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel ESPN+.br
 [Critical] Generic syntax exception:
@@ -1220,7 +1359,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Espnbrasil.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Espnbrasil.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Espnbrasil.br
 [Critical] Generic syntax exception:
@@ -1229,7 +1368,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Espnextra.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Espnextra.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Espnextra.br
 [Critical] Generic syntax exception:
@@ -1238,7 +1377,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Fashiontv.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Fashiontv.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Fashiontv.br
 [Critical] Generic syntax exception:
@@ -1247,7 +1386,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=FilmArts.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=FilmArts.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel FilmArts.br
 [Critical] Generic syntax exception:
@@ -1256,7 +1395,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Fishtv.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Fishtv.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Fishtv.br
 [Critical] Generic syntax exception:
@@ -1265,7 +1404,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Foodnetworkhd.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Foodnetworkhd.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Foodnetworkhd.br
 [Critical] Generic syntax exception:
@@ -1274,7 +1413,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Fox.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Fox.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Fox.br
 [Critical] Generic syntax exception:
@@ -1283,7 +1422,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Foxpremium1.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Foxpremium1.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Foxpremium1.br
 [Critical] Generic syntax exception:
@@ -1292,7 +1431,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Foxpremium2.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Foxpremium2.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Foxpremium2.br
 [Critical] Generic syntax exception:
@@ -1301,7 +1440,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Foxlife.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Foxlife.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Foxlife.br
 [Critical] Generic syntax exception:
@@ -1310,7 +1449,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Foxsports.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Foxsports.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Foxsports.br
 [Critical] Generic syntax exception:
@@ -1319,7 +1458,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Foxsports2.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Foxsports2.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Foxsports2.br
 [Critical] Generic syntax exception:
@@ -1328,7 +1467,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Fx.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Fx.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Fx.br
 [Critical] Generic syntax exception:
@@ -1337,7 +1476,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=TVGazeta.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=TVGazeta.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel TVGazeta.br
 [Critical] Generic syntax exception:
@@ -1346,7 +1485,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=GloboBrasilia.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=GloboBrasilia.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel GloboBrasilia.br
 [Critical] Generic syntax exception:
@@ -1355,7 +1494,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Globorecife.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Globorecife.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Globorecife.br
 [Critical] Generic syntax exception:
@@ -1364,7 +1503,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Globonews.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Globonews.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Globonews.br
 [Critical] Generic syntax exception:
@@ -1373,7 +1512,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Gloob.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Gloob.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Gloob.br
 [Critical] Generic syntax exception:
@@ -1382,7 +1521,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Gloobinho.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Gloobinho.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Gloobinho.br
 [Critical] Generic syntax exception:
@@ -1391,7 +1530,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Gnt.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Gnt.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Gnt.br
 [Critical] Generic syntax exception:
@@ -1400,7 +1539,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Hbo.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Hbo.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Hbo.br
 [Critical] Generic syntax exception:
@@ -1409,7 +1548,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Hbo2.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Hbo2.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Hbo2.br
 [Critical] Generic syntax exception:
@@ -1418,7 +1557,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Hboplus.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Hboplus.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Hboplus.br
 [Critical] Generic syntax exception:
@@ -1427,7 +1566,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Hbofamily.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Hbofamily.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Hbofamily.br
 [Critical] Generic syntax exception:
@@ -1436,7 +1575,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Max.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Max.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Max.br
 [Critical] Generic syntax exception:
@@ -1445,7 +1584,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Maxup.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Maxup.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Maxup.br
 [Critical] Generic syntax exception:
@@ -1454,7 +1593,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Hbosignature.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Hbosignature.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Hbosignature.br
 [Critical] Generic syntax exception:
@@ -1463,7 +1602,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Maxprime.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Maxprime.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Maxprime.br
 [Critical] Generic syntax exception:
@@ -1472,7 +1611,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Historychannel.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Historychannel.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Historychannel.br
 [Critical] Generic syntax exception:
@@ -1481,7 +1620,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=H2.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=H2.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel H2.br
 [Critical] Generic syntax exception:
@@ -1490,7 +1629,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=iSat.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=iSat.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel iSat.br
 [Critical] Generic syntax exception:
@@ -1499,7 +1638,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Investigacaodiscoveryid.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Investigacaodiscoveryid.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Investigacaodiscoveryid.br
 [Critical] Generic syntax exception:
@@ -1508,7 +1647,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Inttvcabugi.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Inttvcabugi.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Inttvcabugi.br
 [Critical] Generic syntax exception:
@@ -1517,7 +1656,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Lifetime.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Lifetime.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Lifetime.br
 [Critical] Generic syntax exception:
@@ -1526,7 +1665,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=+globosat.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=+globosat.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel +globosat.br
 [Critical] Generic syntax exception:
@@ -1535,7 +1674,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Megapix.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Megapix.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Megapix.br
 [Critical] Generic syntax exception:
@@ -1544,7 +1683,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Mtv.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Mtv.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Mtv.br
 [Critical] Generic syntax exception:
@@ -1553,7 +1692,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Multishow.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Multishow.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Multishow.br
 [Critical] Generic syntax exception:
@@ -1562,7 +1701,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Musicboxbrazil.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Musicboxbrazil.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Musicboxbrazil.br
 [Critical] Generic syntax exception:
@@ -1571,7 +1710,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Nationalgeographic.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Nationalgeographic.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Nationalgeographic.br
 [Critical] Generic syntax exception:
@@ -1580,7 +1719,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Nickelodeon.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Nickelodeon.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Nickelodeon.br
 [Critical] Generic syntax exception:
@@ -1589,7 +1728,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=NickJr.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=NickJr.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel NickJr.br
 [Critical] Generic syntax exception:
@@ -1598,7 +1737,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=NSCTV.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=NSCTV.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel NSCTV.br
 [Critical] Generic syntax exception:
@@ -1607,7 +1746,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Paramounthd.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Paramounthd.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Paramounthd.br
 [Critical] Generic syntax exception:
@@ -1616,7 +1755,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Premiere2.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Premiere2.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Premiere2.br
 [Critical] Generic syntax exception:
@@ -1625,7 +1764,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Premiere3.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Premiere3.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Premiere3.br
 [Critical] Generic syntax exception:
@@ -1634,7 +1773,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Premiere4.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Premiere4.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Premiere4.br
 [Critical] Generic syntax exception:
@@ -1643,7 +1782,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Premiere5.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Premiere5.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Premiere5.br
 [Critical] Generic syntax exception:
@@ -1652,7 +1791,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Premiere6.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Premiere6.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Premiere6.br
 [Critical] Generic syntax exception:
@@ -1661,7 +1800,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Premiere7.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Premiere7.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Premiere7.br
 [Critical] Generic syntax exception:
@@ -1670,7 +1809,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Premiere8.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Premiere8.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Premiere8.br
 [Critical] Generic syntax exception:
@@ -1679,7 +1818,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Primeboxbrazil.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Primeboxbrazil.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Primeboxbrazil.br
 [Critical] Generic syntax exception:
@@ -1688,7 +1827,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=GloboPortoAlegre.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=GloboPortoAlegre.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel GloboPortoAlegre.br
 [Critical] Generic syntax exception:
@@ -1697,7 +1836,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Rederecord.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Rederecord.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Rederecord.br
 [Critical] Generic syntax exception:
@@ -1706,7 +1845,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Rederecordrj.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Rederecordrj.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Rederecordrj.br
 [Critical] Generic syntax exception:
@@ -1715,7 +1854,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Recordnews.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Recordnews.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Recordnews.br
 [Critical] Generic syntax exception:
@@ -1724,7 +1863,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Redeamazonica.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Redeamazonica.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Redeamazonica.br
 [Critical] Generic syntax exception:
@@ -1733,7 +1872,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Tvbahia.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Tvbahia.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Tvbahia.br
 [Critical] Generic syntax exception:
@@ -1742,7 +1881,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Redebrasil.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Redebrasil.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Redebrasil.br
 [Critical] Generic syntax exception:
@@ -1751,7 +1890,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=RedeFami­lia.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=RedeFami­lia.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel RedeFami­lia.br
 [Critical] Generic syntax exception:
@@ -1760,7 +1899,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Redegospel.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Redegospel.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Redegospel.br
 [Critical] Generic syntax exception:
@@ -1769,7 +1908,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=RedeSuperdeTelevisao.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=RedeSuperdeTelevisao.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel RedeSuperdeTelevisao.br
 [Critical] Generic syntax exception:
@@ -1778,7 +1917,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Redevida.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Redevida.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Redevida.br
 [Critical] Generic syntax exception:
@@ -1787,7 +1926,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Redetv.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Redetv.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Redetv.br
 [Critical] Generic syntax exception:
@@ -1796,7 +1935,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Rit.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Rit.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Rit.br
 [Critical] Generic syntax exception:
@@ -1805,7 +1944,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Rpccuritiba.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Rpccuritiba.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Rpccuritiba.br
 [Critical] Generic syntax exception:
@@ -1814,7 +1953,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Sbt.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Sbt.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Sbt.br
 [Critical] Generic syntax exception:
@@ -1823,7 +1962,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Sony.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Sony.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Sony.br
 [Critical] Generic syntax exception:
@@ -1832,7 +1971,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Space.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Space.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Space.br
 [Critical] Generic syntax exception:
@@ -1841,7 +1980,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Sportv.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Sportv.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Sportv.br
 [Critical] Generic syntax exception:
@@ -1850,7 +1989,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Studiouniversal.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Studiouniversal.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Studiouniversal.br
 [Critical] Generic syntax exception:
@@ -1859,7 +1998,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Syfy.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Syfy.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Syfy.br
 [Critical] Generic syntax exception:
@@ -1868,7 +2007,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Tbs.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Tbs.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Tbs.br
 [Critical] Generic syntax exception:
@@ -1877,7 +2016,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Tcm.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Tcm.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Tcm.br
 [Critical] Generic syntax exception:
@@ -1886,7 +2025,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Tcpremium.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Tcpremium.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Tcpremium.br
 [Critical] Generic syntax exception:
@@ -1895,7 +2034,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Tcaction.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Tcaction.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Tcaction.br
 [Critical] Generic syntax exception:
@@ -1904,7 +2043,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Tctouch.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Tctouch.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Tctouch.br
 [Critical] Generic syntax exception:
@@ -1913,7 +2052,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Tcfun.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Tcfun.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Tcfun.br
 [Critical] Generic syntax exception:
@@ -1922,7 +2061,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Tcpipoca.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Tcpipoca.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Tcpipoca.br
 [Critical] Generic syntax exception:
@@ -1931,7 +2070,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Tccult.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Tccult.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Tccult.br
 [Critical] Generic syntax exception:
@@ -1940,7 +2079,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Terraviva.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Terraviva.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Terraviva.br
 [Critical] Generic syntax exception:
@@ -1949,7 +2088,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Tlc.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Tlc.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Tlc.br
 [Critical] Generic syntax exception:
@@ -1958,7 +2097,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Tnt.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Tnt.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Tnt.br
 [Critical] Generic syntax exception:
@@ -1967,7 +2106,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=TNTSerie.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=TNTSerie.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel TNTSerie.br
 [Critical] Generic syntax exception:
@@ -1976,7 +2115,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Tooncast.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Tooncast.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Tooncast.br
 [Critical] Generic syntax exception:
@@ -1985,7 +2124,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Travelboxbrazil.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Travelboxbrazil.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Travelboxbrazil.br
 [Critical] Generic syntax exception:
@@ -1994,7 +2133,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Trutv.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Trutv.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Trutv.br
 [Critical] Generic syntax exception:
@@ -2003,7 +2142,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Tvbrasil.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Tvbrasil.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Tvbrasil.br
 [Critical] Generic syntax exception:
@@ -2012,7 +2151,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=GloboAnhangueraGoias.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=GloboAnhangueraGoias.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel GloboAnhangueraGoias.br
 [Critical] Generic syntax exception:
@@ -2021,7 +2160,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Tvaparecida.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Tvaparecida.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Tvaparecida.br
 [Critical] Generic syntax exception:
@@ -2030,7 +2169,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Tvcabobranco.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Tvcabobranco.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Tvcabobranco.br
 [Critical] Generic syntax exception:
@@ -2039,7 +2178,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Tvcamara.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Tvcamara.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Tvcamara.br
 [Critical] Generic syntax exception:
@@ -2048,7 +2187,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Centroamerica.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Centroamerica.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Centroamerica.br
 [Critical] Generic syntax exception:
@@ -2057,7 +2196,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=tvclube.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=tvclube.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel tvclube.br
 [Critical] Generic syntax exception:
@@ -2066,7 +2205,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Tvcultura.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Tvcultura.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Tvcultura.br
 [Critical] Generic syntax exception:
@@ -2075,7 +2214,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Tvdiario.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Tvdiario.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Tvdiario.br
 [Critical] Generic syntax exception:
@@ -2084,7 +2223,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Tvdiariosp.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Tvdiariosp.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Tvdiariosp.br
 [Critical] Generic syntax exception:
@@ -2093,7 +2232,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Tvescola.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Tvescola.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Tvescola.br
 [Critical] Generic syntax exception:
@@ -2102,7 +2241,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Tvgazetaalagoas.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Tvgazetaalagoas.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Tvgazetaalagoas.br
 [Critical] Generic syntax exception:
@@ -2111,7 +2250,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=TVGazetaes.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=TVGazetaes.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel TVGazetaes.br
 [Critical] Generic syntax exception:
@@ -2120,7 +2259,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Tvintegracao.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Tvintegracao.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Tvintegracao.br
 [Critical] Generic syntax exception:
@@ -2129,7 +2268,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Tvjustica.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Tvjustica.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Tvjustica.br
 [Critical] Generic syntax exception:
@@ -2138,7 +2277,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Tvliberalbelem.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Tvliberalbelem.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Tvliberalbelem.br
 [Critical] Generic syntax exception:
@@ -2147,7 +2286,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Tvmirante.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Tvmirante.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Tvmirante.br
 [Critical] Generic syntax exception:
@@ -2156,7 +2295,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Tvmorena.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Tvmorena.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Tvmorena.br
 [Critical] Generic syntax exception:
@@ -2165,7 +2304,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Tvnovotempo.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Tvnovotempo.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Tvnovotempo.br
 [Critical] Generic syntax exception:
@@ -2174,7 +2313,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Tvratimbum.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Tvratimbum.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Tvratimbum.br
 [Critical] Generic syntax exception:
@@ -2183,7 +2322,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Tvsenado.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Tvsenado.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Tvsenado.br
 [Critical] Generic syntax exception:
@@ -2192,7 +2331,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Tvsergipe.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Tvsergipe.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Tvsergipe.br
 [Critical] Generic syntax exception:
@@ -2201,7 +2340,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Verdesmares.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Verdesmares.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Verdesmares.br
 [Critical] Generic syntax exception:
@@ -2210,7 +2349,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Universalchannel.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Universalchannel.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Universalchannel.br
 [Critical] Generic syntax exception:
@@ -2219,7 +2358,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=VH1.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=VH1.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel VH1.br
 [Critical] Generic syntax exception:
@@ -2228,7 +2367,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Viva.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Viva.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Viva.br
 [Critical] Generic syntax exception:
@@ -2237,7 +2376,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Warnerchannel.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Warnerchannel.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Warnerchannel.br
 [Critical] Generic syntax exception:
@@ -2246,7 +2385,7 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  42/237 ) MI.TV -- chan. (xmltv_id=Zoomoo.br) -- mode Force
+[  Info  ] (  44/237 ) MI.TV -- chan. (xmltv_id=Zoomoo.br) -- mode Force
 [Warning ] error downloading page: Connection refused (138.99.147.187:59100)
 [Error   ] Unable to update channel Zoomoo.br
 [Critical] Generic syntax exception:
@@ -2255,9 +2394,9 @@
 [Error   ] unable to update channel, try again later
 [  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Debug ] 405 shows in 237 channels
+[  Debug ] 483 shows in 237 channels
 [  Debug ] 0 updated shows
-[  Debug ] 405 new shows added
+[  Debug ] 483 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 11/09/2023 23:02:40 done in 2m 35s
+[        ] Job finished at 12/09/2023 23:03:06 done in 3m 1s
